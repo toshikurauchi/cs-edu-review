@@ -6,6 +6,7 @@ import csv
 from typing import Set
 import json
 import click
+from notification import notify
 
 
 @dataclass
@@ -103,6 +104,7 @@ def download_paper_data(venue_name):
         dump_papers(papers, venue_name)
 
     driver.close()
+    notify('ACM Download', 'Finished downloading data')
 
 
 if __name__ == "__main__":

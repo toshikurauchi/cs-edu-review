@@ -2,6 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import csv
 import click
+from notification import notify
 
 
 @click.command()
@@ -25,6 +26,8 @@ def download_initial_data(venue_name, url):
             writer.writerow([paper_title, link])
 
     driver.close()
+    notify('ACM Download', 'Finished downloading data')
+
 
 if __name__ == "__main__":
     download_initial_data()
