@@ -5,9 +5,9 @@ import click
 
 
 @click.command()
-@click.argument('name')
+@click.argument('venue_name')
 @click.argument('url')
-def download_initial_data(name, url):
+def download_initial_data(venue_name, url):
     driver = webdriver.Firefox()
     driver.get(url)
     section_headers = driver.find_elements_by_css_selector('.section__title[aria-expanded="false"]')
@@ -15,7 +15,7 @@ def download_initial_data(name, url):
     for section_header in section_headers:
         section_header.click()
 
-    with open(f'{name}.csv', 'w') as f:
+    with open(f'{venue_name}.csv', 'w') as f:
         writer = csv.writer(f)
         titles = driver.find_elements_by_css_selector('.issue-item__title')
         for title in titles:
