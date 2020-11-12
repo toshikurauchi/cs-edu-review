@@ -46,7 +46,7 @@ class PaperData:
 
 def dump_papers(papers, venue_name):
     papers_json = [p.to_dict() for p in papers]
-    with open(f'{venue_name}.json', 'w') as f:
+    with open(f'data/{venue_name}.json', 'w') as f:
         json.dump(papers_json, f)
 
 

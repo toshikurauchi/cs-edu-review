@@ -9,12 +9,12 @@ from paper import AuthorData, PaperData, dump_papers
 
 def load_papers(venue_name):
     papers = {}
-    with open(f'{venue_name}.csv', 'r') as f:
+    with open(f'data/{venue_name}.csv', 'r') as f:
         reader = csv.reader(f)
         for title, link in reader:
             papers[title] = PaperData(title, link)
     try:
-        with open(f'{venue_name}.json', 'r') as f:
+        with open(f'data/{venue_name}.json', 'r') as f:
             papers_json = json.load(f)
         for paper_json in papers_json:
             p = papers[paper_json['title']]

@@ -8,7 +8,7 @@ from selenium.common.exceptions import StaleElementReferenceException, NoSuchEle
 
 def load_papers(venue_name):
     papers = {}
-    with open(f'{venue_name}.txt', 'r') as f:
+    with open(f'data/{venue_name}.txt', 'r') as f:
         count = 0
         latest_paper = None
         for row in f:
@@ -28,7 +28,7 @@ def load_papers(venue_name):
                 latest_paper.link = url
             count += 1
     try:
-        with open(f'{venue_name}.json', 'r') as f:
+        with open(f'data/{venue_name}.json', 'r') as f:
             papers_json = json.load(f)
         for paper_json in papers_json:
             p = papers[paper_json['title']]

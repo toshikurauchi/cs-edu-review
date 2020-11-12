@@ -16,7 +16,7 @@ def download_initial_data(venue_name, url):
     for section_header in section_headers:
         section_header.click()
 
-    with open(f'{venue_name}.csv', 'w') as f:
+    with open(f'data/{venue_name}.csv', 'w') as f:
         writer = csv.writer(f)
         titles = driver.find_elements_by_css_selector('.issue-item__title')
         for title in titles:
