@@ -1,9 +1,9 @@
 import json
 import click
 from notification import notify
-from paper import PaperData, dump_papers
-from bs4 import BeautifulSoup
-import requests
+from paper import PaperData, AuthorData, dump_papers
+from selenium import webdriver
+from selenium.common.exceptions import StaleElementReferenceException, NoSuchElementException
 
 
 def load_papers(venue_name):
@@ -42,19 +42,33 @@ def load_papers(venue_name):
 @click.argument('venue_name')
 def download_paper_data(venue_name):
     papers = load_papers(venue_name)
-    print(papers)
+
+    driver = webdriver.Firefox()
 
     for i, paper in enumerate(papers):
         print(f'({i+1}/{len(papers)}) {paper.title}')
-
-        page = requests.get(paper.link)
-        print(page)
-        break
+        while not paper.abstract:
+            try:
+                driver.get(paper.link)
+                authors = driver.find_elements_by_xpath("//span[@class='article-author-affiliations']/preceding-sibling::a")
+                affiliations = driver.find_elements_by_xpath("//span[@class='article-author-affiliations']")
+                for author_tag, affiliation_tag in zip(authors, affiliations):
+                    affiliation = affiliation_tag.get_attribute('innerText')
+                    author = author_tag.get_attribute('innerText')
+                    paper.authors.add(AuthorData(author, affiliation))
+                abstract_tags = driver.find_elements_by_css_selector('.article-content')
+                abstract = ''
+                for abstract_tag in abstract_tags:
+                    abstract += abstract_tag.get_attribute('innerText')
+                paper.abstract = abstract
+            except StaleElementReferenceException:
+                print('Retrying...')
 
         # Save every time (just in case). Plus it makes the time between requests more random.
         dump_papers(papers, venue_name)
 
-    # notify('IEEE Download', 'Finished downloading data')
+    driver.close()
+    notify('IEEE Download', 'Finished downloading data')
 
 
 if __name__ == "__main__":
