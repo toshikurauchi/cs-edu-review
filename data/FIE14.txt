@@ -1,18 +1,3 @@
- "[Copyright notice]," in 2014 IEEE Frontiers in Education Conference (FIE), Madrid, Spain, 2014 pp. ii-ii.
-doi: 10.1109/FIE.2014.7043980
-keywords: {}
-url: https://doi.ieeecomputersociety.org/10.1109/FIE.2014.7043980
-
- "Technical sessions table of contents," in 2014 IEEE Frontiers in Education Conference (FIE), Madrid, Spain, 2014 pp. lvi-cxxiii.
-doi: 10.1109/FIE.2014.7043981
-keywords: {}
-url: https://doi.ieeecomputersociety.org/10.1109/FIE.2014.7043981
-
- "Table of contents," in 2014 IEEE Frontiers in Education Conference (FIE), Madrid, Spain, 2014 pp. iii-lv.
-doi: 10.1109/FIE.2014.7043982
-keywords: {}
-url: https://doi.ieeecomputersociety.org/10.1109/FIE.2014.7043982
-
 R. Layton,  "Your data deserve better than pies and bars: An R graphics workshop for the timid," in 2014 IEEE Frontiers in Education Conference (FIE), Madrid, Spain, 2014 pp. 1-3.
 doi: 10.1109/FIE.2014.7043983
 keywords: {conferences;software;tutorials;visualization;bars;rhetoric}
@@ -2542,8 +2527,3 @@ A. Pesquera, et al., "Open iTunesU. A new service to manage open learning resour
 doi: 10.1109/FIE.2014.7044501
 keywords: {educational institutions;streaming media;multimedia communication;publishing;media}
 url: https://doi.ieeecomputersociety.org/10.1109/FIE.2014.7044501
-
- "Author index," in 2014 IEEE Frontiers in Education Conference (FIE), Madrid, Spain, 2014 pp. 3106-3130.
-doi: 10.1109/FIE.2014.7044502
-keywords: {}
-url: https://doi.ieeecomputersociety.org/10.1109/FIE.2014.7044502

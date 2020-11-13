@@ -1,18 +1,3 @@
- "Copyright," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. ii-ii.
-doi: 10.1109/FIE.2013.6684767
-keywords: {}
-url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684767
-
- "Table of contents," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. iii-iii.
-doi: 10.1109/FIE.2013.6684768
-keywords: {}
-url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684768
-
- "Front matter," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. iv-cxxii.
-doi: 10.1109/FIE.2013.6684769
-keywords: {}
-url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684769
-
 E. Durant, et al., "Computer engineering curriculum guidelines," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1-2.
 doi: 10.1109/FIE.2013.6684770
 keywords: {computers;educational institutions;conferences;guidelines;industries;ieee computer society}
@@ -2067,8 +2052,3 @@ W. Lawrence-Fowler,  "A Computer Science course in Cyber Security and Forensics 
 doi: 10.1109/FIE.2013.6685180
 keywords: {forensics;computer science;computer security;information technology;educational institutions;communities}
 url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685180
-
- "Author index," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1977-1994.
-doi: 10.1109/FIE.2013.6685181
-keywords: {}
-url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685181

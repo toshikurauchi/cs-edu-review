@@ -1,18 +1,3 @@
- "[Copyright notice]," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 2-2.
-doi: 10.1109/FIE.2016.7757335
-keywords: {}
-url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757335
-
- "Table of contents," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 3-76.
-doi: 10.1109/FIE.2016.7757336
-keywords: {}
-url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757336
-
- "Technical sessions table of contents," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 77-134.
-doi: 10.1109/FIE.2016.7757337
-keywords: {}
-url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757337
-
 O. Pierrakos, R. Anderson and E. Barrella,  "A developmental and adaptive Problem Based Learning (PBL) model across the curriculum: From theory to practice in integrating and assessing PBL experiences across the James Madison University engineering curriculum," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-2.
 doi: 10.1109/FIE.2016.7757338
 keywords: {jamming}
@@ -1987,8 +1972,3 @@ J. Winikus, G. Archer and L. Ott,  "Working on how to solve the never ending pro
 doi: 10.1109/FIE.2016.7757749
 keywords: {}
 url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757749
-
- "Author index," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 134-146.
-doi: 10.1109/FIE.2016.7757750
-keywords: {}
-url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757750

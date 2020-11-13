@@ -1,18 +1,3 @@
- "Copyright page," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. ii-ii.
-doi: 10.1109/FIE.2015.7344013
-keywords: {}
-url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344013
-
- "Technical sessions," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. lxviii-cxxiv.
-doi: 10.1109/FIE.2015.7344014
-keywords: {}
-url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344014
-
- "Table of contents," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. iii-lxvii.
-doi: 10.1109/FIE.2015.7344015
-keywords: {}
-url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344015
-
 W. Oakes and C. Zoltowski,  "Integrating service-learning into engineering and computing education," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-3.
 doi: 10.1109/FIE.2015.7344016
 keywords: {engineering education;conferences;biological system modeling;reflection;presses;computational modeling}
@@ -2027,8 +2012,3 @@ C. Choi,  "Comparing microcontroller and analog methods for tracking control exp
 doi: 10.1109/FIE.2015.7344418
 keywords: {microcontrollers;shafts;dc motors;pulse width modulation;voltage control;operational amplifiers}
 url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344418
-
- "Author index," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 2439-2459.
-doi: 10.1109/FIE.2015.7344419
-keywords: {}
-url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344419

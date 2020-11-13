@@ -1,18 +1,3 @@
- "[Copyright notice]," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 2-2.
-doi: 10.1109/FIE.2017.8190429
-keywords: {}
-url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190429
-
- "Technical sessions table of contents," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 59-104.
-doi: 10.1109/FIE.2017.8190430
-keywords: {}
-url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190430
-
- "Table of contents," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 3-60.
-doi: 10.1109/FIE.2017.8190431
-keywords: {}
-url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190431
-
 E. Douglas, A. Ilumoka and H. Watson,  "Engineering education funding at the National Science Foundation," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-4.
 doi: 10.1109/FIE.2017.8190432
 keywords: {stem;engineering education;us government;science - general;proposals;engineering profession}
@@ -1522,11 +1507,6 @@ Y. Lin, J. Conners and S. Livengood,  "Assessing the use of open source microcon
 doi: 10.1109/FIE.2017.8190738
 keywords: {engines;sensors;automotive engineering;microcontrollers;education;mechatronics;tools}
 url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190738
-
- "Author index," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 105-114.
-doi: 10.1109/FIE.2017.8190739
-keywords: {}
-url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190739
 
 E. De Oliveira, et al., "The power of the game as a mediator tool paradigm of object oriented teaching-learning process," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
 doi: 10.1109/FIE.2017.8286341
