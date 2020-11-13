@@ -25,6 +25,7 @@ class PaperData:
     abstract: str = ''
     authors: Set[AuthorData] = field(default_factory=set)
     tags: Set[str] = field(default_factory=set)
+    remove: bool = False
 
     def to_dict(self):
         return {
@@ -45,7 +46,7 @@ class PaperData:
 
 
 def dump_papers(papers, venue_name):
-    papers_json = [p.to_dict() for p in papers]
+    papers_json = [p.to_dict() for p in papers if not p.remove]
     with open(f'data/{venue_name}.json', 'w') as f:
         json.dump(papers_json, f)
 
