@@ -1,0 +1,2274 @@
+R. Sundaram,  "Work in progress: Integration of topic modules and organization of session flow for the First-Year Seminar course in engineering to motivate and sustain student learning," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F3D-1-F3D-2.
+doi: 10.1109/FIE.2011.6142696
+keywords: {seminars;educational institutions;problem-solving;materials;economics;lead}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142696
+
+R. Sundaram,  "Set up and delivery of electrical and computer engineering projects at undergraduate engineering universities for outreach and partnership with K-12 STEM schools," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F4D-1-F4D-5.
+doi: 10.1109/FIE.2011.6142697
+keywords: {educational institutions;laboratories;wind power generation;wireless communication;conferences;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142697
+
+V. DeLuca, A. Clark, J. Ernst and N. Lari,  "Work in progress: Data-rich learning environments for engineering education," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T2C-1-T2C-3.
+doi: 10.1109/FIE.2011.6142698
+keywords: {renewable energy resources;problem-solving;knowledge engineering;educational institutions;decision making;engineering education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142698
+
+T. Mukherjee and P. Purkait,  "Learning from an initiative — Hands-on robotics workshops by IEEE Student Branch," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S4F-1-S4F-5.
+doi: 10.1109/FIE.2011.6142699
+keywords: {conferences;educational robots;robot sensing systems;microcontrollers;educational institutions}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142699
+
+M. Mazlan and L. Burd,  "Does an avatar motivate?," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T4J-1-T4J-6.
+doi: 10.1109/FIE.2011.6142700
+keywords: {avatars;games;computers;education;conferences;instruments;clothing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142700
+
+W. Akili,  "Enhancing capstone design education in civil engineering: The potential synergies between academics and practitioners," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T1F-1-T1F-6.
+doi: 10.1109/FIE.2011.6142701
+keywords: {civil engineering;educational institutions;probability;conferences;schedules;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142701
+
+G. Catalano,  "Tragedy in the gulf: A call for a new engineering ethic," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F2J-1-F2J-5.
+doi: 10.1109/FIE.2011.6142702
+keywords: {ethics;quantum mechanics;conferences;educational institutions;cities and towns;presses;accidents}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142702
+
+R. DeLyser,  "Evolution of the university of denver engineering programs due to ABET accreditation criteria," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S1B-1-S1B-6.
+doi: 10.1109/FIE.2011.6142703
+keywords: {mechatronics;computers;accreditation;educational institutions;industries;mechanical engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142703
+
+I. de Kereki,  "Work in progress — Transversal competencies contributions to Computer Science 1 course," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S3G-1-S3G-3.
+doi: 10.1109/FIE.2011.6142704
+keywords: {programming profession;conferences;planning;computers;context}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142704
+
+B. Rague,  "Measuring CS1 perceptions of parallelism," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S3E-1-S3E-6.
+doi: 10.1109/FIE.2011.6142705
+keywords: {parallel processing;concurrent computing;programming profession;instruments;educational institutions}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142705
+
+M. Zaidman,  "Inspiring future female scientists," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T2H-1-T2H-5.
+doi: 10.1109/FIE.2011.6142706
+keywords: {computer science;educational institutions;computational modeling;engineering profession;seminars;cities and towns;organizations}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142706
+
+J. Martin-Gutierrez, R. Navarro and M. Gonzalez,  "Mixed reality for development of spatial skills of first-year engineering students," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T2D-1-T2D-6.
+doi: 10.1109/FIE.2011.6142707
+keywords: {training;monitoring;engineering students;augmented reality;cameras}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142707
+
+J. Martin-Gutierrez,  "Proposal of methodology for learning of standard mechanical elements using augmented reality," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T1J-1-T1J-6.
+doi: 10.1109/FIE.2011.6142708
+keywords: {augmented reality;materials;education;cities and towns;three dimensional displays;visualization}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142708
+
+T. Ellis,  "Work in progress — The impact of time on building community in an ALN," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F4C-1-F4C-2.
+doi: 10.1109/FIE.2011.6142709
+keywords: {communities;educational institutions;atmospheric measurements;instruments;particle measurements;context}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142709
+
+D. Zhang, L. Cuthbert and S. Ketteridge,  "Work in progress — Effective teaching of technical teamwork to large cohorts of engineering students in China," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F1C-1-F1C-3.
+doi: 10.1109/FIE.2011.6142710
+keywords: {teamwork;educational institutions;engineering students;joints;conferences;cultural differences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142710
+
+M. Holliday,  "Reading strategies and student comprehension in an Internet ethics course," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F2C-1-F2C-7.
+doi: 10.1109/FIE.2011.6142711
+keywords: {ethics;education;writing;cities and towns;computer science;conferences;context}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142711
+
+M. Holliday,  "Teaching computer systems through common principles," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S2G-1-S2G-6.
+doi: 10.1109/FIE.2011.6142712
+keywords: {computers;operating systems;database systems;organizations;switches;bandwidth;delay}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142712
+
+E. Pappas and O. Pierrakos,  "Integrating developmental instruction in sustainability contexts into an undergraduate engineering design curriculum: Level two," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S2F-1-S2F-6.
+doi: 10.1109/FIE.2011.6142713
+keywords: {context;economics;educational institutions;communities;green products;taxonomy}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142713
+
+E. Pappas,  "A behavioral approach to building cognitive foundations for effective thought and action in a freshman critical thinking course," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T3C-1-T3C-6.
+doi: 10.1109/FIE.2011.6142714
+keywords: {psychology;educational institutions;reflection;problem-solving;presses;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142714
+
+H. Baytiyeh and M. Naja,  "Factors influencing the decision to enroll in an engineering PhD program," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T4F-1-T4F-5.
+doi: 10.1109/FIE.2011.6142715
+keywords: {educational institutions;medical services;conferences;engineering profession;particle measurements;atmospheric measurements}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142715
+
+H. Baytiyeh and M. Naja,  "Practitioner engineers perceptions for a successful early employment career," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S1C-1-S1C-5.
+doi: 10.1109/FIE.2011.6142716
+keywords: {engineering profession;educational institutions;employment;conferences;communities;industries}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142716
+
+O. Pantchenko, et al., "Work in progress — Enhancing students learning through instructional videos during hands-on laboratories on renewable energy sources," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T2G-1-T2G-2.
+doi: 10.1109/FIE.2011.6142717
+keywords: {laboratories;videos;renewable energy resources;educational institutions;assembly;flywheels}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142717
+
+K. Meyers and J. Brockman,  "A review of an engineering teaching apprenticeship program," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T2E-1-T2E-6.
+doi: 10.1109/FIE.2011.6142718
+keywords: {reflection;educational institutions;conferences;engineering education;interviews;materials}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142718
+
+C. Lai, B. Jong, Y. Hsia, P. Lee and T. Chan,  "Systematic analysis of peer interaction in cooperative learning," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S4E-1-S4E-7.
+doi: 10.1109/FIE.2011.6142719
+keywords: {analytical models;loading;eigenvalues and eigenfunctions;cities and towns;reliability;conferences;operating systems}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142719
+
+T. Lauriski-Karriker, A. Forssen and B. Moskal,  "An exploratory evaluation of an elementary mathematics and science attitude survey," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S2D-1-S2D-5.
+doi: 10.1109/FIE.2011.6142720
+keywords: {mathematics;educational institutions;instruments;face;conferences;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142720
+
+J. Martin, K. Gipson and M. Miller,  "Developing a survey instrument to characterize social capital resources impacting undergraduates' decisions to enter and persist in engineering," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F2H-1-F2H-6.
+doi: 10.1109/FIE.2011.6142721
+keywords: {educational institutions;instruments;engineering profession;social network services;generators;engineering students}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142721
+
+K. Shryock, A. Srinivasa and J. Froyd,  "Developing instruments to assess first-year calculus and physics mechanics skills needed for a sophomore statics and dynamics course," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F1J-1-F1J-6.
+doi: 10.1109/FIE.2011.6142722
+keywords: {instruments;physics;educational institutions;vectors;knowledge engineering;equations}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142722
+
+M. Elmore and J. Constable,  "Work in progress — Developing an individualized life-long learning plan for junior electrical and Computer Engineering majors," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T3C-1-T3C-3.
+doi: 10.1109/FIE.2011.6142723
+keywords: {engineering profession;educational institutions;seminars;computers;accreditation;engineering education;conference proceedings}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142723
+
+P. Jamieson,  "Early project based learning improvements via a "star trek engineering room" game framework, and competition," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S4H-1-S4H-5.
+doi: 10.1109/FIE.2011.6142724
+keywords: {games;marine vehicles;educational institutions;robots;hardware;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142724
+
+S. de Lucena,  "High tech garbage can help engineering colleges to improve hands-on education," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T3G-1-T3G-6.
+doi: 10.1109/FIE.2011.6142725
+keywords: {dc motors;microprocessors;optical sensors;choppers;magnetic heads;electronic waste}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142725
+
+H. Khan,  "Engineering Positive Organizational Behavior and managing the Psychological Capital for learning effectiveness," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S2C-1-S2C-6.
+doi: 10.1109/FIE.2011.6142726
+keywords: {psychology;lead;organizations;resilience;cities and towns;conferences;meteorology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142726
+
+A. Wandel,  "Team formation by region to improve outcomes for distance-education students in a PBL course," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T4C-1-T4C-6.
+doi: 10.1109/FIE.2011.6142727
+keywords: {software;cities and towns;face;conferences;global communication;meetings;virtual groups}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142727
+
+Z. Zhou,  "Work in progress — Enhancing communications among courses linked with prerequisites," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T1E-1-T1E-2.
+doi: 10.1109/FIE.2011.6142728
+keywords: {vectors;physics;educational institutions;engineering students}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142728
+
+S. Huang and N. Fang,  "Work in progress — Prediction of students' academic performance in an introductory engineering course," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S4D-1-S4D-3.
+doi: 10.1109/FIE.2011.6142729
+keywords: {predictive models;support vector machines;accuracy;neural networks;computational modeling;calculus;linear regression}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142729
+
+N. Fang,  "Work in progress — Integrating mathematical modeling with computer visualization to improve students' problem solving in an introductory engineering course," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S2G-1-S2G-2.
+doi: 10.1109/FIE.2011.6142730
+keywords: {mathematical model;aerodynamics;computers;kinetic theory;problem-solving}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142730
+
+C. Bastidas,  "Enabling remote access to computer networking laboratories for distance education," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F3C-1-F3C-6.
+doi: 10.1109/FIE.2011.6142731
+keywords: {laboratories;computers;education;software;servers;computational modeling;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142731
+
+K. Manning and J. Hampshire,  "Work in progress — Technical freehand sketching," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F1C-1-F1C-2.
+doi: 10.1109/FIE.2011.6142732
+keywords: {bicycles;art;engineering students;design automation;visualization;conferences;lead}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142732
+
+D. Schweitzer and S. Teel,  "SHERPA: A mobile application for students and educators in the classroom," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S1E-1-S1E-5.
+doi: 10.1109/FIE.2011.6142733
+keywords: {mobile communication;databases;conferences;servers;mobile handsets;productivity;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142733
+
+K. Reid and D. Ferguson,  "Work in progress — Enhancing the entrepreneurial mindset of freshman engineers," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F2D-1-F2D-3.
+doi: 10.1109/FIE.2011.6142734
+keywords: {engineering students;educational institutions;instruments;innovation management;psychology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142734
+
+J. Vivanco, B. Demianyk, R. McLeod and M. Friesen,  "Work in progress — A smartphone application as a teaching tool in undergraduate nursing education," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T4E-1-T4E-3.
+doi: 10.1109/FIE.2011.6142735
+keywords: {wounds;documentation;educational institutions;prototypes;protocols;hospitals}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142735
+
+D. Soldan, N. Schulz, D. Gruenbacher, B. Vogt and R. Natarajan,  "Work in progress — Streamlining pathways to engineering degrees for military veterans," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F3J-1-F3J-2.
+doi: 10.1109/FIE.2011.6142736
+keywords: {educational institutions;acceleration;conferences;mathematics;training;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142736
+
+M. Cano,  "The effect of assessments on a telematics course for Telecommunication Engineers," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T3J-1-T3J-6.
+doi: 10.1109/FIE.2011.6142737
+keywords: {telematics;problem-solving;protocols;analysis of variance;laboratories;media;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142737
+
+K. Holbert, K. Molyneaux, L. Grable and P. Dixon,  "Multi-university precollege outreach from a renewable energy focused engineering research center," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F4D-1-F4D-7.
+doi: 10.1109/FIE.2011.6142738
+keywords: {educational institutions;industries;instruments;engineering profession;mathematics;materials}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142738
+
+W. Akili,  "On implementation of problem-based learning in engineering education: Thoughts, strategies and working models," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S3B-1-S3B-6.
+doi: 10.1109/FIE.2011.6142739
+keywords: {educational institutions;materials;conferences;collaboration;cities and towns;collaborative work}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142739
+
+A. Caminero, S. Ros, R. Hernandez, A. Robles-Gomez and R. Pastor,  "Cloud-based e-learning infrastructures with load forecasting mechanism based on Exponential Smoothing: A use case," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S3C-1-S3C-6.
+doi: 10.1109/FIE.2011.6142740
+keywords: {monitoring;cloud computing;educational institutions;switches;load forecasting;heuristic algorithms;prediction algorithms}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142740
+
+A. Khoukhi,  "Work in progress — Undergraduate research course design at KFUPM, a basic starting experience," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F3F-1-F3F-3.
+doi: 10.1109/FIE.2011.6142741
+keywords: {educational institutions;proposals;materials;training;cities and towns;conferences;petroleum}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142741
+
+C. Cox,  "Legitimization of subject matter in a design intensive degree program," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T3J-1-T3J-6.
+doi: 10.1109/FIE.2011.6142742
+keywords: {cultural differences;interviews;educational institutions;context;accreditation;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142742
+
+E. Creamer,  "Representation of women and perceptions of support in engineering," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F4H-1-F4H-6.
+doi: 10.1109/FIE.2011.6142743
+keywords: {interviews;instruments;educational institutions;engineering profession;protocols;conferences;encoding}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142743
+
+C. Choi,  "Reference designs for embedded controls," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S2F-1-S2F-6.
+doi: 10.1109/FIE.2011.6142744
+keywords: {dc motors;global positioning system;microcontrollers;clocks;hardware;wiring;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142744
+
+L. Anido, et al., "Game·Tel: An approach to multi-format and multi-device accessible engineering education," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F1H-1-F1H-6.
+doi: 10.1109/FIE.2011.6142745
+keywords: {games;tv;adaptation models;visualization;least squares approximation;computational modeling;engines}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142745
+
+P. Keleher and J. Mark,  "Educators + tech-heads = Ed-techs, ‘the symphony’," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T1E-1-T1E-6.
+doi: 10.1109/FIE.2011.6142746
+keywords: {computers;educational institutions;australia;collaboration;conferences;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142746
+
+P. Keleher, A. Patil and K. Duan,  "Conducting successful studies in Materials Science and Engineering with consideration to a multiplicity of student cohorts and delivery modes," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F1D-1-F1D-6.
+doi: 10.1109/FIE.2011.6142747
+keywords: {educational institutions;materials;laboratories;australia;cities and towns;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142747
+
+R. Gradoville and D. Budny,  "A senior service-learning design project in ecuador," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T1G-1-T1G-7.
+doi: 10.1109/FIE.2011.6142748
+keywords: {communities;educational institutions;engineering students;teamwork;engineering profession;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142748
+
+S. Ingram and A. Ens,  "The co-operative education work term: A comparison of expectations and outcomes for international engineering graduates in Canada," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T2H-1-T2H-7.
+doi: 10.1109/FIE.2011.6142749
+keywords: {cultural differences;engineering profession;employment;education;humans;global communication;employee welfare}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142749
+
+S. Baldiris, C. Avila, P. Rivera, J. Guevara and R. Fabregat,  "Web editing module for tagging metadata of the Fedora Commons repository learning objects under DRD and LOM standards," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S2E-1-S2E-5.
+doi: 10.1109/FIE.2011.6142750
+keywords: {observatories;xml;education;iso standards;search problems;iec standards;labeling}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142750
+
+S. Baldiris, J. Bacca, A. Rojas, J. Guevara and R. Fabregat,  "LORSE: Intelligent meta-searcher of learning objects over distributed educational repositories based on intelligent agents," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F1E-1-F1E-5.
+doi: 10.1109/FIE.2011.6142751
+keywords: {search problems;multiagent systems;web services;xml;conferences;education;intelligent agents}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142751
+
+A. Robles-Gomez, et al., "Automatic assessment for the e-learning of the network services in the context of the EHEA," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F4C-1-F4C-6.
+doi: 10.1109/FIE.2011.6142752
+keywords: {servers;educational institutions;java;electronic learning;conferences;least squares approximation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142752
+
+A. Ellertson and P. Seeling,  "Work in progress — Using mobile & social game technology with location-based services for building learning communities," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S4H-1-S4H-3.
+doi: 10.1109/FIE.2011.6142753
+keywords: {communities;mobile communication;lead;media;educational institutions;games;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142753
+
+S. Billis, N. Anid and S. Giordano,  "Work in progress — Music synthesizers: A tool in engineering education," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S3E-1-S3E-2.
+doi: 10.1109/FIE.2011.6142754
+keywords: {synthesizers;frequency modulation;voltage-controlled oscillators;amplitude modulation;education;instruments}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142754
+
+H. Jackson, N. Rumsey, P. Daragan and S. Zelmanowitz,  "Work in progress — Assessing information literacy in civil engineering," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S2C-1-S2C-2.
+doi: 10.1109/FIE.2011.6142755
+keywords: {civil engineering;meteorology;writing;joining processes;cities and towns;context;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142755
+
+E. Creamer,  "Workshop — Quantifying qualitative data in mixed methods research in engineering education," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. W2A-1-W2A-2.
+doi: 10.1109/FIE.2011.6142756
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142756
+
+P. Doerschuk, et al., "STAIRSTEP: An interdisciplinary program fo retention and outreach in STEM," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F4H-1-F4H-6.
+doi: 10.1109/FIE.2011.6142757
+keywords: {educational institutions;engineering profession;communities;organizations;conferences;mathematics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142757
+
+B. Garry, L. Qian and T. Hall,  "Work in progress — Implementing peer observation of teaching," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T3E-1-T3E-3.
+doi: 10.1109/FIE.2011.6142758
+keywords: {observers;educational institutions;conferences;materials;cities and towns;context}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142758
+
+N. Richter, L. Williams, O. Magny and R. Luechtefeld,  "The effect of emotive language in virtual teams," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S3D-1-S3D-6.
+doi: 10.1109/FIE.2011.6142759
+keywords: {educational institutions;face;virtual environments;aging;medical services;mediation;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142759
+
+A. Carberry and A. McKenna,  "Work in progress — Analyzing engineering student conceptions of modeling in design," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S4F-1-S4F-2.
+doi: 10.1109/FIE.2011.6142760
+keywords: {mathematical model;adaptation models;computational modeling;context modeling;engineering students;analytical models}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142760
+
+S. Martins, A. Mendes and A. Figueiredo,  "Student reflections as an influence in the dynamics of an introductory programming course," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T4G-1-T4G-6.
+doi: 10.1109/FIE.2011.6142761
+keywords: {reflection;programming profession;context;materials;conferences;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142761
+
+I. Calvo, A. Arruarte, J. Elorriaga, M. Larranaga and A. Conde,  "The use of concept maps in Computer Engineering education to promote meaningful learning, creativity and collaboration," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T4G-1-T4G-6.
+doi: 10.1109/FIE.2011.6142762
+keywords: {collaboration;software;databases;educational institutions;engineering students;cities and towns;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142762
+
+W. Zhang,  "Work in progress — Course development of programming for general-purpose multicore processors," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S3G-1-S3G-2.
+doi: 10.1109/FIE.2011.6142763
+keywords: {multicore processing;programming profession;instruction sets;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142763
+
+M. Naghedolfeizi, S. Arora and J. Glover,  "Visualizing conductive and convective heat transfer using thermographic techniques," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F3E-1-F3E-5.
+doi: 10.1109/FIE.2011.6142764
+keywords: {heat transfer;heating;temperature distribution;temperature measurement;metals;cameras}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142764
+
+O. Lawanto,  "Work in progress — Student task interpretation, design planning, and cognitive strategies in engineering design project: An exploratory study for Grades 9–12," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F4D-1-F4D-3.
+doi: 10.1109/FIE.2011.6142765
+keywords: {planning;educational institutions;context;psychology;problem-solving;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142765
+
+F. Prados, J. Soler, I. Boada and J. Poch,  "An automatic correction tool that can learn," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F1D-1-F1D-5.
+doi: 10.1109/FIE.2011.6142766
+keywords: {databases;computers;electronic learning;conferences;educational institutions;cities and towns;unified modeling language}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142766
+
+M. Gibbons, E. Cady, C. Didion and N. Fortenberry,  "Results from a pilot survey of engineering and engineering technology students in 2-year and 4-year institutions," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T1J-1-T1J-5.
+doi: 10.1109/FIE.2011.6142767
+keywords: {educational institutions;communities;conferences;cities and towns;engineering education;data models}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142767
+
+M. Trevisan, D. Davis, J. LeBeau and M. Zhang,  "Work in progress — The evaluation tools database for assessing engineering education innovations," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T4G-1-T4G-2.
+doi: 10.1109/FIE.2011.6142768
+keywords: {databases;engineering education;conferences;educational institutions;lead;teamwork}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142768
+
+T. Karp,  "Teaching a service learning introductory engineering course — Lessons learned and improvements made," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F1E-1-F1E-5.
+doi: 10.1109/FIE.2011.6142769
+keywords: {educational institutions;educational robots;gears;employee welfare;games;robot sensing systems}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142769
+
+A. Johri, G. Wang, X. Liu and K. Madhavan,  "Utilizing topic modeling techniques to identify the emergence and growth of research topics in engineering education," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T2F-1-T2F-6.
+doi: 10.1109/FIE.2011.6142770
+keywords: {engineering education;hidden markov models;analytical models;data models;communities;frequency control}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142770
+
+M. Elmore and K. Gieskes,  "Work in progress — Student learning as a function of attendance in large engineering classes," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F1D-1-F1D-3.
+doi: 10.1109/FIE.2011.6142771
+keywords: {educational institutions;springs;materials;conferences;engineering students}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142771
+
+M. Raber, S. Amato-Henderson and V. Troesch,  "Assessing the impact of faculty advising and mentoring in a project-based learning environment on student learning outcomes, persistence in engineering and post-graduation plans," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S3F-1-S3F-6.
+doi: 10.1109/FIE.2011.6142772
+keywords: {engineering profession;education;employee welfare;industries;instruments;conferences;particle measurements}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142772
+
+C. Romney,  "Tablet PC use in freshman mathematics classes promotes STEM retention," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F1J-1-F1J-7.
+doi: 10.1109/FIE.2011.6142773
+keywords: {educational institutions;tablet computers;calculus;algebra;springs;materials}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142773
+
+C. Franzblau, C. Romney, R. Faux and D. DeRosa,  "Mobile laboratory programs as vehicles to promote STEM education in K-12 and beyond," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T3D-1-T3D-6.
+doi: 10.1109/FIE.2011.6142774
+keywords: {laboratories;mobile communication;educational institutions;conferences;cognition;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142774
+
+J. Braun,  "Work in progress — Why are most underrepresented groups even more underrepresented in a vehicle design program?," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T4H-1-T4H-3.
+doi: 10.1109/FIE.2011.6142775
+keywords: {vehicles;educational institutions;conferences;interviews;cities and towns;computer aided manufacturing;design automation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142775
+
+G. Dolecek,  "Demo program for teaching the characteristics of low-pass IIR filters," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T4E-1-T4E-6.
+doi: 10.1109/FIE.2011.6142776
+keywords: {iir filters;digital filters;education;visualization;matlab;transforms;chebyshev approximation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142776
+
+D. Riley,  "Mini workshop — Innovation for a crowded curriculum: Learning modules for tomorrow's energy engineers," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T1B-1-T1B-2.
+doi: 10.1109/FIE.2011.6142777
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142777
+
+D. Gouveia, D. Lopes and C. de Carvalho,  "Serious gaming for experiential learning," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T2G-1-T2G-6.
+doi: 10.1109/FIE.2011.6142778
+keywords: {games;friction;force;haptic interfaces;context;education;aerodynamics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142778
+
+R. O'Connell,  "Work in progress — Adapting team-based learning to the first circuit theory course," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T2C-1-T2C-2.
+doi: 10.1109/FIE.2011.6142779
+keywords: {materials;educational institutions;circuit theory;conferences;cities and towns;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142779
+
+D. Zutin and M. Auer,  "Work in progress — Integrating educational online lab platforms around the iLab Shared Architecture," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F1G-1-F1G-3.
+doi: 10.1109/FIE.2011.6142780
+keywords: {laboratories;servers;computer architecture;instruments;conferences;service oriented architecture}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142780
+
+A. Kemppainen and B. Hamlin,  "A comprehensive project utilizing spatial visualization skills," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S1C-1-S1C-5.
+doi: 10.1109/FIE.2011.6142781
+keywords: {visualization;solid modeling;materials;educational institutions;fitting}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142781
+
+A. Kemppainen, G. Hein and A. Hamlin,  "Utilizing university research and upper-division course material for an enhanced first-year design experience," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S2F-1-S2F-6.
+doi: 10.1109/FIE.2011.6142782
+keywords: {wind turbines;educational institutions;materials;aquaculture;aerodynamics;cities and towns;laboratories}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142782
+
+J. Froyd,  "Problem-based learning and adaptive expertise," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S3B-1-S3B-5.
+doi: 10.1109/FIE.2011.6142783
+keywords: {technological innovation;trajectory;engineering education;educational institutions;cognition;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142783
+
+J. McNeil, C. Kerk and S. Kellogg,  "Tiospaye in Engineering and Science: Inculcating a sustained culture for recruiting, retaining, and graduating American Indian students," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S3H-1-S3H-6.
+doi: 10.1109/FIE.2011.6142784
+keywords: {educational institutions;engineering profession;cultural differences;scholarships;seminars;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142784
+
+A. Gerhart, D. Carpenter and M. Grunow,  "Work in progress — Assessment of a leadership curriculum," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T3C-1-T3C-3.
+doi: 10.1109/FIE.2011.6142785
+keywords: {lead;instruments;reliability;educational institutions;cities and towns;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142785
+
+R. Williams and J. Dugan,  "Improving efficiency in engineering education through asynchronous computer-based instruction," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T4C-1-T4C-6.
+doi: 10.1109/FIE.2011.6142786
+keywords: {springs;adders;educational institutions;concrete;boolean algebra}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142786
+
+M. Apiola, M. Tedre and J. Oroma,  "Improving programming education in Tanzania: Teachers' and students' perceptions," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F3G-1-F3G-7.
+doi: 10.1109/FIE.2011.6142787
+keywords: {programming profession;educational institutions;interviews;computers;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142787
+
+W. Malvezzi, K. Neles S. and G. Bressan,  "Classroom mediated by technology model: A new proposal for education to remote regions of the Amazon," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F1G-1-F1G-4.
+doi: 10.1109/FIE.2011.6142788
+keywords: {educational institutions;cities and towns;satellites;satellite broadcasting;tv;computer aided instruction}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142788
+
+M. Tedre, M. Apiola and J. Oroma,  "Developing IT education in Tanzania: Empowering students," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T3E-1-T3E-6.
+doi: 10.1109/FIE.2011.6142789
+keywords: {educational institutions;interviews;computers;conferences;internet;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142789
+
+A. Pahwa, et al., "Activities to infuse sustainability and renewable energy concepts in electrical and computer engineering," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F4J-1-F4J-6.
+doi: 10.1109/FIE.2011.6142790
+keywords: {renewable energy resources;computers;educational institutions;wind turbines;conferences;laboratories;batteries}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142790
+
+M. Caeiro-Rodriguez, M. Llamas-Nistal, J. Gonzalez-Tato and J. Alvarez-Osuna,  "Work in progress — PI2E, towards a Google home page for e-learning," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S3C-1-S3C-2.
+doi: 10.1109/FIE.2011.6142791
+keywords: {electronic learning;web services;google;least squares approximation;conferences;information services}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142791
+
+S. Purzer, J. Hilpert and R. Wertz,  "Cognitive dissonance during engineering design," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S4F-1-S4F-5.
+doi: 10.1109/FIE.2011.6142792
+keywords: {problem-solving;educational institutions;project management;engineering education;conferences;fluctuations}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142792
+
+L. Brodie, F. Bullen and L. Jolly,  "Effective evaluation strategies to meet global accreditation requirements," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S1B-1-S1B-6.
+doi: 10.1109/FIE.2011.6142793
+keywords: {monitoring;accreditation;educational institutions;conferences;cities and towns;portfolios;training}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142793
+
+S. Martin, J. Fabuel, E. Sancristobal, M. Castro and J. Peire,  "Work in progress — Design of interactive learning objects for improvement of digital electronics teaching and learning in high school and distance learning universities," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T4C-1-T4C-2.
+doi: 10.1109/FIE.2011.6142794
+keywords: {educational institutions;animation;computer aided instruction;integrated circuit modeling;visualization;adaptation models;radiation detectors}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142794
+
+T. Rajala, et al., "Comparing the collaborative and independent viewing of program visualizations," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F3G-1-F3G-7.
+doi: 10.1109/FIE.2011.6142795
+keywords: {visualization;collaboration;tutorials;programming profession;taxonomy;materials}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142795
+
+D. Lopez, et al., "Introducing “Sustainability and Social Commitment” skills in an engineering degree," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S2C-1-S2C-6.
+doi: 10.1109/FIE.2011.6142796
+keywords: {educational institutions;informatics;conferences;materials;economics;proposals}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142796
+
+D. Lopez, J. Cruz, F. Sanchez and A. Fernandez,  "A take-home exam to assess professional skills," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F1C-1-F1C-6.
+doi: 10.1109/FIE.2011.6142797
+keywords: {educational institutions;conferences;cities and towns;teamwork;principal component analysis;writing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142797
+
+H. Baytiyeh,  "Work in progress — Open source usability evaluation: The case of Moodle," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F4E-1-F4E-2.
+doi: 10.1109/FIE.2011.6142798
+keywords: {usability;educational institutions;materials;open source software;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142798
+
+K. Christensen, R. Perez, P. Panta and P. Bedarahally,  "Unifying program-level ABET assessment data collection, analysis, and presentation," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S1B-1-S1B-6.
+doi: 10.1109/FIE.2011.6142799
+keywords: {portals;accreditation;educational institutions;materials;servers;conferences;databases}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142799
+
+B. Maggi, H. Jackson, K. Tarhini and J. Russell,  "Work in progress — United States Coast Guard Academy Robotics on Water competition as recruiting tool — Program enhancement for STEM & diversity outreach," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S1D-1-S1D-2.
+doi: 10.1109/FIE.2011.6142800
+keywords: {educational institutions;materials;robots;engineering profession;standardization;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142800
+
+B. Vargo, C. Rader and T. Camp,  "Encouraging participation in computer science with CONNECT," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F2H-1-F2H-6.
+doi: 10.1109/FIE.2011.6142801
+keywords: {electronic mail;conferences;communities;educational institutions;cities and towns;employee welfare}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142801
+
+K. Reid, R. White and C. North,  "Work in progress — Interdisciplinary international preprofessional service within the first-year engineering curriculum," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F1E-1-F1E-5.
+doi: 10.1109/FIE.2011.6142802
+keywords: {educational institutions;medical services;engineering students;cities and towns;organizations;proposals;buildings}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142802
+
+A. Magana, D. Vasileska and S. Ahmed,  "Work in progress — A transparency and scaffolding framework for computational simulation tools," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S4G-1-S4G-2.
+doi: 10.1109/FIE.2011.6142803
+keywords: {computational modeling;mathematical model;education;numerical models;data models;computers;nanoelectronics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142803
+
+A. Rose,  "Work in progress — Structural art: Encouraging student creativity and artistic expression," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S2B-1-S2B-2.
+doi: 10.1109/FIE.2011.6142804
+keywords: {art;bridges;structural engineering;cities and towns;communities;educational institutions}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142804
+
+W. Burns and A. Weaver,  "Work in progress — An interactive, execution-safe system for teaching e-commerce using real-time feedback," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S3E-1-S3E-3.
+doi: 10.1109/FIE.2011.6142805
+keywords: {cities and towns;educational institutions;conferences;security;weaving}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142805
+
+J. Seat, C. Pionke and J. Parsons,  "Work in progress — A grand challenge leadership course for engineering students," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S2C-1-S2C-2.
+doi: 10.1109/FIE.2011.6142806
+keywords: {lead;educational institutions;engineering students;business;training;ethics;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142806
+
+T. Goris and M. Dyrenfurth,  "Work in progress — Analysis of misconceptions of engineering technology students about electrical technology concepts. A mixed methods study," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T4J-1-T4J-3.
+doi: 10.1109/FIE.2011.6142807
+keywords: {electricity;educational institutions;electrical engineering;engineering education;cognitive science;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142807
+
+R. Rosenberg,  "Global systems: Advancing global competency in an innovative course for sophomores," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T1G-1-T1G-6.
+doi: 10.1109/FIE.2011.6142808
+keywords: {globalization;economics;cities and towns;conferences;systematics;educational institutions;reflection}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142808
+
+J. Bishop and M. Verleger,  "Work in progress — Using the levenshtein distance to examine changes to teams' model-eliciting activity solutions throughout a semester," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S4D-1-S4D-3.
+doi: 10.1109/FIE.2011.6142809
+keywords: {mathematical model;educational institutions;jacobian matrices;conferences;plagiarism;cities and towns;atmospheric modeling}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142809
+
+J. Bluman and J. Klosky,  "Jump-starting a senior-level capstone project through hands-on laboratory exercises," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F1F-1-F1F-6.
+doi: 10.1109/FIE.2011.6142810
+keywords: {generators;wind turbines;laboratories;voltage measurement;materials;batteries;current measurement}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142810
+
+Xiaofang Wang,  "Multi-core system education through a hands-on project on FPGAs," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F2G-1-F2G-6.
+doi: 10.1109/FIE.2011.6142811
+keywords: {hardware;multicore processing;field programmable gate arrays;system-on-a-chip;embedded systems;sdram}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142811
+
+R. do Prado, A. Brandao and L. de Oliveira Brandao,  "iGraf: An interactive graphical software for CSET education," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T1E-1-T1E-6.
+doi: 10.1109/FIE.2011.6142812
+keywords: {least squares approximation;graphics;calculus;educational institutions;software}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142812
+
+D. Dalmon, A. Brandao, S. Isotani and L. Brandao,  "Work in progress — A framework for building Interactive Learning Modules," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S3E-1-S3E-2.
+doi: 10.1109/FIE.2011.6142813
+keywords: {software;graphical user interfaces;least squares approximation;education;component architectures;object oriented modeling;buildings}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142813
+
+J. Mountain,  "Work in progress — Early improvement in report writing skills using critiques," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F2C-1-F2C-2.
+doi: 10.1109/FIE.2011.6142814
+keywords: {writing;standards;laboratories;education;cities and towns;conferences;guidelines}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142814
+
+P. Schreuders, M. Verleger and K. Otteson,  "Multidiscipline interactions in STEM: Analysis by artifact," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S3D-1-S3D-5.
+doi: 10.1109/FIE.2011.6142815
+keywords: {education;standards;mathematics;cities and towns;conferences;measurement;social network services}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142815
+
+M. Lammi and J. Gero,  "Comparing design cognition of undergraduate engineering students and high school pre-engineering students," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F4F-1-F4F-6.
+doi: 10.1109/FIE.2011.6142816
+keywords: {educational institutions;protocols;cognition;encoding;engineering students}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142816
+
+D. Soeiro, A. de Figueiredo and J. Ferreira,  "Student empowerment in higher education through participatory evaluation," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F4C-1-F4C-6.
+doi: 10.1109/FIE.2011.6142817
+keywords: {education;context;cities and towns;conferences;interviews;reflection;communities}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142817
+
+S. Zilora,  "Work in progress — STEM collaboration cubed," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T4D-1-T4D-2.
+doi: 10.1109/FIE.2011.6142818
+keywords: {educational institutions;informatics;computer science;conferences;materials;diffusion processes}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142818
+
+W. Schleter and R. Bennett,  "Work in progress — Enhancing on-line interaction with graphical tools," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F3E-1-F3E-2.
+doi: 10.1109/FIE.2011.6142819
+keywords: {web sites;educational institutions;cellular phones;equations;electronic mail;graphics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142819
+
+O. Clua and M. Feldgen,  "A first course in Operating Systems with and without rubrics," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F3D-1-F3D-5.
+doi: 10.1109/FIE.2011.6142820
+keywords: {operating systems;programming;silicon;educational institutions;interviews}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142820
+
+M. Feldgen and O. Clua,  "Distributed systems design supported by reflective writing and CATs," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S2F-1-S2F-6.
+doi: 10.1109/FIE.2011.6142821
+keywords: {writing;unified modeling language;communities;cats;educational institutions;programming}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142821
+
+I. Stiubiener, W. Barbosa, C. Kamienski and C. Schweitzer,  "Using Virtual Worlds in distance learning environments," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F3C-1-F3C-6.
+doi: 10.1109/FIE.2011.6142822
+keywords: {three dimensional displays;second life;generators;educational institutions;conferences;servers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142822
+
+T. Burri and S. Lincke,  "Security planning for small businesses: A service-learning course," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F1E-1-F1E-6.
+doi: 10.1109/FIE.2011.6142823
+keywords: {security;communities;organizations;materials;planning;standards organizations}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142823
+
+A. Ambrosio, F. Costa, L. Almeida, A. Franco and J. Macedo,  "Identifying cognitive abilities to improve CS1 outcome," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F3G-1-F3G-7.
+doi: 10.1109/FIE.2011.6142824
+keywords: {programming profession;cognition;interviews;computers;education;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142824
+
+Q. Zheng, R. Sundaram and F. Mak,  "Work in progress — Design and delivery of the graduate course on electronic systems integration," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T2J-1-T2J-2.
+doi: 10.1109/FIE.2011.6142825
+keywords: {software;system analysis and design;printed circuits;layout;computers;circuit simulation;educational institutions}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142825
+
+C. Williams, Y. Lee, M. Paretti and J. Gero,  "Effects of design education on design cognition: A preliminary study of a sophomore design course," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F1F-1-F1F-7.
+doi: 10.1109/FIE.2011.6142826
+keywords: {protocols;cognition;statistical analysis;ontologies;syntactics;encoding;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142826
+
+C. Romanowski, R. Raj and M. Kwon,  "Work in progress — An immersion course concentration in mobile web computing," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S1E-1-S1E-2.
+doi: 10.1109/FIE.2011.6142827
+keywords: {education;mobile handsets;programming profession;mobile computing;mobile communication;data privacy}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142827
+
+S. Sheppard, H. Matusovich, C. Atman, R. Streveler and R. Miller,  "Work in progress — Engineering pathways study: The college-career transition," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S1F-1-S1F-3.
+doi: 10.1109/FIE.2011.6142828
+keywords: {engineering profession;interviews;educational institutions;conferences;engineering students;instruments}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142828
+
+H. Matusovich, M. Paretti, A. Motto and K. Cross,  "Work in progress — Match or mismatch? the teaching and learning of teamwork and communication skills," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T2C-1-T2C-3.
+doi: 10.1109/FIE.2011.6142829
+keywords: {teamwork;writing;educational institutions;engineering education;interviews;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142829
+
+M. Llamas, M. Caeiro, M. Castro, I. Plaza and E. Tovar,  "Use of LMS functionalities in engineering education," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S1G-1-S1G-6.
+doi: 10.1109/FIE.2011.6142830
+keywords: {training;electronic learning;least squares approximation;electronic mail;conferences;web sites}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142830
+
+K. Sugimoto, K. Noguchi, C. Yamada and T. Yonamine,  "Work in progress — Development and practice of national colleges of technology version embedded technology skill standards," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T4C-1-T4C-2.
+doi: 10.1109/FIE.2011.6142831
+keywords: {standards;educational institutions;industries;data visualization;servers;materials}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142831
+
+E. Sancristobal, et al., "Applying a assessment tool in distance learning education," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F4C-1-F4C-8.
+doi: 10.1109/FIE.2011.6142832
+keywords: {least squares approximation;laboratories;electronic learning;educational institutions;courseware;software;databases}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142832
+
+H. Lee, T. Ong and C. Messom,  "Timeline-based authoring tool for e-Textbook: Bringing the “mind-mapped learning model”," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S1E-1-S1E-5.
+doi: 10.1109/FIE.2011.6142833
+keywords: {xml;educational institutions;electronic publishing;software;conferences;prototypes}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142833
+
+C. Amelink, N. Sanderlin, E. Tront and J. Tront,  "Work in progress — The process of evaluating the impact of an international experience on students' global engineering skills," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T1G-1-T1G-3.
+doi: 10.1109/FIE.2011.6142834
+keywords: {educational institutions;cultural differences;engineering profession;cities and towns;conferences;engineering students}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142834
+
+C. Amelink and G. Scales,  "Work in progress — A framework for assessing the impact of instructional technology on the nature of teaching and learning," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T2E-1-T2E-3.
+doi: 10.1109/FIE.2011.6142835
+keywords: {educational institutions;technological innovation;systematics;materials;conferences;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142835
+
+D. Kotys-Schwartz, M. Besterfield-Sacre and L. Shuman,  "Informal learning in engineering education: Where we are — Where we need to go," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T4J-1-T4J-7.
+doi: 10.1109/FIE.2011.6142836
+keywords: {educational institutions;engineering education;communities;remuneration;instruments;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142836
+
+R. Maia and S. Melnikoff,  "A system for forecasting student performance based on course evaluation," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T2F-1-T2F-6.
+doi: 10.1109/FIE.2011.6142837
+keywords: {adaptation models;predictive models;conferences;analytical models;network topology;cities and towns;topology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142837
+
+G. Kamberova, A. Pacelli, J. Impagliazzo, E. Currie and S. Doboli,  "Patents and intellectual property in entrepreneurship education in computing at Hofstra University," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F2D-1-F2D-6.
+doi: 10.1109/FIE.2011.6142838
+keywords: {patents;technological innovation;innovation management;educational institutions;law}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142838
+
+A. Paloheimo, K. Pohjonen and P. Putila,  "Women and higher engineering education — Choosing one's degree program," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T2H-1-T2H-6.
+doi: 10.1109/FIE.2011.6142839
+keywords: {educational institutions;materials;engineering profession;engineering education;mathematics;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142839
+
+K. Smith,  "Cooperative learning: Lessons and insights from thirty years of championing a research-based innovative practice," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T3E-1-T3E-7.
+doi: 10.1109/FIE.2011.6142840
+keywords: {engineering education;educational institutions;technological innovation;communities;conferences;history}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142840
+
+E. Douglas, et al., "Work in progress — The role of working memory and epistemic beliefs on open-ended problem solving," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S4B-1-S4B-2.
+doi: 10.1109/FIE.2011.6142841
+keywords: {problem-solving;educational institutions;atmospheric measurements;particle measurements;engineering students;interviews;materials}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142841
+
+A. Mamei, R. Todtenhoefer and D. Petkovic,  "Work in progress — Elassys: Online tool for teamwork analysis and assessment in software engineering education," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T1H-1-T1H-3.
+doi: 10.1109/FIE.2011.6142842
+keywords: {software engineering;teamwork;educational institutions;ieee computer society;software;joints}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142842
+
+A. Rusu and S. Gowda,  "A comparative study of academic partnerships from a student perspective," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S4F-1-S4F-6.
+doi: 10.1109/FIE.2011.6142843
+keywords: {educational institutions;industries;communities;organizations;collaboration;software engineering;standards organizations}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142843
+
+K. Smith and R. Streveler,  "Special session — Connecting and expanding the emerging engineering education research (EER) and engineering education innovation (EEI) communities," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F3B-1-F3B-2.
+doi: 10.1109/FIE.2011.6142844
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142844
+
+M. Auer, D. Dobrovska and A. Edwards,  "New pedagogic challenges in engineering education and the answer of IGIP," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F2J-1-F2J-7.
+doi: 10.1109/FIE.2011.6142845
+keywords: {engineering education;knowledge engineering;conferences;educational institutions;cities and towns;mobile communication}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142845
+
+O. Muller and A. Rubinstein,  "Work in progress — Courses dedicated to the development of logical and algorithmic thinking," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F3G-1-F3G-3.
+doi: 10.1109/FIE.2011.6142846
+keywords: {problem-solving;cognition;algorithm design and analysis;software algorithms;computer science;educational institutions}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142846
+
+R. Rosenblatt, A. Heckler and K. Flores,  "Group-work tutorials for an introductory materials engineering course," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S2H-1-S2H-6.
+doi: 10.1109/FIE.2011.6142847
+keywords: {tutorials;materials;mechanical factors;steady-state;visualization;copper}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142847
+
+V. Viswanathan and J. Linsey,  "Understanding physical models in design cognition: A triangulation of qualitative and laboratory studies," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S3F-1-S3F-6.
+doi: 10.1109/FIE.2011.6142848
+keywords: {cognitive science;buildings;measurement;data models;testing;cognition;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142848
+
+T. Lynch, et al., "An agile boot camp: Using a LEGO®-based active game to ground agile development principles," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F1H-1-F1H-6.
+doi: 10.1109/FIE.2011.6142849
+keywords: {conferences;education;business;programming;software engineering;cities and towns;industries}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142849
+
+Z. Oden, M. O'Malley, G. Woods and T. Volz,  "Work in progress — Implementing and evaluating efforts to engage interdisciplinary teams to solve real-world design challenges," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S3F-1-S3F-2.
+doi: 10.1109/FIE.2011.6142850
+keywords: {awards activities;educational institutions;collaboration;industries;materials;biomedical engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142850
+
+M. Anderson, L. Perez, D. Jones and C. Zafft,  "Success factors for students transferring into undergraduate engineering degree programs," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F2F-1-F2F-6.
+doi: 10.1109/FIE.2011.6142851
+keywords: {educational institutions;problem-solving;interviews;engineering profession;communities;engineering students;encoding}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142851
+
+L. Begosso, L. Begosso, A. de Souza Poletto, F. de Lima and D. da Cunha,  "Work in progress — Software residency: A contribution for professional maturity," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S4B-1-S4B-2.
+doi: 10.1109/FIE.2011.6142852
+keywords: {software;programming;industries;companies;software engineering;standards}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142852
+
+L. Vicent, X. Gumara and M. Fitzgerald,  "Work in progress — How to provoke creativity and innovation within the classroom by modifying the role of faculty," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T3E-1-T3E-3.
+doi: 10.1109/FIE.2011.6142853
+keywords: {educational institutions;technological innovation;conferences;cities and towns;electronic learning;atmospheric modeling}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142853
+
+W. Hao, H. Jasani and T. Truta,  "Preparing for future data center professionals: Integrating storage technology into the Computer Information Technology curriculum," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S2E-1-S2E-6.
+doi: 10.1109/FIE.2011.6142854
+keywords: {servers;universal serial bus;cloud computing;storage area networks;protocols;drives}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142854
+
+P. Piergiovanni,  "Work in progress — Teaching engineering concepts to liberal arts students," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F3J-1-F3J-4.
+doi: 10.1109/FIE.2011.6142855
+keywords: {art;laboratories;educational institutions;safety;production;economics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142855
+
+B. de la Barra and K. Wilson,  "Work in progress — Introducing Solar Energy Engineering in an Australian middle elementary school," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S1D-1-S1D-2.
+doi: 10.1109/FIE.2011.6142856
+keywords: {educational institutions;solar energy;australia;conferences;physics;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142856
+
+S. Lord, et al., "Special session — Attracting and supporting military veterans in engineering programs," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T4B-1-T4B-4.
+doi: 10.1109/FIE.2011.6142857
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142857
+
+S. Lord and C. Pateros,  "Work in progress — Sustainability and senior design at the University of San Diego," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F4J-1-F4J-3.
+doi: 10.1109/FIE.2011.6142858
+keywords: {educational institutions;industries;electrical engineering;temperature sensors;logistics;laboratories}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142858
+
+T. Wiggins, D. Swift, U. Mai and R. Luechtefeld,  "Acquiring professional skills: Virtual facilitator as model for team communication," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S1C-1-S1C-5.
+doi: 10.1109/FIE.2011.6142859
+keywords: {software;educational institutions;teamwork;conferences;cities and towns;lead;communities}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142859
+
+U. Mai, D. Swift, T. Wiggins and R. Luechtefeld,  "A grounded theory approach to effects of virtual facilitation on team communication and the development of professional skills," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T2C-1-T2C-5.
+doi: 10.1109/FIE.2011.6142860
+keywords: {educational institutions;teamwork;virtual groups;face;conferences;encoding;testing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142860
+
+S. Donohue and L. Richards,  "Mini workshop — P — 12 engineering education: Using Engineering Teaching Kits to address student misconceptions in science," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F2A-1-F2A-4.
+doi: 10.1109/FIE.2011.6142861
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142861
+
+R. Streveler, K. Smith and M. Pilotte,  "Mini workshop — Aligning content, assessment, and pedagogy in the design of engineering courses," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S2A-1-S2A-2.
+doi: 10.1109/FIE.2011.6142862
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142862
+
+L. Oliveira, D. Oliveros, M. da Graca Pimentel and J. Queiroz-Neto,  "Work in progress — Alternative interfaces for e-learning platforms used in remote areas," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T4C-1-T4C-6.
+doi: 10.1109/FIE.2011.6142863
+keywords: {cities and towns;internet;digital tv;multimedia communication;education;least squares approximation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142863
+
+K. Qian, L. Tao, W. Hu and R. Kline',  "Work in progress — Live programming learning objects repository," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F3E-1-F3E-2.
+doi: 10.1109/FIE.2011.6142864
+keywords: {educational institutions;problem-solving;programming profession;algorithm design and analysis;process control}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142864
+
+R. Romero, R. Savage, P. Figueroa and R. Luechtefeld,  "A quantitative study of the impact of automated facilitation on engineering student dyadic task completion," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F2C-1-F2C-6.
+doi: 10.1109/FIE.2011.6142865
+keywords: {technological innovation;engineering students;problem-solving;conferences;google;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142865
+
+E. Gehringer and M. Narang,  "Accountability and the use of classroom response devices," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T1E-1-T1E-6.
+doi: 10.1109/FIE.2011.6142866
+keywords: {google;portable computers;materials;cities and towns;conferences;stress;atmospheric measurements}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142866
+
+P. Figueroa, R. Savage, R. Romero and R. Luechtefeld,  "A qualitative analysis for the facilitation of innovative problem completion amongst dyads of engineering students," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S4C-1-S4C-6.
+doi: 10.1109/FIE.2011.6142867
+keywords: {problem-solving;collaboration;google;systematics;cities and towns;conferences;educational institutions}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142867
+
+P. Yehiry, F. Gloria, B. Silvia and G. Juan,  "Work in progress — Item retrieval system in distributed repositories to generate adaptive assessments supported in items response theory (.IRTT)," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T1A-1-T1A-4.
+doi: 10.1109/FIE.2011.6142868
+keywords: {mathematical model;adaptation models;conferences;unified modeling language;context;adaptive systems;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142868
+
+S. Warren, J. DeVault and K. Li,  "A two-channel bioamplifier design as a cross-course experience," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T3F-1-T3F-6.
+doi: 10.1109/FIE.2011.6142869
+keywords: {band pass filters;laboratories;connectors;conferences;biosensors;switches;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142869
+
+C. Jia and S. Warren,  "Work in progress — Higher-level-learning enhancements to online assignments in an electrical engineering linear systems course," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T4E-1-T4E-2.
+doi: 10.1109/FIE.2011.6142870
+keywords: {fourier series;time domain analysis;linear systems;education;interviews;frequency domain analysis;materials}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142870
+
+Y. Oomori, K. Nagai, N. Kawasaki and H. Nagumo,  "Work in progress — Soil watering systems as teaching materials for technology education in junior high schools," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S2D-1-S2D-3.
+doi: 10.1109/FIE.2011.6142871
+keywords: {educational institutions;materials;soil;soil measurements;programming profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142871
+
+T. Bihari, et al., "Enabling scalability, richer experiences and ABET-accreditable learning outcomes in computer science Capstone courses through inversion of control," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S1B-1-S1B-7.
+doi: 10.1109/FIE.2011.6142872
+keywords: {industries;software engineering;springs;organizations;conferences;employee welfare;educational institutions}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142872
+
+H. Kam and J. Pauli,  "Work in progress — Web penetration testing: Effectiveness of student learning in Web application security," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F3G-1-F3G-3.
+doi: 10.1109/FIE.2011.6142873
+keywords: {testing;computer crime;computer hacking;google;education;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142873
+
+S. Deshpande, et al., "Teaching students software engineering practices for micro-teams," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T1H-1-T1H-6.
+doi: 10.1109/FIE.2011.6142874
+keywords: {software;software engineering;documentation;education;knowledge transfer;programming profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142874
+
+K. Price,  "Work in progress — Cognitive scaffolding in contemporary computer documentation," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F1C-1-F1C-2.
+doi: 10.1109/FIE.2011.6142875
+keywords: {documentation;materials;context;psychology;usability;educational institutions;multimedia communication}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142875
+
+S. Purzer and J. Hilpert,  "Special session — Cognitive processes critical for ill-defined problem solving: Linking theory, research, and classroom implications," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T2A-1-T2A-2.
+doi: 10.1109/FIE.2011.6142876
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142876
+
+R. Louis and H. Matusovich,  "Work in progress — Identity development of first-year engineering students through a summer college prep program," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F2F-1-F2F-3.
+doi: 10.1109/FIE.2011.6142877
+keywords: {educational institutions;engineering students;cities and towns;engineering profession;conferences;design methodology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142877
+
+A. Mondragon-Torres, et al., "Work in progress — An agile embedded systems design capstone course," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F4F-1-F4F-3.
+doi: 10.1109/FIE.2011.6142878
+keywords: {computers;project management;embedded systems;prototypes;electrostatic discharges;hardware}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142878
+
+A. Mondragon-Torres and A. Becker-Gomez,  "Ultra-low power and the millennium generation," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T3H-1-T3H-5.
+doi: 10.1109/FIE.2011.6142879
+keywords: {materials;internet;laboratories;microcomputers;education;microcontrollers;assembly}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142879
+
+K. Kitto and D. Jusak,  "Work in progress — The iCollaborate MSE project," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S1E-1-S1E-3.
+doi: 10.1109/FIE.2011.6142880
+keywords: {collaboration;engineering education;portable media players;materials;educational institutions;collaborative work}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142880
+
+C. Cass, Z. Hazari, J. Cribbs, P. Sadler and G. Sonnert,  "Examining the impact of mathematics identity on the choice of engineering careers for male and female students," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F2H-1-F2H-5.
+doi: 10.1109/FIE.2011.6142881
+keywords: {engineering profession;educational institutions;engineering education;mathematical model;loading}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142881
+
+J. Bolinger, M. Herold, R. Ramnath and J. Ramanathan,  "Connecting reality with theory — An approach for creating integrative industry case studies in the software engineering curriculum," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T4G-1-T4G-6.
+doi: 10.1109/FIE.2011.6142882
+keywords: {materials;education;software engineering;software;libraries;context;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142882
+
+G. Altuger-Genc and C. Chassapis,  "Fostering lifelong learning in a capstone design environment: An implementation assessment," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F1F-1-F1F-5.
+doi: 10.1109/FIE.2011.6142883
+keywords: {industries;conferences;engineering education;mechanical engineering;materials;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142883
+
+L. Tao, C. Coutras, N. Murthy and R. Kline,  "Work in progress — An innovative design of a Master in Computer Science program," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T3F-1-T3F-2.
+doi: 10.1109/FIE.2011.6142884
+keywords: {computer science;internet;security;computers;education;conferences;mobile computing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142884
+
+H. Santoso, O. Lawanto, Z. Hasibuan and R. Aji,  "Work in progress — Assessing cognitive skills in asynchronous online discussion: A case study of Student Centered E-Learning Environment in Indonesia," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T1C-1-T1C-2.
+doi: 10.1109/FIE.2011.6142885
+keywords: {educational institutions;electronic learning;mathematics;programming profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142885
+
+B. Pelleg, M. Figueroa, M. VanKouwenberg, A. Fontecchio and E. Fromm,  "Implementing nanotechnology education in the high school classroom," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F4D-1-F4D-6.
+doi: 10.1109/FIE.2011.6142886
+keywords: {educational institutions;nanoscale devices;consumer products;materials;nanobioscience}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142886
+
+J. Rojter,  "Work in progress — Does the marketing of engineering courses through pedagogical differentiation matter?," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T4J-1-T4J-3.
+doi: 10.1109/FIE.2011.6142887
+keywords: {educational institutions;engineering education;australia;cities and towns;mechanical engineering;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142887
+
+J. Rojter,  "Work in progress — What attracts students to the study of engineering? perceptions and motivations," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F2F-1-F2F-3.
+doi: 10.1109/FIE.2011.6142888
+keywords: {educational institutions;australia;engineering profession;engineering education;cities and towns;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142888
+
+Z. Ali, et al., "Teaching object-oriented software design within the context of software frameworks," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S3G-1-S3G-5.
+doi: 10.1109/FIE.2011.6142889
+keywords: {software;androids;humanoid robots;educational institutions;object oriented modeling;computer science;games}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142889
+
+S. Gutstein, E. Freudenthal, A. Jamal-Kamali, V. Kreinovich and D. Morgenthaler,  "Work in progress — The Rod-Spring approximation: An intuitive approach to the best-fit least-squares linear approximation," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S1D-1-S1D-2.
+doi: 10.1109/FIE.2011.6142890
+keywords: {springs;mathematical model;educational institutions;force;equations;torque;data models}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142890
+
+J. Rowland,  "Work in progress — Engineering's Grand Challenges: An analysis of student viewpoints," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F2F-1-F2F-2.
+doi: 10.1109/FIE.2011.6142891
+keywords: {educational institutions;conferences;engineering students;safety;robots;fuels;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142891
+
+R. Bailey, H. Bischof, M. Kwon, T. Miller and R. Raj,  "On providing successful Research Experiences for Undergraduates," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T2F-1-T2F-6.
+doi: 10.1109/FIE.2011.6142892
+keywords: {proposals;employee welfare;computer science education;planning;educational institutions;software;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142892
+
+D. Sangam, B. Jesiek and J. Thompson,  "An analysis of DC circuit theory content in an engineering textbook: Presentation features, conceptual content, and use of analogies," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F1D-1-F1D-6.
+doi: 10.1109/FIE.2011.6142893
+keywords: {electric potential;analytical models;voltage measurement;context;electricity;encoding;context modeling}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142893
+
+J. Riihijarvi and P. Mahonen,  "Work in progress — Developing a hands-on course on network science," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F2G-1-F2G-2.
+doi: 10.1109/FIE.2011.6142894
+keywords: {analytical models;mathematical model;data models;transportation;educational institutions;measurement;data analysis}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142894
+
+C. Cardenas,  "A social-based meta-multidisciplinary framework to motivate the creation of a new generation of electronics 2.0 systems," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S2B-1-S2B-6.
+doi: 10.1109/FIE.2011.6142895
+keywords: {prototypes;innovation management;technological innovation;proposals;cities and towns;ethics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142895
+
+M. Anderson-Rowland,  "Evaluation of a ten year life planning assignment for an Academic Scholarship Success Class," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F2F-1-F2F-7.
+doi: 10.1109/FIE.2011.6142896
+keywords: {planning;educational institutions;scholarships;engineering profession;cities and towns;computer science}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142896
+
+S. Goh and H. Ku,  "Work in progress — Intervening to improve the dissertation of final year engineering research projects," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F3F-1-F3F-6.
+doi: 10.1109/FIE.2011.6142897
+keywords: {conferences;education;high definition video;context;cities and towns;surface treatment;writing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142897
+
+S. Watkins, N. Kowalewski, K. Rodhouse and B. Cooper,  "Work in progress — Exercises in Squeak Smalltalk for pre-college education," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T3D-1-T3D-3.
+doi: 10.1109/FIE.2011.6142898
+keywords: {tutorials;programming profession;educational institutions;conferences;encoding}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142898
+
+S. Goh, T. Hartle and M. Brodie,  "Perspectives on leadership concepts by engineering academics," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F2E-1-F2E-7.
+doi: 10.1109/FIE.2011.6142899
+keywords: {lead;context;educational institutions;industries;interviews;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142899
+
+P. Keleher, J. Keleher and K. Simon,  "The challenge of embedding Information Literacy as a graduate attribute into engineering and technology courses," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T2J-1-T2J-6.
+doi: 10.1109/FIE.2011.6142900
+keywords: {libraries;australia;control theory;materials;standards;databases;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142900
+
+S. Rouvrais and I. Kanellos,  "Facing computer science misconceptions: An introductory course based on historical strands and career paths at a glance," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F4G-1-F4G-7.
+doi: 10.1109/FIE.2011.6142901
+keywords: {engineering profession;educational institutions;computers;conferences;programming profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142901
+
+L. de-la-Fuente-Valentin, D. Leony, A. Pardo and C. Kloos,  "Towards flexibility on IMS Learning Design scripts," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T1E-1-T1E-6.
+doi: 10.1109/FIE.2011.6142902
+keywords: {materials;internet;information services;electronic publishing;conferences;collaboration;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142902
+
+A. Vicente, R. Motz, M. Llamas and M. Caeiro,  "Work in progress — LOM4CE: LOM for the Content Ecosystem," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T2E-1-T2E-2.
+doi: 10.1109/FIE.2011.6142903
+keywords: {ecosystems;semantics;electronic learning;context;conferences;standards}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142903
+
+C. Dean, T. Lynch and R. Ramnath,  "Student perspectives on learning through developing software for the real world," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T3F-1-T3F-6.
+doi: 10.1109/FIE.2011.6142904
+keywords: {programming;software;lead;educational institutions;teamwork;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142904
+
+C. da Rocha Brito and M. Ciampi,  "Frontiers of engineering: Opportunity and challenges," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F2C-1-F2C-4.
+doi: 10.1109/FIE.2011.6142905
+keywords: {engineering education;globalization;conferences;educational institutions;humans;business}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142905
+
+E. Currie, S. Doboli and G. Kamberova,  "Developing the next generation of entrepreneurs," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S2B-1-S2B-6.
+doi: 10.1109/FIE.2011.6142906
+keywords: {innovation management;patents;educational institutions;computer science;companies}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142906
+
+M. Ciampi and C. da Rocha Brito,  "Human side of engineering: Dealing with complex and ethical challenges," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T1G-1-T1G-4.
+doi: 10.1109/FIE.2011.6142907
+keywords: {engineering education;humans;knowledge engineering;conferences;educational institutions;technological innovation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142907
+
+Y. Bolea and A. Grau,  "A novel pedagogical tool integrating sustainability competence into engineering degrees," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T2C-1-T2C-6.
+doi: 10.1109/FIE.2011.6142908
+keywords: {mathematical model;biological system modeling;educational institutions;laboratories;humans;java}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142908
+
+S. Salamah, M. Towhidnejad and T. Hilburn,  "Developing case modules for teaching software engineering and computer science concepts," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T1H-1-T1H-6.
+doi: 10.1109/FIE.2011.6142909
+keywords: {dh-hemts;education;software engineering;materials;software;analytical models;programming}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142909
+
+M. Aburdene and K. Nepal,  "Wow! linear systems and signal processing is fun!," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F1G-1-F1G-6.
+doi: 10.1109/FIE.2011.6142910
+keywords: {matlab;band pass filters;convolution;linear systems;finite impulse response filter;mathematical model}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142910
+
+Y. Bolea and A. Grau,  "‘Green’ remote laboratory for Chemical Engineering Degree: A new paradigm for training," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T3G-1-T3G-6.
+doi: 10.1109/FIE.2011.6142911
+keywords: {remote laboratories;chemical processes;mathematical model;chemicals;educational institutions}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142911
+
+M. Miller, J. Gershenson, C. Margraves, I. Miskioglu and G. Parker,  "Work in progress — Weaving threads of sustainability into the fabric of the mechanical engineering curriculum," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F4J-1-F4J-2.
+doi: 10.1109/FIE.2011.6142912
+keywords: {materials;mechanical engineering;educational institutions;thermodynamics;weaving;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142912
+
+M. Lobo, et al., "Using remote experimentation in a large undergraduate course: Initial findings," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S4G-1-S4G-7.
+doi: 10.1109/FIE.2011.6142913
+keywords: {laboratories;physics;electricity;conferences;educational institutions;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142913
+
+Y. Xu, K. Meehan, X. Wei, A. Overby and C. Martin,  "Work in progress — Hands-on learning of fundamental concepts in electromagnetic fields," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T3G-1-T3G-3.
+doi: 10.1109/FIE.2011.6142914
+keywords: {materials;capacitors;educational institutions;electromagnetic fields;laboratories}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142914
+
+J. Cohoon, M. Nable and P. Boucher,  "Conflicted identities and sexism in computing graduate programs," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S1H-1-S1H-5.
+doi: 10.1109/FIE.2011.6142915
+keywords: {educational institutions;computer science;conferences;industries;medical services;cities and towns;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142915
+
+D. Dalmon, S. Isotani, A. Brandao and L. Brandao,  "Work in progress — Enhancing Interactive Geometry Systems with intelligent tutoring features," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F3E-1-F3E-2.
+doi: 10.1109/FIE.2011.6142916
+keywords: {artificial intelligence;education;geometry;software;least squares approximation;computers;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142916
+
+J. Hilpert, M. Carrion, J. Husman and L. Baughman,  "Engineering futures: Female students, careers, and work/life balance," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T4H-1-T4H-5.
+doi: 10.1109/FIE.2011.6142917
+keywords: {educational institutions;engineering profession;engineering students;instruments;psychology;encoding}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142917
+
+L. Grabowski and P. Brazier,  "Robots, recruitment, and retention: Broadening participation through CS0," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F4H-1-F4H-5.
+doi: 10.1109/FIE.2011.6142918
+keywords: {educational robots;programming;computers;educational institutions;robot sensing systems}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142918
+
+H. Tims, K. Corbett, D. Hall, G. Turner and D. Harbour,  "Work in progress — Application of the Boe-Bot in teaching K12 electricity fundamentals," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S2D-1-S2D-3.
+doi: 10.1109/FIE.2011.6142919
+keywords: {educational institutions;robot sensing systems;electricity;nasa;resistance}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142919
+
+B. Maxim, M. Turton and W. Nahle,  "Work in progress — Using social media to teach engineering process," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S3H-1-S3H-2.
+doi: 10.1109/FIE.2011.6142920
+keywords: {games;computers;programming;conferences;educational institutions;media}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142920
+
+A. Zeid and R. El-Bahey,  "Impact of introducing single-gender classrooms in higher education on student achievement levels: A case study in software engineering courses in the GCC region," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T2H-1-T2H-6.
+doi: 10.1109/FIE.2011.6142921
+keywords: {software engineering;educational institutions;computers;computer science;conferences;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142921
+
+C. Schmitz, R. Alonso and M. Loui,  "Work in progress — Diversity harnessing in a general education course on digital information technology," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F3D-1-F3D-2.
+doi: 10.1109/FIE.2011.6142922
+keywords: {interviews;information technology;communities;educational institutions;materials}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142922
+
+S. Salcedo and A. Idrobo,  "New tools and methodologies for programming languages learning using the scribbler robot and Alice," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F4G-1-F4G-6.
+doi: 10.1109/FIE.2011.6142923
+keywords: {programming profession;robots;educational institutions;conferences;three dimensional displays}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142923
+
+K. Crittenden, H. Tims, K. Corbett, D. Hall and M. Swanbom,  "Work in progress — Using a “cigar box” guitar to teach waves and sound in a high school physics program," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F4D-1-F4D-3.
+doi: 10.1109/FIE.2011.6142924
+keywords: {educational institutions;neck;physics;materials;conferences;instruments;tuning}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142924
+
+J. Lipovetzky, et al., "Work in progress — Development of an integrated circuits course that includes the full experience of designing an ASIC in a CMOS process," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T3H-1-T3H-3.
+doi: 10.1109/FIE.2011.6142925
+keywords: {educational institutions;integrated circuit modeling;solid modeling;microelectronics;conferences;cmos integrated circuits}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142925
+
+S. Cutler, M. Borrego and D. Loden,  "An evaluation of the Australian engineers without borders challenge from the course coordinators' perspectives," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T1G-1-T1G-6.
+doi: 10.1109/FIE.2011.6142926
+keywords: {educational institutions;australia;conferences;communities;cultural differences;teamwork;interviews}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142926
+
+M. Herold, J. Bolinger, R. Ramnath, T. Bihari and J. Ramanathan,  "Providing end-to-end perspectives in software engineering," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S4B-1-S4B-7.
+doi: 10.1109/FIE.2011.6142927
+keywords: {software engineering;software;education;games;business;computer science;materials}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142927
+
+H. Yang, et al., "A novel interdisciplinary course in gerontechnology for disseminating computational thinking," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T3H-1-T3H-6.
+doi: 10.1109/FIE.2011.6142928
+keywords: {gerontechnology;teamwork;computer science;conferences;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142928
+
+M. Herold, A. Ganci, B. Ribeiro, R. Ramnath and R. Stone,  "Work in progress — Computer science perspectives on integration with human-centered design," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F4F-1-F4F-2.
+doi: 10.1109/FIE.2011.6142929
+keywords: {computer science;educational institutions;software;industries;software engineering;visual communication}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142929
+
+K. Mark, D. Thadani, D. Calonge, C. Pun and P. Chiu,  "In-service Teaching Assistant Training (InsTAT) for engineering and computer science graduate students in Hong Kong: A blended-learning approach," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F2E-1-F2E-6.
+doi: 10.1109/FIE.2011.6142930
+keywords: {electronic learning;training;educational institutions;cities and towns;conferences;portfolios}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142930
+
+E. Enstrom, G. Kreitz, F. Niemela, P. Soderman and V. Kann,  "Five years with kattis — Using an automated assessment system in teaching," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T3J-1-T3J-6.
+doi: 10.1109/FIE.2011.6142931
+keywords: {programming profession;education;testing;electronic mail;problem-solving;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142931
+
+F. Moreira and M. Ferreira,  "Work in progress — A Blended Mobile Learning context oriented model applied to an information systems undergraduate degree curriculum," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S1E-1-S1E-2.
+doi: 10.1109/FIE.2011.6142932
+keywords: {mobile communication;context;education;context modeling;computational modeling;google;information systems}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142932
+
+Q. Zhu,  "Nash meets Van Valkenburg: A game-theoretic approach to effective learning and teaching in engineering," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S4H-1-S4H-3.
+doi: 10.1109/FIE.2011.6142933
+keywords: {games;nash equilibrium;educational institutions;communities;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142933
+
+J. Handzik and G. Herman,  "Work in progress — Developing a cognitively based digital logic calculator," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T2E-1-T2E-3.
+doi: 10.1109/FIE.2011.6142934
+keywords: {calculators;logic gates;logic design;educational institutions;conferences;interviews;problem-solving}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142934
+
+E. Miskioglu,  "Work in progress — The age of apathy: Reigniting engineering educating," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S1F-1-S1F-3.
+doi: 10.1109/FIE.2011.6142935
+keywords: {engineering education;educational institutions;conferences;cities and towns;internet;storms}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142935
+
+H. Diefes-Dux and B. Capobianco,  "Work in progress — Interpreting elementary students' advanced conceptions of engineering from the Draw-an-Engineer Test," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F3J-1-F3J-2.
+doi: 10.1109/FIE.2011.6142936
+keywords: {educational institutions;engineering education;instruments;buildings;cities and towns;head;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142936
+
+R. Ganesan, D. Sterling and P. Henning,  "Work in progress — SUNRISE: Schools, university ‘N’ (and) resources in the sciences and engineering-a NSF/GMU GK-12 fellows project," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T3D-1-T3D-2.
+doi: 10.1109/FIE.2011.6142937
+keywords: {educational institutions;mathematics;fellows;collaboration;atmospheric modeling;training}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142937
+
+S. Beyerlein, D. Davis and M. Trevisan,  "Workshop — Using IDEALS to demonstrate development of professional skills in project courses," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. W2C-1-W2C-2.
+doi: 10.1109/FIE.2011.6142938
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142938
+
+D. Carpenter, J. Sutkus, C. Finelli and T. Harding,  "Mini workshop — Exploration of the ethical development of engineering undergraduates," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F4A-1-F4A-2.
+doi: 10.1109/FIE.2011.6142939
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142939
+
+A. Lutenberg, et al., "An introductory electronics course oriented to develop real-life-engineering design skills," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T2D-1-T2D-7.
+doi: 10.1109/FIE.2011.6142940
+keywords: {education;semiconductor device modeling;transistors;mosfet circuits;laboratories;physics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142940
+
+C. Baltimore, D. Wilhelm, M. Forte and P. Brady,  "Mixing numbers and letters: Collaboration between engineering and English to improve graduate student work," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S4C-1-S4C-6.
+doi: 10.1109/FIE.2011.6142941
+keywords: {writing;industries;collaboration;proposals;educational institutions;schedules;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142941
+
+D. Lighthart, D. Hayhurst and P. Reily,  "The articulation of military training onto engineering degree plans," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S1B-1-S1B-5.
+doi: 10.1109/FIE.2011.6142942
+keywords: {training;military aircraft;educational institutions;frequency modulation;engineering profession;concrete}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142942
+
+A. Lutenberg, J. Bruno, J. Cruz, I. Zaradnik and D. Brengi,  "Work in progress — The organization of a symposium that supports faculty development in the embedded-systems field," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F2E-1-F2E-3.
+doi: 10.1109/FIE.2011.6142943
+keywords: {embedded systems;educational institutions;companies;conferences;industries;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142943
+
+K. Yeh and W. Chen,  "Work in progress — Using a computer gaming strategy to facilitate undergraduates' learning in a computer programming course: An experimental study," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S4H-1-S4H-2.
+doi: 10.1109/FIE.2011.6142944
+keywords: {games;computers;programming;atmospheric measurements;particle measurements;materials;time measurement}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142944
+
+J. Brough, M. Baker and D. Casadonte,  "Work in progress — Classroom and distance components of a GK12 program placing graduate students in high school classrooms," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T1C-1-T1C-2.
+doi: 10.1109/FIE.2011.6142945
+keywords: {fellows;educational institutions;mathematics;software;hardware;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142945
+
+L. Everett, et al., "Workshop — Evaluation of education development projects," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. W1C-1-W1C-2.
+doi: 10.1109/FIE.2011.6142946
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142946
+
+M. Simoni,  "Work in progress — A hardware platform for a continuous-time signals and systems course," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S4G-1-S4G-2.
+doi: 10.1109/FIE.2011.6142947
+keywords: {hardware;power harmonic filters;laboratories;materials;voltage measurement;filtering;instruments}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142947
+
+L. Everett, et al., "A mini-workshop on how people learn," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T1A-1-T1A-2.
+doi: 10.1109/FIE.2011.6142948
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142948
+
+T. Clausen and S. Hagen,  "Results of the cooperative learning program at Telemark University College, Norway," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F3H-1-F3H-5.
+doi: 10.1109/FIE.2011.6142949
+keywords: {educational institutions;engineering education;training;industries;conferences;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142949
+
+J. Thompson and B. Jesiek,  "Work in progress — Project-Based Service Learning in engineering: Investigating partner relationships," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S3B-1-S3B-2.
+doi: 10.1109/FIE.2011.6142950
+keywords: {communities;organizations;educational institutions;engineering education;interviews;materials}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142950
+
+C. Tobar, R. de Freitas and J. Coello,  "Engineering capstone project an individual approach," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T1F-1-T1F-6.
+doi: 10.1109/FIE.2011.6142951
+keywords: {complexity theory;context;computers;monitoring;educational institutions;conferences;planning}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142951
+
+T. Barton and M. Alvira,  "An advanced level radio-frequency circuit course with laboratory and design exercises that emphasize complete system performance," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S4G-1-S4G-6.
+doi: 10.1109/FIE.2011.6142952
+keywords: {mixers;benchmark testing;probes;receivers;laboratories;radio frequency;transmitters}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142952
+
+M. Baynard and D. McEachron,  "Work in progress — Asleep in class are the schedules of college students hampering their ability to learn?," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S1F-1-S1F-3.
+doi: 10.1109/FIE.2011.6142953
+keywords: {sleep;educational institutions;schedules;temperature measurement;materials;conferences;lighting}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142953
+
+K. Davis,  "Using low-stakes quizzing for student self-evaluation of readiness for exams," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F3D-1-F3D-6.
+doi: 10.1109/FIE.2011.6142954
+keywords: {springs;materials;educational institutions;conferences;cities and towns;steel;buildings}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142954
+
+H. Diefes-Dux and M. Cardella,  "Mini workshop — A strategy for assessing student work on open-ended problems," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T3A-1-T3A-2.
+doi: 10.1109/FIE.2011.6142955
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142955
+
+A. Colbert, A. Guzman, M. McQueen and R. Luechtefeld,  "Decision-making and conflict resolutions skills enhanced by virtual facilitation: A qualitative study," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F2C-1-F2C-4.
+doi: 10.1109/FIE.2011.6142956
+keywords: {decision making;cities and towns;conferences;medical services;educational institutions;knowledge engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142956
+
+A. Colbert, A. Guzman, M. McQueen and R. Luechtefeld,  "Knowledge and information sharing improved by simulation technology: A quantitative study," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T3C-1-T3C-4.
+doi: 10.1109/FIE.2011.6142957
+keywords: {medical services;conferences;particle measurements;atmospheric measurements;cities and towns;training;buildings}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142957
+
+C. Osterman, V. Viswanathan and J. Linsey,  "Teaching capstone design: The influence of problem complexity," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F1F-1-F1F-6.
+doi: 10.1109/FIE.2011.6142958
+keywords: {complexity theory;springs;predictive models;design methodology;analysis of variance;systematics;moon}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142958
+
+O. Atilola, M. Field, E. McTigue, T. Hammond and J. Linsey,  "Evaluation of a natural sketch interface for truss FBDs and analysis," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S2E-1-S2E-6.
+doi: 10.1109/FIE.2011.6142959
+keywords: {education;software;force;cities and towns;conferences;mice;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142959
+
+E. Towers, J. Simonovich and Y. Zastavker,  "Students' perceptions of the engineering profession and implications for interest in the field," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F3D-1-F3D-7.
+doi: 10.1109/FIE.2011.6142960
+keywords: {physics;engineering profession;mathematics;writing;laboratories;interviews;knowledge engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142960
+
+J. DeWaters and S. Powers,  "Improving energy literacy among middle school youth with project-based learning pedagogies," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T1D-1-T1D-7.
+doi: 10.1109/FIE.2011.6142961
+keywords: {educational institutions;electricity;renewable energy resources;conferences;energy measurement;energy resources}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142961
+
+S. Beyerlein, et al., "Mini workshop — Exploration of a direct method for measuring ABET professional skills," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S3A-1-S3A-2.
+doi: 10.1109/FIE.2011.6142962
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142962
+
+N. Kraft, X. Hong, J. Lusth and D. McCallum,  "Experiences with CS2 and data structures in the 100 problems format," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F4G-1-F4G-7.
+doi: 10.1109/FIE.2011.6142963
+keywords: {springs;data structures;algorithm design and analysis;complexity theory;conferences;cities and towns;computer science}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142963
+
+M. Miller, L. Bohmann, C. Van Arsdale and B. Mitchell,  "Comparing attributes of electrical engineering, mechanical engineering and non-engineering students," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F2H-1-F2H-6.
+doi: 10.1109/FIE.2011.6142964
+keywords: {mechanical engineering;computers;conferences;physics;engineering students;cities and towns;electric variables measurement}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142964
+
+G. Ragusa,  "Work in progress — Engineering creativity and propensity for innovative thinking and design in engineering students," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F2D-1-F2D-4.
+doi: 10.1109/FIE.2011.6142965
+keywords: {technological innovation;reliability;instruments;indexes;educational institutions;business;engineering students}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142965
+
+A. Santos, A. Gomes and A. Mendes,  "A class record and reviewing system designed to promote programming learning," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F4G-1-F4G-6.
+doi: 10.1109/FIE.2011.6142966
+keywords: {streaming media;media;servers;programming profession;computers;least squares approximation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142966
+
+T. Martin, P. Ko and S. Peacock,  "Work in progress — Exploring teacher and student differences in assessment of constructivist practices," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T4D-1-T4D-2.
+doi: 10.1109/FIE.2011.6142967
+keywords: {educational institutions;calibration;instruments;cities and towns;conferences;reliability}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142967
+
+M. Rodriguez-Artacho, P. Lapo and I. Roa,  "An application for the collaborative development of semantic content," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T4E-1-T4E-6.
+doi: 10.1109/FIE.2011.6142968
+keywords: {ontologies;semantics;encyclopedias;internet;electronic publishing;collaboration}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142968
+
+S. Amato-Henderson, A. Kemppainen and G. Hein,  "Assessing creativity in engineering students," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T4F-1-T4F-3.
+doi: 10.1109/FIE.2011.6142969
+keywords: {educational institutions;engineering students;correlation;psychology;problem-solving;instruments}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142969
+
+M. Camacho and S. Lord,  ""Microaggressions" in engineering education: Climate for Asian, Latina and White women," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S3H-1-S3H-6.
+doi: 10.1109/FIE.2011.6142970
+keywords: {educational institutions;engineering education;meteorology;conferences;color;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142970
+
+N. Soundarajan,  "Work in progress — Collaborative and reflective learning in engineering programs," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S2E-1-S2E-2.
+doi: 10.1109/FIE.2011.6142971
+keywords: {history;object oriented modeling;education;collaborative work;programming profession;computational modeling}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142971
+
+K. Gieskes, C. DeRusso and R. McGrann,  "Work in progress — An example of the variations of visual representations in mechanical engineering education," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S3E-1-S3E-3.
+doi: 10.1109/FIE.2011.6142972
+keywords: {visualization;education;mechanical engineering;conferences;gravity;problem-solving}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142972
+
+A. Jalal-Kamali and E. Freudenthal,  "Work in progress — Using graphical programming to contextualize a conventional programming course," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F4G-1-F4G-2.
+doi: 10.1109/FIE.2011.6142973
+keywords: {programming profession;java;syntactics;propulsion;media;context}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142973
+
+R. Abler, E. Coyle, A. Kiopa and J. Melkers,  "Team-based software/system development in a vertically-integrated project-based course," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T3F-1-T3F-7.
+doi: 10.1109/FIE.2011.6142974
+keywords: {servers;software;programming;documentation;teamwork;machine learning}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142974
+
+S. Grigg and L. Benson,  "Work in progress — Robust engineering problems for the study of problem solving strategies," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S4C-1-S4C-3.
+doi: 10.1109/FIE.2011.6142975
+keywords: {problem-solving;accuracy;engineering students;educational institutions;monitoring;cities and towns;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142975
+
+G. Lammers and C. Brown,  "Work in progress — Extending parallelism education to the first year with a bottom-up approach," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T2D-1-T2D-2.
+doi: 10.1109/FIE.2011.6142976
+keywords: {parallel processing;concurrent computing;computers;educational institutions;programming profession;instruments}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142976
+
+T. Karp and A. Schneider,  "Evaluation of a K-8 LEGO robotics program," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T1D-1-T1D-6.
+doi: 10.1109/FIE.2011.6142977
+keywords: {educational institutions;gears;educational robots;games;conferences;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142977
+
+K. Reid and E. Baumgartner,  "Work in progress — Putting the “E” in STEM teacher preparation: A new Bachelor of Science degree with an engineering education major," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T4F-1-T4F-2.
+doi: 10.1109/FIE.2011.6142978
+keywords: {engineering education;educational institutions;engineering profession;standards;mathematics;accreditation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142978
+
+D. Custer,  "Inversion of technical and communication emphasis in an engineering product design class," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S4C-1-S4C-6.
+doi: 10.1109/FIE.2011.6142979
+keywords: {product design;writing;conferences;cities and towns;education;prototypes;schedules}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142979
+
+Kuo-Chuan Yeh, Ying Xie and Fengfeng Ke,  "Teaching computational thinking to non-computing majors using spreadsheet functions," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F3J-1-F3J-5.
+doi: 10.1109/FIE.2011.6142980
+keywords: {problem-solving;computer science;computers;conferences;educational institutions;instruments}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142980
+
+K. Kramer and M. Anderson,  "A PIC18 robot-centered microcontroller systems laboratory," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T2G-1-T2G-6.
+doi: 10.1109/FIE.2011.6142981
+keywords: {laboratories;robot sensing systems;programming profession;assembly;microcontrollers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142981
+
+K. Garfield,  "Work in progress — Direct assessment of course outcomes in a computer modeling and simulation class," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S2F-1-S2F-2.
+doi: 10.1109/FIE.2011.6142982
+keywords: {computational modeling;materials;computers;educational institutions;conferences;taxonomy;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142982
+
+M. Doyle, B. Buckley, W. Hao and J. Walden,  "Work in progress — Does maintenance first improve student's understanding and appreciation of clean code and documentation," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T4J-1-T4J-2.
+doi: 10.1109/FIE.2011.6142983
+keywords: {software engineering;documentation;software;maintenance engineering;software reliability;software testing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142983
+
+D. Simmons and J. Martin,  "Implications of black greek letter membership on the development of the Engineer of 2020," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T4H-1-T4H-5.
+doi: 10.1109/FIE.2011.6142984
+keywords: {organizations;standards organizations;interviews;educational institutions;lead;engineering profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142984
+
+A. Djordjalian, et al., "Developing an intermediate embedded-systems course with an emphasis on collaboration," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F3H-1-F3H-8.
+doi: 10.1109/FIE.2011.6142985
+keywords: {laboratories;microcontrollers;education;embedded systems;hardware;programming;industries}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142985
+
+L. Hinnov, K. Ramamurthy and A. Spanias,  "Work in progress: The J-DSP/ESE software for analyzing Earth systems signals," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F3F-1-F3F-2.
+doi: 10.1109/FIE.2011.6142986
+keywords: {earth;time series analysis;signal processing;java;conferences;programming profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142986
+
+J. Pembridge and M. Paretti,  "Work in progress — A comparison of mentoring functions in capstone courses across engineering disciplines," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T1F-1-T1F-3.
+doi: 10.1109/FIE.2011.6142987
+keywords: {employee welfare;conferences;engineering education;cities and towns;materials;career development}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142987
+
+A. Azemi and N. D'Imperio,  "New approach to teaching an introductory computer science course," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S2G-1-S2G-6.
+doi: 10.1109/FIE.2011.6142988
+keywords: {education;materials;programming profession;computers;laboratories}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142988
+
+A. Heckler and R. Rosenblatt,  "Student difficulties with basic concepts in introductory materials science engineering," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S2H-1-S2H-6.
+doi: 10.1109/FIE.2011.6142989
+keywords: {metals;atomic measurements;force;interviews;stress;elasticity}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142989
+
+L. Hirsch, S. Berliner-Heyman, R. Cano, H. Kimmel and J. Carpinelli,  "Middle school girls' perceptions of engineers before and after a female only summer enrichment program," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S2D-1-S2D-6.
+doi: 10.1109/FIE.2011.6142990
+keywords: {educational institutions;engineering profession;mathematics;knowledge engineering;conferences;pre-college programs;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142990
+
+S. Fulton, D. Schweitzer, L. Scharff and J. Boleng,  "Demonstrating the impact of multitasking in the classroom," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F2J-1-F2J-6.
+doi: 10.1109/FIE.2011.6142991
+keywords: {multitasking;electronic mail;portable computers;materials;facebook;internet}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142991
+
+K. Anewalt and J. Polack-Wahl,  "Work in progress — Computer science e-portfolios: Perspectives from upper and lower division students," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S4B-1-S4B-3.
+doi: 10.1109/FIE.2011.6142992
+keywords: {portfolios;educational institutions;computer science;engineering profession;conferences;communities;data structures}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142992
+
+D. Benson,  "Work in progress — Product evolution from an engineering perspective," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F2D-1-F2D-3.
+doi: 10.1109/FIE.2011.6142993
+keywords: {innovation management;technological innovation;fluids;biological system modeling;media;educational institutions}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142993
+
+H. Ellis, G. Hislop, M. Chua and S. Dziallas,  "How to involve students in FOSS projects," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T1H-1-T1H-6.
+doi: 10.1109/FIE.2011.6142994
+keywords: {communities;blogs;internet;software;schedules;information services;electronic publishing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142994
+
+R. Pastor, et al., "A video-message evaluation tool integrated in the UNED e-learning platform," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F3C-1-F3C-6.
+doi: 10.1109/FIE.2011.6142995
+keywords: {streaming media;electronic learning;multimedia communication;internet;training;conferences;real time systems}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142995
+
+N. Duval-Couetil, T. Reed-Rhoads and S. Haghighi,  "Work in progress — Entrepreneurship literacy for engineering students," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F2D-1-F2D-2.
+doi: 10.1109/FIE.2011.6142996
+keywords: {innovation management;instruments;engineering students;conferences;knowledge engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142996
+
+A. Thompson, B. Sattler and J. Turns,  "Understanding a studio environment: A complex system approach to a community of practice," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F3H-1-F3H-6.
+doi: 10.1109/FIE.2011.6142997
+keywords: {portfolios;communities;reflection;complexity theory;collaboration;educational institutions;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142997
+
+A. Azemi, G. Chinn and T. Litzinger,  "Work in progress — Enhancement of distance learning through hybrid e-learning approach," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S3C-1-S3C-3.
+doi: 10.1109/FIE.2011.6142998
+keywords: {educational institutions;electronic learning;software;programming;computer aided instruction;medical services}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142998
+
+R. Adams and W. Newstetter,  "Workshop — Developing cross-disciplinary collaborations for engineering education research," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. W1A-1-W1A-1.
+doi: 10.1109/FIE.2011.6142999
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6142999
+
+R. Lingard and S. Barkataki,  "Teaching teamwork in engineering and computer science," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F1C-1-F1C-5.
+doi: 10.1109/FIE.2011.6143000
+keywords: {teamwork;educational institutions;computer science;google;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143000
+
+P. Carlson, et al., "Work in progress — Merging science inquiry and engineering design: A summer workshop series for middle and high school science teachers," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T4D-1-T4D-2.
+doi: 10.1109/FIE.2011.6143001
+keywords: {conferences;materials;educational institutions;engineering education;standards;adaptation models}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143001
+
+C. Allison, A. Miller, T. Sturgeon, I. Perera and J. McCaffrey,  "The third dimension in open learning," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T2E-1-T2E-6.
+doi: 10.1109/FIE.2011.6143002
+keywords: {three dimensional displays;education;routing;wireless communication;second life;animation;servers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143002
+
+A. Cajander, M. Daniels and B. von Konsky,  "Development of professional competencies in engineering education," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S1C-1-S1C-5.
+doi: 10.1109/FIE.2011.6143003
+keywords: {educational institutions;reflection;context;engineering education;conferences;portfolios}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143003
+
+K. Reid, D. Gallagher and R. Verb,  "Algae as a biofuel: An interdisciplinary high school curriculum incorporating engineering, biology and education," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S3D-1-S3D-5.
+doi: 10.1109/FIE.2011.6143004
+keywords: {algae;standards;educational institutions;biofuels;biomass}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143004
+
+M. Orr, I. Ngambeki, R. Long and M. Ohland,  "Performance trajectory of students in the engineering disciplines," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S3H-1-S3H-4.
+doi: 10.1109/FIE.2011.6143005
+keywords: {educational institutions;computers;engineering students;materials;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143005
+
+B. Haberman, H. Averbuch, A. Cohen and V. Dagiene,  "Work in progress — Initiating the Beaver contest on computer science and computer fluency in Israel," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T1D-1-T1D-2.
+doi: 10.1109/FIE.2011.6143006
+keywords: {computers;educational institutions;informatics;cities and towns;programming profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143006
+
+K. Tsakalis, et al., "Work in progress — Modules and laboratories for a pathways course in signals and systems," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T2G-1-T2G-2.
+doi: 10.1109/FIE.2011.6143007
+keywords: {laboratories;programming profession;phase locked loops;educational institutions;computers;digital signal processing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143007
+
+N. Fila, R. Wertz and S. Purzer,  "Does diversity in novice teams lead to greater innovation?," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S3H-1-S3H-5.
+doi: 10.1109/FIE.2011.6143008
+keywords: {technological innovation;educational institutions;cultural differences;conferences;correlation;cities and towns;engineering education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143008
+
+K. Keene, R. Dietz, K. Holstein and A. Craig,  "Mathematics INstruction using Decision Science and Engineering Tools," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S3D-1-S3D-6.
+doi: 10.1109/FIE.2011.6143009
+keywords: {materials;conferences;educational institutions;mathematical model;context}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143009
+
+M. Mohammadi-Aragh and L. McNair,  "Work in progress — Effect of departmental culture on ePortfolios for graduate engineering programmatic assessment," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T2J-1-T2J-2.
+doi: 10.1109/FIE.2011.6143010
+keywords: {portfolios;springs;laboratories;medical services;engineering students}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143010
+
+S. Wolcott and J. Karlin,  "Workshop — Assessing and developing critical thinking skills," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. W2D-1-W2D-2.
+doi: 10.1109/FIE.2011.6143011
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143011
+
+E. Barra, S. Aguirre and J. Quemada,  "Work in progress — Exploiting videoconferencing possibilities to promote the European convergence process," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S1G-1-S1G-2.
+doi: 10.1109/FIE.2011.6143012
+keywords: {educational institutions;teleconferencing;hardware;streaming media;europe;convergence}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143012
+
+S. Donohue,  "Effectiveness of technology education learning activities on the improvement of spatial skills," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T3H-1-T3H-6.
+doi: 10.1109/FIE.2011.6143013
+keywords: {three dimensional displays;educational institutions;visualization;conferences;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143013
+
+K. Jordan, S. Sorby, S. Amato-Henderson and T. Donahue,  "Engineering self-efficacy of women engineering students at urban vs. Rural universities," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S1H-1-S1H-4.
+doi: 10.1109/FIE.2011.6143014
+keywords: {engineering students;educational institutions;engineering profession;mathematics;cities and towns;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143014
+
+J. Gurganus and A. Spence,  "Work in progress — Assessing and evaluating mentorship programs affecting students retention at the University of Maryland Baltimore County in mechanical engineering," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S1H-1-S1H-3.
+doi: 10.1109/FIE.2011.6143015
+keywords: {employee welfare;mechanical engineering;educational institutions;communities;engineering profession;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143015
+
+I. Ngambeki, D. Evangelou, S. Rao, M. Cox and L. Behbehani,  "Work in progress — Developing a curriculum to prepare engineers to participate in public policy," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T4F-1-T4F-2.
+doi: 10.1109/FIE.2011.6143016
+keywords: {public policy;educational institutions;knowledge engineering;engineering education;conferences;communities}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143016
+
+R. Elliott and N. Indiana,  "Work in progress — The impact of integrating first-year students into the broader curriculum," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S2G-1-S2G-2.
+doi: 10.1109/FIE.2011.6143017
+keywords: {educational institutions;collaboration;programming profession;schedules;software}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143017
+
+D. Bairaktarova, D. Evangelou and C. Citta,  "Work in progress — Developmental engineering: Using observation for understanding child behaviors as precursors to engineering thinking," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T3D-1-T3D-2.
+doi: 10.1109/FIE.2011.6143018
+keywords: {educational institutions;engineering education;protocols;mathematics;problem-solving;knowledge engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143018
+
+M. West, W. Cross, S. Kellogg and A. Boysen,  "A novel REU program to develop the skills of the Engineer of 2020," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F3F-1-F3F-6.
+doi: 10.1109/FIE.2011.6143019
+keywords: {context;art;conferences;educational institutions;cities and towns;seminars;engineering profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143019
+
+D. Wick, M. Ramsdell, K. Fowler, P. Turner and P. Schalk,  "University outreach in STEM education through a Roller Coaster Science and Engineering Camp," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S3D-1-S3D-6.
+doi: 10.1109/FIE.2011.6143020
+keywords: {educational institutions;companies;engineering profession;mathematics;physics;conferences;training}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143020
+
+R. Streveler and T. Riordan,  "Panel — Tales from the field — Cross-college curriculum development," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F4B-1-F4B-2.
+doi: 10.1109/FIE.2011.6143021
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143021
+
+L. Thomas, B. Sattler and A. Carberry,  "Work in progress — Developing a graduate consortium in engineering education," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T2J-1-T2J-2.
+doi: 10.1109/FIE.2011.6143022
+keywords: {engineering education;educational institutions;lead;conferences;communities;mission and vision}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143022
+
+D. Hey, et al., "Capstone experiences: Effects of adapted physical activity design projects on attitudes and learning," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S3B-1-S3B-7.
+doi: 10.1109/FIE.2011.6143023
+keywords: {conferences;fabrication;engineering students;educational institutions;data analysis;cities and towns;foot}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143023
+
+M. Silva, E. Barbosa and J. Maldonado,  "Model-driven development of learning objects," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F4E-1-F4E-6.
+doi: 10.1109/FIE.2011.6143024
+keywords: {unified modeling language;software testing;computational modeling;collaboration;conferences;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143024
+
+M. Alencar and J. Netto,  "Improving cooperation in Virtual Learning Environments using multi-agent systems and AIML," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F4C-1-F4C-6.
+doi: 10.1109/FIE.2011.6143025
+keywords: {knowledge based systems;monitoring;discussion forums;internet;software;information services;electronic publishing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143025
+
+S. Williams, et al., "Mini workshop — Real World Engineering Projects: Discovery-based curriculum modules for first-year students," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S1A-1-S1A-4.
+doi: 10.1109/FIE.2011.6143026
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143026
+
+M. Smith, A. Garrett, E. Weissinger and N. Chandra,  "It's not what you think: A theory for understanding the lack of interest among domestic students in the engineering PhD," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S1F-1-S1F-6.
+doi: 10.1109/FIE.2011.6143027
+keywords: {medical services;engineering students;educational institutions;interviews;engineering profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143027
+
+E. Gehringer,  "From the manager's perspective: Classroom contributions to open-source projects," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F1E-1-F1E-5.
+doi: 10.1109/FIE.2011.6143028
+keywords: {open source software;educational institutions;programming;encyclopedias;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143028
+
+K. Viall, C. Lowrance and S. Bronikowski,  "Thayer quiz method: Replacing homework with frequent quizzes in engineering classes," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F3H-1-F3H-6.
+doi: 10.1109/FIE.2011.6143029
+keywords: {electrical engineering;laboratories;materials;conferences;cities and towns;programming profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143029
+
+T. Larkin,  "A gender analysis of student learning in physics," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F4H-1-F4H-7.
+doi: 10.1109/FIE.2011.6143030
+keywords: {writing;force;educational institutions;laboratories;instruments}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143030
+
+Y. Chang, E. Aziz, S. Esche and C. Chassapis,  "Assessment of the pilot implementation of a game-based gear design laboratory," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S4H-1-S4H-6.
+doi: 10.1109/FIE.2011.6143031
+keywords: {gears;laboratories;games;assembly;engines;conferences;mechanical engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143031
+
+M. Pardas and A. Bonafonte,  "Work in progress — Cooperative and competitive projects for engaging students in advanced ICT subjects," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F2G-1-F2G-3.
+doi: 10.1109/FIE.2011.6143032
+keywords: {proposals;communications technology;education;speech processing;video coding;teamwork;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143032
+
+O. Lawanto, P. Schreuders, D. Holton and J. Dorward,  "Work in progress — Promoting metacognitive knowledge and shared note-taking to learn electric circuit concepts through enhanced guided notes," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F1D-1-F1D-3.
+doi: 10.1109/FIE.2011.6143033
+keywords: {collaboration;materials;educational institutions;social network services;springs;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143033
+
+T. Ganesh and I. Fulton,  "Design-based research: A framework for designing novel teaching and learning experiences in middle school engineering education," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T2F-1-T2F-7.
+doi: 10.1109/FIE.2011.6143034
+keywords: {educational institutions;engineering education;temperature sensors;software;robot sensing systems;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143034
+
+K. Beddoes,  "Problematizations of women's underrepresentation: Comparing educator interviews with the literature," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F4H-1-F4H-6.
+doi: 10.1109/FIE.2011.6143035
+keywords: {engineering education;economics;interviews;cultural differences;communities;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143035
+
+J. Petrus, J. Nelson, G. Turner and K. Crittenden,  "High school teacher development workshops that create long-term student impact," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T1D-1-T1D-6.
+doi: 10.1109/FIE.2011.6143036
+keywords: {educational institutions;conferences;vehicles;fuel cells;prototypes;mathematical model}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143036
+
+E. Tovar, G. Carrillo and J. Carrillo,  "Leading change in the internal quality assurance system implantation of a European technical university," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S1G-1-S1G-6.
+doi: 10.1109/FIE.2011.6143037
+keywords: {educational institutions;computers;educational activities;organizations;conferences;training}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143037
+
+J. Villalobos, O. Gonzalez, C. Jimenez and F. Rueda,  "Curricula design model for designing and evaluating systems and computing engineering programs," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S4E-1-S4E-7.
+doi: 10.1109/FIE.2011.6143038
+keywords: {educational institutions;context;technological innovation;conferences;face;cities and towns;organizations}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143038
+
+E. Odom and C. Egelhoff,  "Teaching deflection of stepped shafts: Castigliano's theorem, dummy loads, heaviside step functions and numerical integration," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F3H-1-F3H-6.
+doi: 10.1109/FIE.2011.6143039
+keywords: {shafts;equations;shape;mathematical model;geometry;software;materials}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143039
+
+R. Alonso and M. Loui,  "Work in progress — Exploring the evolution of the mentoring relationship in a summer undergraduate research program," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T2F-1-T2F-2.
+doi: 10.1109/FIE.2011.6143040
+keywords: {employee welfare;educational institutions;marine vehicles;data models;presses;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143040
+
+S. Hadfield, et al., "Defining, integrating, and assessing a purposeful progression of cross-curricular initiatives into a computer science program," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T3J-1-T3J-6.
+doi: 10.1109/FIE.2011.6143041
+keywords: {programming profession;testing;algorithm design and analysis;security;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143041
+
+T. Aktosun, A. Arciero, B. Flores, H. Knaust and C. Villalobos,  "Work in progress — The bridge to the doctorate experience: A reflection on best practices and project outcomes," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T4H-1-T4H-2.
+doi: 10.1109/FIE.2011.6143042
+keywords: {educational institutions;interviews;fellows;best practices;seminars;conferences;medical services}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143042
+
+G. Amoussou and S. Steinberg,  "Teaching and assessing an interdisciplinary science of design pilot course," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S3G-1-S3G-7.
+doi: 10.1109/FIE.2011.6143043
+keywords: {education;teamwork;computers;problem-solving;art;ethics;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143043
+
+J. Lin, P. Imbrie, K. Reid and J. Wang,  "Work in progress — Modeling academic success of female and minority engineering students using the student attitudinal success instrument and pre-college factors," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S1H-1-S1H-2.
+doi: 10.1109/FIE.2011.6143044
+keywords: {engineering students;educational institutions;predictive models;lead;instruments;mathematical model}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143044
+
+G. Downey and K. Beddoes,  "Panel — What is global engineering education for?: The making of International Educators," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T2B-1-T2B-2.
+doi: 10.1109/FIE.2011.6143045
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143045
+
+J. Liu, et al., "Work in progress — Interactive signal-processing labs and simulations on iOS devices," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F2G-1-F2G-2.
+doi: 10.1109/FIE.2011.6143046
+keywords: {digital signal processing;smart phones;mobile communication;software;object oriented modeling;convolution}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143046
+
+D. Dolan, et al., "Student development in the co-curriculum through values-based teaming," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T3C-1-T3C-6.
+doi: 10.1109/FIE.2011.6143047
+keywords: {lead;educational institutions;manufacturing;reflection;engineering education;training}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143047
+
+A. Rusu, R. Russell, R. Cocco and S. DiNicolantonio,  "Introducing object oriented design patterns through a puzzle-based serious computer game," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F1H-1-F1H-6.
+doi: 10.1109/FIE.2011.6143048
+keywords: {games;educational institutions;software engineering;legged locomotion;bridges;software}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143048
+
+T. Kowalski, K. Israel, A. Sreedharan and Z. Zong,  "Mobile learning experience in the calculus classroom," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F1J-1-F1J-6.
+doi: 10.1109/FIE.2011.6143049
+keywords: {mobile communication;portals;digital audio broadcasting;materials;calculus;educational institutions;databases}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143049
+
+J. Drain, M. Riojas, S. Lysecky and J. Rozenblit,  "First experiences with eBlocks as an assistive technology for individuals with autistic spectrum condition," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T3D-1-T3D-7.
+doi: 10.1109/FIE.2011.6143050
+keywords: {education;conferences;cities and towns;teamwork;lighting;visualization;alarm systems}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143050
+
+A. Lutenberg, et al., "Work in progress — Development of a linear integrated circuits course focused on design under realistic trade-off conditions," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F4F-1-F4F-3.
+doi: 10.1109/FIE.2011.6143051
+keywords: {differential amplifiers;educational institutions;negative feedback;cmos integrated circuits;electronic circuits}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143051
+
+A. de Castro, C. de Carvalho and E. Carrapatoso,  "Building a medical learning methodology based on open source technologies," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F3E-1-F3E-7.
+doi: 10.1109/FIE.2011.6143052
+keywords: {portals;education;videos;production;communities;three dimensional displays;hospitals}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143052
+
+G. Amoussou, M. Porter and S. Steinberg,  "Assessing creativity practices in design," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S2B-1-S2B-6.
+doi: 10.1109/FIE.2011.6143053
+keywords: {psychology;educational institutions;computers;computer science;conferences;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143053
+
+J. Cohoon, J. Cohoon and M. Soffa,  "Focusing high school teachers on attracting diverse students to computer science and engineering," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F2H-1-F2H-5.
+doi: 10.1109/FIE.2011.6143054
+keywords: {conferences;educational institutions;computer science;engineering profession;computer science education;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143054
+
+J. Austin and E. Creamer,  "Interactions among undergraduate engineers: How care and respect are demonstrated among peers," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T3J-1-T3J-6.
+doi: 10.1109/FIE.2011.6143055
+keywords: {interviews;engineering students;cities and towns;conferences;teamwork;mechanical engineering;materials}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143055
+
+V. de Lucena, J. de Queiroz Neto, J. Filho, W. da Silva and L. Cordeiro,  "Gift young engineers: An extra-curricular initiative for updating computer and electrical engineering courses," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S1G-1-S1G-6.
+doi: 10.1109/FIE.2011.6143056
+keywords: {digital tv;educational institutions;hardware;software;programming;industries;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143056
+
+K. Stanton and T. Siller,  "A pass/fail option for first-semester engineering students: A critical evaluation," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T2D-1-T2D-6.
+doi: 10.1109/FIE.2011.6143057
+keywords: {educational institutions;stress;engineering students;cities and towns;conferences;history}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143057
+
+K. Stanton and E. Lindsay,  "A preliminary motivational evaluation of milestone-based laboratory assessment," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T3G-1-T3G-6.
+doi: 10.1109/FIE.2011.6143058
+keywords: {laboratories;cities and towns;conferences;mechatronics;writing;automation;stability criteria}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143058
+
+J. Bush, M. Kane, K. Segrud, D. Fick and Z. Zong,  "An interactive approach to renewable energy research and education," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S3F-1-S3F-5.
+doi: 10.1109/FIE.2011.6143059
+keywords: {wind turbines;three dimensional displays;electricity;wind energy;solid modeling;wind speed;databases}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143059
+
+M. Jouaneh and W. Palm,  "Control system experiments at home," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T2G-1-T2G-6.
+doi: 10.1109/FIE.2011.6143060
+keywords: {hardware;heating;laboratories;mathematical model;dc motors;educational institutions}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143060
+
+J. de Lucena, V. de Lucena, C. do Valle, L. Claro and A. da Fonseca de Lira,  "Reinventing the engineering: An extracurricular program designed to attract new engineering students," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T4D-1-T4D-5.
+doi: 10.1109/FIE.2011.6143061
+keywords: {educational institutions;laboratories;biology;mathematics;chemistry;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143061
+
+S. Doboli,  "Work in progress — Computing for middle-school students: The experience of teaching computers for 7th grade students," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S1D-1-S1D-2.
+doi: 10.1109/FIE.2011.6143062
+keywords: {robots;programming profession;computers;educational institutions;games}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143062
+
+C. Scharff, J. Preira, R. Kay and S. Su,  "Teaching mobile solution development in a global context: Comparing solutions proposed by students in the developed and developing world," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S1G-1-S1G-6.
+doi: 10.1109/FIE.2011.6143063
+keywords: {mobile communication;educational institutions;smart phones;java;context;communities}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143063
+
+M. Baxter, et al., "On project-based learning through the vertically-integrated projects program," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T1F-1-T1F-7.
+doi: 10.1109/FIE.2011.6143064
+keywords: {hidden markov models;cameras;education;transforms;tracking;materials;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143064
+
+S. Danielson, A. Kirkpatrick and E. Ervin,  "ASME vision 2030: Helping to inform mechanical engineering education," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T1J-1-T1J-6.
+doi: 10.1109/FIE.2011.6143065
+keywords: {mechanical engineering;industries;engineering profession;engineering education;lead;force}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143065
+
+B. Elmore,  "Work in progress — Design and the robotically-controlled mini-plant in freshman chemical engineering," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T2D-1-T2D-2.
+doi: 10.1109/FIE.2011.6143066
+keywords: {chemical engineering;educational institutions;robot sensing systems;mathematics;chemistry;materials}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143066
+
+M. Wollowski and K. Risden,  "Knowledge servers for the classroom," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T4E-1-T4E-6.
+doi: 10.1109/FIE.2011.6143067
+keywords: {materials;servers;data structures;ontologies;semantic web;graphical user interfaces}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143067
+
+B. Coller,  "Work in progress — A video game for teaching dynamics," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T2E-1-T2E-3.
+doi: 10.1109/FIE.2011.6143068
+keywords: {games;education;vehicle dynamics;mechanical engineering;cities and towns;sampling methods;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143068
+
+P. Ruth and D. Brylow,  "An experimental Nexos laboratory using Virtual Xinu," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S2E-1-S2E-6.
+doi: 10.1109/FIE.2011.6143069
+keywords: {hardware;kernel;laboratories;virtual machining;servers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143069
+
+N. Duval-Couetil and B. Barrett,  "Work in progress — Undergraduates and intellectual property: Trends, policies, and practices," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S2B-1-S2B-2.
+doi: 10.1109/FIE.2011.6143070
+keywords: {educational institutions;innovation management;intellectual property;technological innovation;technology transfer;interviews}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143070
+
+Q. Jin, L. Groll, P. Imbrie and T. Reed-Rhoads,  "Work in progress — Calculus placement modeling for engineering student potentially contributes to appropriate advising," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F1J-1-F1J-2.
+doi: 10.1109/FIE.2011.6143071
+keywords: {educational institutions;calculus;predictive models;engineering students;mathematical model;correlation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143071
+
+J. Wang, P. Imbrie and J. Lin,  "Work in progress — A feedback system for peer evaluation of engineering student teams to enhance team effectiveness," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S4C-1-S4C-5.
+doi: 10.1109/FIE.2011.6143072
+keywords: {instruments;vectors;engineering education;cities and towns;educational institutions;reliability;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143072
+
+E. Levy, Mangnan Tan, R. Gale, T. Karp and A. Barhorst,  "Affordable K-12 robotics programs," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S1D-1-S1D-5.
+doi: 10.1109/FIE.2011.6143073
+keywords: {educational institutions;educational robots;gears;games;service robots;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143073
+
+K. Keene, M. Glass and J. Kim,  "Identifying and assessing relational understanding in ordinary differential equations," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S4B-1-S4B-6.
+doi: 10.1109/FIE.2011.6143074
+keywords: {differential equations;educational institutions;interviews;web sites;equations}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143074
+
+L. Nagurney,  "Synergies and opportunities between engineering and law," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S2C-1-S2C-5.
+doi: 10.1109/FIE.2011.6143075
+keywords: {educational institutions;law;accreditation;engineering students;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143075
+
+S. Jacobs,  "Work in progress — Games for life workshop: Outreach to middle and high school age girl scouts," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F1H-1-F1H-2.
+doi: 10.1109/FIE.2011.6143076
+keywords: {games;conferences;materials;tutorials;computers;communities;jacobian matrices}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143076
+
+A. Kist and A. Wandel,  "Work in progress — Performance evaluation of online learning tools," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T1C-1-T1C-2.
+doi: 10.1109/FIE.2011.6143077
+keywords: {quality of service;system performance;laboratories;monitoring;context;educational institutions}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143077
+
+G. Alanis-Funes, L. Neri and J. Noguez,  "Virtual collaborative space to support active learning," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F3C-1-F3C-6.
+doi: 10.1109/FIE.2011.6143078
+keywords: {collaborative tools;internet;information services;electronic publishing;collaborative work;monitoring}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143078
+
+M. Bruning, D. Rover and A. Williams,  "Work in progress — Developing engineers for 2020 — An innovative curricular and co-curricular approach," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S4D-1-S4D-3.
+doi: 10.1109/FIE.2011.6143079
+keywords: {educational institutions;communities;scholarships;lead;seminars;programming profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143079
+
+K. Freisen, T. Sanders and J. Kay,  "Public school students left behind: Contrasting the trends in public and private school computer science advanced placement participation," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T4D-1-T4D-7.
+doi: 10.1109/FIE.2011.6143080
+keywords: {educational institutions;computer science;calculus;computers;art}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143080
+
+J. Cohoon and J. Cohoon,  "Mini workshop — How to organize a professional development workshop for high school CS teachers," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F1A-1-F1A-1.
+doi: 10.1109/FIE.2011.6143081
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143081
+
+H. Liao and A. Ganago,  "Work in progress — A new laboratory project in a required Electrical Engineering course for non-majors: Design, survey, and analysis of student feedback," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F3J-1-F3J-2.
+doi: 10.1109/FIE.2011.6143082
+keywords: {electrical engineering;temperature control;three dimensional displays;knowledge engineering;educational institutions;programming profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143082
+
+A. Magana, P. Marepalli and J. Clark,  "Work in progress — Integrating computational and engineering thinking through online design and simulation of multidisciplinary systems," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S3C-1-S3C-2.
+doi: 10.1109/FIE.2011.6143083
+keywords: {computational modeling;mathematical model;knowledge engineering;education;sugar industry;glass;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143083
+
+M. Mina, D. Rover and M. Shelley,  "Work in progress — Preparation creating effective faculty of engineering: A technological literacy approach," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S1F-1-S1F-2.
+doi: 10.1109/FIE.2011.6143084
+keywords: {educational institutions;presses;economics;training;engineering students}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143084
+
+L. Neri, J. Noguez, I. Perez and G. Aguilar,  "Facilitating the design of physics active learning problems through authoring simulation tools: Authorphysics," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S3C-1-S3C-6.
+doi: 10.1109/FIE.2011.6143085
+keywords: {computational modeling;pulleys;mathematical model;education;friction;java}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143085
+
+P. Schalk, D. Wick, P. Turner and M. Ramsdell,  "Predictive assessment of student performance for early strategic guidance," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S2H-1-S2H-5.
+doi: 10.1109/FIE.2011.6143086
+keywords: {physics;educational institutions;predictive models;data models;mathematics;training;vegetation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143086
+
+B. Johnson and R. Ulseth,  "The Itasca CC Engineering Learning Model," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S4D-1-S4D-6.
+doi: 10.1109/FIE.2011.6143087
+keywords: {educational institutions;calculus;communities;engineering students;engineering profession;knowledge engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143087
+
+M. Garcia, R. Bates, J. Pincosy and G. Asher,  "Introducing CATs to STEM faculty through graduate students," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F2E-1-F2E-6.
+doi: 10.1109/FIE.2011.6143088
+keywords: {cats;education;materials;conferences;interviews;reflection;cities and towns}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143088
+
+R. Ulseth, D. Ewert and B. Johnson,  "Work in progress — Implementation of a project-based learning curriculum," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F1F-1-F1F-2.
+doi: 10.1109/FIE.2011.6143089
+keywords: {educational institutions;iron;communities;industries;adaptation models;engineering education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143089
+
+B. Terry, B. Briggs and S. Rivale,  "Work in progress: Gender impacts of relevant robotics curricula on high school students' engineering attitudes and interest," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T4H-1-T4H-3.
+doi: 10.1109/FIE.2011.6143090
+keywords: {context;educational institutions;robot sensing systems;engineering education;conferences;knowledge engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143090
+
+K. Puruhito, J. Husman, J. Hilpert, T. Ganesh and G. Stump,  "Increasing instrumentality without decreasing instructional time: An intervention for engineering students," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F2J-1-F2J-6.
+doi: 10.1109/FIE.2011.6143091
+keywords: {instruments;calculus;engineering students;educational institutions;materials;psychology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143091
+
+C. Romanowski, R. Raj and S. Ramkumar,  "Successful practices for online computing, engineering, and technology courses," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T1C-1-T1C-6.
+doi: 10.1109/FIE.2011.6143092
+keywords: {software;materials;laboratories;discussion forums;plagiarism;cleaning;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143092
+
+C. Stone,  "Renewable energy education at the Colorado School of Mines: A survey of development," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S2H-1-S2H-7.
+doi: 10.1109/FIE.2011.6143093
+keywords: {renewable energy resources;educational institutions;materials;physics;fuel cells;photovoltaic systems}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143093
+
+L. Kocur, R. Glotzbach, D. Schulze and C. Miller,  "Work in progress — Development and integration of an online soil mapping Web application," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T1J-1-T1J-2.
+doi: 10.1109/FIE.2011.6143094
+keywords: {usability;soil;educational institutions;earth;google;visualization}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143094
+
+J. Tront, F. McMartin and B. Muramatsu,  "Work in progress — Improving the dissemination of CCLI (TUES) educational innovations," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S4E-1-S4E-6.
+doi: 10.1109/FIE.2011.6143095
+keywords: {technological innovation;conferences;materials;education;social network services;libraries;seminars}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143095
+
+J. Tront,  "Workshop — Developing active learning classroom exercises for use with Tablet PCs," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. W1D-1-W1D-2.
+doi: 10.1109/FIE.2011.6143096
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143096
+
+J. Tront, F. McMartin and A. Agogino,  "Mini workshop — How to improve teaching and learning: Selecting, implementing and evaluating digital resources in the Engineering Pathway," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F1B-1-F1B-2.
+doi: 10.1109/FIE.2011.6143097
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143097
+
+A. Kumar,  "Results from repeated evaluation of an online tutor on introductory Computer Science," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T2H-1-T2H-6.
+doi: 10.1109/FIE.2011.6143098
+keywords: {springs;computer science;analysis of variance;cities and towns;conferences;software;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143098
+
+S. Montresor, J. Kay, M. Tokic and J. Summerton,  "Work in progress — Programming in a confined space — A case study in porting modern robot software to an antique platform," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T3H-1-T3H-3.
+doi: 10.1109/FIE.2011.6143099
+keywords: {educational robots;joints;learning;tactile sensors;computer science}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143099
+
+M. Murray,  "Work in progress — Creating a professional software development environment to support capstone programming projects," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S4F-1-S4F-3.
+doi: 10.1109/FIE.2011.6143100
+keywords: {programming;courseware;open source software;databases}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143100
+
+T. Larkin, P. Meade and J. Uscinski,  "Probing a deeper understanding of modern physics concepts," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S2H-1-S2H-6.
+doi: 10.1109/FIE.2011.6143101
+keywords: {quantum mechanics;correlation;instruments;mechanical variables measurement}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143101
+
+A. Bahmani, S. Sedigh and A. Hurson,  "Context-aware recommendation algorithms for the percepolis personalized education platform," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F4E-1-F4E-6.
+doi: 10.1109/FIE.2011.6143102
+keywords: {recommender systems;software agents;context;pervasive computing;materials;computational modeling}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143102
+
+M. Sahami, S. Roach and R. LeBlanc,  "Special session — The CS2013 computer science curriculum guidelines project," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F2B-1-F2B-3.
+doi: 10.1109/FIE.2011.6143103
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143103
+
+K. Fan and K. Dimiduk,  "Using the Matlab-based iRobot create simulator to engage introductory computer programming students in program development and observing computational errors," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S2G-1-S2G-6.
+doi: 10.1109/FIE.2011.6143104
+keywords: {robot kinematics;robot sensing systems;programming profession;approximation methods}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143104
+
+S. Brophy, J. Lambert and T. Anagnos,  "Work in progress — NEESacademy as a cyber-enabled learning experiences for K-16 earthquake engineering and science education," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T1D-1-T1D-3.
+doi: 10.1109/FIE.2011.6143105
+keywords: {earthquake engineering;materials;educational institutions;engineering education;libraries}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143105
+
+M. Cardella, H. Diefes-Dux, M. Verleger, A. Fry and M. Carnes,  "Work in progress — Using multiple methods to investigate the role of feedback in open-ended activities," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S4D-1-S4D-3.
+doi: 10.1109/FIE.2011.6143106
+keywords: {interviews;educational institutions;engineering education;cities and towns;mathematics;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143106
+
+G. Hislop, M. Towhidnejad and W. Marcy,  "Work in progress — Vertically integrated teams to inspire student interest in computing," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S3G-1-S3G-3.
+doi: 10.1109/FIE.2011.6143107
+keywords: {educational institutions;data models;materials;programming;cities and towns;educational activities;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143107
+
+R. Luechtefeld and S. Watkins,  "Work in progress — Virtual facilitation and procedural knowledge education," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F4E-1-F4E-3.
+doi: 10.1109/FIE.2011.6143108
+keywords: {knowledge engineering;educational institutions;mathematical model;conferences;engineering students;equations}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143108
+
+M. Cardella, et al., "Special session — Assessing student learning of engineering design," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T4A-1-T4A-3.
+doi: 10.1109/FIE.2011.6143109
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143109
+
+K. Doss, V. Juarez, D. Vincent, P. Doerschuk and J. Liu,  "Work in progress — A survey of popular game creation platforms used for computing education," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F1H-1-F1H-2.
+doi: 10.1109/FIE.2011.6143110
+keywords: {games;programming profession;green products;educational institutions;syntactics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143110
+
+J. Liu, E. Hasson, Z. Barnett and P. Zhang,  "A survey on computer science K-12 outreach: Teacher training programs," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T4F-1-T4F-6.
+doi: 10.1109/FIE.2011.6143111
+keywords: {educational institutions;computer science;conferences;training;materials;curriculum development}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143111
+
+M. Walters,  "Work in progress — Tools and technology to implement a students personal laboratory," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F1G-1-F1G-2.
+doi: 10.1109/FIE.2011.6143112
+keywords: {laboratories;instruments;educational institutions;nickel;hardware;signal generators;data acquisition}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143112
+
+C. Titus, C. Zoltowski and W. Oakes,  "Special session — Engineering ethics: Toward a definition," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F3A-1-F3A-2.
+doi: 10.1109/FIE.2011.6143113
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143113
+
+M. Virnoche and E. Eschenbach,  "Work in progress — Reporting S-STEM retention: New diversity vs. Supporting existing diversity," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S1H-1-S1H-2.
+doi: 10.1109/FIE.2011.6143114
+keywords: {educational institutions;scholarships;lead;mathematics;recruitment}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143114
+
+J. Sticklen and R. Rosenberg,  "Work in progress — A problem-based learning approach for systems understanding in the MSU AES program," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S3B-1-S3B-2.
+doi: 10.1109/FIE.2011.6143115
+keywords: {educational institutions;business;globalization;engineering education;industries;mathematical model;computational modeling}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143115
+
+Q. Mahmoud,  "Workshop — Introducing and teaching smartphone application development," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. W1B-1-W1B-1.
+doi: 10.1109/FIE.2011.6143116
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143116
+
+A. McNally,  "Work in progress — Peer-directed learning in a project based model," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T1F-1-T1F-2.
+doi: 10.1109/FIE.2011.6143117
+keywords: {iron;educational institutions;industries;knowledge engineering;engineering education;physics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143117
+
+W. Oakes and C. Zoltowski,  "Workshop — Service-learning in engineering, technology and computing," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. W3D-1-W3D-2.
+doi: 10.1109/FIE.2011.6143118
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143118
+
+A. Pears and M. Rogalli,  "mJeliot: ICT support for interactive teaching of programming," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T1J-1-T1J-4.
+doi: 10.1109/FIE.2011.6143119
+keywords: {visualization;programming profession;mobile handsets;servers;computer science education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143119
+
+R. Glotzbach and L. Kocur,  "Work in progress — Evaluation and feedback for web programming curriculum," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F4E-1-F4E-2.
+doi: 10.1109/FIE.2011.6143120
+keywords: {browsers;industries;companies;programming profession;fires}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143120
+
+R. Glotzbach, L. Kocur, J. Mohler and C. Morales,  "Work in progress — A health information technology centralized web application," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F3F-1-F3F-2.
+doi: 10.1109/FIE.2011.6143121
+keywords: {history;computer graphics;humans;computers;hospitals;insurance}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143121
+
+S. Jeschke, O. Pfeiffer and E. Zorn,  "Work in progress — Engineering math with EARLY BIRD," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F1J-1-F1J-2.
+doi: 10.1109/FIE.2011.6143122
+keywords: {birds;educational institutions;calculus;bridges;engineering students}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143122
+
+J. Lee, N. Okamoto, R. Chung and T. Anagnos,  "Introducing sustainability concepts in lower division engineering core courses," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. F4J-1-F4J-6.
+doi: 10.1109/FIE.2011.6143123
+keywords: {water resources;educational institutions;turbines;materials;springs;temperature measurement;thermodynamics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143123
+
+C. Downing, A. Watt, J. Williams and R. Stamper,  "Work in progress — Creating a collaborative learning environment for engineers and technologists," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T3G-1-T3G-3.
+doi: 10.1109/FIE.2011.6143124
+keywords: {employment;engineering education;conferences;cities and towns;business;communities}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143124
+
+K. Edstrom, S. Hallstrom and J. Kuttenkeuler,  "Mini workshop — Designing project-based courses for learning and cost-effective teaching," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T3B-1-T3B-2.
+doi: 10.1109/FIE.2011.6143125
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143125
+
+M. Ciampi, C. da Rocha Brito, R. Vasconcelos, M. Feldgen and E. Tovar,  "Engineering education in Iberian America," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. S4A-1-S4A-7.
+doi: 10.1109/FIE.2011.6143126
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143126
+
+J. Garcia-Zubia, et al., "Application and user perceptions of using the WebLab-Deusto-PLD in technical education," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. GOLC1-1-GOLC1-6.
+doi: 10.1109/FIE.2011.6143127
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143127
+
+S. Tuttle, D. Lowe and B. Moulton,  "A survey of issues and approaches to remote laboratory adoption by teacher-academics," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. GOLC1-1-GOLC1-6.
+doi: 10.1109/FIE.2011.6143128
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143128
+
+M. Bochicchio and A. Longo,  "Collaborative Web labs as a service: Challenges and opportunities," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. GOLC1-1-GOLC1-8.
+doi: 10.1109/FIE.2011.6143129
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143129
+
+Y. Tetour, D. Boehringer and T. Richter,  "Integration of virtual and remote experiments into undergraduate engineering courses," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. GOLC1-1-GOLC1-6.
+doi: 10.1109/FIE.2011.6143130
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143130
+
+D. Pop, D. Zutin, M. Auer, K. Henke and H. Wuttke,  "An online lab to support a master program in remote engineering," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. GOLC2-1-GOLC2-6.
+doi: 10.1109/FIE.2011.6143131
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143131
+
+E. Lindsay, S. Murray and B. Stumpers,  "A toolkit for remote laboratory design & development," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. GOLC2-1-GOLC2-6.
+doi: 10.1109/FIE.2011.6143132
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143132
+
+M. Tawfik, et al., "VISIR deployment in undergraduate engineering practices," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. T1A-1-T1A-7.
+doi: 10.1109/FIE.2011.6143133
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143133
+
+J. Heywood, A. Carberry and W. Grimson,  "A select and annotated bibliography of philosophy in engineering education," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. PEEE-1-PEEE-26.
+doi: 10.1109/FIE.2011.6143134
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143134
+
+J. Heywood,  "A historical overview of recent developments in the search for a philosophy of engineering education," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. PEEE-1-PEEE-14.
+doi: 10.1109/FIE.2011.6143135
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143135
+
+ "2011 FIE conference awards presentations," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. 1-28.
+doi: 10.1109/FIE.2011.6143136
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143136
+
+ "Table of contents," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. 79-108.
+doi: 10.1109/FIE.2011.6143137
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143137
+
+ "Who was Benjamin Dasher?," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. 1-6.
+doi: 10.1109/FIE.2011.6143139
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143139
+
+ "Conference program," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. 1-1.
+doi: 10.1109/FIE.2011.6143144
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143144
+
+ "Global online laboratory consortium," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. 1-5.
+doi: 10.1109/FIE.2011.6143145
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143145
+
+ "Helen Margaret Lester Plants [biography]," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. 1-4.
+doi: 10.1109/FIE.2011.6143147
+keywords: {biographies;plants, helen margaret lester}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143147
+
+ "Contents," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. 1-78.
+doi: 10.1109/FIE.2011.6143148
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143148
+
+ "The Visa Waiver Program," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. 1-2.
+doi: 10.1109/FIE.2011.6143152
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143152
+
+ "Thursday sessions," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. 1-117.
+doi: 10.1109/FIE.2011.6143155
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143155
+
+ "Author index," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. 233-243.
+doi: 10.1109/FIE.2011.6143156
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143156
+
+ "Monumental innovations from around the world," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. 1-1.
+doi: 10.1109/FIE.2011.6143157
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143157
+
+ "FIE 2011 preliminary conference at a glance," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. 1-1.
+doi: 10.1109/FIE.2011.6143158
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143158
+
+ "Frontiers in education 2011," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. 1-16.
+doi: 10.1109/FIE.2011.6143159
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143159
+
+ "Frontiers in Education 2011," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. 1-3.
+doi: 10.1109/FIE.2011.6143160
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143160
+
+ "Frontiers in Education 2011," in 41st ASEE/IEEE Frontiers in Education Conference (FIE 2011), Rapid City, SD, 2011 pp. 1-3.
+doi: 10.1109/FIE.2011.6143161
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2011.6143161

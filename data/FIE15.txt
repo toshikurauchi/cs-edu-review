@@ -1,0 +1,2034 @@
+ "Copyright page," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. ii-ii.
+doi: 10.1109/FIE.2015.7344013
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344013
+
+ "Technical sessions," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. lxviii-cxxiv.
+doi: 10.1109/FIE.2015.7344014
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344014
+
+ "Table of contents," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. iii-lxvii.
+doi: 10.1109/FIE.2015.7344015
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344015
+
+W. Oakes and C. Zoltowski,  "Integrating service-learning into engineering and computing education," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-3.
+doi: 10.1109/FIE.2015.7344016
+keywords: {engineering education;conferences;biological system modeling;reflection;presses;computational modeling}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344016
+
+S. Purzer and T. Fernandez,  "Teaching and assessment strategies that value innovative thinking," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-2.
+doi: 10.1109/FIE.2015.7344017
+keywords: {conferences;technological innovation;engineering students;engineering profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344017
+
+R. Sundaram,  "Process to draft the program educational objectives for undergraduate engineering degree programs," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344018
+keywords: {conferences;taxonomy;accreditation;engineering profession;cultural differences;scholarships}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344018
+
+G. Gannod, D. Troy, J. Luczaj and D. Rover,  "Agile way of educating," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-3.
+doi: 10.1109/FIE.2015.7344019
+keywords: {software;conferences;collaboration;industries;computers;education;reflection}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344019
+
+M. Fosmire, A. Van Epps and L. Hanlan,  "Workshop: Encouraging information-rich engineering design," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-2.
+doi: 10.1109/FIE.2015.7344020
+keywords: {conferences;libraries;stakeholders;context;space exploration;wheels;turning}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344020
+
+K. Gary, S. Sohoni and S. Xavier,  "Pre-conference workshop: Agile teaching and learning," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-2.
+doi: 10.1109/FIE.2015.7344021
+keywords: {conferences;software engineering;software;best practices;computers;engineering education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344021
+
+J. Froyd,  "How to select an area of scholarship and address the applicable review criteria to publish a paper in the IEEE Transactions on Education," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-2.
+doi: 10.1109/FIE.2015.7344022
+keywords: {scholarships;conferences;engineering education;context;current measurement;knowledge engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344022
+
+K. Smith, R. Streveler and R. Guerra,  "Connecting and expanding the emerging engineering education research & innovation (EER&I) communities," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-3.
+doi: 10.1109/FIE.2015.7344023
+keywords: {engineering education;technological innovation;us government;buildings;reflection}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344023
+
+S. Donohue and L. Richards,  "FIE 2015 special session — Movin' along: Investigating motion and mechanisms using engineering design activities," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344024
+keywords: {transforms;force;art;context;engineering education;sociology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344024
+
+L. Ott,  "Alumni as a resource to increase student retention in early computer science courses," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344025
+keywords: {computers;engineering profession;programming profession;hardware;software engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344025
+
+M. Mohammadi-Aragh and R. Kajfez,  "Comparing common and discipline-specific first-year engineering programs: Examining the need and explaining the study," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344026
+keywords: {interviews;encoding;engineering students;lenses;phase measurement;atmospheric measurements}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344026
+
+V. Thurner and A. Bottcher,  "An “objects first, tests second” approach for software engineering education," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344027
+keywords: {testing;education;software;programming;software engineering;visualization}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344027
+
+B. Johnson, R. Ulseth, C. Smith and D. Fox,  "The impacts of project based learning on self-directed learning and professional skill attainment: A comparison of project based learning to traditional engineering education," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344028
+keywords: {engineering education;instruments;adaptation models;springs;physics;industries;knowledge engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344028
+
+C. Reilly, E. Tomai and L. Grabowski,  "An evaluation of how changes to the introductory computer science course sequence impact student success," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344029
+keywords: {computers;programming;electronic mail;electrical engineering;problem-solving;pipelines}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344029
+
+J. Byrne, L. Fisher and B. Tangney,  "Empowering teachers to teach CS — Exploring a social constructivist approach for CS CPD, using the Bridge21 model," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344030
+keywords: {conferences;education;computational modeling;media;programming;context}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344030
+
+R. Sundaram,  "Engage K-12 students in engineering: Model for engineering project activities to inspire K-12 students to pursue careers in engineering," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344031
+keywords: {laboratories;education;engineering profession;schedules;computers;springs;mechanical engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344031
+
+D. Reeping and K. Reid,  "Viewing K-12 mathematics and science standards through the lens of the first-year introduction to engineering course classification scheme," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344032
+keywords: {standards;next generation networking;engineering education;taxonomy;mathematical model}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344032
+
+J. Hyun and C. Park,  "Effects of the Butterfly diagram education in primary and secondary schools on contradiction problem solving ability," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344033
+keywords: {problem-solving;tumors;education;systematics;technological innovation;refrigerators;public key}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344033
+
+E. Villa, A. Esquinca, E. Mein, P. Golding and S. Hug,  "An engineering student leadership development model for 21st century engineering: Using sociocultural theory to inform practice," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344034
+keywords: {interviews;technological innovation;engineering students;sociology;statistics;context}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344034
+
+L. Pittman and G. Herman,  "Documenting students' faulty schema and misconceptions about combinations and permutations," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344035
+keywords: {interviews;mathematics;computer science;context;color;data analysis;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344035
+
+A. Estrada and L. Schlemer,  "Taxonomy of faculty assumptions about students," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344036
+keywords: {taxonomy;psychology;engineering education;space exploration;context;organizations}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344036
+
+E. Mein, C. Convertino and A. Monarrez,  "Sociocultural approaches to teaching and learning in engineering education: Research-based applications in a pre-engineering course," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344037
+keywords: {robots;interviews;engineering education;context;writing;collaboration}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344037
+
+A. Arciero-Pino, B. Flores, H. Knaust, L. Gonzales and M. Quintana-Baker,  "Qualitative assessment of the University of Texas system Louis Stokes Alliance for Minority Participation Summer Research Academy Abroad: An international experience in research and culture," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344038
+keywords: {seminars;electronic mail;blogs;training;planning;insurance;springs}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344038
+
+E. Nilsen, V. Matthew, M. Besterfield-Sacre and T. Monroe-White,  "Landscape analysis as a tool in the curricular change process," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344039
+keywords: {technological innovation;entrepreneurship;data visualization;training;ecosystems;stakeholders}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344039
+
+L. Liu, J. Mynderse, A. Gerhart and S. Arslan,  "Fostering the entrepreneurial mindset in the junior and senior mechanical engineering curriculum with a multi-course problem-based learning experience," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344040
+keywords: {fluids;cranes;heat transfer;mechatronics;mechanical engineering;fabrication;analytical models}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344040
+
+C. Kim, et al., "Assessing situational curiosity and motivation in open-ended design electives," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-3.
+doi: 10.1109/FIE.2015.7344041
+keywords: {education;instruments;mechanical engineering;computers;intellectual property;biomedical measurement;standards}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344041
+
+M. Ciampi, L. Amaral, V. Barros, C. da Rocha Brito and R. Vasconcelos,  "“Innovative office”: Building future for young engineers," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344042
+keywords: {economics;cities and towns;organizations;engineering students;entrepreneurship}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344042
+
+L. Hirshfield and D. Chachra,  "Task choice, group dynamics and learning goals: Understanding student activities in teams," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344043
+keywords: {design automation;interviews;solid modeling;project management;instruments;brain models}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344043
+
+S. Huang and E. Pierce,  "The impact of a peer learning strategy on student academic performance in a fundamental engineering course," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344044
+keywords: {springs;collaborative work;psychology;engineering students;mathematics;cognition}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344044
+
+X. Chen and J. DeBoer,  "Checkable answers: Understanding student behaviors with instant feedback in a blended learning class," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344045
+keywords: {correlation;context;servers;timing;engineering education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344045
+
+A. Korhonen, O. Seppala and J. Sorva,  "Automatic recognition of misconceptions in visual algorithm simulation exercises," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344046
+keywords: {software algorithms;computational modeling;data visualization;visualization;education;data structures;context}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344046
+
+S. Rubiano and J. Garcia,  "Formulation of a predictive model for academic performance based on students' academic and demographic data," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344047
+keywords: {data mining;predictive models;data models;education;analytical models}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344047
+
+F. de Almeida Neto and A. Castro,  "Elicited and mined rules for dropout prevention in online courses," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344048
+keywords: {education;databases;association rules;least squares approximations;context;software agents}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344048
+
+M. Manso-Vazquez, M. Caeiro-Rodriguez and M. Llamas-Nistal,  "xAPI-SRL: Uses of an application profile for self-regulated learning based on the analysis of learning strategies," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344049
+keywords: {monitoring;education;context;planning;software tools;data mining}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344049
+
+O. Ochoa and S. Salamah,  "An approach to enhance students' competency in software verification techniques," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344050
+keywords: {formal specifications;software systems;complexity theory;software testing;formal verification}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344050
+
+R. Oliveira, L. Oliveira, B. Cafeo and V. Durelli,  "Evaluation and assessment of effects on exploring mutation testing in programming courses," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344051
+keywords: {programming profession;software testing;software;syntactics;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344051
+
+Y. Pang, R. Mugno and X. Xue,  "Diversity and anxiety: A case study on collaborative testing," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344052
+keywords: {collaboration;testing;correlation;cultural differences;electronic mail;data collection}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344052
+
+V. Kenttala, R. Rousi, M. Kankaanranta and T. Pankalainen,  "Usability challenges in digital learning solutions," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344053
+keywords: {usability;testing;user interfaces;education;information technology;context}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344053
+
+J. Fabri, A. L'Erario, R. Palacios and W. Godoy,  "Applying mindstorm in teaching and learning process and software project management," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344054
+keywords: {software;project management;education;programming;companies;robots;production}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344054
+
+S. Frezza, J. Krupczak and M. Mina,  "Special session on design metaphors: Rethinking the vocabulary of design education," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-2.
+doi: 10.1109/FIE.2015.7344055
+keywords: {education;vocabulary;lenses;vehicles;testing;computers;collaboration}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344055
+
+F. Kowalski and S. Kowalski,  "Helping tomorrow's engineers ask productive questions," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-2.
+doi: 10.1109/FIE.2015.7344056
+keywords: {physics;psychology;employment;google;engineering students;computational modeling}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344056
+
+I. Villanueva,  "An exploration of Bloom's knowledge, skills, and affective-based goals in promoting development of freshmen engineering students' professional identities," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344057
+keywords: {taxonomy;engineering profession;engineering students;knowledge based systems;organizations;encoding}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344057
+
+R. Palomera-Arias,  "Building information modeling laboratory exercises in a construction science and management building systems course," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344058
+keywords: {buildings;load modeling;layout;fires;three-dimensional displays;solid modeling;lighting}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344058
+
+C. Allison and H. Bakri,  "How the Web was Won: Keeping the computer networking curriculum current with HTTP/2," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344059
+keywords: {protocols;internet;browsers;servers;bandwidth;security;pipeline processing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344059
+
+E. Hilton, J. Linsey and J. Goodman,  "Understanding the prototyping strategies of experienced designers," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344060
+keywords: {prototypes;production;taxonomy;solar energy;interviews;engineering students;hardware}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344060
+
+M. Williams,  "STEM Literacy: Challenges implementing ‘E’ in local texas-STEM academies," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344061
+keywords: {mathematics;engineering profession;standards;bibliographies;urban areas;engineering education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344061
+
+B. Sabitzer and S. Pasterk,  "Modeling: A computer science concept for general education," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344062
+keywords: {computational modeling;education;mathematical model;unified modeling language;informatics;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344062
+
+N. Nesiba, E. Pontelli and T. Staley,  "DISSECT: Exploring the relationship between computational thinking and English literature in K-12 curricula," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344063
+keywords: {algorithm design and analysis;fellows;computer science;education;google;computers;problem-solving}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344063
+
+C. Schimpf, K. Andronicos and J. Main,  "Using life course theory to frame women and girls' trajectories toward (or away) from computing: Pre high-school through college years," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344064
+keywords: {computers;trajectory;games;recruitment;databases;context;digital divide}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344064
+
+D. Mangu, A. Lee, J. Middleton and J. Nelson,  "Motivational factors predicting STEM and engineering career intentions for high school students," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344065
+keywords: {engineering profession;education;sociology;analysis of variance;analytical models}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344065
+
+J. Ducrot and V. Shankararaman,  "Targeted blended learning through competency assessment in an undergraduate information systems program," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344066
+keywords: {information systems;programming profession;java;videos;engineering education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344066
+
+B. Ferri, W. Newstetter and D. Majerich,  "Instructor and graduate teaching assistant development and training for a blended linear circuits and electronics course," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344067
+keywords: {training;lead;conferences;technological innovation;springs;linear circuits}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344067
+
+B. Ferri, J. Harris, M. Weitnauer and D. Majerich,  "A feedback-based approach for evolving a blended class model for large enrollment, multiple section circuits courses," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344068
+keywords: {videos;integrated circuit modeling;discussion forums;springs;meteorology;linear circuits;feedback loop}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344068
+
+L. Neri, et al., "Improving the learning of physics concepts by using haptic devices," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344069
+keywords: {haptic interfaces;force;visualization;three-dimensional displays;cognition;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344069
+
+M. Laengrich, J. Schulze and A. Kumar,  "Expression tasks for novice programmers: Turning the attention to objectivity, reliability and validity," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344070
+keywords: {reliability;semantics;syntactics;computer languages;programming profession;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344070
+
+D. Peixoto, R. Resende and C. Padua,  "The issues of adopting simulation games in software engineering classes," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344071
+keywords: {games;software engineering;software;computational modeling;context;semiotics;inspection}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344071
+
+R. Morsi and S. Mull,  "Digital Lockdown: A 3D adventure game for engineering education," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344072
+keywords: {games;education;three-dimensional displays;space stations;logic design;computers;artificial intelligence}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344072
+
+A. Toda, R. do Carmo, V. Campos, A. da Silva and J. Brancher,  "Evaluation of SiGMa, an empiric study with Math teachers," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344073
+keywords: {games;education;algorithm design and analysis;problem-solving;databases;visualization;data mining}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344073
+
+R. Paiva, A. Barbosa, E. Batista, D. Pimentel and I. Bittencourt,  "Badges and XP: An observational study about learning," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344074
+keywords: {games;education;correlation;hidden markov models;artificial intelligence;context}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344074
+
+A. Nishida and J. Braga,  "Systematic review of literature: Educational games about electric energy consumption," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344075
+keywords: {games;systematics;energy consumption;water pollution;bibliographies;education;protocols}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344075
+
+K. Shryock,  "Engaging students inside the classroom to increase learning," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344076
+keywords: {taxonomy;education;videos;aerospace engineering;online services;real-time systems}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344076
+
+P. Samson,  "Can student engagement be measured? And, if so, does it matter?," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344077
+keywords: {atmospheric measurements;particle measurements;sea measurements;meteorology;synchronization;data collection}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344077
+
+M. Panizo, et al., "Engineering students' motivational beliefs: Development of a scale utilizing an expectancy, value, and cost framework," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344078
+keywords: {instruments;engineering students;context;mathematics;engineering profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344078
+
+O. Mondragon, J. Mallikarjan and E. Smith,  "Experiments with personal ownership of quality at the University of Texas at El Paso," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344079
+keywords: {software;testing;industries;data analysis;complexity theory;education;standards}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344079
+
+P. Cunningham, H. Matusovich, D. Hunter and R. McCord,  "Teaching metacognition: Helping engineering students take ownership of their own learning," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344080
+keywords: {cognition;context;training;monitoring;planning;problem-solving;interviews}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344080
+
+M. Ashenafi, G. Riccardi and M. Ronchetti,  "Predicting students' final exam scores from their course activities," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344081
+keywords: {predictive models;computational modeling;data models;programming;computers;linear regression}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344081
+
+Y. Song and D. Thuente,  "A quantitative case study in engineering of the efficacy of quality cheat-sheets," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344082
+keywords: {education;psychology;organizations;computer science;cognition;data collection;encoding}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344082
+
+Y. Moon and M. Wu,  "Innovation within the constraints of sustainability: Analysis of product development projects," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344083
+keywords: {technological innovation;manufacturing;product development;engineering education;prototypes;uncertainty}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344083
+
+R. Britto and M. Usman,  "Bloom's taxonomy in software engineering education: A systematic mapping study," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344084
+keywords: {taxonomy;education;software;software engineering;systematics;data mining;context}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344084
+
+F. Hassan, J. Magalini, V. de Campos Pentea and R. Santos,  "A project-based multi-disciplinary elective on digital data processing techniques," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344085
+keywords: {encryption;image coding;data processing;channel coding;elliptic curves;polynomials}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344085
+
+J. Xu and X. Yuan,  "Developing a course module for teaching cryptography programming on Android," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344086
+keywords: {androids;humanoid robots;mobile communication;programming;encryption}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344086
+
+D. Krutz, A. Meneely and S. Malachowsky,  "An insider threat activity in a software security course," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344087
+keywords: {organizations;software engineering;databases;software systems;cryptography}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344087
+
+S. Cassel and B. Victor,  "A structured approach to training open-ended problem solving," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344088
+keywords: {conferences;training;computers;testing;problem-solving;planning}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344088
+
+D. Lo, K. Qian and W. Chen,  "Mobile security education on portable labs," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344089
+keywords: {security;mobile communication;programming;education;mobile handsets;communication networks}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344089
+
+J. Froyd, et al., "Special session: Introduction to systematic reviews in engineering education research," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-3.
+doi: 10.1109/FIE.2015.7344090
+keywords: {systematics;engineering education;collaboration;databases;knowledge engineering;psychology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344090
+
+S. Cutler, A. Strong, F. Olin and M. Chua,  "Exploring the black box of dissemination: The role of professional and organizational development," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-3.
+doi: 10.1109/FIE.2015.7344091
+keywords: {engineering education;technological innovation;conferences;chemical engineering;best practices;engineering profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344091
+
+D. Tolbert, M. Hynes, D. Dickerson and M. Cardella,  "Transitioning students navigating engineering identities," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344092
+keywords: {interviews;face;art;navigation;bridges;engineering students;sociology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344092
+
+J. Rojter,  "Is changing pedagogy a good bait in attracting students to engineering?," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344093
+keywords: {engineering students;australia;investment;knowledge engineering;standards}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344093
+
+A. Gates, C. Casas, C. Servin and M. Slattery,  "Using Peer-Led Team Learning to build university-community college relationships," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344094
+keywords: {computers;problem-solving;programming;logic gates;information technology;computational modeling}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344094
+
+P. Golding, et al., "The creation and inauguration of engineering leadership: UTEP and Olin College innovation project," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344095
+keywords: {engineering education;organizations;collaboration;technological innovation;problem-solving;buildings}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344095
+
+B. Jesiek, A. Mazzurco, N. Trellinger and K. Ramane,  "Becoming boundary spanners in engineering: Identifying roles, activities, and competencies," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344096
+keywords: {engineering profession;interviews;engineering students;lead;joining processes;bibliographies;systematics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344096
+
+M. Schar,  "Pivot thinking: Predicting entrepreneurial intent among engineering students and faculty using problem solving style preference," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344097
+keywords: {problem-solving;engineering students;entrepreneurship;cognition;mathematical model}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344097
+
+K. Leitch and E. Butler,  "Creating a new civil engineering program in the 21st century," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344098
+keywords: {civil engineering;accreditation;environmental engineering;sociology;statistics;laboratories}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344098
+
+S. Dai, B. Zhao, Z. Li and M. Dai,  "Design and practice from the micromouse competition to the undergraduate curriculum," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344099
+keywords: {education;debugging;hardware;standards;software;algorithm design and analysis;software algorithms}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344099
+
+S. Bansal, A. Gaffar and O. Dalrymple,  "Building faculty expertise in outcome-based education curriculum design," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344100
+keywords: {training;software;user centered design;software engineering;documentation;ontologies}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344100
+
+O. Sievi-Korte, K. Systa and R. Hjelsvold,  "Global vs. local — Experiences from a distributed software project course using agile methodologies," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344101
+keywords: {software;software engineering;seminars;project management;buildings}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344101
+
+M. Silva, E. de Barros Costa, M. de Sousa Miranda and E. Silva,  "A tree inclusion analyzer for examining introductory programming codes," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344102
+keywords: {syntactics;computational modeling;measurement;analytical models;programming profession;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344102
+
+W. Schilling,  "Analyzing the impact of asynchronous multimedia feedback on novice computer programmers," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344103
+keywords: {streaming media;multimedia communication;programming;education;computer crashes;standards;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344103
+
+D. Calderon, et al., "An evaluation method for panoramic understanding of programming by comparison with visual examples," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344104
+keywords: {programming profession;visualization;computer languages;software;testing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344104
+
+I. Hsiao and F. Naveed,  "Identifying learning-inductive content in programming discussion forums," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344105
+keywords: {discussion forums;programming profession;feature extraction;semantics;syntactics;computer languages}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344105
+
+A. Marshall and R. Gamble,  "Gauging influence in software development teams," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344106
+keywords: {social network services;peer-to-peer computing;software engineering;atmospheric measurements;particle measurements;indexes}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344106
+
+M. Gavriushenko, L. Karilainen and M. Kankaanranta,  "Adaptive systems as enablers of feedback in English language learning game-based environments," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344107
+keywords: {adaptive systems;learning systems;games;education;context;software}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344107
+
+L. Rivera and C. Suescun,  "Game-based assessment for radiofrequency circuits courses in engineering," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344108
+keywords: {games;least squares approximations;training;radio frequency;couplers;mobile applications}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344108
+
+I. Bojic and J. Arratia,  "Teaching K-12 students STEM-C related topics through playing and conducting research," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344109
+keywords: {education;programming profession;conferences;pipelines;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344109
+
+A. Zeid,  "Using simulation games to teach global software engineering courses," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344110
+keywords: {cultural differences;software;games;software engineering;context;uncertainty;global communication}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344110
+
+I. Cabezas,  "On combining gamification theory and ABET criteria for teaching and learning engineering," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344111
+keywords: {proposals;games;context;accreditation;industries;continuous improvement}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344111
+
+S. Moll, J. Morano, M. Rosello and L. Ruiz,  "Is there a gender difference in Maths competencies achievement between Aerospace Engineering students in Spain?," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344112
+keywords: {aerospace engineering;calculus;engineering education;engineering profession;algebra}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344112
+
+K. Sullivan, J. Byrne, N. Bresnihan, K. O'Sullivan and B. Tangney,  "CodePlus — Designing an after school computing programme for girls," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344113
+keywords: {computers;programming profession;engineering profession;conferences;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344113
+
+W. Oakes, M. Hsu and C. Zoltowski,  "Insights from a first-year learning community to achieve gender balance," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344114
+keywords: {diversity reception;floors;organizations;technological innovation;mentoring}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344114
+
+C. Park, J. Hyun and J. Heuilan,  "Effects of gender and abstract thinking factors on adolescents' computer program learning," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344115
+keywords: {programming profession;computers;education;software metrics;software;computer languages}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344115
+
+M. Ross and A. Godwin,  "Stories of Black women in engineering industry — Why they leave," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344116
+keywords: {industries;interviews;government;sociology;statistics;data collection;image color analysis}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344116
+
+A. Kumar,  "The effect of using online tutors on the self-efficacy of learners," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344117
+keywords: {software;debugging;taxonomy;protocols;programming profession;analysis of variance}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344117
+
+A. Konak, S. Kulturel-Konak, G. Kremer and I. Esparragoza,  "Teamwork attitude, interest, and self-efficacy: Their implications for teaching teamwork skills to engineering students," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-3.
+doi: 10.1109/FIE.2015.7344118
+keywords: {teamwork;training;conferences;engineering students;knowledge engineering;instruments;electronic mail}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344118
+
+S. Dika, M. Pando, B. Tempest, K. Foxx and M. Allen,  "Engineering self-efficacy, interactions with faculty, and other forms of capital for underrepresented engineering students," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344119
+keywords: {cultural differences;engineering students;navigation;color;engineering profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344119
+
+K. Helkala, B. Knox and O. Josok,  "How the application of coping strategies can empower learning," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344120
+keywords: {context;stress;training;electronic mail;conferences;correlation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344120
+
+A. Sinha, R. Gavas, D. Chatterjee, R. Das and A. Sinharay,  "Dynamic assessment of learners' mental state for an improved learning experience," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344121
+keywords: {games;electroencephalography;brain modeling;physiology;color;containers;heart rate variability}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344121
+
+V. Pierce and J. Kypuros,  "A summer bridge to calculus for students with high school calculus experience," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344122
+keywords: {calculus;algebra;mathematical model;bridges;computer science;sociology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344122
+
+Y. Mori and S. Yukita,  "Computational complexity of college math eigenvalue problems," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344123
+keywords: {eigenvalues and eigenfunctions;computational complexity;mathematical model;graphical user interfaces;sparse matrices}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344123
+
+K. Kime, R. Torrey and T. Hickey,  "CalcTutor: Applying the teachers dilemma methodology to calculus pedagogy," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344124
+keywords: {games;calculus;education;computers;electronic mail;organizations;computer science}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344124
+
+E. Nilsen, V. Matthew, M. Besterfield-Sacre and T. Monroe-White,  "Taking stock: Using a landscape inventory to drive curriculum and program change," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344125
+keywords: {technological innovation;ecosystems;entrepreneurship;data visualization;collaboration;engineering students}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344125
+
+R. Streveler, S. Brown, G. Herman, H. Matusovich and D. Montfort,  "Helping your students learn "engineering-ese": Using the results of conceptual change research to inform your instruction," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-2.
+doi: 10.1109/FIE.2015.7344126
+keywords: {engineering education;interviews;conferences;foundries;technological innovation;collaboration;force}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344126
+
+A. Bhojan, K. Nicholas and N. Sharma,  "ShowNTell: An easy-to-use tool for answering students' questions with voice-over recording," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344127
+keywords: {yttrium;browsers;servers;software;mobile communication;microphones;media}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344127
+
+K. Ma, et al., "Innovative mobile tool for engineering embedded design and security educations," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344128
+keywords: {mobile communication;embedded systems;hardware;security;education;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344128
+
+A. Algarni and L. Burd,  "CommEasy: An innovative interactive communication system for promoting communication and participation," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344129
+keywords: {education;handheld computers;ieee 802.11 standard;streaming media;internet}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344129
+
+A. Algarni and L. Burd,  "Perceptions of students and instructors toward the role of CommEasy in tackling communication and interaction barriers in distance-learning classrooms," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344130
+keywords: {handheld computers;face;microphones;smart phones;education;mobile communication;atmospheric measurements}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344130
+
+T. da Silva and E. da Silva Aranha,  "Online game-based programming learning for high school students — A case study," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344131
+keywords: {programming profession;games;tutorials;context;training}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344131
+
+J. Zhang, M. Atay, E. Caldwell and E. Jones,  "Reinforcing student understanding of linked list operations in a game," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344132
+keywords: {games;data structures;marine vehicles;space exploration;data visualization;computer interfaces;weapons}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344132
+
+W. Shellington, T. Humphries, R. Morsi and M. Rizvi,  "Syntax circuitry: A mobile game for practicing programming language syntax," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344133
+keywords: {games;syntactics;programming;java;graphics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344133
+
+C. Williams, E. Alafghani, A. Daley, K. Gregory and M. Rydzewski,  "Teaching programming concepts to elementary students," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344134
+keywords: {games;programming profession;computers;robots;training}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344134
+
+R. Maia and F. Graeml,  "Playing and learning with gamification: An in-class concurrent and distributed programming activity," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344135
+keywords: {games;programming;message systems;education;production facilities;raw materials}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344135
+
+S. Turner, M. Allison, Z. Syed and M. Farmer,  "Towards a flipped cyber classroom to facilitate active learning strategies," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344136
+keywords: {computer aided instruction;layout;collaboration;streaming media;conferences;computer science}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344136
+
+C. McClelland,  "Evaluating the effect of thoughtful design of in-class time for a flipped classroom," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344137
+keywords: {education;online services;computer simulation;fluids;engineering profession;computational modeling;reflection}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344137
+
+J. Lin, P. Imbertson, K. Gorman and T. Moore,  "Adapting a concept of framing to understand how students learn in problem-centered group learning in flipped engineering classrooms," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344138
+keywords: {problem-solving;education;online services;encoding;collaborative work;steady-state;taxonomy}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344138
+
+E. Khoo, J. Scott, M. Peter and H. Round,  "Evaluating flipped classrooms with respect to threshold concepts learning in undergraduate engineering," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344139
+keywords: {equivalent circuits;online services;tutorials;problem-solving;interviews;delays}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344139
+
+H. Rodriguez-Simmonds, M. Sanchez-Pena, S. Atiq, G. Coutinho and B. Jesiek,  "A letter to the future engineer: Exploring cross-cultural engineering identities through practitioners' letters of advice," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344140
+keywords: {engineering education;training;writing;problem-solving;industries;engineering profession;cultural differences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344140
+
+C. O'Loughlin, J. Walsh and T. Mahon,  "Collaboration in the development of a Precision Engineering programme at Limerick Institute of Technology in response to a call from industry," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344141
+keywords: {industries;manufacturing;collaboration;precision engineering;training;technological innovation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344141
+
+K. Buffardi,  "Localized open source collaboration in software engineering education," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344142
+keywords: {software engineering;hafnium compounds;open source software;collaboration;computer science;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344142
+
+W. da Silva and V. de Lucena,  "Teaching digital TV programming for engineering students: An industry oriented proposal," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344143
+keywords: {digital tv;software;industries;programming profession;java;training}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344143
+
+A. Kemppainen, J. Sticklen, B. Oakley and D. Chung,  "Tendencies towards DEEP or SURFACE learning for participants taking a large massive open online course (MOOC)," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344144
+keywords: {sociology;videos;instruments;correlation;planning;machine learning}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344144
+
+M. Lowis, et al., "Scaling youth development training in IT using an xMOOC platform," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344145
+keywords: {context;videos;browsers;training;programming profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344145
+
+A. de Oliveira Fassbinder, M. Fassbinder and E. Barbosa,  "From flipped classroom theory to the personalized design of learning experiences in MOOCs," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344146
+keywords: {education;online services;collaboration;context;videos;collaborative work;games}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344146
+
+T. Rabelo, M. Lama, R. Amorim and J. Vidal,  "SmartLAK: A big data architecture for supporting learning analytics services," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344147
+keywords: {computer architecture;ontologies;databases;big data;education;semantics;context}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344147
+
+L. Begosso, L. Begosso, A. Ribeiro, R. dos Santos and R. Begosso,  "The use of learning objects for teaching computer programming," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344148
+keywords: {education;programming profession;computers;binary trees;software}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344148
+
+D. Roundy, E. Krebs, J. Schulte and G. Mulder,  "Look ma, no templates! Problem-based learning of computational physics for novice programmers," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344149
+keywords: {physics;programming;education;electric potential;computer languages;visualization;computer bugs}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344149
+
+L. Zhao, X. Su, T. Wang and Y. Yuan,  "Interest-driven and innovation-oriented practice for programming course," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344150
+keywords: {programming;games;problem-solving;usability;debugging;arrays;encoding}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344150
+
+C. Rosiene and J. Rosiene,  "Flipping a programming course: The good, the bad, and the ugly," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-3.
+doi: 10.1109/FIE.2015.7344151
+keywords: {videos;programming;education;online services;organizations;algorithm design and analysis}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344151
+
+J. Yang, Y. Lee, D. Hicks and K. Chang,  "Enhancing object-oriented programming education using static and dynamic visualization," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344152
+keywords: {visualization;java;unified modeling language;data visualization;programming profession;programming environments}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344152
+
+C. Sahin, D. Nguyen, J. Chacko and K. Dandekar,  "Wireless cybersecurity education via a software defined radio laboratory," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344153
+keywords: {wireless communication;computer security;communication system security;hardware;jamming;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344153
+
+X. Wu and S. Tian,  "Student-centered learning in cybersecurity in summer semester," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344154
+keywords: {computer security;education;problem-solving;cryptography;computer science;conferences;government}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344154
+
+L. Simpkins, X. Yuan, H. Yu and K. Williams,  "Using a case study to teach students about finding and fixing logic flaws in software," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344155
+keywords: {testing;software;education;manuals;security;computer science;fault diagnosis}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344155
+
+K. Ghosh,  "Healthcare security: A course engaging females in cybersecurity education," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344156
+keywords: {medical services;malware;programming;forensics;interoperability}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344156
+
+E. Durant, et al., "CE2016: Updated computer engineering curriculum guidelines," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-2.
+doi: 10.1109/FIE.2015.7344157
+keywords: {computers;guidelines;computer science;conferences;electrical engineering;computer science education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344157
+
+J. Pembridge, M. Verleger and S. Cutler,  "What the Heck is that?! Adaptation of evidence-based instructional practices," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-3.
+doi: 10.1109/FIE.2015.7344158
+keywords: {technological innovation;context;chemical engineering;engineering education;computers;physics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344158
+
+M. Domancic, et al., "A tale of two mobile learning journeys with smartphones and tablets: The interplay of technology and implementation change," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344159
+keywords: {mobile communication;smart phones;tablet computers;media;servers;collaboration}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344159
+
+T. Jagust, I. Mekterovic and I. Boticki,  "The experiences of setting up, developing and implementing a mobile learning project in Croatia: The SCOLLAm project," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344160
+keywords: {mobile communication;education;internet;smart phones;browsers;prototypes;tablet computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344160
+
+M. Hori, et al., "CHiLO: Using an e-textbook to create an ad-hoc m-learning environment," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344161
+keywords: {education;electronic publishing;mobile handsets;mobile communication;internet;social network services;learning systems}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344161
+
+J. Camba and M. Contero,  "From reality to augmented reality: Rapid strategies for developing marker-based AR content using image capturing and authoring tools," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344162
+keywords: {three-dimensional displays;solid modeling;augmented reality;cameras;computational modeling;software;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344162
+
+M. Venter, A. van der Walt, A. Swart and L. de Wet,  "An investigation of the use of mobile mathematics applications: An African perspective," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344163
+keywords: {mobile communication;mathematics;education;mobile handsets;context;games;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344163
+
+J. Tioh and M. Mina,  "Digital defenders: Computer security literacy via game-based learning," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344164
+keywords: {games;training;computers;operating systems;computer crime}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344164
+
+D. Chery, S. Mburu, J. Ward and A. Fontecchio,  "Integration of the Arts and Technology in GK-12 Science Courses," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344165
+keywords: {fellows;three-dimensional displays;chemical elements;education;printing;art}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344165
+
+A. Rusu,  "Introducing gaming tools for computing education in STEM related curricula," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344166
+keywords: {computer science;conferences;education;google;games;collaboration;mathematics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344166
+
+A. Loparev and C. Egert,  "Scaffolding in educational video games: An approach to teaching collaborative support skills," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344167
+keywords: {games;teamwork;education;taxonomy;computers;context}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344167
+
+J. Lino, M. Paludo, F. Binder, S. Reinehr and A. Malucelli,  "Project management game 2D (PMG-2D): A serious game to assist software project managers training," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344168
+keywords: {games;project management;software;context;software engineering;training}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344168
+
+M. Boutin and J. Lax,  "Engaging graduate students through online lecture creation," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344169
+keywords: {computers;sociology;statistics;online services;training;learning systems}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344169
+
+J. Brito, R. Amorim, B. de Sousa Monteiro, A. Gomes and I. de Melo Filho,  "Effectiveness of practices with sensors in engaging in meaningful learning in higher education: Extending a framework of ubiquitous learning," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344170
+keywords: {context;education;mobile handsets;mobile communication;computer architecture;adaptation models;context modeling}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344170
+
+D. Collins, et al., "Increasing student engagement through the development of interdisciplinary courses: Linking engineering and technology, the sciences, and the humanities," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344171
+keywords: {artificial intelligence;education;psychology;computer science;appropriate technology;complexity theory;writing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344171
+
+A. Esquinca, E. Villa, E. Hampton, M. Ceberio and L. Wandermurem,  "Latinas' resilience and persistence in computer science and engineering: Preliminary findings of a qualitative study examining identity and agency," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344172
+keywords: {computer science;uncertainty;resilience;engineering profession;navigation;interviews;logic gates}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344172
+
+S. Smith, T. Berg and C. Smith,  "Making co-op work: An exploration of student attitudes to co-op programs," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344173
+keywords: {interviews;education;engineering profession;employment;aging;computational modeling}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344173
+
+V. Grande,  "Perspectives on volunteering for initiatives for women in computing: A case study," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344174
+keywords: {organizations;interviews;engineering profession;training;industries;machinery}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344174
+
+M. Marques,  "Software engineering education — Does gender matter in project results? — A Chilean case study," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344175
+keywords: {software engineering;software;computer science;education;monitoring;industries;teamwork}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344175
+
+L. Cintron and J. Cohoon,  "Work/family attitudes of computing graduate students," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344176
+keywords: {engineering profession;education;knowledge engineering;pipelines;aggregates;planning;optimized production technology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344176
+
+J. Main and M. Sanchez-Pena,  "Student evaluations of team members: Is there gender bias?," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344177
+keywords: {engineering students;reliability;context;teamwork;technological innovation;product development}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344177
+
+P. Boedeker, S. Nite, R. Capraro and M. Capraro,  "Women in STEM: The impact of STEM PBL implementation on performance, attrition, and course choice of women," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344178
+keywords: {mathematics;engineering profession;computer science;pipelines;education;sociology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344178
+
+J. Middleton, et al., "Examining the relationship between faculty teaching practice and interconnectivity in a social network," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344179
+keywords: {education;interviews;social network services;protocols;collaboration;physics;mathematics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344179
+
+S. Schneider and J. Bonniwell,  "Preparing for an academic career — The engineering faculty of tomorrow," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344180
+keywords: {engineering profession;seminars;conferences;training;electrical engineering;writing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344180
+
+S. Lord, et al., "Innovative faculty cohort hire at the university of San Diego," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344181
+keywords: {mentoring;mathematics;interviews;color;collaboration;psychology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344181
+
+D. Crawford,  "Tailor-made: Meeting the unique needs of women of color STEM-SBS faculty through mentoring," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344182
+keywords: {mentoring;engineering profession;image color analysis;face;organizations;color}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344182
+
+T. Harding, et al., "The role of collaborative inquiry in transforming faculty perspectives on use of reflection in engineering education," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344183
+keywords: {reflection;collaboration;process control;engineering students;testing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344183
+
+S. Rubiano, O. Lopez-Cruz and E. Soto,  "Teaching computer programming: Practices, difficulties and opportunities," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344184
+keywords: {computers;education;computer languages;programming profession;problem-solving;software}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344184
+
+G. de Souza, C. Olivete, R. Correia and R. Garcia,  "Teaching-learning methodology for formal languages and automata theory," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344185
+keywords: {grammar;turing machines;formal languages;software;education;visualization}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344185
+
+A. Azemi,  "An online introductory computer programming course using Matlab: Design steps and what to expect," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344186
+keywords: {matlab;programming;electronic learning;discussion forums;medical services;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344186
+
+H. Tsukamoto, et al., "Programming education for primary school children using a textual programming language," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344187
+keywords: {programming profession;education;computer languages;visualization;programming environments;color}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344187
+
+M. Marcelino, B. Cabral, L. Paquete and A. Mendes,  "A proficient high level programming program as a way to overcome unemployment among graduates," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344188
+keywords: {java;programming profession;training;europe;informatics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344188
+
+B. Babajide and T. Moore,  "Engineering university-industry projects: A design for six sigma framework," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344189
+keywords: {six sigma;industries;companies;product development;mathematical model;engineering education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344189
+
+W. Akili,  "Perspectives on engineering design learning: Realities, challenges, and recommendations," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344190
+keywords: {education;uncertainty;context;data models;computational modeling;probabilistic logic}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344190
+
+A. Febrian, O. Lawanto and M. Cromwell,  "Advancing research on engineering design using e-Journal," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344191
+keywords: {electronic mail;planning;monitoring;finance;engineering education;electric breakdown;encyclopedias}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344191
+
+A. Cummings, A. Shafaat and W. Oakes,  "Using robust design as a conceptual framework to understand expertise," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344192
+keywords: {robustness;protocols;uncertainty;encoding;magnetic heads;aerospace engineering;companies}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344192
+
+M. Tomko, B. Lucero, C. Turner and J. Linsey,  "Establishing functional concepts vital for design by analogy," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344193
+keywords: {technological innovation;taxonomy;pulleys;algorithm design and analysis;software algorithms;software packages;measurement}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344193
+
+S. Jordan and M. Lande,  "Is the engineer of 2035 a maker?," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-2.
+doi: 10.1109/FIE.2015.7344194
+keywords: {engineering education;buildings;robots;indexes;product development;art;embedded systems}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344194
+
+R. Bates, et al., "Special session: Agents for change in engineering & computer science education," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-2.
+doi: 10.1109/FIE.2015.7344195
+keywords: {computer science education;context;navigation;computer science;history}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344195
+
+M. Menekse, C. Schunn, R. Higashi and E. Baehr,  "An investigation of the relationship between K-8 robotics teams' collaborative behaviors and their performance in a robotics tournament," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344196
+keywords: {robot kinematics;teamwork;programming;frequency locked loops;correlation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344196
+
+S. Nakamura, et al., "Effects of report-writing on a multi-stage-experience educational program using an autonomous mobile robot," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344197
+keywords: {mobile robots;problem-solving;schedules;system analysis and design;control engineering;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344197
+
+K. Radlak and M. Fojcik,  "Integration of robotic arm manipulator with computer vision in a project-based learning environment," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344198
+keywords: {educational robots;robot kinematics;computer vision;robot sensing systems;service robots;games}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344198
+
+K. Corbett and N. Nesiba,  "Programming design process: Providing K-12 students with a structure to attain programming goals," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344199
+keywords: {programming profession;robots;tires;servomotors;security}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344199
+
+G. Lopez, et al., "Micromouse: An autonomous robot vehicle interdisciplinary attraction to education and research," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344200
+keywords: {robots;sensors;computers;dc motors;magnetic levitation;vehicles;engineering profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344200
+
+D. Zehetmeier, A. Bottcher, A. Bruggemann-Klein, V. Thurner and K. Schlierkamp,  "Finding competence characteristics among first semester students in computer science," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344201
+keywords: {computer science;education;electronic mail;software;computers;mathematics;data mining}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344201
+
+E. Judson, et al., "What is the effect of establishing programs that address sense of belonging on undergraduate engineering retention?," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344202
+keywords: {engineering students;market research;time series analysis;physics;engineering profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344202
+
+D. Choi and M. Loui,  "Grit for engineering students," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-2.
+doi: 10.1109/FIE.2015.7344203
+keywords: {engineering students;interviews;sociology;statistics;standards;computers;position measurement}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344203
+
+W. Lee and H. Matusovich,  "Measuring student integration and institutional support," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344204
+keywords: {engineering students;instruments;sociology;statistics;engineering profession;prototypes}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344204
+
+P. Doerschuk,  "Recruiting, retaining and transitioning computing undergraduates the STAIRSTEP way," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344205
+keywords: {computer science;educational robots;computational modeling;engineering profession;mentoring;seminars}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344205
+
+J. Porter, et al., "A course in innovative product design: A collaboration between architecture, business, and engineering," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344206
+keywords: {technological innovation;entrepreneurship;product development;reverse engineering;product design;videos}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344206
+
+M. Goldstein, S. Purzer, C. Mejia, M. Zielinski and K. Douglas,  "Assessing idea fluency through the student design process," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344207
+keywords: {solar panels;shape;vegetation;buildings;software;education;encoding}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344207
+
+O. Lawanto, M. Cromwell and A. Febrian,  "Engineering design journey and project management," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344208
+keywords: {monitoring;teamwork;project management;context;instruments;planning;biomedical monitoring}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344208
+
+R. Rousi and J. Leikas,  "Life-based design as an extension of problem-based learning — A tool for understanding people and technology," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344209
+keywords: {ontologies;technological innovation;education;economics;cognitive science;psychology;cognition}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344209
+
+C. Venters, J. Reis, H. Griffin and G. Dixon,  "A spiral curriculum in design and project management," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344210
+keywords: {project management;spirals;education;knowledge engineering;prototypes;industries}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344210
+
+A. Decker, K. Eiselt and K. Voll,  "Understanding and improving the culture of hackathons: Think global hack local," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344211
+keywords: {games;computer hacking;software;media;cultural differences;computer crime;companies}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344211
+
+A. Bielefeldt,  "Characteristics of engineering faculty engaged in the scholarship of teaching and learning," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344212
+keywords: {engineering education;ethics;cultural differences;biographies;scholarships;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344212
+
+D. Torres, C. Zoltowski, P. Buzzanell, M. Feister and W. Oakes,  "Using social network theory to elucidate the impact of diversity on the social processes in design," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344213
+keywords: {communication networks;cultural differences;social network services;instruments;decision making;ethics;cognition}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344213
+
+W. Otieno and N. Kumar,  "A situated learning ethics instruction model for engineering undergraduate students," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344214
+keywords: {ethics;employment;context;sociology;education;companies;decision making}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344214
+
+N. Canney, M. Russu and A. Bielefeldt,  "How engineering students define ‘Social Responsibility’," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344215
+keywords: {engineering students;cultural differences;ethics;safety;sociology;statistics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344215
+
+J. Pembridge, K. Jordan, H. Steinhauer, T. Wilson and D. Holton,  "Stages and processes of pedagogical change — An application of TTM," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344216
+keywords: {technological innovation;engineering education;context;maintenance engineering;process control;context modeling}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344216
+
+N. Choudhary and B. Jesiek,  "Engineering Ph.D. students' career preferences: Levels, changes, and the role of advisors," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344217
+keywords: {engineering profession;medical services;employment;industries;education;systematics;face}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344217
+
+G. Herman and I. Mena,  "Tracking the spread of research-based instructional strategies," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344218
+keywords: {technological innovation;resists;engineering education;collaboration;physics;mathematical model}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344218
+
+S. Hug, H. Thiry and A. Gates,  "Strategies for sustaining change in engineering education," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344219
+keywords: {engineering education;technological innovation;mentoring;collaboration;organizations;buildings}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344219
+
+J. Miorelli, N. Stambach, B. Moskal and J. Dwyer,  "Improving faculty perception of and engagement in STEM education," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344220
+keywords: {mentoring;sociology;statistics;fellows;technological innovation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344220
+
+H. Jonsson,  "Using flipped classroom, peer discussion, and just-in-time teaching to increase learning in a programming course," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344221
+keywords: {education;programming profession;videos;computers;object oriented programming}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344221
+
+R. Bittencourt, D. dos Santos, C. Rodrigues, W. Batista and H. Chalegre,  "Learning programming with peer support, games, challenges and scratch," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344222
+keywords: {conferences;programming profession;education;games;computers;planning}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344222
+
+A. de Oliveira Fassbinder, T. Botelho, R. Martins and E. Barbosa,  "Applying flipped classroom and problem-based learning in a CS1 course," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344223
+keywords: {education;programming profession;online services;games;problem-solving}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344223
+
+F. Mota and D. Adamatti,  "Programming teaching in high schools: An analysis based on the discourse of collective subject," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344224
+keywords: {computers;programming profession;games;knowledge engineering;algorithm design and analysis;software algorithms}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344224
+
+L. Ureel and C. Wallace,  "WebTA: Automated iterative critique of student programming assignments," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344225
+keywords: {software;testing;education;java;programming profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344225
+
+N. Zheng, Y. Chen and P. Tao,  "Research on system level innovative practice in embedded laboratory education," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344226
+keywords: {embedded systems;education;hardware;computer science;artificial intelligence;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344226
+
+M. Awatramani and D. Rover,  "Team-based learning course design and assessment in computer engineering," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344227
+keywords: {education;embedded systems;computational modeling;online services;computers;system-level design}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344227
+
+S. Peter, F. Momtaz and T. Givargis,  "From the browser to the remote physical lab: Programming cyber-physical systems," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344228
+keywords: {programming profession;timing;web pages;education;browsers;cyber-physical systems}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344228
+
+L. Lemus-Zuniga, F. Romero and J. Benlloch-Dualde,  "Motivation as a key factor to improve freshmen academic performance in computer engineering courses," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344229
+keywords: {computers;seminars;electronic mail;europe;context;proposals}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344229
+
+J. Huff, J. Walther, B. Jesiek, C. Zoltowski and W. Oakes,  "Qualitative research on psychological experience: A starting point for using interpretative phenomenological analysis," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344230
+keywords: {psychology;engineering education;interviews;reflection;pragmatics;robustness;lenses}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344230
+
+J. Hertzberg and K. Goodman,  "Aesthetics and emotional engagement: Why it matters to our students, why it matters to our professions," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-2.
+doi: 10.1109/FIE.2015.7344231
+keywords: {art;visualization;education;context;fluids;physics;psychology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344231
+
+S. Santos, G. Alexandre and A. Rodrigues,  "Applying PBL in project management education: A case study of an undergraduate course," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344232
+keywords: {education;planning;project management;software engineering;context;monitoring;software}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344232
+
+J. Martin-Gutierrez, et al., "Managing first PBL experiences: Cross competences in a traditional environment," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344233
+keywords: {europe;teamwork;training;context;learning systems}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344233
+
+C. da Silva Cintra and R. Bittencourt,  "Being a PBL teacher in computer engineering: An interpretative phenomenological analysis," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344234
+keywords: {interviews;computers;data collection;programming profession;tutorials}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344234
+
+S. Hilton and B. Rague,  "Is video feedback more effective than written feedback?," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344235
+keywords: {visualization;programming;rendering (computer graphics);market research;software;auditory system}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344235
+
+R. Menon and P. Nedungadi,  "New methodology to differentiate instructional strategies for ESL learners in the Indian context," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344236
+keywords: {vocabulary;meteorology;training;grammar;sorting}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344236
+
+N. Bean, J. Weese, R. Feldhausen and R. Bell,  "Starting from scratch: Developing a pre-service teacher training program in computational thinking," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344237
+keywords: {sprites (computer);programming profession;education;shape;conferences;standards}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344237
+
+R. Folk, G. Lee, A. Michalenko, A. Peel and E. Pontelli,  "GK-12 DISSECT: Incorporating computational thinking with K-12 science without computer access," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344238
+keywords: {fellows;computer science;computers;biology;problem-solving;training}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344238
+
+R. Toedte and M. Aydeniz,  "Computational thinking and impacts on K-12 science education," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344239
+keywords: {education;writing;programming profession;computers;google}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344239
+
+A. Peel, J. Fulton and E. Pontelli,  "DISSECT: An experiment in infusing computational thinking in a sixth grade classroom," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344240
+keywords: {fellows;engineering profession;geologic measurements;writing;geology;meteorology;rockets}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344240
+
+T. Burgett, et al., "DISSECT: Analysis of pedagogical techniques to integrate computational thinking into K-12 curricula," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344241
+keywords: {fellows;computer science;computers;education;problem-solving;computed tomography;statistical analysis}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344241
+
+N. Nesiba, et al., "Young Women in Computing: Creating a successful and sustainable pipeline," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344242
+keywords: {pipelines;programming profession;sociology;statistics;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344242
+
+M. Lammi, C. Denson and N. Stevens,  "A community of practice to develop, teach, and disseminate learning in engineering design," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-3.
+doi: 10.1109/FIE.2015.7344243
+keywords: {tutorials;online services;mathematical model;information services;electronic publishing;internet}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344243
+
+R. Sundaram,  "TIES to STEM: University outreach model for teachers in K-12 STEM schools to be trained in engineering skills," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344244
+keywords: {engineering education;schedules;training;industries;mathematics;engineering profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344244
+
+A. Bicer, P. Boedeker, M. Kopparla, R. Capraro and M. Capraro,  "Comparing students' mathematics achievement by their school types: Inclusive STEM schools that implemented PLTW curriculum with inclusive STEM schools that did not implement PLTW," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344245
+keywords: {education;engineering profession;problem-solving;sociology;analysis of variance}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344245
+
+A. Collier, et al., "On the development and implementation of a project-based learning curriculum for air quality in K-12 schools," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344246
+keywords: {air quality;education;sensors;monitoring;instruments;data collection;mechanical engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344246
+
+D. Seth, J. Tangorra and A. Ibrahim,  "Measuring undergraduate students' self-efficacy in engineering design in a project-based design course," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344247
+keywords: {problem-solving;instruments;linear regression;mechanical engineering;engineering students}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344247
+
+F. Marbouti, H. Diefes-Dux and M. Cardella,  "There's more than one way to analyze feedback on design," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344248
+keywords: {tag clouds;frequency conversion;education;visualization;encoding;text analysis;data visualization}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344248
+
+R. de Souza, S. Zorzo and D. da Silva,  "Evaluating capstone project through flexible and collaborative use of Scrum framework," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344249
+keywords: {software;software engineering;industries;scrum (software development);collaboration;planning;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344249
+
+K. Douglas, T. Fernandez, S. Purzer, M. Fosmire and A. Van Epps,  "A self-assessment instrument to assess engineering students' self-directedness in information literacy," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344250
+keywords: {instruments;interviews;sociology;correlation;engineering students;electric potential}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344250
+
+A. Pears and A. Nylen,  "Implications of anonymous assessment," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344251
+keywords: {education;context;interviews;taxonomy;cultural differences;law}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344251
+
+M. Mina, J. Cowan and J. Heywood,  "Case for reflection in engineering education- and an alternative," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344252
+keywords: {reflection;engineering education;writing;moon;continuing professional development;problem-solving}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344252
+
+T. Marja, V. Hanna, E. Harri and R. Heli,  "Challenges in finding a connection between IL education and research problem formulation," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344253
+keywords: {seminars;libraries;table lookup;bibliographies;information retrieval;standards}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344253
+
+R. Cheville and J. Heywood,  "Drafting a code of ethics for engineering education," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344254
+keywords: {ethics;engineering education;standards;knowledge engineering;law;medical services}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344254
+
+M. Daniels, et al., "Competencies for paradigm shift “survival”," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344255
+keywords: {industries;education;companies;context;programming;employment;telecommunications}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344255
+
+A. Zeid, et al., "Addressing the problem of mal-employment of liberal arts graduates," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344256
+keywords: {manufacturing;art;technological innovation;design automation;manganese;solid modeling;engineering profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344256
+
+M. Khosronejad, P. Reimann and L. Markauskaite,  "Implied identity: A conceptual framework for exploring engineering professional identity practices in higher education," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344257
+keywords: {collaboration;context;engineering students;companies;collaborative work}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344257
+
+G. Young and D. Knight,  "Campus to career, understanding how engineering student skill perceptions link to future career pathways," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344258
+keywords: {engineering profession;industries;government;research and development management;mechanical engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344258
+
+P. Jamieson and J. Herdtner,  "More missing the Boat — Arduino, Raspberry Pi, and small prototyping boards and engineering education needs them," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344259
+keywords: {computers;embedded systems;education;linux;microprocessors;best practices}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344259
+
+J. Patarroyo, G. Beauchamp and A. Santiago,  "Design and implementation of a microcontroller based workstation with educational purposes for the control systems area," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344260
+keywords: {microcontrollers;sensors;digital control;power supplies;process control;software packages}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344260
+
+C. Parikh,  "Autonomous robot: An intellectual way of infusing microcontroller fundamentals into sophomore students," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344261
+keywords: {microcontrollers;educational robots;radio frequency;digital systems;robot sensing systems;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344261
+
+G. Sun, J. Morgan, J. Porter and H. Yim,  "Development of a novel Modular Integrated Stackable Layer — Analog System Environment (MISL — ASE) platform for embedded systems education," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344262
+keywords: {embedded systems;microcontrollers;pins;light emitting diodes;thin film transistors;analog-digital conversion;protocols}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344262
+
+B. Carmer and M. Rosulek,  "Vamonos: Embeddable visualizations of advanced algorithms," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344263
+keywords: {data visualization;visualization;algorithm design and analysis;heuristic algorithms;data structures;libraries;browsers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344263
+
+J. Ng,  "International iCampus Forum (IC15) on “smart education in smart cities”," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-2.
+doi: 10.1109/FIE.2015.7344264
+keywords: {technological innovation;smart cities;telecommunications;computer science;engineering education;collaborative work}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344264
+
+J. LaBouliere, A. Pelloth, C. Lu and J. Ng,  "An exploration of the attitudes of young girls toward the field of computer science," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344265
+keywords: {computers;engineering profession;interviews;programming profession;software}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344265
+
+L. Cen, D. Ruta, L. Powell and J. Ng,  "Interaction driven composition of student groups for optimal groupwork learning performance," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344266
+keywords: {collaborative work;optimization;biological cells;genetic algorithms;sociology;statistics;collaboration}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344266
+
+S. Ling, F. Saffre, D. Gater, L. Halim and A. Isakovic,  "Experimental development and implementation of computer-based quiz games in general chemistry for engineering," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344267
+keywords: {chemistry;games;computers;engineering students;market research;knowledge engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344267
+
+D. Liu, et al., "Smart grouping tool portal for collaborative learning," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344268
+keywords: {portals;education;sociology;statistics;collaboration;force}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344268
+
+D. Wang, A. Al-Rubaie, A. Dhanhani and J. Ng,  "Smart text-classification of user-generated data in educational social networks," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344269
+keywords: {mathematical model;education;social network services;collaboration;supervised learning;technological innovation;media}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344269
+
+A. Ferreiro, A. Melendez, A. Cao-Paz, J. Acevedo and M. Castro,  "A B-learning new approach applied to a practical power electronics converters course," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344270
+keywords: {remote laboratories;mathematical model;power electronics;emulation;integrated circuit modeling;servers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344270
+
+J. Swenson, E. Danahy and W. Messner,  "Initial investigation into engineering students problem solving within controls," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344271
+keywords: {engineering education;knowledge engineering;mechanical engineering;proportional control;problem-solving}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344271
+
+F. Muniz-Rodriguez, G. Beauchamp-Baez, G. Cruz-Diaz and J. Santos-Ferrer,  "Optimal control design and implementation for the double inverted pendulum system in a graduate control course," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344272
+keywords: {kalman filters;observers;regulators;mathematical model;noise measurement;optimal control}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344272
+
+F. Destro, R. Costa and F. Iaione,  "A low-cost system for experiments with digital circuits," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344273
+keywords: {digital circuits;software;light emitting diodes;probes;hardware;logic gates;pins}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344273
+
+L. Shan-shan, Q. Cheng-bin and C. Yong-qiang,  "The exploration for computer system capacity training in experimental teaching," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344274
+keywords: {computers;hardware;training;operating systems;systematics;organizations}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344274
+
+M. Anderson-Rowland, A. Rodriguez and A. Grierson,  "Helping undergraduate engineering students discover their interests (and reduce their fear of research)," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344275
+keywords: {computer science;industries;engineering profession;companies;writing;proposals;scholarships}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344275
+
+J. Kypuros, et al., "Developing an ecosystem for student success in engineering in Rio South Texas," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344276
+keywords: {computer science;calculus;sociology;statistics;education;logic gates;ecosystems}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344276
+
+S. Hug, E. Villa, P. Golding and G. Gandara,  "Learning to learn: Creating engineering classrooms for deep understanding," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344277
+keywords: {writing;reflection;robots;collaboration;mathematics;monitoring;interviews}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344277
+
+K. Gary and S. Xavier,  "Agile learning through continuous assessment," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344278
+keywords: {software;software engineering;context;process control;testing;instruments;quality assessment}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344278
+
+F. Tiosso, S. Bruschi, P. Souza, E. Barbosa and C. de Andrade Cacho,  "Amnesia: A learning object for memory hierarchy teaching," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344279
+keywords: {cache memory;education;computer architecture;computers;organizations;writing;program processors}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344279
+
+M. Loui and A. Lin,  "How should we estimate a missing exam score?," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-3.
+doi: 10.1109/FIE.2015.7344280
+keywords: {standards;springs;mathematical model;computers;linear regression;interpolation;predictive models}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344280
+
+J. Lorkowski, O. Kosheleva and V. Kreinovich,  "How to take into account a student's degree of certainty when evaluating the test results," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344281
+keywords: {decision making;uncertainty;medical services;computer aided software engineering;decision theory;switches;loss measurement}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344281
+
+A. Godwin, T. Scott, G. Potvin, G. Sonnert and P. Sadler,  "The academic performance index: Creating a more robust and less biased measure of student academic performance," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344282
+keywords: {extraterrestrial measurements;performance analysis;education;physics;reliability;indexes;engineering profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344282
+
+A. Franklin, T. Li, P. Jamieson, J. Semlak and W. Vanderbush,  "Evaluating metrics for automatic mind map assessment in various classes," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344283
+keywords: {measurement;vocabulary;computers;speech;electronic mail;pathology;terminology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344283
+
+A. Fernandez, E. Delgado, Y. Montoya, R. Gonzalez and M. Vaughan,  "Student led curriculum development and instruction of introduction to engineering leadership course," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344284
+keywords: {conferences;curriculum development;engineering education;interviews;seminars;mentoring}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344284
+
+J. DeWaters, J. Halfacre, J. Moosbrugger, E. Chapman and E. Wultsch,  "Enhancing the experience of first-year engineering students with an entry-level STS course: Science-technology-society," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344285
+keywords: {ethics;context;engineering students;engineering profession;springs;physics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344285
+
+P. Seeling,  "Assessing student views of traditional, free, and interactive modifications for an introductory networking course," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344286
+keywords: {education;springs;computer science;instruments;analysis of variance;cost accounting;least squares approximations}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344286
+
+P. Chiu, K. Lai, T. Fan and S. Cheng,  "A pedagogical model for introducing 3D printing technology in a freshman level course based on a classic instructional design theory," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344287
+keywords: {three-dimensional displays;printing;solid modeling;printers;laboratories;education;design automation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344287
+
+K. De Urquidi, D. Verdin, S. Hoffmann and M. Ohland,  "Outcomes of accepting or declining advanced placement Calculus credit," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344288
+keywords: {calculus;engineering students;electric breakdown;sociology;statistics;market research}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344288
+
+J. Jaquez, J. Noguez, G. Aguilar-Sanchez, L. Neri and A. Nucamendi,  "TecEval: An on-line dynamic evaluation system for engineering courses available for web browsers and tablets," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344289
+keywords: {mathematical model;browsers;physics;object oriented modeling;unified modeling language;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344289
+
+T. Harding, J. Sutkus, D. Carpenter and C. Finelli,  "SEED-PA. A practical instrument for assessing individual ethics initiatives," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344290
+keywords: {ethics;instruments;cognition;atmospheric measurements;particle measurements;engineering students}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344290
+
+G. Kumar, R. Banchs and L. D'Haro,  "Automatic fill-the-blank question generator for student self-assessment," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-3.
+doi: 10.1109/FIE.2015.7344291
+keywords: {glands;biochemistry;semantics;electronic mail;usability;internet}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344291
+
+Y. Song, Z. Hu and E. Gehringer,  "Pluggable reputation systems for peer review: A web-service approach," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344292
+keywords: {web services;algorithm design and analysis;prediction algorithms;education;markup languages;databases;security}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344292
+
+K. Nguyen and D. Lowe,  "Architectural support for non-expert deployment of remote laboratories," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344293
+keywords: {remote laboratories;computer architecture;hardware;internet;software;scheduling;microcontrollers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344293
+
+N. Fang,  "Student-constructed concept maps for active learning in a foundational undergraduate engineering course," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344294
+keywords: {kinetic theory;aerodynamics;force;acceleration;education;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344294
+
+S. Barlowe and A. Scott,  "O-Charts: Towards an effective toolkit for teaching time complexity," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344295
+keywords: {time complexity;education;algorithm design and analysis;data structures;upper bound;concrete}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344295
+
+G. Nitin, G. Swapna and V. Shankararaman,  "Analyzing educational comments for topics and sentiments: A text analytics approach," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344296
+keywords: {education;information systems;text mining;algorithm design and analysis;clustering algorithms;feature extraction}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344296
+
+M. Rizkalla and M. Agarwal,  "Preparing ECE students for research career in nanotechnology via track program," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344297
+keywords: {nanoscale devices;engineering profession;computers;mathematical model;atomic force microscopy}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344297
+
+K. Milligan and A. Fontecchio,  "Curriculum driven classroom design," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344298
+keywords: {layout;machine shops;springs;engineering students;buildings;collaboration;mirrors}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344298
+
+S. Banerjee, N. Rao and C. Ramanathan,  "Rubrics for assessment item difficulty in engineering courses," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344299
+keywords: {taxonomy;instruments;fuzzy logic;digital systems;artificial intelligence;systematics;information technology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344299
+
+L. Zhang, I. Dabipi, Y. Jin and P. Matin,  "Inspiring undergraduate students in engineering learning, comprehending and practicing by the use of analog discovery kits," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344300
+keywords: {conferences;logic gates;engineering education;electrical engineering;instruments;testing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344300
+
+L. Collingbourne and W. Seah,  "Teaching project management using a real-world group project," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344301
+keywords: {project management;education;software engineering;software;monitoring;cultural differences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344301
+
+W. Chen, P. Chou and R. Carey,  "Using 3-D open source software to facilitate students' spatial visualization skills," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-3.
+doi: 10.1109/FIE.2015.7344302
+keywords: {visualization;google;three-dimensional displays;mathematics;multimedia communication;solid modeling;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344302
+
+R. Streveler, N. Pitterson, A. Hira, H. Rodriguez-Simmonds and J. Alvarez,  "Learning about engineering education research: What conceptual difficulties still exist for a new generation of scholars?," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344303
+keywords: {engineering education;collaboration;reflection;conferences;atmospheric measurements;particle measurements;protocols}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344303
+
+K. Jordan, J. Pembridge, H. Steinhauer, T. Wilson and D. Holton,  "Apprenticeship of observation: Implications for the adoption of evidence-based instructional practices," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344304
+keywords: {interviews;engineering education;lead;market research;training;context}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344304
+
+E. Douglas, S. Agdas, C. Lee, M. Koro-Ljungberg and D. Therriault,  "Ambiguity during engineering problem solving," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344305
+keywords: {problem-solving;engineering students;strain;uncertainty;stress;training}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344305
+
+S. Hahler and M. Orr,  "Background and demographic factors that influence graduation: A comparison of six different types of majors," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344306
+keywords: {engineering students;psychology;logistics;mathematics;sociology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344306
+
+J. Monsoriu, M. Gimenez, E. Ballester and L. Sanchez-Ruiz,  "Undergraduate experiments with aperiodic gratings based on the Fibonacci sequence," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-3.
+doi: 10.1109/FIE.2015.7344307
+keywords: {diffraction;diffraction gratings;gratings;education;lenses;standards}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344307
+
+E. de Barros Costa and H. Rocha,  "An interactive learning environment for assisting students in solving problems on designing of logic digital circuits by using Multiple Representations," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344308
+keywords: {logic gates;boolean algebra;digital circuits;knowledge based systems;problem-solving;joining processes;visualization}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344308
+
+K. Radlak, M. Frackiewicz, M. Szczepanski, M. Kawulok and M. Czardybon,  "Adaptive Vision Studio — Educational tool for image processing learning," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344309
+keywords: {software;image color analysis;machine vision;algorithm design and analysis;image analysis;programming}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344309
+
+L. Cai, R. Shi, W. Niu and M. Tong,  "Analysis of opportunities and challenges of the electronic dual-board in instruction," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344310
+keywords: {interviews;education;software;information technology;australia;government;mathematics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344310
+
+K. Goodman, J. Hertzberg and N. Finkelstein,  "Aesthetics and expanding perception in fluid physics," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344311
+keywords: {fluids;art;interviews;films;fluid flow;engineering students}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344311
+
+B. Skromme, et al., "Step-based tutoring system for introductory linear circuit analysis," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344312
+keywords: {mathematical model;linear circuits;layout;finite element analysis;tutorials;computer aided instruction;complexity theory}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344312
+
+V. Ramesh, N. Rao and C. Ramanathan,  "Implementation of an Intelligent Tutoring System using Moodle," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344313
+keywords: {least squares approximations;learning management systems;taxonomy;information technology;cities and towns;electronic mail}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344313
+
+J. Chicaiza, N. Piedra, J. Lopez-Vargas and E. Tovar-Caro,  "A user profile definition in context of recommendation of open educational resources. An approach based on linked open vocabularies," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344314
+keywords: {ontologies;data models;proposals;vocabulary;open educational resources;context}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344314
+
+L. Silva, et al., "Supportive environment for teaching and learning digital image processing," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344315
+keywords: {digital images;streaming media;education;electronics packaging;image segmentation;visualization}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344315
+
+V. Bremgartner, J. de Magalhaes Netto and C. de Menezes,  "Adaptation resources in virtual learning environments under constructivist approach: A systematic review," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344316
+keywords: {education;systematics;collaborative work;artificial intelligence;proposals;collaboration;adaptive systems}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344316
+
+W. Lawrence-Fowler, L. Grabowski and C. Reilly,  "Bridging the divide: Strategies for college to career readiness in computer science," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344317
+keywords: {employment;engineering profession;computer science;unemployment;training;media}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344317
+
+C. Brawner, J. Main, C. Mobley, S. Lord and M. Camacho,  "The institutional environment for student veterans in engineering," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344318
+keywords: {interviews;portals;engineering students;context;shape;sociology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344318
+
+R. Reck, R. Sreenivas and M. Loui,  "Assessing an affordable and portable laboratory kit in an undergraduate control systems course," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344319
+keywords: {control systems;dc motors;engineering education;seals;sensors;springs}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344319
+
+A. Desai,  "Hands on project experience in a core class focused on sustainability," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344320
+keywords: {profitability;chemicals;prototypes;costing;manufacturing processes}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344320
+
+H. Wu and A. Palani,  "Bioinformatics curriculum development and skill sets for bioinformaticians," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344321
+keywords: {bioinformatics;computer science;training;informatics;engineering profession;genomics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344321
+
+A. Edgcomb, F. Vahid and R. Lysecky,  "Students learn more with less text that covers the same core topics," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344322
+keywords: {education;google;writing;usability;length measurement;atmospheric measurements;particle measurements}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344322
+
+Y. Li, L. Xiao and Y. Sheng,  "Virtual laboratory platform for computer science curricula," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344323
+keywords: {java;algorithm design and analysis;hardware;servers;signal processing algorithms;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344323
+
+J. Long,  "Cloud-based teaching in an engineering-physics course," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344324
+keywords: {videos;physics;tutorials;australia;cloud computing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344324
+
+A. Dukhanov, M. Karpova and V. Shmelev,  "An automation of the course design based on mathematical modeling and genetic algorithms," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344325
+keywords: {gravity;genetic algorithms;calibration;linear programming;taxonomy;sociology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344325
+
+O. Muller, N. Shalit and O. Benyamin,  "Students of engineering on behalf of people with disabilities: Evaluating the impact of an institution's flagship project," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344326
+keywords: {interviews;companies;sociology;statistics;employment;biomechanics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344326
+
+D. Krutz, S. Malachowsky, S. Jones and J. Kaplan,  "Enhancing the educational experience for deaf and hard of hearing students in software engineering," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344327
+keywords: {auditory system;software engineering;stakeholders;industries;education;robustness;assistive technology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344327
+
+M. Anderson-Rowland, A. Rodriguez and A. Grierson,  "Getting the attention of underrepresented minority community college students to consider engineering as a career," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344328
+keywords: {engineering profession;computer science;computers;recruitment;radar;robots;mathematics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344328
+
+B. Faulkner and G. Herman,  "Effect of assertion headings and expandable examples in an online engineering textbook," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344329
+keywords: {coherence;computers;training;wheels;bicycles;electronic mail;electrical engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344329
+
+P. Boedeker, et al., "STEM summer camp follow up study: Effects on students' SAT scores and postsecondary matriculation," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344330
+keywords: {education;investment;problem-solving;writing;sociology;statistics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344330
+
+M. Agarwal, et al., "Nanotechnology STEM program via research experience for high school teachers," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344331
+keywords: {education;cancer;collaboration;computers;nanobioscience;cancer detection}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344331
+
+J. Kennedy, B. Morton and A. Fontecchio,  "L.E.A.P.: Localized energy awareness program through collaborative K-University STEM projects," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344332
+keywords: {solid modeling;collaboration;renewable energy sources;computational modeling;standards;education;virtual reality}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344332
+
+G. Fernandez, R. Borrego, E. Ruiz, M. Gil and F. Perez,  "Using common elements to explain electromagnetism to children: Remote Laboratory of Electromagnetic Crane," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344333
+keywords: {cranes;electromagnets;remote laboratories;user interfaces;magnetic fields;electromagnetics;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344333
+
+M. Arimoto, E. Barbosa and L. Barroca,  "An agile learning design method for open educational resources," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344334
+keywords: {collaboration;software;context;computer architecture;design methodology;open educational resources}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344334
+
+J. Mullen and J. Sullivan,  "Student-perceived effectiveness of online content delivery modes," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344335
+keywords: {videos;finite element analysis;software;electronic mail;education;buildings;mechanical engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344335
+
+T. Tuna, et al., "Topic based segmentation of classroom videos," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344336
+keywords: {videos;speech;indexing;optical character recognition software;image segmentation;speech recognition}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344336
+
+X. Su, T. Wang, J. Qiu and L. Zhao,  "Motivating students with new mechanisms of online assignments and examination to meet the MOOC challenges for programming," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344337
+keywords: {programming profession;education;plagiarism;semantics;syntactics;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344337
+
+M. Caeiro-Rodriguez, M. Llamas-Nistal, M. Fernandez-Iglesias, F. Mikic-Fonte and M. Lama-Penin,  "Supporting real open educational resources in Edu-AREA: Different views about open educational resources," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344338
+keywords: {software;licenses;open educational resources;collaboration;open access;hardware}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344338
+
+R. O'Connell,  "On the effectiveness of using midterm examinations strictly for formative feedback," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-3.
+doi: 10.1109/FIE.2015.7344339
+keywords: {circuit theory;education;springs;power systems;frequency-domain analysis;computers;electrical engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344339
+
+J. Evans, et al., "An assessment architecture for competency-based learning: Version 1.0," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344340
+keywords: {writing;libraries;context;art;oral communication;seminars}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344340
+
+S. Huang, K. Muci-Kuchler, M. Bedillion, M. Ellingsen and C. Degen,  "Systems thinking skills of undergraduate engineering students," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344341
+keywords: {systems thinking;engineering students;instruments;knowledge engineering;mechanical engineering;reliability}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344341
+
+T. Machet and D. Lowe,  "An analysis of the provision of context within existing remote laboratories," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344342
+keywords: {context;bridges;remote laboratories;coherence;cognition;computers;taxonomy}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344342
+
+R. Kinzel, et al., "Evaluation and continuous improvement in a multidisciplinary S-STEM program focusing on professional skills, goals & mentoring," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344343
+keywords: {seminars;mentoring;scholarships;engineering profession;reflection;teamwork}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344343
+
+R. McDermott, M. Daniels, A. Cajander, J. Bass and J. Lalchandani,  "A comparative analysis of two globally distributed group projects: A perspective from CSCW/CSCL research," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344344
+keywords: {collaborative work;collaboration;education;information technology;team working;context;software}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344344
+
+D. Tappan,  "A quasi-network-based fly-by-wire simulation architecture for teaching software engineering," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344345
+keywords: {actuators;atmospheric modeling;computer architecture;sensors;aircraft;testing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344345
+
+K. Teixeira, T. Silva, J. Mota, N. Barroso and E. Teixeira,  "Peer instruction methodology for linear algebra subject: A case study in an engineering course," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344346
+keywords: {linear algebra;mathematical model;chemical engineering;engineering education;physics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344346
+
+S. Koo,  "An integrated curriculum for Internet of Things: Experience and evaluation," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344347
+keywords: {internet of things;programming;protocols;embedded systems;schedules;vehicles;performance evaluation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344347
+
+S. Suranauwarat,  "Using an interactive animated tool to improve the effectiveness of learning CPU scheduling algorithms," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344348
+keywords: {scheduling algorithms;animation;operating systems;scheduling;algorithm design and analysis;prediction algorithms;concrete}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344348
+
+R. Palomera-Garcia,  "Another perspective for linear equations, matrices and the technological tools in learning," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344349
+keywords: {mathematical model;linear systems;education;circuit analysis;algebra;sparse matrices;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344349
+
+A. Edgcomb and F. Vahid,  "How many points should be awarded for interactive textbook reading assignments?," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344350
+keywords: {psychology;measurement;computer science;companies;student activities;electronic learning}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344350
+
+R. Hartnett and P. Crilly,  "Combining MATLAB® simulation with telecommunications instructional modeling (TIMSTM) in a senior level communications course," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344351
+keywords: {frequency modulation;demodulation;matlab;phase locked loops;frequency-domain analysis;voltage-controlled oscillators}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344351
+
+J. Newcomer,  "More than just right or wrong: Using concept questions to discern students' thinking in mechanics," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344352
+keywords: {correlation;cats;force;context;cognitive science;reliability;dynamics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344352
+
+R. Llamosa-Villalba, et al., "Enterprise architecture of Colombian Higher Education," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344353
+keywords: {education;technological innovation;organizations;monitoring;stakeholders;architecture}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344353
+
+S. Streiner and M. Besterfield-Sacre,  "Evidence-based approaches for engineering global preparedness programming: Research to inform practice," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344354
+keywords: {programming profession;engineering students;stakeholders;planning}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344354
+
+L. Denney, M. Sanchez-Pena and J. Main,  "Examining how international experiences promote global competency among engineering graduate students," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344355
+keywords: {engineering students;cultural differences;interviews;medical services;global communication;europe}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344355
+
+J. Dyer, et al., "A semester-long study abroad model for engineering students: The unified project approach," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344356
+keywords: {engineering students;art;accreditation;history;automation;measurement uncertainty;cultural differences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344356
+
+N. Trellinger and M. Loui,  "Learning philosophies: A glimpse into students' approaches to learning," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344357
+keywords: {context;taxonomy;engineering education;cultural differences;globalization;springs}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344357
+
+S. Nite, et al., "A bridge to engineering: A personalized precalculus (bridge) program," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344358
+keywords: {calculus;education;bridges;algebra;videos;finance}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344358
+
+D. Verdin and A. Godwin,  "First in the family: A comparison of first-generation and non-first-generation engineering college students," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344359
+keywords: {engineering profession;education;sociology;statistics;cultural differences;face}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344359
+
+N. Salzman and M. Ohland,  "Effects of pre-college engineering participation on first-year engineering outcomes," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344360
+keywords: {yttrium;context;educational robots;calculus;computers;engineering profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344360
+
+H. Vasquez, A. Fuentes, J. Kypuros and M. Azarbayejani,  "Early identification of at-risk students in a lower-level engineering gatekeeper course," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344361
+keywords: {knowledge engineering;logic gates;physics;calculus;engineering students;silicon;algebra}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344361
+
+B. Christe and A. Stevenson,  "Engineering curriculum readiness: Implementing an analytical and communication skills building course for the technical disciplines," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344362
+keywords: {buildings;vocabulary;teamwork;dictionaries;poles and towers;mathematics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344362
+
+A. Dreyfuss, et al., "Getting past the first year: Retaining engineering majors," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344363
+keywords: {conferences;chemistry;computers;cities and towns;mathematics;training}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344363
+
+D. Yang, L. Nadelson and K. Hardy,  "Are they simply interested? An exploration of engineering students' most favorite classes," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344364
+keywords: {engineering students;educational technology;problem-solving;teamwork;videos;tablet computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344364
+
+S. O'Shaughnessy, A. McCarrick, F. Farrell, U. Beagon and L. Perez,  "Is this “transfer shock”?: Examining the perceptions of engineering students who articulate within the Irish higher education context," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344365
+keywords: {interviews;electric shock;mathematics;engineering students;context;medical services}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344365
+
+I. Smit,  "WhatsApp with learning preferences?," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344366
+keywords: {instant messaging;visualization;information technology;organizations;sensors;system analysis and design;cellular phones}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344366
+
+R. Darbali-Zamora, E. Ortiz-Rivera and A. Rincon-Charris,  "The Puerto Rico CubeSat project to attract STEM students into the area of aerospace engineering," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344367
+keywords: {computers;collaboration;mechanical engineering;aerospace control;satellites;space exploration}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344367
+
+L. DuHadway and T. Henderson,  "Informing change: Course content analysis and organization," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344368
+keywords: {engineering profession;organizations;correlation;education;text analysis;html}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344368
+
+G. Singh, V. Kumar, S. Bhat and N. Pedanekar,  "Automatically augmenting learning material with practical questions to increase its relevance," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344369
+keywords: {databases;education;programming profession;joining processes;software}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344369
+
+N. Llobregat-Gomez, J. Morano, M. Rosello and L. Ruiz,  "Blended learning at maths with aerospace engineering freshmen," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344370
+keywords: {aerospace engineering;mathematics;education;software;standards;online services;videos}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344370
+
+R. Kuriakose and A. Swart,  "South African student perceptions of practical laboratory work — A case study from digital systems 1," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344371
+keywords: {digital systems;engineering students;logic gates;buildings;computers;problem-solving}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344371
+
+W. Tai, A. Gates and M. Akbar,  "Cyber-infrastructure support for the integration and analysis of student success data," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344372
+keywords: {metadata;connectors;unified modeling language;collaboration;documentation;proposals}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344372
+
+Y. Zastavker, J. Goodman and R. Christianson,  "Defining moments: The link between definitions of teaching and the desire to teach," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344373
+keywords: {education;interviews;engineering profession;mathematics;standards;physics;protocols}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344373
+
+M. Blazquez, et al., "InnoEscuela, innovation in secondary school technical studies," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344374
+keywords: {technological innovation;education;conferences;organizations;planning;programming profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344374
+
+J. Cross, E. Hamner, C. Bartley and I. Nourbakhsh,  "Arts & Bots: Application and outcomes of a secondary school robotics program," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344375
+keywords: {art;robots;education;history;hardware;sociology;statistics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344375
+
+F. Li, D. Li, J. Zheng and S. Zhao,  "Virtual experiments for introduction of computing: Using virtual reality technology," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344376
+keywords: {computers;random access memory;education;turing machines;computational modeling;computer science;animation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344376
+
+A. Spanias, P. Curtis, P. Spanias and M. Banavar,  "A new signal processing course for digital culture," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344377
+keywords: {digital signal processing;matlab;finite impulse response filters;iir filters}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344377
+
+H. Jackson, C. Fleischmann and K. Tarhini,  "An approach to improving student learning of civil engineering concepts using case studies," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344378
+keywords: {civil engineering;concrete;floods;geoengineering;reservoirs}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344378
+
+S. Malachowsky and D. Krutz,  "A project component in a web engineering course," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344379
+keywords: {security;testing;web services;facebook;portals;mimics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344379
+
+F. Banda-Sierra, A. Reinoso and S. Reichardt,  "Analysis of the utilization of Web 2.0 resources in secondary education and advanced vocational training studies," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344380
+keywords: {web 2.0;software;training;media;social network services}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344380
+
+K. Ganeshan and X. Li,  "An intelligent student advising system using collaborative filtering," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344381
+keywords: {clustering algorithms;algorithm design and analysis;testing;artificial intelligence;partitioning algorithms;standards;collaboration}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344381
+
+J. Roesler, et al., "Campus integrated project-based learning course in civil and environmental engineering," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344382
+keywords: {mentoring;environmental engineering;problem-solving;project management;writing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344382
+
+J. Queiroz-Neto, D. Sales, H. Pinheiro and B. Neto,  "Using modern pedagogical tools to improve learning in technological contents," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344383
+keywords: {education;collaborative work;collaboration;concrete;context;cities and towns;planning}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344383
+
+S. Chandrasekaran, J. Long and M. Joordens,  "Evaluation of student learning outcomes in fourth year engineering mechatronics through design based learning curriculum," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344384
+keywords: {education;educational robots;mechatronics;knowledge engineering;robot sensing systems;games}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344384
+
+P. Valdiviezo-Diaz, J. Cordero, R. Reategui and J. Aguilar,  "A business intelligence model for online tutoring process," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344385
+keywords: {bismuth;organizations;data mining;artificial intelligence;education;data models}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344385
+
+L. Rynearson and M. Hynes,  "Design and impact of a classroom intervention to support teaming metacognition," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344386
+keywords: {context;instruments;engineering education;standards;team working;frequency measurement;monitoring}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344386
+
+L. Favario, A. Meo and E. Masala,  "Seamless cross-platform integration of educational resources for improved learning experiences," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344387
+keywords: {computer architecture;remote laboratories;electronic learning;licenses;least squares approximations;content management}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344387
+
+L. Tobarra, et al., "Analysis of integration of remote laboratories for renewable energy courses at Jordan universities," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344388
+keywords: {remote laboratories;standards;least squares approximations;renewable energy sources;learning management systems;middleware}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344388
+
+E. O'Neill-Carrillo, C. Pomales-Garcia, A. Irizarry-Rivera and E. Contreras,  "A novel, international masters program to address the sustainable energy challenge," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344389
+keywords: {proposals;power system stability;computer aided instruction;videoconferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344389
+
+S. Hooshangi, J. Willford and T. Behrend,  "Self-regulated learning in transfer students: A case study of non-traditional students," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344390
+keywords: {computers;springs;education;psychology;sociology;statistics;engineering profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344390
+
+A. Ogilvie, et al., "Transfer student pathways to engineering degrees: A multi-institutional study based in Texas," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344391
+keywords: {production;instruments;terminology;engineering profession;engineering students;government}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344391
+
+J. Pembridge, Y. Allam and L. Davids,  "Influence of professional demographics on faculty feedback in asynchronous, video-annotated peer review (VAPR)," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344392
+keywords: {education;streaming media;reflection;reliability;context;organizations;portfolios}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344392
+
+J. McNeil and M. Ohland,  "Pathway, choice of major, and peer economic status of nontraditional students in engineering," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344393
+keywords: {economics;mathematics;databases;engineering students;switches;sociology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344393
+
+R. Revelo,  "Culturally situated survey of engineering identity for Latina/o undergraduates," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344394
+keywords: {interviews;image color analysis;engineering students;cultural differences;standards;reliability}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344394
+
+G. Gomez, C. Restrepo, P. Duarte and L. Rivera,  "Technological tools to learn calculus," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344395
+keywords: {calculus;education;software tools;registers;standards;conferences;testing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344395
+
+X. Li,  "Construct peer assessment instrument using existing e-learning tools," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344396
+keywords: {conferences;instruments;resource management;electronic learning;manuals;robots;software}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344396
+
+N. Cobo-Yepes and R. Palomera-Garcia,  "Use of operational amplifiers and discrete off-the-shelf components to teach fuzzy logic controller concepts," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344397
+keywords: {fuzzy logic;mathematical model;operational amplifiers;integrated circuit modeling;education;cognition;matlab}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344397
+
+P. Crilly and R. Hartnett,  "Using audio amplifier distortion characteristics as a pedagogical tool to explain signal processing theory," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344398
+keywords: {phase distortion;dynamic range;electron tubes;nonlinear distortion;audio systems}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344398
+
+A. Lima, W. Andriola, N. de Souza, T. da Silva and Z. Viana,  "A mixed pedagogical method to improve teaching and learning in Brazilian computing area undergraduate courses," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344399
+keywords: {education;technological innovation;context;problem-solving;knowledge engineering;computers;instruments}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344399
+
+B. Strubel, J. Main, N. Ramirez, J. Davis and M. Ohland,  "Modeling student perceived costs and benefits to cooperative education programs (Co-ops) and pathways to participation," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344400
+keywords: {education;interviews;engineering profession;companies;decision making;remuneration;industries}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344400
+
+R. Paul and L. Falls,  "Mapping career success competencies to engineering leadership capabilities," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344401
+keywords: {engineering profession;context;education;instruments;organizations;standards organizations;analytical models}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344401
+
+S. Brunhaver, et al., "Professional engineering pathways study: A longitudinal study of early career preparedness and decision-making," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344402
+keywords: {engineering profession;engineering students;interviews;decision making;data collection;information processing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344402
+
+M. Faiz and M. Al-Mutairi,  "Assessment of a cooperative training course using faculty course assessment report in an ABET accredited engineering technology program," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344403
+keywords: {training;companies;accreditation;reliability;telecommunications;industries;springs}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344403
+
+A. Decker and C. Egert,  "Is this thing on? Determining comfort level with communication skills in a technical discipline," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344404
+keywords: {games;writing;media;computer science;industries;art;speech}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344404
+
+T. Ball, L. Beckett, M. Isaacson, L. Beckett and M. Isaacson,  "Formulating the problem: Digital storytelling and the development of engineering process skills," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344405
+keywords: {media;education;context;cognition;buildings;problem-solving;systems engineering and theory}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344405
+
+K. Mark and G. Wong,  "Is information technology general education effective for non-engineering major students?: An exploratory study on ethnically Chinese classrooms," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344406
+keywords: {computers;education;information technology;business;computer science;cultural differences;face}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344406
+
+M. McGarry and P. Seeling,  "Lecture, narrated slides, or first person view? Impact of presentation on learning outcomes," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344407
+keywords: {process control;production;computers;standards;education;magnetic heads;cameras}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344407
+
+E. Valentin, J. Carvalho and R. Barreto,  "Rapid improvement of students' soft-skills based on an agile-process approach," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344408
+keywords: {software;writing;cities and towns;companies;scrum (software development);context;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344408
+
+J. Morris,  "Nanotechnology: Simulation and design," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344409
+keywords: {writing;integrated circuit modeling;nanoelectronics;biological system modeling;computational modeling;physics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344409
+
+D. Monismith,  "Incorporating parallelism and high performance computing into computer science courses," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344410
+keywords: {parallel processing;parallel programming;operating systems;organizations;computers;scheduling}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344410
+
+L. Benvenuti, C. Kooijmans, J. Versendaal and G. van der Veer,  "Representation of abstract concepts: Differences across computing disciplines," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344411
+keywords: {cognitive science;software;databases;computational modeling;computers;programming profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344411
+
+R. Garcia, R. Correia, C. Olivete, A. Brandi and J. Prates,  "Teaching and learning software project management: A hands-on approach," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-7.
+doi: 10.1109/FIE.2015.7344412
+keywords: {software;project management;education;monitoring;software engineering;schedules}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344412
+
+J. Aguilar, et al., "Computational platform for the educational model based on the cloud paradigm," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-9.
+doi: 10.1109/FIE.2015.7344413
+keywords: {cloud computing;unified modeling language;computational modeling;education;object oriented modeling;engineering profession;service-oriented architecture}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344413
+
+J. Zhang, S. Bi, X. Geng and X. Fu,  "Experience of experimental teaching and management based on cloud computing," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-5.
+doi: 10.1109/FIE.2015.7344414
+keywords: {laboratories;servers;education;cloud computing;yttrium;schedules;multimedia communication}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344414
+
+Y. Li, Y. Liu and P. Shu,  "Teaching research and practice of blended leaning model based on computational thinking," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344415
+keywords: {decision support systems;education;handheld computers;computational modeling;automation;scientific computing;arrays}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344415
+
+R. Ferreira, J. Nacif, S. Magalhaes, T. de Almeida and R. Pacifico,  "Be a simulator developer and go beyond in computing engineering," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-8.
+doi: 10.1109/FIE.2015.7344416
+keywords: {software;programming profession;object oriented modeling;java;proposals;digital circuits}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344416
+
+A. Dukhanov, A. Bilyatdinova, K. Bochenina and V. Karbovsky,  "The approach to design of STEM courses' learning resources based on students' activity with the use of scientific resources' databases," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-6.
+doi: 10.1109/FIE.2015.7344417
+keywords: {proposals;education;writing;scientific computing;databases;system analysis and design;software}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344417
+
+C. Choi,  "Comparing microcontroller and analog methods for tracking control experiments," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 1-4.
+doi: 10.1109/FIE.2015.7344418
+keywords: {microcontrollers;shafts;dc motors;pulse width modulation;voltage control;operational amplifiers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344418
+
+ "Author index," in 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso, El Paso, TX, USA, 2015 pp. 2439-2459.
+doi: 10.1109/FIE.2015.7344419
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2015.7344419

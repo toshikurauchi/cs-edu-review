@@ -1,0 +1,2074 @@
+ "Copyright," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. ii-ii.
+doi: 10.1109/FIE.2013.6684767
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684767
+
+ "Table of contents," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. iii-iii.
+doi: 10.1109/FIE.2013.6684768
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684768
+
+ "Front matter," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. iv-cxxii.
+doi: 10.1109/FIE.2013.6684769
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684769
+
+E. Durant, et al., "Computer engineering curriculum guidelines," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1-2.
+doi: 10.1109/FIE.2013.6684770
+keywords: {computers;educational institutions;conferences;guidelines;industries;ieee computer society}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684770
+
+M. Lutz,  "Modeling software the alloy way," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 3-3.
+doi: 10.1109/FIE.2013.6684771
+keywords: {metals;software engineering;mathematical model;conferences;software;space exploration;computational modeling}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684771
+
+J. Heliotis, I. Bezakova and S. Strout,  "Programming board game strategies in CS2," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 4-5.
+doi: 10.1109/FIE.2013.6684772
+keywords: {games;engines;conferences;data structures;computer science;software;materials}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684772
+
+M. Simoni, M. Aburdene and F. Fayyaz,  "Why are continuous-time signals and systems courses so difficult? How can we make them more accessible?," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 6-8.
+doi: 10.1109/FIE.2013.6684773
+keywords: {conferences;educational institutions;software;materials;laboratories;digital signal processing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684773
+
+A. Kumar,  "Using problets for problem-solving exercises in introductory C++/Java/C# courses," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 9-10.
+doi: 10.1109/FIE.2013.6684774
+keywords: {programming profession;problem-solving;conferences;java;educational institutions}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684774
+
+S. Jordan, O. Dalrymple and N. Pereira,  "Inspiring inventive genius in middle and high school students with chain-reaction STEAM Machines™," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 11-11.
+doi: 10.1109/FIE.2013.6684775
+keywords: {educational institutions;conferences;technological innovation;art;context;buildings;manufacturing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684775
+
+M. Lutz,  "The Erlang approach to concurrent system development," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 12-13.
+doi: 10.1109/FIE.2013.6684776
+keywords: {concurrent computing;conferences;software engineering;java;education;software;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684776
+
+D. Rover, Y. Astatke, S. Bakshi and F. Vahid,  "An online revolution in learning and teaching," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 14-14.
+doi: 10.1109/FIE.2013.6684777
+keywords: {computer science;computers;conferences;educational institutions;materials;electrical engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684777
+
+Xumin Liu, R. Raj, T. Reichlmayr, Chunmei Liu and A. Pantaleev,  "Teaching Service-Oriented Programming to CS and SE undergraduate students," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 15-16.
+doi: 10.1109/FIE.2013.6684778
+keywords: {web services;programming;conferences;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684778
+
+C. Finelli,  "Refining a taxonomy for engineering education research," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 17-17.
+doi: 10.1109/FIE.2013.6684779
+keywords: {decision support systems}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684779
+
+J. Froyd and S. Lord,  "Exploring Boyer's scholarship of application for submissions to the IEEE transactions on education," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 18-20.
+doi: 10.1109/FIE.2013.6684780
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684780
+
+M. Fosmire, S. Purzer, R. Wertz and A. Van Epps,  "Assessing lifelong learning: The role of information gathering and application skills," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 21-23.
+doi: 10.1109/FIE.2013.6684781
+keywords: {educational institutions;atmospheric measurements;particle measurements;instruments;engineering education;communities}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684781
+
+K. Leitch, C. Koop, M. Messer and A. Payne,  "Green construction in civil engineering instruction," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 24-28.
+doi: 10.1109/FIE.2013.6684782
+keywords: {civil engineering;educational institutions;materials;buildings;ethics;green products;engineering education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684782
+
+S. Schroder, D. Janssen, I. Leisten, R. Vossen and I. Isenhardt,  "On-professional competences in engineering education for XL-Classes," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 29-34.
+doi: 10.1109/FIE.2013.6684783
+keywords: {educational institutions;taxonomy;companies;engineering education;knowledge management}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684783
+
+J. Dorribo-Camba and M. Contero,  "Incorporating augmented reality content in Engineering Design Graphics materials," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 35-40.
+doi: 10.1109/FIE.2013.6684784
+keywords: {visualization;bismuth;artificial intelligence;software;augmented reality}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684784
+
+Yao Hu, et al., "Aptitude digging education in project-based course," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 41-43.
+doi: 10.1109/FIE.2013.6684785
+keywords: {instruments;standards;teamwork;educational institutions;mathematics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684785
+
+J. Benlloch-Dualde, et al., "Redesigning engineering courses by introducing digital ink technology," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 44-49.
+doi: 10.1109/FIE.2013.6684786
+keywords: {ink;tablet computers;educational institutions;real-time systems;chemistry}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684786
+
+A. Godwin, G. Potvin, Z. Hazari and R. Lock,  "Understanding engineering identity through structural equation modeling," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 50-56.
+doi: 10.1109/FIE.2013.6684787
+keywords: {physics;educational institutions;mathematical model;engineering profession;reliability;loading}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684787
+
+S. Lord, R. Layton, M. Ohland and M. Orr,  "Student demographics and outcomes in Electrical and Mechanical Engineering," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 57-63.
+doi: 10.1109/FIE.2013.6684788
+keywords: {sociology;statistics;educational institutions;mechanical engineering;trajectory;databases;aggregates}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684788
+
+J. Pembridge and M. Paretti,  "Student perceptions of andragogical orientation and student learning," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 64-68.
+doi: 10.1109/FIE.2013.6684789
+keywords: {educational institutions;standards;employee welfare;engineering students;materials;interviews}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684789
+
+A. Kirn and L. Benson,  "Quantitative assessment of student motivation to characterize differences between engineering majors," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 69-74.
+doi: 10.1109/FIE.2013.6684790
+keywords: {problem-solving;engineering students;psychology;instruments;sociology;statistics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684790
+
+M. Pilotte and D. Bairaktarova,  "Engineering person-thing orientation: Comparisons between first-year students and practicing engineers with implications for retention and professional placement," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 75-77.
+doi: 10.1109/FIE.2013.6684791
+keywords: {engineering profession;sociology;statistics;industries;educational institutions;engineering students}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684791
+
+K. Trenshaw, R. Revelo Alonso, K. Earl and G. Herman,  "Exploring the student experience in low-cost intrinsic motivation course conversions," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 78-79.
+doi: 10.1109/FIE.2013.6684792
+keywords: {interviews;education;erbium;computers;encoding;psychology;materials}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684792
+
+A. Naz and M. Casto,  "Bring best of two worlds in a software engineering class, student outcomes of Accreditation Board of Engineering and Technology (ABET) and information literacy standards of Association of College amp; Research Libraries (ACRL)," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 80-86.
+doi: 10.1109/FIE.2013.6684793
+keywords: {standards;educational institutions;software engineering;libraries;ethics;accreditation;teamwork}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684793
+
+A. Santos, A. Gomes and A. Mendes,  "A taxonomy of exercises to support individual learning paths in initial programming learning," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 87-93.
+doi: 10.1109/FIE.2013.6684794
+keywords: {taxonomy;complexity theory;programming profession;java;arrays;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684794
+
+A. Magana, C. Vieira, F. Polo, Junchao Yan and Xin Sun,  "An exploratory survey on the use of computation in undergraduate engineering education," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 94-100.
+doi: 10.1109/FIE.2013.6684795
+keywords: {computational modeling;education;mathematical model;data models;predictive models;context;matlab}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684795
+
+L. Alves, A. Sousa, P. Ribeiro and R. Machado,  "An empirical study on the estimation of software development effort with use case points," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 101-107.
+doi: 10.1109/FIE.2013.6684796
+keywords: {complexity theory;software systems;software engineering;size measurement;software measurement}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684796
+
+H. Cota de Freitas,  "Method for teaching parallelism on heterogeneous many-core processors using research projects," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 108-113.
+doi: 10.1109/FIE.2013.6684797
+keywords: {program processors;education;parallel processing;programming;computer architecture;benchmark testing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684797
+
+N. Duval-Couetil and J. Wheadon,  "The value of entrepreneurship to recent engineering graduates: A qualitative perspective," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 114-120.
+doi: 10.1109/FIE.2013.6684798
+keywords: {innovation management;engineering students;interviews;educational institutions;engineering profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684798
+
+F. Hassan, H. LeBlanc and K. Al-Olimat,  "Inculcating an entrepreneurial mindset in engineering education: Project approach," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 121-126.
+doi: 10.1109/FIE.2013.6684799
+keywords: {lead;heat engines;probes;resistors;wiring;remuneration;manufacturing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684799
+
+A. Mondragon-Torres,  "An Agile embedded systems capstone course," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 127-133.
+doi: 10.1109/FIE.2013.6684800
+keywords: {project management;collaboration;blogs;companies;field programmable gate arrays;embedded systems;hardware}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684800
+
+N. Duval-Couetil, J. Wheadon, E. Kisenwether and J. Tranquillo,  "Entrepreneurship and ABET accreditation: How and where does it fit?," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 134-136.
+doi: 10.1109/FIE.2013.6684801
+keywords: {innovation management;engineering education;educational institutions;object recognition;lead;accreditation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684801
+
+P. Oihus, A. Surovek and D. Jensen,  "Design Wars: Developing student creativity through competition," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 137-139.
+doi: 10.1109/FIE.2013.6684802
+keywords: {floors;mobile computing;engineering education;correlation;educational institutions;documentation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684802
+
+D. Rover, et al., "Engineer of 2020 outcomes and the student experience," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 140-146.
+doi: 10.1109/FIE.2013.6684803
+keywords: {technological innovation;lead;history;fuels;aircraft;three-dimensional displays}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684803
+
+W. Friess and M. Davis,  "Development, implementation and assessment of a common first year end-of-semester engineering design project in an integrated curriculum," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 147-153.
+doi: 10.1109/FIE.2013.6684804
+keywords: {physics;assembly;design automation;logic gates;communities;mathematics;programming}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684804
+
+M. Shadaram, B. Alger and M. Agrawal,  "Implementation of Just in Time and revamped engineering math courses to improve retention and graduation rates," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 154-158.
+doi: 10.1109/FIE.2013.6684805
+keywords: {calculus;educational institutions;laboratories;matrix decomposition;engineering students}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684805
+
+Ning Fang and Yongqing Guo,  "A web-based interactive intelligent tutoring system for undergraduate engineering dynamics," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 159-160.
+doi: 10.1109/FIE.2013.6684806
+keywords: {artificial intelligence;aerodynamics;problem-solving;engineering education;educational institutions;aerospace engineering;biomedical engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684806
+
+J. Bishop and M. Verleger,  "Testing the flipped classroom with model-eliciting activities and video lectures in a mid-level undergraduate engineering course," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 161-163.
+doi: 10.1109/FIE.2013.6684807
+keywords: {educational institutions;mathematical model;engineering students;springs;numerical models;problem-solving}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684807
+
+A. Sterbini and M. Temperini,  "OpenAnswer, a framework to support teacher's management of open answers through peer assessment," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 164-170.
+doi: 10.1109/FIE.2013.6684808
+keywords: {bayes methods;probability distribution;computational modeling;educational institutions;data mining;taxonomy;electronic learning}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684808
+
+T. Silva, F. Vasconcelos, A. Almeida, J. Mota and W. Andriola,  "A new approach to analyze the curriculum structure using the Students' Evaluation of Education Quality instrument," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 171-174.
+doi: 10.1109/FIE.2013.6684809
+keywords: {instruments;correlation;context;educational institutions;reliability;psychology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684809
+
+A. Nunes, T. Silva, A. Almeida, J. Mota and W. Andriola,  "Analyzing the quality of the engineering course's management using information processing based on multivariate statistics: A case study under the professors' perspectives," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 175-178.
+doi: 10.1109/FIE.2013.6684810
+keywords: {principal component analysis;educational institutions;context;instruments;training;databases}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684810
+
+Wei-Fan Chen and Hei-Chia Wang,  "Peer evaluation in an undergraduate database management class: A quasi-experimental study," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 179-180.
+doi: 10.1109/FIE.2013.6684811
+keywords: {electronic learning;web 2.0;blogs;information services;electronic publishing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684811
+
+P. Ko,  "A longitudinal study of the effects of a high school robotics and computational thinking class on academic achievement (WIP)," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 181-183.
+doi: 10.1109/FIE.2013.6684812
+keywords: {robots;educational institutions;interviews;problem-solving;programming profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684812
+
+Tao Zhang, Shiyu Lu, Zhenyu Zhang and Jun Li,  "Web-based collaboration system to improve the interactivity for mobile education through smart devices," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 184-189.
+doi: 10.1109/FIE.2013.6684813
+keywords: {mobile communication;servers;broadband communication;courseware;wireless communication}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684813
+
+J. de la Torre, J. Saorin, M. Contero and J. Dorribo-Camba,  "Interactive sketching in multi-touch digital books. A prototype for technical graphics," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 190-194.
+doi: 10.1109/FIE.2013.6684814
+keywords: {electronic publishing;prototypes;multimedia communication;visualization;tablet computers;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684814
+
+F. Naya, M. Contero and J. Dorribo-Camba,  "A multi-touch application for the automatic evaluation of dimensions in hand-drawn sketches," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 195-199.
+doi: 10.1109/FIE.2013.6684815
+keywords: {shape;geometry;software;standards;engineering students;design automation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684815
+
+Liang Hong, Kai Qian, Gang Quan and Kuosheng Ma,  "Low-cost and portable labware for computing curriculum using scalable mobile sensory platform," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 200-202.
+doi: 10.1109/FIE.2013.6684816
+keywords: {embedded systems;smart phones;mobile communication;educational institutions;computers;temperature sensors}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684816
+
+L. Miller and Leen-Kiat Soh,  "Significant predictors of learning from student interactions with online learning objects," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 203-209.
+doi: 10.1109/FIE.2013.6684817
+keywords: {educational institutions;organizations;problem-solving}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684817
+
+M. Borrego, et al., "New National Science Foundation opportunities for improving undergraduate engineering education," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 210-211.
+doi: 10.1109/FIE.2013.6684818
+keywords: {us government;science - general;engineering education;proposals;knowledge engineering;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684818
+
+D. Aragon, et al., "Model collaboration for advancing student-centered engineering education," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 212-214.
+doi: 10.1109/FIE.2013.6684819
+keywords: {educational institutions;engineering education;lead;technological innovation;collaboration;planning}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684819
+
+J. Perlinger, K. Paterson, A. Mayer, V. Griffis and K. Holles,  "Assessment of a sustainability program in graduate Civil and Environmental Engineering Education," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 215-219.
+doi: 10.1109/FIE.2013.6684820
+keywords: {employee welfare;cultural differences;economics;educational institutions;engineering education;scholarships}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684820
+
+C. da Rocha Brito, R. Vasconcelos, M. Ciampi, L. Amaral and V. Barros,  "Engineers transforming the environment for betterment of life," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 220-225.
+doi: 10.1109/FIE.2013.6684821
+keywords: {educational institutions;engineering education;water pollution;organizations;engineering profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684821
+
+S. Ruiz, M. Urretavizcaya and I. Fernandez-Castro,  "Monitoring F2F interactions through attendance control," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 226-232.
+doi: 10.1109/FIE.2013.6684822
+keywords: {registers;tutorials;monitoring;adaptation models;planning;educational institutions}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684822
+
+V. Young, D. Juedes and H. Raffle,  "The Appalachian Cohort for Engineering: An evaluation of S-STEM strategies for success," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 233-235.
+doi: 10.1109/FIE.2013.6684823
+keywords: {educational institutions;scholarships;communities;buildings;engineering profession;data collection;training}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684823
+
+E. Douglas, J. Vargas and C. Sotomayor,  "The nature of learning in a guided inquiry classroom," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 236-238.
+doi: 10.1109/FIE.2013.6684824
+keywords: {materials;engineering education;educational institutions;interviews;chemistry;equations}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684824
+
+I. Bojanova,  "Development of a reliable, valid, multi-dimensional measure of student engagement in group projects," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 239-245.
+doi: 10.1109/FIE.2013.6684825
+keywords: {reliability;educational institutions;correlation;eigenvalues and eigenfunctions;instruments;loading;analytical models}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684825
+
+D. Fick, M. Gribb and C. Tinant,  "The impact of project-based service learning in a native American community on Student Performance in Civil Engineering Capstone Design," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 246-250.
+doi: 10.1109/FIE.2013.6684826
+keywords: {communities;educational institutions;civil engineering;water conservation;concrete}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684826
+
+K. Cross, M. Paretti and H. Matusovich,  "Student beliefs about learning communication skills," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 251-256.
+doi: 10.1109/FIE.2013.6684827
+keywords: {communities;educational institutions;abstracts;engineering education;employment}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684827
+
+A. Nylen and A. Pears,  "Professional communication skills for engineering professionals," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 257-263.
+doi: 10.1109/FIE.2013.6684828
+keywords: {educational institutions;writing;materials}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684828
+
+E. Miskioglu and D. Wood,  "Correlation of learning styles with team performance and perception in a chemical engineering unit operations course," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 264-266.
+doi: 10.1109/FIE.2013.6684829
+keywords: {laboratories;teamwork;correlation;chemical engineering;chemicals;indexes;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684829
+
+A. Amorim Oliveira, S. dos Santos and V. Cardoso Garcia,  "PBL in teaching computing: An overview of the last 15 years," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 267-272.
+doi: 10.1109/FIE.2013.6684830
+keywords: {training;abstracts}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684830
+
+Dejang Liu, M. Mbilizi and L. Watson,  "Women's ways of knowing in information technology specialties at a community college," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 273-279.
+doi: 10.1109/FIE.2013.6684831
+keywords: {educational institutions;communities;computers;electronic mail;programming profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684831
+
+I. Smit and R. Goede,  "The good, the bad and the ugly: Using videos to reverse systems analysis and design instruction," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 280-285.
+doi: 10.1109/FIE.2013.6684832
+keywords: {videos;watches;computers;educational institutions;data models;context;materials}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684832
+
+T. McEwan,  "Commercial competency and computing students: Using the skills framework for the information age in higher education," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 286-292.
+doi: 10.1109/FIE.2013.6684833
+keywords: {technological innovation;educational institutions;conferences;proposals;usability;human computer interaction}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684833
+
+J. Rodrigues, et al., "iQuiz: Integrated assessment environment to improve Moodle Quiz," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 293-295.
+doi: 10.1109/FIE.2013.6684834
+keywords: {least squares approximations;multimedia communication}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684834
+
+S. Sivaramakrishnan and A. Ganago,  "Teaching strategy focused on sensory perception, students' interest and enjoyment: Successful application in Electrical Engineering (EE) lab for non-EE majors," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 296-302.
+doi: 10.1109/FIE.2013.6684835
+keywords: {materials;instruments}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684835
+
+E. Falletti, D. Margaria, M. Nicola, G. Povero and M. Gamba,  "N-FUELS and SOPRANO: Educational tools for simulation, analysis and processing of satellite navigation signals," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 303-308.
+doi: 10.1109/FIE.2013.6684836
+keywords: {global positioning system;receivers;noise;delays;satellites;matlab}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684836
+
+A. Azemi,  "Teaching Electric Circuits using a modified flipped classroom approach," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 309-310.
+doi: 10.1109/FIE.2013.6684837
+keywords: {problem-solving;materials;educational institutions;abstracts;software;multimedia communication}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684837
+
+A. Mondragon-Torres and J. Christman,  "Embedded systems design curriculum conversion from quarters to semesters," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 311-313.
+doi: 10.1109/FIE.2013.6684838
+keywords: {decision support systems;hardware;laboratories;libraries;graphical user interfaces;servomotors;pulse width modulation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684838
+
+B. Skromme, et al., "Computer-aided instruction for introductory linear circuit analysis," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 314-319.
+doi: 10.1109/FIE.2013.6684839
+keywords: {equations;tutorials;software;materials;educational institutions;linear circuits;topology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684839
+
+F. Marbouti and H. Diefes-Dux,  "First-Year students' understanding of direct user in open-ended problem solving activities," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 320-326.
+doi: 10.1109/FIE.2013.6684840
+keywords: {companies;educational institutions;mathematical model;problem-solving;context;frequency selective surfaces;engineering education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684840
+
+K. Rodgers, H. Diefes-Dux and K. Madhavan,  "Case studies: First-Year engineering nanotechnology-based design projects," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 327-333.
+doi: 10.1109/FIE.2013.6684841
+keywords: {graphical user interfaces;fractals;carbon nanotubes;physics;nanobioscience}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684841
+
+Lin Cheng,  "Community learning component in first year seminar," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 334-336.
+doi: 10.1109/FIE.2013.6684842
+keywords: {seminars;art;educational institutions;media}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684842
+
+M. Verleger,  "Development of a multiple-choice MATLAB theory and syntax exam," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 337-339.
+doi: 10.1109/FIE.2013.6684843
+keywords: {programming;syntactics;matlab;problem-solving;indexes;educational institutions;testing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684843
+
+C. Vergara, et al., "Engaging Early Engineering Students (EEES)," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 340-342.
+doi: 10.1109/FIE.2013.6684844
+keywords: {silicon;educational institutions;engineering students;physics;communities;logic gates}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684844
+
+Mingrui Zhang, Chuanmin Hu and Guleng Amu,  "Real-world problem solving in entry-level programming courses: A case study on the Deepwater Horizon oil spill," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 343-348.
+doi: 10.1109/FIE.2013.6684845
+keywords: {image color analysis;computers;algorithm design and analysis;software;problem-solving;java;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684845
+
+C. Foor, S. Walden, R. Shehab and D. Trytten,  "“We weren't intentionally excluding them…just old habits”: Women, (lack of) interest and an engineering student competition team," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 349-355.
+doi: 10.1109/FIE.2013.6684846
+keywords: {cultural differences;educational institutions;vehicles;engineering students;interviews;organizations;lead}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684846
+
+W. Lawrence-Fowler, L. Grabowski, R. Fowler and G. Yedid,  "Convergence of evolutionary biology and software engineering: Putting practice in action," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 356-361.
+doi: 10.1109/FIE.2013.6684847
+keywords: {software engineering;software;data visualization;computer science;phylogeny}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684847
+
+J. Martin-Gutierrez, M. Garcia-Dominguez, C. Roca Gonzalez and M. Corredeguas,  "Using different methodologies and technologies to training spatial skill in Engineering Graphic subjects," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 362-368.
+doi: 10.1109/FIE.2013.6684848
+keywords: {training;portable document format;three-dimensional displays;augmented reality;materials}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684848
+
+J. Mejia, W. Goodridge and C. Green,  "Enhancing engineering mechanics statics instruction using manipulative truss models," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 369-371.
+doi: 10.1109/FIE.2013.6684849
+keywords: {visualization;educational institutions;materials;engineering students;mathematical model}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684849
+
+A. Gordillo, D. Gallego, E. Barra and J. Quemada,  "The city as a learning gamified platform," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 372-378.
+doi: 10.1109/FIE.2013.6684850
+keywords: {cities and towns;mobile communication;games;education;context;prototypes;europe}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684850
+
+N. Freitas Duarte Filho and E. Barbosa,  "A contribution to the quality evaluation of mobile learning environments," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 379-382.
+doi: 10.1109/FIE.2013.6684851
+keywords: {mobile communication;usability;mobile handsets;context;security;guidelines;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684851
+
+A. Gordillo, E. Barra, D. Gallego and J. Quemada,  "A model for integrating learning object repository resources into web videoconference services," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 383-392.
+doi: 10.1109/FIE.2013.6684852
+keywords: {interoperability;videoconferences;synchronization;games;servers;context;electronic learning}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684852
+
+I. da Costa Pinho, D. Epstein, E. Berni Reategui, Y. Correa and E. Polonia,  "The use of text mining to build a pedagogical agent capable of mediating synchronous online discussions in the context of foreign language learning," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 393-399.
+doi: 10.1109/FIE.2013.6684853
+keywords: {text mining;mediation;writing;collaboration;education;production;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684853
+
+Hon Jie Teo, A. Johri and D. Brogan,  "Towards an understanding of ECE students' Use of online homework help forums," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 400-404.
+doi: 10.1109/FIE.2013.6684854
+keywords: {discussion forums;communities;computers;pragmatics;control systems;switching circuits;dictionaries}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684854
+
+C. Romanowski and R. Raj,  "Catching the wave: Big data in the classroom," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 405-406.
+doi: 10.1109/FIE.2013.6684855
+keywords: {information management;data handling;data storage systems;conferences;computer science;data mining;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684855
+
+R. Cheville and D. Jones-Davis,  "dIsRuPtIoN," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 407-409.
+doi: 10.1109/FIE.2013.6684856
+keywords: {educational institutions;engineering education;communities;organizations;economics;context}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684856
+
+A. Cavalcante Goncalves and D. Ferreira,  "A teaching method for using metaphors in interaction design," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 410-416.
+doi: 10.1109/FIE.2013.6684857
+keywords: {education;human computer interaction;visualization;context;collaborative work;mobile communication}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684857
+
+D. Levy,  "Computer science education as part of an undergraduate program in community information systems," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 417-422.
+doi: 10.1109/FIE.2013.6684858
+keywords: {information systems;communities;programming profession;educational institutions}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684858
+
+W. Schilling,  "Assessing the effectiveness of video feedback in the computing field," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 423-429.
+doi: 10.1109/FIE.2013.6684859
+keywords: {visualization;operating systems;software engineering;multimedia communication;streaming media;documentation;springs}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684859
+
+Peng Li,  "Portable lab modules on cloud computing," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 430-431.
+doi: 10.1109/FIE.2013.6684860
+keywords: {educational institutions;green products;materials;virtual machine monitors}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684860
+
+M. Lutz,  "Functional approaches to teaching concurrency," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 432-434.
+doi: 10.1109/FIE.2013.6684861
+keywords: {concurrent computing;java;education;synchronization;operating systems;pragmatics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684861
+
+I. Rothe and A. Schwandt,  "Using an embroidery machine to achieve a deeper understanding of electromechanical applications," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 435-437.
+doi: 10.1109/FIE.2013.6684862
+keywords: {mechanical engineering;motor drives;educational institutions;electrical engineering;microcontrollers;documentation;software}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684862
+
+S. Uludag, M. Demirci, E. Dogdu and F. Aydos,  "Pedagogical analysis and multifaceted evaluation of an engineering co-op program," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 438-444.
+doi: 10.1109/FIE.2013.6684863
+keywords: {educational institutions;companies;taxonomy;industries;economics;schedules}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684863
+
+L. Ureel and C. Wallace,  "Software for senior citizens: An experiential learning course in gerontology, software usability and digital literacy," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 445-449.
+doi: 10.1109/FIE.2013.6684864
+keywords: {senior citizens;computers;libraries;educational institutions;communities;sociology;statistics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684864
+
+S. de Lucena,  "Internal combustion engine's throttle control as a motivational theme for teaching microprocessors systems lab classes," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 450-454.
+doi: 10.1109/FIE.2013.6684865
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684865
+
+S. Donizetti Zorzo, L. de Ponte and D. Lucredio,  "Using scrum to teach software engineering: A case study," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 455-461.
+doi: 10.1109/FIE.2013.6684866
+keywords: {software;software engineering;education;programming;communities;data visualization;databases}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684866
+
+O. Pantchenko, M. Isaacson and A. Shakouri,  "A retrospective study of a personal energy audit assignment in a renewable energy sources course," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 462-465.
+doi: 10.1109/FIE.2013.6684867
+keywords: {renewable energy sources;educational institutions;energy consumption;electricity;laboratories;home appliances}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684867
+
+O. Pantchenko, M. Isaacson and M. Hornstein,  "A hands-on laboratory experiment on concentrating solar power in a renewable energy sources course," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 466-469.
+doi: 10.1109/FIE.2013.6684868
+keywords: {laboratories;mirrors;steel;poles and towers;solar energy;educational institutions;renewable energy sources}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684868
+
+T. Hassell, A. Oliveira and W. Weaver,  "Design, construction, and testing of an electric machine test-bed for use in laboratory and research education," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 470-476.
+doi: 10.1109/FIE.2013.6684869
+keywords: {inverters;power supplies;torque;safety;induction motors;control systems}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684869
+
+T. Hassell, W. Weaver and A. Oliveira,  "Using Matlab's Simscape modeling environment as a simulation tool in power electronics and electrical machines courses," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 477-483.
+doi: 10.1109/FIE.2013.6684870
+keywords: {mathematical model;integrated circuit modeling;matlab;power electronics;libraries}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684870
+
+S. Lincke and C. Hudspeth,  "Energy efficiency: Teaching for accreditation, ethics, and technology," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 484-490.
+doi: 10.1109/FIE.2013.6684871
+keywords: {energy efficiency;ethics;computers;education;meteorology;green products;computer science}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684871
+
+T. Lucke, U. Keyssner and P. Dunn,  "The use of a Classroom Response System to more effectively flip the classroom," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 491-495.
+doi: 10.1109/FIE.2013.6684872
+keywords: {conferences;education;materials;noise level;mobile handsets;portable computers;cognition}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684872
+
+D. Munro,  "Development of an automated manufacturing course with lab for undergraduates," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 496-501.
+doi: 10.1109/FIE.2013.6684873
+keywords: {manufacturing;design automation;solid modeling;three-dimensional displays;software;printers;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684873
+
+J. Cecil, P. Ramanathan and M. Mwavita,  "Virtual Learning Environments in engineering and STEM education," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 502-507.
+doi: 10.1109/FIE.2013.6684874
+keywords: {educational institutions;assembly;virtual reality;next generation networking;internet;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684874
+
+L. Begosso and P. Rodrigues da Silva,  "Teaching computer programming: A practical review," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 508-510.
+doi: 10.1109/FIE.2013.6684875
+keywords: {computers;programming profession;educational institutions;computer languages;programming environments}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684875
+
+Y. Astatke, et al., "Models of adoption and best practices for mobile hands-on learning in electrical engineering," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 511-513.
+doi: 10.1109/FIE.2013.6684876
+keywords: {computers;instruments;laboratories;educational institutions;materials;best practices}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684876
+
+Hwee-Joo Kam, G. Gogolin, D. Blakemore and G. Emerick,  "Playing online games on Facebook: The conscious and unconscious learning in database design," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 514-516.
+doi: 10.1109/FIE.2013.6684877
+keywords: {games;reflection;facebook;education;semiotics;visual databases}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684877
+
+A. Navarro, et al., "TEST: Serious games for radio communications learning," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 517-522.
+doi: 10.1109/FIE.2013.6684878
+keywords: {games;training;multimedia communication;software;antennas;streaming media;telecommunications}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684878
+
+P. Doerschuk, et al., "Introducing programming concepts through video game creation," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 523-529.
+doi: 10.1109/FIE.2013.6684879
+keywords: {games;materials;programming profession;educational institutions;portals}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684879
+
+J. Ranalli and J. Ritzko,  "Assessing the impact of video game based design projects in a first year engineering design course," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 530-534.
+doi: 10.1109/FIE.2013.6684880
+keywords: {games;rockets;engineering students;moon;context;educational institutions;physics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684880
+
+L. Mesquita, M. Monteiro, G. de Sena, M. Ninomiya and C. da Costa,  "Education for energy efficiency through an educational game," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 535-540.
+doi: 10.1109/FIE.2013.6684881
+keywords: {games;training;educational institutions;energy efficiency;context;instruments}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684881
+
+M. Massaru Arimoto and E. Barbosa,  "Towards the establishment of an agile method for OERs development and delivery," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 541-547.
+doi: 10.1109/FIE.2013.6684882
+keywords: {software;collaboration;planning;education;context;licenses;web 2.0}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684882
+
+M. Nascimento, L. Brandao and A. Brandao,  "A model to support a learning object repository for web-based courses," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 548-552.
+doi: 10.1109/FIE.2013.6684883
+keywords: {least squares approximations;standards;materials;unified modeling language;object oriented modeling;computer aided instruction}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684883
+
+N. Rogers, K. Singh and F. Khan,  "Development of educational techniques for computational-experimental analysis," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 553-557.
+doi: 10.1109/FIE.2013.6684884
+keywords: {decision support systems}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684884
+
+N. Piedra, J. Chicaiza, J. Lopez and E. Tovar,  "Using linked open data to improve the search of open educational resources for engineering students," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 558-560.
+doi: 10.1109/FIE.2013.6684885
+keywords: {interoperability;navigation;educational institutions;licenses;materials;data mining;semantic web}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684885
+
+S. Lord and M. Camacho,  "Latinos and Latinas in the borderlands of education Researching minority populations in engineering," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 561-566.
+doi: 10.1109/FIE.2013.6684886
+keywords: {educational institutions;engineering education;sociology;statistics;communities;color}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684886
+
+S. Leonard, B. Pearcy, R. Shehab and S. Walden,  "Minority student informed retention strategies," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 567-573.
+doi: 10.1109/FIE.2013.6684887
+keywords: {educational institutions;engineering students;organizations;social network services;scholarships;interviews;knowledge engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684887
+
+L. Groll, T. Reed, P. Imbrie, L. Kavanagh and C. Reidsema,  "The elephant in the room First-year engineering students discuss diversity," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 574-576.
+doi: 10.1109/FIE.2013.6684888
+keywords: {cultural differences;speech;educational institutions;engineering students;global communication;minimization;interviews}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684888
+
+W. Lee and H. Matusovich,  "Common configurations for Engineering Student Support Centers," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 577-579.
+doi: 10.1109/FIE.2013.6684889
+keywords: {educational institutions;engineering students;sociology;statistics;interviews;internet}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684889
+
+M. Ekoniak,  "Engineering culture and LGBTQ engineers' use of social change strategies," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 580-581.
+doi: 10.1109/FIE.2013.6684890
+keywords: {employment;meteorology;navigation;context;cultural differences;engineering education;communities}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684890
+
+J. Froyd, P. Imbrie and T. Reed,  "Tools to facilitate development of conceptual understanding in the first and second year of engineering," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 582-584.
+doi: 10.1109/FIE.2013.6684891
+keywords: {educational institutions;instruments;engineering education;conferences;force}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684891
+
+C. Stone, et al., "Building an inclusive REU program A model for engineering education," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 585-587.
+doi: 10.1109/FIE.2013.6684892
+keywords: {educational institutions;renewable energy sources;materials;laboratories;buildings;seminars}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684892
+
+Y. Zastavker, V. Darer and A. Kessler,  "Improving STEM classroom culture: Discourse analysis," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 588-594.
+doi: 10.1109/FIE.2013.6684893
+keywords: {business;games;reliability;educational institutions}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684893
+
+S. dos Santos, C. Figueredo and F. Wanderley,  "PBL-Test: A model to evaluate the maturity of teaching processes in a PBL approach," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 595-601.
+doi: 10.1109/FIE.2013.6684894
+keywords: {training;context;monitoring;computational modeling;collaboration;analytical models}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684894
+
+R. O'Connell and Pil Won On,  "An online training course for instructors wishing to implement team-based learning (TBL)," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 602-604.
+doi: 10.1109/FIE.2013.6684895
+keywords: {training;educational institutions;circuit theory;knowledge engineering;problem-solving;learning systems}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684895
+
+R. Kajfez and H. Matusovich,  "The practical applications of understanding Graduate Teaching Assistant motivation and identity development," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 605-607.
+doi: 10.1109/FIE.2013.6684896
+keywords: {interviews;joining processes;engineering students;training;engineering profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684896
+
+J. Main,  "Institutional benefits policies and family formation among engineering faculty," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 608-610.
+doi: 10.1109/FIE.2013.6684897
+keywords: {medical services;engineering profession;educational institutions;economics;employment;availability}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684897
+
+C. Davis, J. Sluss, T. Landers and P. Pulat,  "Innovative practices for engineering professional development courses," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 611-617.
+doi: 10.1109/FIE.2013.6684898
+keywords: {springs;ethics;educational institutions;schedules;abstracts;elevators}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684898
+
+J. Cohoon and F. Raoking,  "Professional development for mid-career women in computer science and engineering," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 618-622.
+doi: 10.1109/FIE.2013.6684899
+keywords: {engineering profession;employee welfare;conferences;computational modeling;educational institutions;communities}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684899
+
+Dan Zhang, et al., "Planning teamwork teaching based on students' feedback in engineering education of China," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 623-625.
+doi: 10.1109/FIE.2013.6684900
+keywords: {teamwork;educational institutions;software engineering;engineering students;training}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684900
+
+M. Ekoniak, M. Scanlon and M. Mohammadi-Aragh,  "Improving student writing through multiple peer feedback," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 626-628.
+doi: 10.1109/FIE.2013.6684901
+keywords: {writing;engineering education;educational institutions;training;computers;context;best practices}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684901
+
+V. Hughston,  "An empirical study: Team charters and viability in freshmen engineering design," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 629-631.
+doi: 10.1109/FIE.2013.6684902
+keywords: {cognitive science;teamwork;educational institutions;engineering education;springs;psychology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684902
+
+R. Sundaram,  "Drafting Program Educational Objectives for undergraduate engineering degree programs," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 632-636.
+doi: 10.1109/FIE.2013.6684903
+keywords: {lead;training;welding}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684903
+
+R. Khair, M. Abdulwahed, A. Hamouda and M. Hasna,  "From global to local: Investigation of necessary engineering skills for KBE transformation in Qatar in the context of global engineering attributes," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 637-643.
+doi: 10.1109/FIE.2013.6684904
+keywords: {problem-solving;teamwork;technological innovation;knowledge engineering;lead;engineering education;business}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684904
+
+J. Hess and J. Strobel,  "Sustainability and the engineering worldview," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 644-648.
+doi: 10.1109/FIE.2013.6684905
+keywords: {engineering education;educational institutions;sustainable development;green products;economics;context}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684905
+
+S. Fleischmann,  "Urban sustainability - An engineering course for general education Making the case for engineering to be active in General Education," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 649-653.
+doi: 10.1109/FIE.2013.6684906
+keywords: {educational institutions;cities and towns;buildings;art;poles and towers;jacobian matrices}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684906
+
+Jiabin Zhu, M. Cox, S. Branch, B. Ahn and J. London,  "Recommendations for engineering doctoral education: Design of an instrument to evaluate change," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 654-656.
+doi: 10.1109/FIE.2013.6684907
+keywords: {medical services;educational institutions;industries;training;instruments;interviews}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684907
+
+M. Wolf and S. Mukhopadhyay,  "Physics of computing as an introduction to computer engineering," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 657-660.
+doi: 10.1109/FIE.2013.6684908
+keywords: {computers;physics;delays;materials;computer architecture;reliability;logic gates}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684908
+
+A. Beg,  "Automatic generation of characterization circuits - An application in academia," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 661-664.
+doi: 10.1109/FIE.2013.6684909
+keywords: {inverters;hardware design languages;hardware;computers;transistors;standards;world wide web}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684909
+
+D. Carnegie and C. Watterson,  "Issues of recruitment and retention for a new engineering provider," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 665-671.
+doi: 10.1109/FIE.2013.6684910
+keywords: {educational institutions;mathematics;recruitment;physics;government;engineering profession;advertising}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684910
+
+A. Oliveira, T. Hassell and W. Weaver,  "Integration of funded faculty research, capstone experiences and industry requirements," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 672-678.
+doi: 10.1109/FIE.2013.6684911
+keywords: {industries;testing;safety;educational institutions;electric machines;inverters;computer architecture}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684911
+
+A. Miguel-de-Priego,  "A builder and simulator program with interactive virtual environments for the discovery and design of logic digital circuits," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 679-684.
+doi: 10.1109/FIE.2013.6684912
+keywords: {educational institutions;integrated circuits;logic circuits;virtual environments;tutorials;logic design;digital circuits}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684912
+
+E. Barra, A. Gordillo, D. Gallego and J. Quemada,  "Integration of SCORM packages into web games," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 685-690.
+doi: 10.1109/FIE.2013.6684913
+keywords: {games;weapons;adaptation models;servers;service-oriented architecture}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684913
+
+D. Peixoto, R. Resende and C. Padua,  "An educational simulation model derived from academic and industrial experiences," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 691-697.
+doi: 10.1109/FIE.2013.6684914
+keywords: {measurement uncertainty;software measurement;software}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684914
+
+Chien-Hung Lai, Bin-Shyan Jong, Yu-Chang Lin and Yen-Teh Hsia,  "Adding social elements to game-based learning - An exploration," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 698-700.
+doi: 10.1109/FIE.2013.6684915
+keywords: {games;positron emission tomography;facebook;computers;operating systems;feeds}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684915
+
+T. Korman and H. Johnston,  "Using game-based learning and simulations to enhance engineering and management education," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 701-703.
+doi: 10.1109/FIE.2013.6684916
+keywords: {companies;computational modeling;educational institutions;schedules;construction industry;measurement}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684916
+
+A. McGovern and D. Trytten,  "Making in-class competitions desirable for marginalized groups," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 704-706.
+doi: 10.1109/FIE.2013.6684917
+keywords: {games;educational institutions;face;computers;springs;marine vehicles;computer science}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684917
+
+M. Miller, et al., "Evaluation of computer modules to teach metacognition and motivation strategies," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 707-709.
+doi: 10.1109/FIE.2013.6684918
+keywords: {tutorials;educational institutions;biology;mechanical engineering;electronic learning;engineering students;visualization}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684918
+
+W. Akili,  "On mentoring relationships: How to become a good mentor," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 710-716.
+doi: 10.1109/FIE.2013.6684919
+keywords: {decision support systems;voltage control}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684919
+
+H. Tsukamoto, Y. Takemura, H. Nagumo, A. Monden and K. Matsumoto,  "The effects of teaching material remediation with ARCS-strategies for programming education," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 717-723.
+doi: 10.1109/FIE.2013.6684920
+keywords: {psychology;art;programming profession;education;silicon;arrays}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684920
+
+Jia-Ling Lin and A. Peng,  "A framework to examine fidelity of implementation of a hybrid instructional model for computer engineering courses," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 724-729.
+doi: 10.1109/FIE.2013.6684921
+keywords: {computational modeling;education;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684921
+
+R. McCord and H. Matusovich,  "Studying metacognition in natural settings," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 730-732.
+doi: 10.1109/FIE.2013.6684922
+keywords: {psychology;cognition;monitoring;protocols;education;problem-solving;interviews}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684922
+
+A. Amresh, A. Carberry and J. Femiani,  "Evaluating the effectiveness of flipped classrooms for teaching CS1," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 733-735.
+doi: 10.1109/FIE.2013.6684923
+keywords: {computational modeling;programming profession;computers;educational institutions;software engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684923
+
+J. Domblesky, J. Rice, J. Goldberg and M. Nagurka,  "Improving student learning using an in-class material processing design project," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 736-740.
+doi: 10.1109/FIE.2013.6684924
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684924
+
+S. dos Santos, A. Monte and A. Rodrigues,  "A PBL approach to process management applied to Software Engineering education," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 741-747.
+doi: 10.1109/FIE.2013.6684925
+keywords: {software engineering;training;context;usability;planning}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684925
+
+C. Sahin and P. Abichandani,  "Should the first course in computational problem solving and programming be student-centered or teacher-centered?," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 748-754.
+doi: 10.1109/FIE.2013.6684926
+keywords: {problem-solving;programming;educational institutions;matlab;data visualization;materials}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684926
+
+S. Kellogg,  "Developing modules for an inverted classroom project in cost estimating," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 755-760.
+doi: 10.1109/FIE.2013.6684927
+keywords: {materials;digital audio broadcasting;problem-solving;industries;engineering education;business}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684927
+
+M. Simoni, M. Aburdene and F. Fayyaz,  "Why are continuous-time signals and systems courses so difficult? How can we make them more accessible?," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 761-763.
+doi: 10.1109/FIE.2013.6684928
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684928
+
+J. Pappas, O. Pierrakos, E. Pappas and K. Paterson,  "True grit: Toward a culture of psychological preparedness in engineering education," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 764-766.
+doi: 10.1109/FIE.2013.6684929
+keywords: {psychology;engineering students;educational institutions;resilience;context}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684929
+
+I. Stiubiener, R. Silveira, R. Matushima and W. Ruggiero,  "Monitoring the video use for learning support," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 767-772.
+doi: 10.1109/FIE.2013.6684930
+keywords: {least squares approximations;monitoring;context;databases;servers;absorption;blogs}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684930
+
+A. Kumar and L. Kaczmarczyk,  "Programming tutors, practiced concepts, and demographics," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 773-778.
+doi: 10.1109/FIE.2013.6684931
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684931
+
+Y. Tokiwa, M. Miyazaki, Y. Yamada and E. Sato,  "An instructional practice based on handwritten answer sheets with a course management system," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 779-781.
+doi: 10.1109/FIE.2013.6684932
+keywords: {watermarking;character recognition;optical character recognition software;educational institutions;image recognition;tablet computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684932
+
+M. Latorre Garcia, G. Carro Fernandez, E. Sancristobal Ruiz, A. Pesquera Martin and M. Castro Gil,  "Rethinking remote laboratories: Widgets and smart devices," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 782-788.
+doi: 10.1109/FIE.2013.6684933
+keywords: {electronic learning;remote laboratories;internet;servers;least squares approximations;authentication}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684933
+
+I. Bellver, et al., "Packing and reusing virtual web laboratories as Sharable Content Object in wide range of educational fields," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 789-794.
+doi: 10.1109/FIE.2013.6684934
+keywords: {standards;electronic learning;least squares approximations;laboratories;data models;face;html}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684934
+
+M. Caeiro-Rodriguez, R. Perez-Rodriguez, J. Garcia-Alonso, M. Manso-Vazquez and M. Llamas-Nistal,  "AREA: A social curation platform for open educational resources and lesson plans," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 795-801.
+doi: 10.1109/FIE.2013.6684935
+keywords: {educational institutions;context;guidelines;educational activities;videos;digital audio broadcasting}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684935
+
+S. Mandala and K. Gary,  "Distributed Version Control for Curricular Content Management," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 802-804.
+doi: 10.1109/FIE.2013.6684936
+keywords: {materials;content management;software;courseware;collaboration;productivity;best practices}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684936
+
+L. Riliskis and E. Osipov,  "Coexistence of cloud technology and IT infrastructure in higher education," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 805-807.
+doi: 10.1109/FIE.2013.6684937
+keywords: {cloud computing;educational institutions;law;licenses}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684937
+
+A. Canas-Rodriguez, et al., "Who else could participate in my lesson plans?," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 808-814.
+doi: 10.1109/FIE.2013.6684938
+keywords: {semantics;context;knowledge based systems;recommender systems;data mining;education;internet}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684938
+
+S. Jordan and M. Lande,  "Should Makers be the engineers of the future?," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 815-817.
+doi: 10.1109/FIE.2013.6684939
+keywords: {engineering education;interviews;communities;engineering profession;knowledge engineering;educational institutions}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684939
+
+S. Frezza, D. Nordquest and R. Moodey,  "Knowledge-generation epistemology and the foundations of engineering," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 818-824.
+doi: 10.1109/FIE.2013.6684940
+keywords: {knowledge engineering;pragmatics;context;communities;engineering education;lenses;mathematics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684940
+
+R. McDermott, I. Pirie, A. Cajander, M. Daniels and C. Laxer,  "Contemplations on results from investigating the Personal Epistemology of computing students," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 825-831.
+doi: 10.1109/FIE.2013.6684941
+keywords: {educational institutions;loading;computer science;psychology;knowledge acquisition;context}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684941
+
+M. Mina,  "Liberating engineering education: Engineering education and pragmatism," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 832-837.
+doi: 10.1109/FIE.2013.6684942
+keywords: {engineering education;pragmatics;educational institutions;mathematics;technological innovation;market research}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684942
+
+J. Rowland,  "Finding and facing the Frontiers at FIE Conferences," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 838-840.
+doi: 10.1109/FIE.2013.6684943
+keywords: {engineering education;conferences;computers;educational institutions;recruitment;learning systems}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684943
+
+Wookwon Lee,  "An exemplary design framework: A small-scale prototype of home area network in a Smart Grid," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 841-847.
+doi: 10.1109/FIE.2013.6684944
+keywords: {zigbee;ports (computers);software;prototypes;computers;graphical user interfaces;wireless communication}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684944
+
+J. Garcia-Zubia, I. Angulo, L. Rodriguez-Gil, P. Orduna and O. Dziabenko,  "Boole-WebLab-Deusto: Integration of a remote lab in a tool for digital circuits design," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 848-854.
+doi: 10.1109/FIE.2013.6684945
+keywords: {digital circuits;educational institutions;field programmable gate arrays;combinational circuits;software tools;hardware}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684945
+
+S. Khorbotly, K. Al-Olimat and S. Vemuru,  "System design: A novel, project-based course connecting the dots of the electrical engineering curriculum," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 855-860.
+doi: 10.1109/FIE.2013.6684946
+keywords: {clocks;system analysis and design;nanoscale devices;production;oscilloscopes;materials}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684946
+
+A. Soares, C. Lopes, P. Souza and S. Peres,  "An approach for teaching logic programming based on real-world applications," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 861-865.
+doi: 10.1109/FIE.2013.6684947
+keywords: {logic programming;internet;html;databases;educational institutions;materials}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684947
+
+C. Maiti and A. Maiti,  "Enhancing microelectronics education using online semiconductor technology CAD laboratory," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 866-871.
+doi: 10.1109/FIE.2013.6684948
+keywords: {laboratories;electric variables measurement;layout;mosfet;spice}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684948
+
+A. Srinivasa, J. Froyd and R. Guha,  "Insights for curriculum design from design research," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 872-878.
+doi: 10.1109/FIE.2013.6684949
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684949
+
+C. Vieira and A. Magana,  "Using backwards design process for the design and implementation of computer science (CS) principles: A case study of a colombian elementary and secondary teacher development program," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 879-885.
+doi: 10.1109/FIE.2013.6684950
+keywords: {conferences;educational institutions;context;reflection;programming;materials}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684950
+
+J. Mendoza-Garcia, W. Oakes, C. Zoltowski and M. Cardella,  "Understanding the motivation of instructors to get involved in service-learning environments," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 886-888.
+doi: 10.1109/FIE.2013.6684951
+keywords: {engineering education;interviews;educational institutions;protocols;communities;presses}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684951
+
+O. Dalrymple, et al., "Instructional Module Development (IMODTM) system: Building faculty expertise in outcome-based course design," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 889-891.
+doi: 10.1109/FIE.2013.6684952
+keywords: {educational institutions;taxonomy;scholarships;accreditation;computational modeling;training}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684952
+
+V. Araujo Borges and E. Barbosa,  "IMA-Tool: A tool for modeling and automatic generation of educational content," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 892-894.
+doi: 10.1109/FIE.2013.6684953
+keywords: {computational modeling;software testing;ontologies;analytical models;educational institutions;systematics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684953
+
+M. Tafur Arciniegas and H. Diefes-Dux,  "Data base development for school-related research," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 895-901.
+doi: 10.1109/FIE.2013.6684954
+keywords: {educational institutions;databases;automation;cleaning;data collection;redundancy}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684954
+
+R. Melton, M. Cardella, W. Oakes and C. Zoltowski,  "Assessing the impact of service-learning on first-year engineering students' understanding of human-centered design," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 902-904.
+doi: 10.1109/FIE.2013.6684955
+keywords: {decision support systems;dvd}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684955
+
+B. Yoder,  "A pilot study: Documenting engineering school systems that support high student retention," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 905-906.
+doi: 10.1109/FIE.2013.6684956
+keywords: {educational institutions;engineering students;communities;benchmark testing;best practices;technological innovation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684956
+
+S. Jordan, M. Lande, M. Cardella and H. Ali,  "Out of their world: Using alien-centered design for teaching empathy in undergraduate design courses," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 907-913.
+doi: 10.1109/FIE.2013.6684957
+keywords: {educational institutions;context;technological innovation;user centered design;engineering students;planets}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684957
+
+Ziliang Zhou,  "Preparing future engineering students through math competition in Inland area," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 914-915.
+doi: 10.1109/FIE.2013.6684958
+keywords: {organizing;lead;educational institutions}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684958
+
+J. Kennedy, P. Abichandani and A. Fontecchio,  "An initial comparison of the learning propensities of 10 through 12 students for data analytics education," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 916-918.
+doi: 10.1109/FIE.2013.6684959
+keywords: {educational institutions;data visualization;materials;electronic mail;collaboration;spreadsheet programs}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684959
+
+M. Hart and W. Oakes,  "Embedding design and service-learning into the K-12 computer science classroom," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 919-921.
+doi: 10.1109/FIE.2013.6684960
+keywords: {educational institutions;computer science;communities;computational modeling;computer science education;best practices}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684960
+
+J. Coriell and K. Corbett,  "An innovative approach to secondary mathematics for Engineering and Science," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 922-924.
+doi: 10.1109/FIE.2013.6684961
+keywords: {educational institutions;standards;physics;vectors;engineering education;geometry}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684961
+
+S. Finger, A. Hilton, J. London and C. Young,  "What is the role of MOOCs in engineering education?," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 925-925.
+doi: 10.1109/FIE.2013.6684962
+keywords: {engineering education;conferences;communities;transforms;educational institutions;us government}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684962
+
+C. Zoltowski, W. Oakes and P. Buzzanell,  "Defining and assessing engineering ethics," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 926-927.
+doi: 10.1109/FIE.2013.6684963
+keywords: {ethics;instruments;education;context;cognition;knowledge engineering;communities}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684963
+
+M. Bozic, S. Cizmic, D. Sumarac Pavlovic, J. Certic and M. Escalas Tramullas,  "Ill-structured problem solving in a workplace simulation environment: Challenges of the learning experience and skills developed," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 928-930.
+doi: 10.1109/FIE.2013.6684964
+keywords: {problem-solving;employment;educational institutions;industries;engineering students}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684964
+
+O. Clua and M. Feldgen,  "Information and Communication Technologies literacy from engineering students at the University of Buenos Aires," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 931-936.
+doi: 10.1109/FIE.2013.6684965
+keywords: {educational institutions;internet;electronic mail;software;interviews;social network services;electronic publishing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684965
+
+A. Carberry, S. Krause, C. Ankeny and C. Waters,  "“Unmuddying” course content using muddiest point reflections," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 937-942.
+doi: 10.1109/FIE.2013.6684966
+keywords: {reflection;materials;educational institutions;instruments;psychology;manufacturing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684966
+
+Xiaosong Li,  "Learning from industry by using an inquiry based learning approach," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 943-949.
+doi: 10.1109/FIE.2013.6684967
+keywords: {cognition;cryptography;monitoring;collaboration;industries}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684967
+
+M. Feldgen and O. Clua,  "Scaffolding students in a complex learning environment," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 950-956.
+doi: 10.1109/FIE.2013.6684968
+keywords: {problem-solving;cognition;cats;software;prototypes;software engineering;writing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684968
+
+B. Nelson,  "Using a competency-based instructional approach in thermodynamics," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 957-959.
+doi: 10.1109/FIE.2013.6684969
+keywords: {thermodynamics;springs;materials;energy exchange;buildings;entropy;calculus}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684969
+
+H. Santoso and O. Lawanto,  "Shared note-taking using electronic enhanced guided notes: Peer-review activity, performance, and self-regulated learning skills," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 960-965.
+doi: 10.1109/FIE.2013.6684970
+keywords: {planning;servers;collaborative work;materials;monitoring;correlation;data analysis}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684970
+
+R. Hutchison, C. Faber, L. Benson, A. Kirn and J. DesJardins,  "Assessing student knowledge transfer during group work," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 966-972.
+doi: 10.1109/FIE.2013.6684971
+keywords: {knowledge transfer;wrist;encoding;biomechanics;biomedical engineering;problem-solving}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684971
+
+M. Dziedzic, F. Borges de Oliveira, P. Janissek and R. Moreira Dziedzic,  "Comparing learning styles questionnaires," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 973-978.
+doi: 10.1109/FIE.2013.6684972
+keywords: {pragmatics;large scale integration;visualization;abstracts;education;sensors;concrete}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684972
+
+E. Miskioglu and D. Wood,  "Learning in style: Correlation of learning styles with problem comprehension and perceptions in an introductory chemical engineering course," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 979-981.
+doi: 10.1109/FIE.2013.6684973
+keywords: {education;chemical engineering;correlation;materials;context;visualization;springs}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684973
+
+S. Donohue,  "Identifying misconceptions held about the engineering design process," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 982-984.
+doi: 10.1109/FIE.2013.6684974
+keywords: {educational institutions;instruments;reflection;engineering students;cognition}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684974
+
+S. Strong,  "The effects of direct observation on student responses in the renewable energy REU program at Colorado School of Mines," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 985-991.
+doi: 10.1109/FIE.2013.6684975
+keywords: {renewable energy sources;communities;educational institutions;materials;training;current measurement;us government}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684975
+
+P. Jamieson,  "More graph comparison techniques on mind maps to provide students with feedback," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 992-998.
+doi: 10.1109/FIE.2013.6684976
+keywords: {time measurement;vocabulary;correlation;density measurement;atomic measurements;area measurement}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684976
+
+C. Vizcarro Guarch, et al., "Assessment of problem solving in computing studies," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 999-1003.
+doi: 10.1109/FIE.2013.6684977
+keywords: {problem-solving;educational institutions;testing;reliability;standards;atmospheric measurements}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684977
+
+A. Nunes Rodrigues and S. dos Santos,  "A systems approach to managing learning based on Bloom's revised taxonomy to support student assessment in PBL," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1004-1010.
+doi: 10.1109/FIE.2013.6684978
+keywords: {education;planning;taxonomy;monitoring;prototypes;context;terminology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684978
+
+A. Robles-Gomez, et al., "Towards an adaptive system for the evaluation of network services," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1011-1017.
+doi: 10.1109/FIE.2013.6684979
+keywords: {linux;browsers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684979
+
+D. Knight and D. Kotys-Schwartz,  "Once again around the double triangle: A multi-rater assessment of capstone design skills," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1018-1020.
+doi: 10.1109/FIE.2013.6684980
+keywords: {industries;project management;teamwork;educational institutions;fabrication;mechanical engineering;engineering education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684980
+
+P. Moreira Gurgel, E. Barbosa and K. Castelo Branco,  "Teaching computer networks: A practical approach using virtualization tools," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1021-1026.
+doi: 10.1109/FIE.2013.6684981
+keywords: {tutorials;computer networks;education;laboratories;computers;virtualization;software}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684981
+
+J. Mottley and V. Roth,  "Peer-Led Team Learning: Adjunct to lectures in an electrical engineering course for non-majors," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1027-1032.
+doi: 10.1109/FIE.2013.6684982
+keywords: {conferences;materials;educational institutions;capacitors;chemistry;resistors}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684982
+
+D. Cury, R. Aragon and C. Silva de Menezes,  "Concept maps: An automated support for monitoring the learning process," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1033-1038.
+doi: 10.1109/FIE.2013.6684983
+keywords: {ontologies;irrigation;uninterruptible power systems;random access memory;tagging;java;knowledge based systems}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684983
+
+M. Bayrakceken, A. Oguz and A. Arisoy,  "Enhancing student motivation in targeted undergraduate education," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1039-1042.
+doi: 10.1109/FIE.2013.6684984
+keywords: {aerodynamics;tv;measurement}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684984
+
+J. Oliver, L. Slivovksy, B. Benson and J. Harris,  "A semi-autonomous embedded systems course," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1043-1045.
+doi: 10.1109/FIE.2013.6684985
+keywords: {computers;electrical engineering;embedded systems;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684985
+
+K. Taylor,  "Can utilizing social media and visual programming increase retention of minorities in programming classes?," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1046-1048.
+doi: 10.1109/FIE.2013.6684986
+keywords: {programming profession;media;educational institutions;facebook;videos;visualization}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684986
+
+D. Rajan, A. Spanias, S. Ranganath, M. Banavar and P. Spanias,  "Health monitoring laboratories by interfacing physiological sensors to mobile android devices," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1049-1055.
+doi: 10.1109/FIE.2013.6684987
+keywords: {physiology;sensor systems;monitoring;biomedical monitoring;cameras}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684987
+
+K. Kitto and D. Jusak,  "Update 2013 on the iCollaborate MSE project," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1056-1058.
+doi: 10.1109/FIE.2013.6684988
+keywords: {portable media players;physics;metals;plastics;vocabulary}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684988
+
+B. Mikula and A. Heckler,  "The effectiveness of brief, spaced practice on student difficulties with basic and essential engineering skills," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1059-1065.
+doi: 10.1109/FIE.2013.6684989
+keywords: {aluminum;engineering students;artificial intelligence;solids;atomic measurements}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684989
+
+A. Heckler, B. Mikula and R. Rosenblatt,  "Student accuracy in reading logarithmic plots: The problem and how to fix it," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1066-1071.
+doi: 10.1109/FIE.2013.6684990
+keywords: {training;interviews;testing;educational institutions;materials;standards;engineering students}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684990
+
+D. Epstein, I. da Costa Pinho, O. Costa Acosta and E. Reategui,  "Inquiry-based learning environment using intelligent tutoring system," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1072-1074.
+doi: 10.1109/FIE.2013.6684991
+keywords: {text mining;collaboration;education;artificial intelligence;writing;recommender systems;materials}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684991
+
+K. Meehan,  "Explaining semiconductor device physics with a fusion of lectures and videos," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1075-1077.
+doi: 10.1109/FIE.2013.6684992
+keywords: {semiconductor diodes;mathematical model;videos;tutorials;equations;voltage measurement}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684992
+
+D. Hoe,  "Development of a concept inventory for microelectronics courses," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1078-1080.
+doi: 10.1109/FIE.2013.6684993
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684993
+
+R. Pastor, et al., "Online laboratories as a cloud service developed by students," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1081-1086.
+doi: 10.1109/FIE.2013.6684994
+keywords: {laboratories;ports (computers);xml;availability;java;cloud computing;computational modeling}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684994
+
+J. Hoffbeck and M. Sugiyama,  "Real-time FM radio for teaching DSP and communication systems," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1087-1090.
+doi: 10.1109/FIE.2013.6684995
+keywords: {real-time systems;universal serial bus;educational institutions;radio frequency;decision support systems;frequency modulation;headphones}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684995
+
+D. Neebel, C. Merkel and A. Wong,  "Engaging a variety of students in digital design with competition," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1091-1095.
+doi: 10.1109/FIE.2013.6684996
+keywords: {robots;educational institutions;documentation;programming;computers;hardware;springs}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684996
+
+H. Jonsson,  "Motivating and preparing first-year students in computer and engineering science," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1096-1102.
+doi: 10.1109/FIE.2013.6684997
+keywords: {computers;educational institutions;mathematics;history;programming profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684997
+
+A. Hoffman,  "Evolution of a first year project based design course," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1103-1107.
+doi: 10.1109/FIE.2013.6684998
+keywords: {prototypes;materials;educational institutions;companies;wheelchairs;libraries}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684998
+
+K. Corbett and J. Coriell,  "STEM Explore, Discover, Apply - Elective courses that use the engineering design process to foster excitement for STEM in middle school students," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1108-1110.
+doi: 10.1109/FIE.2013.6684999
+keywords: {educational institutions;context;standards;prototypes;technological innovation;buildings;writing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6684999
+
+R. Murimi,  "Sparking creativity in computer science for interdisciplinary students," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1111-1112.
+doi: 10.1109/FIE.2013.6685000
+keywords: {robots;computational modeling;games;educational institutions;programming profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685000
+
+D. Fehlinger, J. Ward and A. Fontecchio,  "Increasing student interest in STEM via the Kensington Kinetic Sculpture Derby," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1113-1114.
+doi: 10.1109/FIE.2013.6685001
+keywords: {fellows}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685001
+
+Q. Zheng, P. Lin, F. Mak, R. Sundaram and L. Zhao,  "Curriculum integration for the ECE undergraduate core courses in electronics," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1115-1117.
+doi: 10.1109/FIE.2013.6685002
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685002
+
+N. Phanthanousy and Y. Allam,  "First-year / senior year design data: Preliminary results from ongoing research on post-secondary design student activities," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1118-1120.
+doi: 10.1109/FIE.2013.6685003
+keywords: {engineering students;educational institutions;project management;brain models}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685003
+
+K. Meehan, M. Simoni and A. Wong,  "Hands-on learning with portable electronics," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1121-1122.
+doi: 10.1109/FIE.2013.6685004
+keywords: {materials;educational institutions;conferences;physics;computers;electrical engineering;instruments}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685004
+
+J. Cohoon, J. Cohoon, S. Reichelson and S. Lawrence,  "Effective Recruiting for Diversity," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1123-1124.
+doi: 10.1109/FIE.2013.6685005
+keywords: {educational institutions;conferences;computer science;lakes;materials;information technology;cultural differences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685005
+
+C. Watterson and D. Carnegie,  "Pastoral care and student support: Developing a method of retention," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1125-1130.
+doi: 10.1109/FIE.2013.6685006
+keywords: {interviews;educational institutions;physics;mathematics;peer-to-peer computing;engineering students}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685006
+
+S. Turner and S. Uludag,  "Student perceptions of cheating in online and traditional classes," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1131-1137.
+doi: 10.1109/FIE.2013.6685007
+keywords: {educational institutions;internet;cultural differences;computer science;correlation;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685007
+
+K. Bunker, et al., "Perceptions and influencers affecting engineering and computer science student persistence," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1138-1144.
+doi: 10.1109/FIE.2013.6685008
+keywords: {educational institutions;engineering profession;switches;computer science;computational modeling;biological system modeling}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685008
+
+J. Pritchard and M. Mina,  "The dynamic image of the engineer," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1145-1146.
+doi: 10.1109/FIE.2013.6685009
+keywords: {engineering students;technological innovation;educational institutions;media;problem-solving;lead}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685009
+
+R. Olson, T. Ngo and S. Lord,  "Comparing the attitudes towards engineering of honors students and engineering students at a liberal arts university," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1147-1149.
+doi: 10.1109/FIE.2013.6685010
+keywords: {art}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685010
+
+H. Keijonen, J. Kurhila and A. Vihavainen,  "Carry-on effect in extreme apprenticeship," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1150-1155.
+doi: 10.1109/FIE.2013.6685011
+keywords: {programming profession;educational institutions;software;analysis of variance}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685011
+
+M. Moh and R. Alvarez-Horine,  "A successful graduate cloud computing class with hands-on labs," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1156-1162.
+doi: 10.1109/FIE.2013.6685012
+keywords: {laboratories;interoperability;software;quality of service;processor scheduling}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685012
+
+B. Sabitzer and S. Strutzmann,  "Brain-based Programming," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1163-1169.
+doi: 10.1109/FIE.2013.6685013
+keywords: {programming profession;educational institutions;java;pattern recognition;laboratories}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685013
+
+A. Adorjan and I. Friss de Kereki,  "Multiple Intelligence approach and competencies applied to Computer Science 1," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1170-1172.
+doi: 10.1109/FIE.2013.6685014
+keywords: {programming profession;education;games;unified modeling language;java}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685014
+
+Z. Butler, R. Raj and Minseok Kwon,  "Integrating highly-capable corobots into a computing curriculum," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1173-1175.
+doi: 10.1109/FIE.2013.6685015
+keywords: {robot kinematics;computer science;navigation;educational robots;buildings;databases}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685015
+
+E. Hames and M. Baker,  "EEG-based comparisons of performance on a mental rotation task between learning styles and gender," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1176-1182.
+doi: 10.1109/FIE.2013.6685016
+keywords: {electroencephalography;correlation;visualization;time factors;mirrors;large scale integration;sensors}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685016
+
+E. Iepsen, M. Bercht and E. Reategui,  "Detection and assistance to students who show frustration in learning of algorithms," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1183-1189.
+doi: 10.1109/FIE.2013.6685017
+keywords: {computers;education;affective computing;programming;data mining;syntactics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685017
+
+O. Lawanto and H. Santoso,  "Students' collaborative note-taking activities while using electronic and paper-based enhanced guided notes: Viewed from metacognitive and social network perspectives," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1190-1196.
+doi: 10.1109/FIE.2013.6685018
+keywords: {social network services;collaboration;monitoring;planning;standards;materials;educational institutions}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685018
+
+J. Hilpert and J. Hyppolite,  "Cognitive pathways to engineering," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1197-1199.
+doi: 10.1109/FIE.2013.6685019
+keywords: {engineering profession;engineering students;shape;lenses;educational institutions;image reconstruction;biological system modeling}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685019
+
+Dazhi Yang and R. Miller,  "Preventing persistent misconceptions with first-year engineering students," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1200-1202.
+doi: 10.1109/FIE.2013.6685020
+keywords: {engineering students;training;educational institutions;materials;context;robustness}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685020
+
+G. Herman, K. Trenshaw, D. Goldberg, J. Stolk and M. Somerville,  "Creating an intrinsic-motivation-driven course design method," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1203-1209.
+doi: 10.1109/FIE.2013.6685021
+keywords: {design methodology;education;psychology;materials;technological innovation;context;resistance}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685021
+
+M. Anderson-Rowland,  "Expectations and realities for community college engineering transfers at a large university," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1210-1216.
+doi: 10.1109/FIE.2013.6685022
+keywords: {educational institutions;communities;electric shock;scholarships;logistics;computer science}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685022
+
+C. Brawner, Xingyu Chen, M. Ohland and M. Orr,  "The effect of matriculation practices and first-year engineering courses on engineering major selection," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1217-1223.
+doi: 10.1109/FIE.2013.6685023
+keywords: {educational institutions;interviews;chemical engineering;switches;sociology;statistics;mechanical engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685023
+
+A. Rodriguez and M. Anderson-Rowland,  "Comprehensive framework for significantly increasing the number of highly trained engineers: A model academic success and professional development (ASAP) class - Lessons learned and strategies moving forward," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1224-1230.
+doi: 10.1109/FIE.2013.6685024
+keywords: {educational institutions;scholarships;engineering profession;employee welfare;companies;communities;vehicles}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685024
+
+D. Soldan, et al., "Accelerating engineering degree completion for military veterans," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1231-1232.
+doi: 10.1109/FIE.2013.6685025
+keywords: {educational institutions;acceleration;conferences;tutorials;electrical engineering;training}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685025
+
+J. Auerbach and D. Williams,  "The TIES program: A transfer initiative for engineering students," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1233-1235.
+doi: 10.1109/FIE.2013.6685026
+keywords: {educational institutions;communities;conferences;buildings;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685026
+
+J. Huff, C. Zoltowski, W. Oakes and B. Jesiek,  "Investigating how service-learning alumni construct their engineering selves," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1236-1237.
+doi: 10.1109/FIE.2013.6685027
+keywords: {educational institutions;interviews;presses;communities;engineering students}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685027
+
+K. Trenshaw, A. Hetrick, R. Oswald, S. Vostral and M. Loui,  "Lesbian, gay, bisexual, and transgender students in engineering: Climate and perceptions," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1238-1240.
+doi: 10.1109/FIE.2013.6685028
+keywords: {educational institutions;meteorology;interviews;communities;stress;employee welfare;engineering students}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685028
+
+L. Anido-Rifon, M. Fernandez-Iglesias, C. Rivas-Costa, S. Valladares-Rodriguez and M. Gomez-Carballa,  "Providing a holistic educational environment for the whole family," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1241-1247.
+doi: 10.1109/FIE.2013.6685029
+keywords: {mobile handsets;observatories;servers;cryptography;tv;bluetooth}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685029
+
+Rui Pan, M. Pistilli and J. Main,  "Online course advising: Differences in student response by gender and ethnicity," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1248-1253.
+doi: 10.1109/FIE.2013.6685030
+keywords: {education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685030
+
+V. Fitzpatrick, T. Reed, J. Gilger, S. Brophy and P. Imbrie,  "First-year engineering students with dyslexia: Comparison of spatial visualization performance and attitudes," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1254-1256.
+doi: 10.1109/FIE.2013.6685031
+keywords: {educational institutions;stress;visualization;engineering students;cultural differences;instruments}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685031
+
+D. Economy, J. Martin and M. Kennedy,  "Factors influencing participants' selection of individual REU sites," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1257-1259.
+doi: 10.1109/FIE.2013.6685032
+keywords: {educational institutions;us government;market research;geography;decision making}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685032
+
+J. Newcomer,  "Context and consistency in students' approaches to solving problems in engineering statics," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1260-1266.
+doi: 10.1109/FIE.2013.6685033
+keywords: {context;cats;force;educational institutions;acceleration;engineering education;correlation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685033
+
+J. Rursch and D. Jacobson,  "When a testbed does more than testing: The Internet-Scale Event Attack and Generation Environment (ISEAGE) - providing learning and synthesizing experiences for cyber security students.," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1267-1272.
+doi: 10.1109/FIE.2013.6685034
+keywords: {servers;internet;educational institutions;testing;computer security;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685034
+
+M. Jimenez, G. Beauchamp, R. Mulero and M. Gonzalez,  "Integrating control concepts in an embedded systems design course," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1273-1278.
+doi: 10.1109/FIE.2013.6685035
+keywords: {hardware;control systems;embedded systems;vectors;computers;helicopters}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685035
+
+T. Blair and C. Davis,  "Innovate engineering outreach: A special application of the Xbox 360 Kinect sensor," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1279-1283.
+doi: 10.1109/FIE.2013.6685036
+keywords: {educational institutions;software;cameras;computers;system-on-chip;hardware;games}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685036
+
+P. Crilly and R. Hartnett,  "A novel approach to teaching amplitude and phase distortion concepts using time domain methods," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1284-1286.
+doi: 10.1109/FIE.2013.6685037
+keywords: {phase distortion;distortion measurement;harmonic analysis;time-domain analysis;delays;oscilloscopes}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685037
+
+B. Pejcinovic, M. Holtzman, M. Chrzanowska-Jeske and P. Wong,  "Just because we teach it does not mean they use it: Case of programming skills," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1287-1289.
+doi: 10.1109/FIE.2013.6685038
+keywords: {matlab;problem-solving;histograms;programming profession;educational institutions;electrical engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685038
+
+A. Chattopadhyay and G. Sellman,  "Developing the cellbot learning framework (CLF) - An interdisciplinary model for integrating mobile computing with robotics to innovate STEM education and outreach," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1290-1292.
+doi: 10.1109/FIE.2013.6685039
+keywords: {programming profession;education;androids;humanoid robots;educational robots}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685039
+
+C. Foster and T. Ganesh,  "Engineering the human heart in the sixth grade classroom," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1293-1295.
+doi: 10.1109/FIE.2013.6685040
+keywords: {heart;engineering education;standards;educational institutions;context;interviews}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685040
+
+C. Foster, C. Mendoza and J. Husman,  "Mastery goal structures for a fourth grade science classroom," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1296-1298.
+doi: 10.1109/FIE.2013.6685041
+keywords: {educational institutions;adaptation models;engineering profession;engineering education;materials;context modeling}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685041
+
+M. Boynton, C. Carrico, H. Matusovich, M. Paretti and A. Taylor,  "Exposure matters: Understanding the experiences of rural cultures," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1299-1301.
+doi: 10.1109/FIE.2013.6685042
+keywords: {engineering profession;educational institutions;economics;communities;context;recruitment}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685042
+
+Oai Ha and Ning Fang,  "Development of interactive 3D tangible models as teaching aids to improve students' spatial ability in STEM education," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1302-1304.
+doi: 10.1109/FIE.2013.6685043
+keywords: {three-dimensional displays;solid modeling;computers;graphics;computational modeling;training}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685043
+
+L. Hirsch, et al., "A comparison of single and mixed gender engineering enrichment programs for elementary students," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1305-1310.
+doi: 10.1109/FIE.2013.6685044
+keywords: {educational institutions;engineering profession;knowledge engineering;mathematics;meteorology;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685044
+
+S. Roach, M. Sahami, R. LeBlanc and R. Seker,  "Special session: The CS2013 Computer Science curriculum guidelines project," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1311-1313.
+doi: 10.1109/FIE.2013.6685045
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685045
+
+M. Ciampi, C. da Rocha Brito, R. Vasconcelos and L. Amaral,  "Engineering education in countries of portuguese language," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1314-1316.
+doi: 10.1109/FIE.2013.6685046
+keywords: {educational institutions;engineering education;government;history;europe;cultural differences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685046
+
+G. Ragusa,  "STEM literacy and textbook biases in K-12," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1317-1322.
+doi: 10.1109/FIE.2013.6685047
+keywords: {educational institutions;visualization;psychology;instruments;materials;engineering profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685047
+
+J. Skardon,  "Project based clean tech curriculum for high school," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1323-1328.
+doi: 10.1109/FIE.2013.6685048
+keywords: {educational institutions;software;irrigation;fuel cells;batteries;standards}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685048
+
+C. Morack and W. Eberle,  "Computer science widening the STEM education spectrum," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1329-1335.
+doi: 10.1109/FIE.2013.6685049
+keywords: {cameras;animation;software;three-dimensional displays;education;load modeling;bones}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685049
+
+W. Aenchbacher, Sin Park, S. Dunda and T. Best,  "Broadened perceptions of engineering in tenth grade students through a biowall design project," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1336-1342.
+doi: 10.1109/FIE.2013.6685050
+keywords: {biology;educational institutions;green products;computer crashes;fasteners}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685050
+
+M. Simoni, G. Cook and S. Beeler,  "Hands-on electricity: An active learning opportunity for high-school physics," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1343-1345.
+doi: 10.1109/FIE.2013.6685051
+keywords: {modems;biology;physics;educational institutions;instruments}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685051
+
+A. Alvarez and M. Larranaga,  "Using LEGO mindstorms to engage students on algorithm design," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1346-1351.
+doi: 10.1109/FIE.2013.6685052
+keywords: {programming;algorithm design and analysis;software;robot sensing systems;problem-solving;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685052
+
+E. Osipov and L. Riliskis,  "Educating innovators of future Internet of Things," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1352-1358.
+doi: 10.1109/FIE.2013.6685053
+keywords: {wireless sensor networks;educational institutions;sensors;internet;programming profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685053
+
+A. Doupe and J. Kayfetz,  "Writing groups in computer science research labs," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1359-1365.
+doi: 10.1109/FIE.2013.6685054
+keywords: {writing;lead;computer science;vocabulary;educational institutions;communities}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685054
+
+D. Krutz and A. Meneely,  "Teaching Web Engineering using a project component," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1366-1368.
+doi: 10.1109/FIE.2013.6685055
+keywords: {security;software engineering;software;facebook;education;testing;industries}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685055
+
+Xumin Liu, R. Raj, T. Reichlmayr, Chunmei Liu and A. Pantaleev,  "Incorporating Service-Oriented Programming techniques into undergraduate CS and SE curricula," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1369-1371.
+doi: 10.1109/FIE.2013.6685056
+keywords: {web services;programming profession;materials;visualization}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685056
+
+P. Orduña, et al., "Generic integration of remote laboratories in learning and content management systems through federation protocols," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1372-1378.
+doi: 10.1109/FIE.2013.6685057
+keywords: {remote laboratories;least squares approximations;educational institutions;protocols;logic gates;robots}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685057
+
+M. Thornton, T. Manikas and P. Laplante,  "Embedded and real-time systems classes in traditional and distance education format," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1379-1385.
+doi: 10.1109/FIE.2013.6685058
+keywords: {field programmable gate arrays;integrated circuit modeling;history;assembly;optimization;microcontrollers;graphics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685058
+
+K. Mark and C. Wong,  "Student engagement in geographically distributed classrooms through localized solutions," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1386-1392.
+doi: 10.1109/FIE.2013.6685059
+keywords: {media;seminars;computer aided instruction;electronic learning;hardware;technological innovation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685059
+
+D. Gallego, E. Barra, A. Gordillo and G. Huecas,  "Enhanced recommendations for e-Learning authoring tools based on a proactive context-aware recommender," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1393-1395.
+doi: 10.1109/FIE.2013.6685060
+keywords: {context;recommender systems;electronic learning;context modeling;computers;adaptation models;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685060
+
+C. Golubski, C. Navarrete and E. Azua,  "Improving student outcomes in distance learning mathematics classes," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1396-1398.
+doi: 10.1109/FIE.2013.6685061
+keywords: {computer aided instruction;equations;software;communities;educational institutions}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685061
+
+A. Joseph,  "Influence of entrepreneurial aptitude on technology entrepreneurship course performance," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1399-1405.
+doi: 10.1109/FIE.2013.6685062
+keywords: {innovation management;data mining;teamwork;technological innovation;medical services;correlation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685062
+
+J. Ramanathan, R. Ramnath, M. Herold and B. Wierwille,  "Innovation-directed experiential learning using service blueprints," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1406-1412.
+doi: 10.1109/FIE.2013.6685063
+keywords: {technological innovation;educational institutions;software;buildings;medical services;context}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685063
+
+C. Amelink, S. Arnold-Christian, B. Watford and C. Seimetz,  "inVenTs: Improving retention among STEM majors through a living learning community," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1413-1415.
+doi: 10.1109/FIE.2013.6685064
+keywords: {communities;educational institutions;technological innovation;programming profession;engineering education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685064
+
+Weixun Cao, et al., "An innovative classroom that produces innovative students," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1416-1418.
+doi: 10.1109/FIE.2013.6685065
+keywords: {educational institutions;technological innovation;prototypes;shape;public speaking;history}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685065
+
+V. Viswanathan, P. Ngo, C. Turner and J. Linsey,  "Innovation in graduate projects: Learning to identify critical functions," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1419-1425.
+doi: 10.1109/FIE.2013.6685066
+keywords: {cognition;solids;technological innovation;educational institutions;databases;search problems;data collection}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685066
+
+L. Miller, et al., "Improving learning of computational thinking using creative thinking exercises in CS-1 computer science courses," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1426-1432.
+doi: 10.1109/FIE.2013.6685067
+keywords: {ciphers;reflection;writing;computer science;data collection;debugging;educational institutions}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685067
+
+R. Perry,  "An analysis of a pre-engineering program model used to predict a student's persistence to graduation," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1433-1438.
+doi: 10.1109/FIE.2013.6685068
+keywords: {educational institutions;calculus;laboratories;chemistry;engineering students;sociology;statistics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685068
+
+L. Strawderman and K. King,  "Integrating cohorts to improve student career self-efficacy," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1439-1443.
+doi: 10.1109/FIE.2013.6685069
+keywords: {atmospheric measurements;particle measurements;educational institutions}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685069
+
+L. Robinson Hanlan, R. Ziino and A. Hoffman,  "Assessing student information literacy skills and the effectiveness of an evolving faculty-librarian collaboration in a first year design course," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1444-1446.
+doi: 10.1109/FIE.2013.6685070
+keywords: {collaboration;libraries;citation analysis;standards;educational institutions;patents}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685070
+
+O. Isaacs-Sodeye and M. Lande,  "Teaching with unfamiliar pedagogy for engineering design instructors," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1447-1449.
+doi: 10.1109/FIE.2013.6685071
+keywords: {educational institutions;accreditation;engineering education;technological innovation;context;interviews}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685071
+
+S. Kendre, P. Mulmule and S. Shirbahadurkar,  "Developing experimental platforms using common software tools for enhancing technical skills of electronics engineering students in microcontrollers," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1450-1452.
+doi: 10.1109/FIE.2013.6685072
+keywords: {education;matlab;integrated circuit modeling;microcontrollers;light emitting diodes;analytical models}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685072
+
+T. Pearson,  "A full-featured remote laboratory for hands-on engineering education," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1453-1455.
+doi: 10.1109/FIE.2013.6685073
+keywords: {hardware;remote laboratories;internet;open source software;servers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685073
+
+K. Konishi, T. Tanaka and T. Koide,  "Power electronics education using the integrated circuit consistent education system and TCAD," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1456-1458.
+doi: 10.1109/FIE.2013.6685074
+keywords: {logic gates;design automation;gallium nitride;silicon;photonic band gap;electric breakdown;thermal conductivity}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685074
+
+Sai Zhang, M. Banavar, A. Spanias, C. Tepedelenlioglu and Xue Zhang,  "Java tools for teaching OFDM principles in undergraduate courses," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1459-1461.
+doi: 10.1109/FIE.2013.6685075
+keywords: {ofdm;noise;finite impulse response filters;digital signal processing;educational institutions}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685075
+
+V. Subbian and F. Beyette,  "Developing a new advanced microcontrollers course as a part of embedded systems curriculum," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1462-1464.
+doi: 10.1109/FIE.2013.6685076
+keywords: {microcontrollers;embedded systems;laboratories;hardware;programming profession;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685076
+
+A. Minichiello and C. Hailey,  "Engaging students for success in calculus with online learning forums," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1465-1467.
+doi: 10.1109/FIE.2013.6685077
+keywords: {calculus;communities;internet;educational institutions;interviews}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685077
+
+H. Santoso, O. Lawanto, R. Weeks, S. Kawamura and J. Trauntvein,  "Computer self-efficacy, cognitive, and metacognitive strategies of high school students while engaged in interactive learning modules," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1468-1470.
+doi: 10.1109/FIE.2013.6685078
+keywords: {computers;educational institutions;data collection;interviews;mathematics;videos}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685078
+
+S. Bhat and G. Herman,  "Student perceptions of differences in visual communication mode for an online course in engineering," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1471-1473.
+doi: 10.1109/FIE.2013.6685079
+keywords: {streaming media;educational institutions;visualization;visual communication;computers;materials}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685079
+
+Hon Jie Teo, A. Johri and V. Lohani,  "Assessment of online participation through social network measures: A HLM approach," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1474-1476.
+doi: 10.1109/FIE.2013.6685080
+keywords: {discussion forums;communities;social network services;atmospheric measurements;particle measurements;consumer electronics;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685080
+
+Dazhi Yang,  "Instructional strategies for teaching science online," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1477-1479.
+doi: 10.1109/FIE.2013.6685081
+keywords: {educational technology;mathematics;best practices;discussion forums;educational institutions;reflection}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685081
+
+S. Cutler, J. Pembridge, M. Verleger and L. Thomas,  "The lord of PhD: Fellowship of the dissertation - A guide to surviving the pursuit of a PhD," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1480-1482.
+doi: 10.1109/FIE.2013.6685082
+keywords: {decision support systems}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685082
+
+S. Donohue and L. Richards,  "Integration by design: Bringing science, math, and technology together through the engineering design process," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1483-1485.
+doi: 10.1109/FIE.2013.6685083
+keywords: {educational institutions;art;engineering education;mathematics;conferences;robots}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685083
+
+G. Salvador-Herranz, M. Contero and J. Dorribo-Camba,  "Management of distributed collaborative learning environments based on a concept map paradigm and natural interfaces," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1486-1491.
+doi: 10.1109/FIE.2013.6685084
+keywords: {collaboration;collaborative work;servers;computers;software;thumb}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685084
+
+D. Krutz and J. Vallino,  "Experiencing disruptive behavior in a team using “moles”," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1492-1495.
+doi: 10.1109/FIE.2013.6685085
+keywords: {software engineering;education;seminars;software;teamwork;employment}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685085
+
+Dan Zhang, L. Cuthbert, S. Ketteridge and Yashu Ying,  "Evaluating the effectiveness of a Cooperative Learning approach in engineering education in China," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1496-1502.
+doi: 10.1109/FIE.2013.6685086
+keywords: {teamwork;educational institutions;lead;training;engineering students;minutes}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685086
+
+W. Eberle, J. Karro, N. Lerner and M. Stallmann,  "Integrating communication skills in data structures and algorithms courses," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1503-1509.
+doi: 10.1109/FIE.2013.6685087
+keywords: {writing;data structures;computer science;educational institutions;algorithm design and analysis;employment;reflection}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685087
+
+Ya Zhou, et al., "Let's do it OR deal with it: Teamwork in project-based learning," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1510-1512.
+doi: 10.1109/FIE.2013.6685088
+keywords: {teamwork;instruments;engineering education;speech;educational institutions}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685088
+
+S. Huang, S. Anand, M. Sundaram and M. Kumar,  "EXPLORES: An integrated learning environment to produce industry ready graduates," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1513-1515.
+doi: 10.1109/FIE.2013.6685089
+keywords: {engineering education;companies;industries;educational institutions;manufacturing processes;statistical analysis}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685089
+
+Li Yang and Xumin Liu,  "Teaching business analytics," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1516-1518.
+doi: 10.1109/FIE.2013.6685090
+keywords: {data mining;barium;information management;data handling;data storage systems;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685090
+
+Minzhe Guo, P. Bhattacharya, Kai Qian and Li Yang,  "Authentic learning of mobile security with case studies," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1519-1521.
+doi: 10.1109/FIE.2013.6685091
+keywords: {mobile communication;androids;humanoid robots;mobile handsets;trojan horses}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685091
+
+I. Dabipi and J. Burrows-McElwain,  "Developing a remote release mechanism in support of unmanned aerial systems: A comparison of two separate approaches in freshman engineering design," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1522-1524.
+doi: 10.1109/FIE.2013.6685092
+keywords: {educational institutions;atmospheric modeling;airplanes;remote sensing;robots;faa}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685092
+
+T. Barik, M. Everett, R. Cardona-Rivera, D. Roberts and E. Gehringer,  "A community college blended learning classroom experience through Artificial Intelligence in Games," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1525-1531.
+doi: 10.1109/FIE.2013.6685093
+keywords: {accuracy;educational institutions;sociology;statistics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685093
+
+J. Ramanathan, R. Ramnath, M. Herold and B. Wierwille,  "An Agile Translation Process for complex innovations: An Industry/University Cooperative Research Center case study," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1532-1538.
+doi: 10.1109/FIE.2013.6685094
+keywords: {industries;context;market research;technological innovation;data privacy;collaboration;organizations}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685094
+
+W. Akili,  "Bringing adjunct engineering faculty into the classroom: Opportunities for enhancing the practice," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1539-1541.
+doi: 10.1109/FIE.2013.6685095
+keywords: {decision support systems}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685095
+
+B. Ahn, M. Cox, J. London and Jiabin Zhu,  "Investigating the attributes and expectations of engineering Ph.D.s working in industry," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1542-1544.
+doi: 10.1109/FIE.2013.6685096
+keywords: {industries;educational institutions;interviews;engineering profession;medical services;employment;companies}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685096
+
+E. Gehringer and B. Peddycord,  "Grading by experience points: An example from computer ethics," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1545-1550.
+doi: 10.1109/FIE.2013.6685097
+keywords: {ethics;education;games;writing;materials;computer science;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685097
+
+C. Zoltowski, P. Buzzanell, W. Oakes and M. Kenny,  "A qualitative study exploring students' engineering ethical reflections and their use in instrument validation," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1551-1553.
+doi: 10.1109/FIE.2013.6685098
+keywords: {interviews;instruments;ethics;educational institutions;meteorology;cognition;context}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685098
+
+J. Hamad, M. Hasanain, M. Abdulwahed and R. Al-Ammari,  "Ethics in engineering education: A literature review," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1554-1560.
+doi: 10.1109/FIE.2013.6685099
+keywords: {ethics;games;cognition;engineering students;educational institutions;teamwork}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685099
+
+L. Kisselburgh, et al., "Using scaffolded, integrated, and reflexive analysis (SIRA) of cases in a cyber-enabled learning infrastructure to develop moral reasoning in engineering students," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1561-1563.
+doi: 10.1109/FIE.2013.6685100
+keywords: {ethics;cognition;context;instruments;engineering education;multimedia communication}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685100
+
+K. Reid, D. Reeping, T. Hertenstein, G. Fennel and E. Spingola,  "Development of a classification scheme for “introduction to engineering” courses," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1564-1570.
+doi: 10.1109/FIE.2013.6685101
+keywords: {robots;educational institutions;wheels;cultural differences;design engineering;matlab;algebra}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685101
+
+P. Vezza Campos, J. Souza and G. Olguin,  "A survey on the mathematical emphasis in Brazilian computer science curricula," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1571-1575.
+doi: 10.1109/FIE.2013.6685102
+keywords: {mathematics;educational institutions;computer science;manuals;standards;informatics;ieee computer society}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685102
+
+A. Moon, Hyunyi Jung, F. Marbouti, K. Rodgers and H. Diefes-Dux,  "Undergraduate and graduate teaching assistants' perceptions of their responsibilities - Factors that help or hinder," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1576-1578.
+doi: 10.1109/FIE.2013.6685103
+keywords: {training;educational institutions;interviews;instruments;mathematics;engineering education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685103
+
+K. Thoroughman, A. Hruschka, K. Ruzicka and P. Widder,  "Engineering Virtual Studio Online context and community for underclassmen engineers," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1579-1581.
+doi: 10.1109/FIE.2013.6685104
+keywords: {materials;communities;educational institutions;buildings;training;investment}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685104
+
+P. Schreuders and J. Otey,  "Development of a flash drive design project for engineering graphics and design," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1582-1584.
+doi: 10.1109/FIE.2013.6685105
+keywords: {printing;graphics;materials;design automation;educational institutions;laboratories;engineering students}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685105
+
+P. Nedungadi, R. Raman and M. McGregor,  "Enhanced STEM learning with Online Labs: Empirical study comparing physical labs, tablets and desktops," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1585-1590.
+doi: 10.1109/FIE.2013.6685106
+keywords: {educational institutions;animation;tutorials;videos;mathematical model;materials;context}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685106
+
+J. Young and D. Jensen,  "Outcomes of a three-year in-service secondary teacher training program in engineering design," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1591-1596.
+doi: 10.1109/FIE.2013.6685107
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685107
+
+T. McEwan and A. McConnell,  "Young people's perceptions of computing careers," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1597-1603.
+doi: 10.1109/FIE.2013.6685108
+keywords: {engineering profession;correlation;biomedical imaging;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685108
+
+A. de Aquino Leal and D. Ferreira,  "Teaching computer programming based on patterns with activities and collaborative games using concrete materials for high school students," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1604-1610.
+doi: 10.1109/FIE.2013.6685109
+keywords: {games;programming profession;computers;educational institutions;materials}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685109
+
+T. Rikakis, D. Tinapple and L. Olson,  "The digital culture degree: A competency-based interdisciplinary program spanning engineering and the arts," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1611-1617.
+doi: 10.1109/FIE.2013.6685110
+keywords: {art;films;visualization;irrigation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685110
+
+Xiaohong Yuan, Jinsheng Xu, Hong Wang and K. Edoh,  "Developing an interdisciplinary Health Informatics Security and privacy program," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1618-1622.
+doi: 10.1109/FIE.2013.6685111
+keywords: {informatics;medical services;security;privacy;computer science;mathematics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685111
+
+A. Nagchaudhuri, et al., "AIRSPACES: Air-propelled Instrumented Robotic Sensory Platform(s) for Assateague Coastline Environmental Studies - A multidisciplinary experiential learning and research project at a minority serving land grant institution," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1623-1625.
+doi: 10.1109/FIE.2013.6685112
+keywords: {nasa;global positioning system;educational institutions;robot sensing systems;atmospheric modeling;lakes}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685112
+
+M. Mina and D. Ringholz,  "Integrating design and bridging activities of the engineering and the design college: Merging language cultures, creativities, and perspectives," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1626-1628.
+doi: 10.1109/FIE.2013.6685113
+keywords: {materials;educational institutions;companies;engineering students;computers;documentation;collaboration}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685113
+
+A. Zeid,  "Integrating international students' contests with software engineering courses Lessons learned and best practices," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1629-1630.
+doi: 10.1109/FIE.2013.6685114
+keywords: {software engineering;conferences;computers;best practices;computer science;educational institutions}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685114
+
+E. Pappas,  "Individual sustainability: Preliminary research," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1631-1636.
+doi: 10.1109/FIE.2013.6685115
+keywords: {context;education;communities;economics;stress;biology;psychology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685115
+
+D. Shell, M. Hazley, Leen-Kiat Soh, E. Ingraham and S. Ramsay,  "Associations of students' creativity, motivation, and self-regulation with learning and achievement in college computer science courses," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1637-1643.
+doi: 10.1109/FIE.2013.6685116
+keywords: {instruments;computer science;atmospheric measurements;particle measurements;educational institutions;reliability;correlation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685116
+
+C. McGrath, et al., "An evaluation of freshman engineering persistence using Expectancy-Value Theory," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1644-1650.
+doi: 10.1109/FIE.2013.6685117
+keywords: {switches;communities}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685117
+
+C. Mobley, E. Shealy and C. Brawner,  "First-generation engineering transfer students: A qualitative study of social and cultural capital," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1651-1653.
+doi: 10.1109/FIE.2013.6685118
+keywords: {educational institutions;cultural differences;interviews;sociology;context;knowledge engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685118
+
+K. Litchfield and A. Javernick-Will,  "A new vision: Changed engineering outcome expectations through EWB-USA," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1654-1656.
+doi: 10.1109/FIE.2013.6685119
+keywords: {engineering profession;organizations;encoding;educational institutions;engineering students;context}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685119
+
+A. Badawy, et al., "Expectations of computing and other STEM students: A comparison for different Class Levels, or (CSE ≠ STEM - CSE)|course level," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1657-1663.
+doi: 10.1109/FIE.2013.6685120
+keywords: {educational institutions;computer science;aggregates;biology;electric breakdown;chemistry}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685120
+
+S. Gokhale, T. Smith and R. McCartney,  "Teaching software maintenance with open source software: Experiences and lessons," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1664-1670.
+doi: 10.1109/FIE.2013.6685121
+keywords: {graphical user interfaces;games;maintenance engineering;documentation;computer architecture;servers;software}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685121
+
+T. Smith and R. McCartney,  "Mathematization in teaching pumping lemmas," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1671-1677.
+doi: 10.1109/FIE.2013.6685122
+keywords: {cognition;pumps;education;context;computer science;complexity theory;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685122
+
+R. Gamble and M. Hale,  "Assessing individual performance in Agile undergraduate software engineering teams," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1678-1684.
+doi: 10.1109/FIE.2013.6685123
+keywords: {variable speed drives;measurement;software engineering;software;information services;electronic publishing;internet}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685123
+
+O. Alab, A. Magan and R. Garci,  "Exploring student representational approaches in solving rechargable battery design problems," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1685-1687.
+doi: 10.1109/FIE.2013.6685124
+keywords: {mathematical model;computational modeling;batteries;problem-solving;electrodes;engineering education;equations}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685124
+
+C. Nix, J. Coyle, A. Fontecchio and S. Surrey,  "Health clinic infrastructure design across cultures in a high school biology course," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1688-1694.
+doi: 10.1109/FIE.2013.6685125
+keywords: {educational institutions;buildings;africa;engineering profession;diseases;materials}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685125
+
+A. Zeid and R. El-Bahey,  "Establishing a global software development course: A cultural perspective," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1695-1701.
+doi: 10.1109/FIE.2013.6685126
+keywords: {cultural differences;software;software engineering;collaboration;industries;educational institutions;global communication}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685126
+
+Ning Fang and Xiuli Zhao,  "A comparative study of motivation and learning strategies between American and Chinese undergraduate engineering students," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1702-1703.
+doi: 10.1109/FIE.2013.6685127
+keywords: {engineering students;educational institutions;organizations;environmental management;forestry;cultural differences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685127
+
+Ning Fang and Xiuli Zhao,  "A comparative study of learning style preferences between American and Chinese undergraduate engineering students," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1704-1705.
+doi: 10.1109/FIE.2013.6685128
+keywords: {visualization;engineering students;educational institutions;sensors;indexes}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685128
+
+O. Rocha Baiocchi, G. Mobus, F. Braga Soares de Carvalho, R. Moreira Bacurau and S. Ferreira Soares,  "Development of a Smart Building Wireless Sensors Network: Cooperation between University of Washington Tacoma and Brazilian universities," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1706-1708.
+doi: 10.1109/FIE.2013.6685129
+keywords: {educational institutions;wireless sensor networks;buildings;computers;energy efficiency;computer architecture;temperature measurement}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685129
+
+M. Urban-Lurain, et al., "Using computerized lexical analysis of student writing to support Just-in-Time teaching in large enrollment STEM courses," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1709-1715.
+doi: 10.1109/FIE.2013.6685130
+keywords: {biochemistry;carbon dioxide;sugar;writing;computational modeling;reliability;biomass}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685130
+
+O. Pierrakos and H. Watson,  "A comprehensive ABET-focused assessment plan designed to involve all program faculty," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1716-1722.
+doi: 10.1109/FIE.2013.6685131
+keywords: {q measurement;jamming;lead;remuneration}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685131
+
+F. Fagerholm and A. Vihavainen,  "Peer assessment in experiential learning Assessing tacit and explicit skills in agile software engineering capstone projects," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1723-1729.
+doi: 10.1109/FIE.2013.6685132
+keywords: {software;software engineering;teamwork;production facilities;correlation;educational institutions}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685132
+
+A. Marathe,  "Assessment of engineering faculty performance in the developing academically autonomous environment - VIT, Pune, India - A case study," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1730-1736.
+doi: 10.1109/FIE.2013.6685133
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685133
+
+P. Notargiacomo Mustaro and R. Rossi,  "Risk management in scientific research: A proposal guided in project management book of knowledge and Failure Mode and Effects Analysis," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1737-1741.
+doi: 10.1109/FIE.2013.6685134
+keywords: {risk management;proposals;educational institutions;monitoring;planning}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685134
+
+A. De Zeeuw, T. Craig and Hye Sun You,  "Assessing conceptual understanding in mathematics," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1742-1744.
+doi: 10.1109/FIE.2013.6685135
+keywords: {mathematical model;computational modeling;calculus;educational institutions;analytical models}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685135
+
+T. Wise-West, M. Isaacson, Z. Graham and M. Hornstein,  "Sustainable energy engineering internships for community college and high school students," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1745-1747.
+doi: 10.1109/FIE.2013.6685136
+keywords: {educational institutions;microgrids;renewable energy sources;laboratories;communities;engineering profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685136
+
+R. Wamkeue, N. Leandre and F. Slaoui-Hasnaoui,  "System normalization and iron saturation based on generalized coupled circuits analysis as fundamentals for electric machines modeling course," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1748-1753.
+doi: 10.1109/FIE.2013.6685137
+keywords: {magnetic circuits;coupling circuits;saturation magnetization;integrated circuit modeling;mathematical model;coils;equations}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685137
+
+E. Ballester Sarrias, J. Saiz Jimenez and L. Ruiz,  "Real world Photovoltaic Energy Engineering," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1754-1756.
+doi: 10.1109/FIE.2013.6685138
+keywords: {photovoltaic systems;economics;electricity;voltage measurement;inverters;consumer electronics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685138
+
+Je-Hyeong Bahk, M. Youngs, K. Yazawa, A. Shakouri and O. Pantchenko,  "An online simulator for thermoelectric cooling and power generation," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1757-1759.
+doi: 10.1109/FIE.2013.6685139
+keywords: {nanoscale devices;resistance}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685139
+
+O. Dziabenko, P. Orduna and J. Garcia-Zubia,  "Remote experiments in secondary school education," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1760-1764.
+doi: 10.1109/FIE.2013.6685140
+keywords: {education;laboratories;open systems}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685140
+
+N. Bean, M. Neilsen, G. Singh, J. Spears and N. Zhang,  "Infusing system design and sensors in education," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1765-1770.
+doi: 10.1109/FIE.2013.6685141
+keywords: {fellows;sensors;educational institutions;acceleration;real-time systems;rockets}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685141
+
+M. Ben Ghalia,  "Integration of sensors and electrical engineering into secondary geometry curriculum," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1771-1775.
+doi: 10.1109/FIE.2013.6685142
+keywords: {radar imaging;educational institutions;sensors;geometry}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685142
+
+J. Rursch and D. Jacobson,  "This IS child's play Creating a “playground” (computer network testbed) for high school students to learn, practice, and compete in cyber defense competitions," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1776-1778.
+doi: 10.1109/FIE.2013.6685143
+keywords: {educational institutions;servers;computers;games;operating systems;internet;jacobian matrices}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685143
+
+S. Mishra, C. Romanowski, R. Raj, T. Howles and J. Schneider,  "A curricular framework for critical infrastructure protection education for engineering, technology and computing majors," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1779-1781.
+doi: 10.1109/FIE.2013.6685144
+keywords: {materials;terrorism;us government;education;engineering profession;maintenance engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685144
+
+L. Johns-Boast and S. Flint,  "Simulating industry: An innovative software engineering capstone design course," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1782-1788.
+doi: 10.1109/FIE.2013.6685145
+keywords: {industries;educational institutions;companies;software;software engineering;logic gates}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685145
+
+A. Manacero and R. Spolon Lobato,  "Using a threaded framework to enable practical activities in Operating Systems courses," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1789-1794.
+doi: 10.1109/FIE.2013.6685146
+keywords: {computers;irrigation;instruction sets;positron emission tomography}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685146
+
+D. Krutz and M. Lutz,  "Bug of the Day: Reinforcing the importance of testing," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1795-1799.
+doi: 10.1109/FIE.2013.6685147
+keywords: {software;software testing;education;software engineering;computer bugs;context}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685147
+
+J. Martinez-Arias and G. Sarria M,  "Didactic and interdisciplinary experiences in a Software Engineering course," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1800-1805.
+doi: 10.1109/FIE.2013.6685148
+keywords: {unified modeling language;computational modeling;computers;law;security}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685148
+
+M. Huggard and C. Mc Goldrick,  "Self-affirmation and success in undergraduate Computer Science," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1806-1811.
+doi: 10.1109/FIE.2013.6685149
+keywords: {educational institutions;computers;programming profession;negative feedback;interviews}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685149
+
+E. Litzler and C. Samuelson,  "Deciding to stay: The intersection of sex and race/ethnicity," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1812-1818.
+doi: 10.1109/FIE.2013.6685150
+keywords: {educational institutions;engineering profession;engineering students;interviews;switches;context}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685150
+
+N. Canney and A. Bielefeldt,  "Examining the correlation between religion and social responsibility in engineering," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1819-1824.
+doi: 10.1109/FIE.2013.6685151
+keywords: {educational institutions;interviews;ethics;correlation;engineering students;communities}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685151
+
+N. Mamaril, E. Usher, D. Economy and M. Kennedy,  "An examination of students' motivation in engineering service courses," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1825-1827.
+doi: 10.1109/FIE.2013.6685152
+keywords: {materials;educational institutions;engineering students;springs;psychology;mathematics;biomedical engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685152
+
+P. Tebbe, S. Ross and J. Pribyl,  "Measuring student engagement in thermodynamics courses," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1828-1830.
+doi: 10.1109/FIE.2013.6685153
+keywords: {materials;correlation;thermodynamics;engineering education;abstracts;educational institutions}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685153
+
+A. Allevato and S. Edwards,  "The effects of extra credit opportunities on student procrastination," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1831-1836.
+doi: 10.1109/FIE.2013.6685154
+keywords: {calendars;programming profession;educational institutions;writing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685154
+
+D. Nascimento, et al., "Using Open Source Projects in software engineering education: A systematic mapping study," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1837-1843.
+doi: 10.1109/FIE.2013.6685155
+keywords: {software engineering;education;systematics;instruments;open source software;context}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685155
+
+S. Kumar and C. Wallace,  "A tale of two projects: A pattern based comparison of communication strategies in student software development," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1844-1850.
+doi: 10.1109/FIE.2013.6685156
+keywords: {matlab;computer science;minutes;software engineering;flowcharts;electronic mail}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685156
+
+O. Oliveira, A. Monteiro and N. Trevisan Roman,  "Can natural language be utilized in the learning of programming fundamentals?," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1851-1856.
+doi: 10.1109/FIE.2013.6685157
+keywords: {robots;grammar;computer languages;natural languages;materials requirements planning;programming profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685157
+
+E. Enstrom,  "Dynamic programming - Structure, difficulties and teaching," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1857-1863.
+doi: 10.1109/FIE.2013.6685158
+keywords: {education;dynamic programming;complexity theory;heuristic algorithms;tutorials;computers;instruments}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685158
+
+V. Agrawal, J. Earnest, S. Gupta, J. Tegar and S. Mathew,  "Outcome based engineering diploma curriculum - 2012 Gujarat experiment," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1864-1870.
+doi: 10.1109/FIE.2013.6685159
+keywords: {educational institutions;industries;engineering education;government;civil engineering;knowledge engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685159
+
+R. El-Bahey and A. Zeid,  "Women in computing A case study about Kuwait," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1871-1877.
+doi: 10.1109/FIE.2013.6685160
+keywords: {computers;programming;information systems}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685160
+
+E. Ballester, L. Contat and L. Sanchez Ruiz,  "Preliminary analysis of an appealing program for outstanding students at the school of design engineering (ETSID) of Valencia," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1878-1880.
+doi: 10.1109/FIE.2013.6685161
+keywords: {automation;aerospace engineering;educational institutions;industrial electronics;aerospace industry;design engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685161
+
+E. Zecca da Cruz and A. Alvaro,  "Introduction of entrepreneurship and innovation subjects in a computer science course in Brazil," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1881-1887.
+doi: 10.1109/FIE.2013.6685162
+keywords: {awards activities;education;indexes;computers;cleaning}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685162
+
+M. Ciampi, C. da Rocha Brito, L. Amaral, R. Vasconcelos and V. Barros,  "Social engineering program - MBA level: Designed for global education demand," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1888-1890.
+doi: 10.1109/FIE.2013.6685163
+keywords: {education;communities;knowledge engineering;cultural differences;ethics;companies}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685163
+
+M. Anderson-Rowland,  "Critical support for upper division Transfer Students in engineering and computer science," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1891-1897.
+doi: 10.1109/FIE.2013.6685164
+keywords: {educational institutions;communities;three-dimensional displays;scholarships}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685164
+
+L. Zapata Rivera, J. Restrepo Ochoa and J. Barbosa Perez,  "Improving student results in a statics course using a computer-based training and assessment system," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1898-1904.
+doi: 10.1109/FIE.2013.6685165
+keywords: {training;educational institutions;computers;electronic learning;gaussian distribution;histograms;xml}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685165
+
+D. Davis, et al., "Search engine for engineering education assessment instruments," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1905-1907.
+doi: 10.1109/FIE.2013.6685166
+keywords: {instruments;engineering education;communities;technological innovation;complexity theory;prototypes;educational institutions}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685166
+
+A. Ohno,  "A methodology to teach exemplary coding style considering students' coding style feature contains fluctuations," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1908-1910.
+doi: 10.1109/FIE.2013.6685167
+keywords: {encoding;hidden markov models;java;programming;writing;computer bugs;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685167
+
+A. Azemi, M. Bodek and G. Chinn,  "Teaching an introductory programming course using hybrid e-learning approach," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1911-1913.
+doi: 10.1109/FIE.2013.6685168
+keywords: {programming profession;educational institutions;electronic learning;computer aided instruction;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685168
+
+A. Gordillo, E. Barra, D. Gallego and J. Quemada,  "An online e-Learning authoring tool to create interactive multi-device learning objects using e-Infrastructure resources," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1914-1920.
+doi: 10.1109/FIE.2013.6685169
+keywords: {standards;electronic learning;materials;games;europe;interoperability}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685169
+
+G. Carro Fernandez, et al., "Scaffolding online laboratory experiences as inclusive and motivational tools for students and teachers," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1921-1927.
+doi: 10.1109/FIE.2013.6685170
+keywords: {educational institutions;portals;abstracts;internet;remote laboratories}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685170
+
+A. Minichiello, N. Legler, C. Hailey and V. Adams,  "Online engineering course design, Part I: Toward asynchronous, web-based delivery of a first course in thermodynamics," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1928-1934.
+doi: 10.1109/FIE.2013.6685171
+keywords: {information filters;thermodynamics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685171
+
+W. Rosen and M. Carr,  "An autonomous articulating desktop robot for proctoring remote online examinations," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1935-1939.
+doi: 10.1109/FIE.2013.6685172
+keywords: {robots;computers;monitoring;webcams;software;computer aided instruction}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685172
+
+D. Reeping and K. Reid,  "Changing perceptions: Do engineering activities make a difference in K-12 environments?," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1940-1944.
+doi: 10.1109/FIE.2013.6685173
+keywords: {educational institutions;engineering education;context;standards;buildings;materials}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685173
+
+M. Jordan and J. Snyder,  "Middle school students' conceptions of engineering," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1945-1950.
+doi: 10.1109/FIE.2013.6685174
+keywords: {educational institutions;interviews;buildings;knowledge engineering;engineering education;standards;prosthetics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685174
+
+M. Jordan and D. Schallert,  "Learning to manage uncertainty in collaborative engineering design projects: Lessons from a fifth grade class," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1951-1953.
+doi: 10.1109/FIE.2013.6685175
+keywords: {uncertainty;collaboration;educational institutions;robots;context;interviews}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685175
+
+Min-Chi Kao,  "Pedagogical application of RFID technology for hard of hearing children during mathematics and science learning activities," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1954-1955.
+doi: 10.1109/FIE.2013.6685176
+keywords: {auditory system;mathematics;education;visualization;rfid tags;materials}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685176
+
+J. Thomassian,  "General engineering: An innovative program for the region," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1956-1959.
+doi: 10.1109/FIE.2013.6685177
+keywords: {laboratories;cultural differences;springs;educational institutions;physics;chemistry}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685177
+
+D. Romberg, J. Dyer and E. Berbari,  "Cell2ECG: A virtual laboratory to simulate cardiac electrograms," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1960-1964.
+doi: 10.1109/FIE.2013.6685178
+keywords: {electrocardiography;mathematical model;extracellular;heart;computational modeling;numerical models;physiology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685178
+
+L. Hinnov, K. Ramamurthy, Huan Song, M. Banavar and L. Spanias,  "Interactive tools for global sustainability and Earth systems: Sea level change and temperature," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1965-1970.
+doi: 10.1109/FIE.2013.6685179
+keywords: {ocean temperature;sea level;earth;tutorials;global warming;sea measurements}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685179
+
+W. Lawrence-Fowler,  "A Computer Science course in Cyber Security and Forensics for a multidisciplinary audience," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1971-1976.
+doi: 10.1109/FIE.2013.6685180
+keywords: {forensics;computer science;computer security;information technology;educational institutions;communities}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685180
+
+ "Author index," in 2013 IEEE Frontiers in Education Conference (FIE), Oklahoma City, OK, USA, 2013 pp. 1977-1994.
+doi: 10.1109/FIE.2013.6685181
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2013.6685181
