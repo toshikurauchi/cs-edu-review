@@ -1587,23 +1587,3 @@ url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462529
 doi: 10.1109/FIE.2012.6462530
 keywords: {design engineering;europe;educational institutions;physics;mathematics;monitoring;ehea adaptation;classroom activities;autonomous activities;formative assessment}
 url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462530
-
- "Author index," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1394-1410.
-doi: 10.1109/FIE.2012.6462532
-keywords: {}
-url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462532
-
- "[Copyright notice]," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. ii.
-doi: 10.1109/FIE.2012.6462533
-keywords: {}
-url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462533
-
- "Table of contents," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. iii-lxvi.
-doi: 10.1109/FIE.2012.6462535
-keywords: {}
-url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462535
-
- "Technical sessions table of contents," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. lxvii-cxi.
-doi: 10.1109/FIE.2012.6462536
-keywords: {}
-url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462536
