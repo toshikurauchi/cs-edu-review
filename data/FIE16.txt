@@ -1,0 +1,1994 @@
+ "[Copyright notice]," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 2-2.
+doi: 10.1109/FIE.2016.7757335
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757335
+
+ "Table of contents," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 3-76.
+doi: 10.1109/FIE.2016.7757336
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757336
+
+ "Technical sessions table of contents," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 77-134.
+doi: 10.1109/FIE.2016.7757337
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757337
+
+O. Pierrakos, R. Anderson and E. Barrella,  "A developmental and adaptive Problem Based Learning (PBL) model across the curriculum: From theory to practice in integrating and assessing PBL experiences across the James Madison University engineering curriculum," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-2.
+doi: 10.1109/FIE.2016.7757338
+keywords: {jamming}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757338
+
+E. Yaprak, et al., "National Science Foundation programs that support engineering education research," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757339
+keywords: {education;proposals}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757339
+
+S. Lupoli,  "Peer Grading Development Cycle," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-2.
+doi: 10.1109/FIE.2016.7757340
+keywords: {videos;conferences;youtube;computer science;electric breakdown;privacy;data structures}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757340
+
+O. Pierrakos,  "Tips for turning good ideas into competitive National Science Foundation engineering education CAREER proposals: A grant writing workshop," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-2.
+doi: 10.1109/FIE.2016.7757341
+keywords: {proposals;engineering profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757341
+
+F. Mak and R. Sundaram,  "Integrated Faculty Course Assessment Report (FCAR) model with traditional rubric-based (GR) model to enhance automation of Student Outcomes evaluation," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757342
+keywords: {lead}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757342
+
+J. Groh,  "Academic coaching tools for increased retention: Empowering engineering students in their education," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-2.
+doi: 10.1109/FIE.2016.7757343
+keywords: {conferences;engineering students;mentoring;engineering profession;business;sociology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757343
+
+D. Parente, D. Onipede and G. Dillon,  "Business & engineering education: A multiple stakeholder perspective," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-2.
+doi: 10.1109/FIE.2016.7757344
+keywords: {business}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757344
+
+E. Ingram,  "Panel: Changing your department: Examples from Revolutionizing Engineering Departments," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-2.
+doi: 10.1109/FIE.2016.7757345
+keywords: {engineering education;stem;technological innovation;biology;context;cultural differences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757345
+
+M. Goldstein, C. Mejia, R. Adams, S. Purzer and M. Zielinski,  "Developing a measure of quality for engineering design artifacts," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757346
+keywords: {mathematical model;energy consumption;protocols;context;quality assessment;solid modeling;systematics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757346
+
+H. Fechtner, B. Schmuelling and K. Saes,  "An adaptive e-learning platform for the qualification for working on electric vehicles," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757347
+keywords: {atmospheric measurements;particle measurements;electronic learning;qualifications;battery charge measurement}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757347
+
+D. Faran,  "Design of social systems: The case of a unique course," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757348
+keywords: {context;industrial engineering;problem-solving;context modeling;training;systems thinking;mechanical systems}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757348
+
+D. Tolbert, R. Lehman, G. Liu, B. Sadler and M. Cardella,  "Knowledge transfer: Does more experience yield improved design quality?," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757349
+keywords: {knowledge transfer;knowledge engineering;interviews;context;mathematical model;engineering education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757349
+
+S. Haynes and D. Mudgett,  "A design studio course in application development: Lessons learned," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757350
+keywords: {art;computer architecture;context;software engineering;java;software design}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757350
+
+E. Gehringer, Zhewei Hu and Yang Song,  "Five years of extra credit in a studio-based course: An effort to incentivize socially useful behavior," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-6.
+doi: 10.1109/FIE.2016.7757351
+keywords: {springs;education;writing;programming;fellows;stakeholders}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757351
+
+E. Marasco, et al., "Using gamification for engagement and learning in electrical and computer engineering classrooms," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757352
+keywords: {games;creativity;problem-solving;engineering education;algorithm design and analysis;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757352
+
+E. Nunes, et al., "Mobile serious game proposal for environmental awareness of children," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757353
+keywords: {games;three-dimensional displays;education;mobile communication;recycling;chemical elements;proposals}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757353
+
+T. Balasubramanian and T. Estrada,  "Crowdlearning: A framework for collaborative and personalized learning," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757355
+keywords: {education;videos;crowdsourcing;collaboration;middleware;games;proteins}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757355
+
+M. Mateos, P. Munoz-Merino, C. Kloos, D. Hernandez-Leo and D. Redondo-Martinez,  "Design and evaluation of a computer based game for education," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757356
+keywords: {games;computers;education;reflection;entertainment industry;monopoly;transforms}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757356
+
+M. Estela-Carbonell, et al., "Towards the STEM knowledge homogenization of pre-university students in 21st century: MOOC: The Language for Engineering," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757358
+keywords: {stem;games;technical drawing;physics;geometry;chemicals}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757358
+
+A. Naz, Mingyu Lu, K. Hatipoglu and K. Rambo-Hernandez,  "Employing project-based learning to address the Next Generation mathematics standards in high schools," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757359
+keywords: {conferences;standards;interviews;next generation networking;training;mechanical engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757359
+
+D. Carvalho and W. Lins,  "LabDuino: An open source tool for science education," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757360
+keywords: {sensors;stem;hardware;programming profession;laser beam cutting}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757360
+
+M. Yeh, A. Toshtzar, L. Guertin and Yu Yan,  "Using spaced repetition and gamification to enhance K-12 student science literacy with on-demand mobile short reads," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757361
+keywords: {mobile communication;training;maintenance engineering;games;learning systems;stem}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757361
+
+D. Knight, A. Collier, M. Hannigan and K. Hafich,  "Broadening and sustaining an Air Quality K-12 curriculum through a Digital Library and undergraduate service learning course," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757362
+keywords: {libraries;data visualization;training}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757362
+
+T. Scheponik, et al., "How students reason about Cybersecurity concepts," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757363
+keywords: {computer security;interviews;cognition;context;protocols;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757363
+
+J. Xu, et al., "Developing and evaluating a hands-on lab for teaching local area network vulnerabilities," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757364
+keywords: {ip networks;local area networks;protocols;virtual machining;operating systems;computer security;computer science}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757364
+
+Xiaohong Yuan, et al., "Teaching mobile computing and mobile security," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-6.
+doi: 10.1109/FIE.2016.7757365
+keywords: {cryptography;green products;mobile communication;androids;humanoid robots;programming}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757365
+
+C. Sahin, et al., "Wireless communications engineering education via Augmented Reality," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757366
+keywords: {wireless communication;antenna radiation patterns;augmented reality;visualization;education;throughput;directive antennas}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757366
+
+S. Mishra, et al., "A modular approach to teaching critical infrastructure protection concepts to engineering, technology and computing students," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757367
+keywords: {training;terrorism;us government;transportation;collaboration}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757367
+
+N. Tabrizi,  "Fostering an Entrepreneurial mindset in “Digital Systems” class through a Producer-Customer model," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757368
+keywords: {field programmable gate arrays;transmitters;digital systems;integrated circuit modeling;receivers;digital circuits;computational modeling}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757368
+
+K. Davis and C. Amelink,  "Exploring differences in perceived innovative thinking skills between first year and upperclassmen engineers," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757369
+keywords: {technological innovation;engineering students;entrepreneurship;creativity;prototypes}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757369
+
+B. Call, W. Goodridge and M. Scheaffer,  "Entrepreneurial curriculum in an Engineering Technical Communication course: Looking for impact on creativity and mindset," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757370
+keywords: {entrepreneurship;creativity;training;professional communication;proposals}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757370
+
+L. James,  "re-Commerce: A new paradigm for Innovation and Sustainability in CSET education," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757371
+keywords: {education;industries;entrepreneurship;recycling;oceans;technological innovation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757371
+
+A. Huang-Saad, C. Morton and J. Libarkin,  "Unpacking the impact of engineering entrepreneurship education that leverages the Lean LaunchPad Curriculum," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757373
+keywords: {entrepreneurship;planning;engineering students;atmospheric measurements;particle measurements}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757373
+
+D. Bir and B. Ahn,  "Applicability of online Mechanics of Materials course for engineering undergraduate students," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-3.
+doi: 10.1109/FIE.2016.7757374
+keywords: {videos;aerospace engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757374
+
+P. Rodrigues, L. de O. Brandao and A. Brandao,  "Let us learn together!: Do complementary abilities foster pair collaboration in web-based learning?," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757375
+keywords: {computer aided instruction;collaboration;systematics;protocols;computers;informatics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757375
+
+B. Mihalec-Adkins, et al., "Surveying the motivations of groups of learners in highly-technical STEM MOOCs," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-6.
+doi: 10.1109/FIE.2016.7757376
+keywords: {employment;nanotechnology;stem;computers;encoding;engineering education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757376
+
+W. Farag and S. Ali,  "Can online delivery result in comparable achievement of course outcomes and student success in different computer science courses?," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757378
+keywords: {reliability;computers;market research;programming profession;measurement}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757378
+
+Ying Li, Jianwei Niu, Jiong Zhang and Xin Ren,  "MOOE: A new online education mode: Virtual simulation experiment MOOE platform for FPGA," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757379
+keywords: {internet;mobile communication;information technology;virtualization;training;collaboration}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757379
+
+A. Danowitz,  "Leveraging the final project to improve student motivation in introductory digital design courses," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757380
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757380
+
+K. DesPortes, A. Anupam, N. Pathak and B. DiSalvo,  "Circuit diagrams vs. physical circuits: The effect of representational forms during assessment," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757381
+keywords: {cognition;education;electrical engineering;protocols;interviews;encoding;knowledge engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757381
+
+N. Pitterson, R. Streveler and C. Brown,  "Exploring undergraduate engineering students' conceptual learning of complex circuit concepts in an introductory course," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757382
+keywords: {protocols;context;engineering students;knowledge engineering;problem-solving}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757382
+
+J. Bonniwell and S. Schneider,  "Using the Basys-3 Trainer to support VHDL in Digital Logic Fundamentals course," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757383
+keywords: {hardware;field programmable gate arrays;logic gates;light emitting diodes;springs;flip-flops;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757383
+
+G. Herman,  "Studying how digital logic instructors solve canonical problems," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757384
+keywords: {interviews;encoding;sequential circuits;visualization;problem-solving;training;automata}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757384
+
+A. Rodrigues and S. dos Santos,  "A framework for applying problem-based learning to Computing Education," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757385
+keywords: {education;context;monitoring;computational modeling;planning;collaboration;problem-solving}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757385
+
+T. Vidal, S. Dos Santos and R. Carvalho,  "PBL-Tutor Canvas: A tool based on Backward Design to plan PBL in Computing Education," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757386
+keywords: {education;planning;usability;computational modeling;proposals;computers;informatics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757386
+
+B. Johnson and R. Ulseth,  "Development of professional competency through professional identity formation in a PBL curriculum," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757387
+keywords: {engineering students;engineering profession;reflection;knowledge engineering;adaptation models;seminars}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757387
+
+F. de Oliveira and S. Santos,  "PBLMaestro: A virtual learning environment for the implementation of problem-based learning approach in Computer education," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757388
+keywords: {education;monitoring;context;planning;computer science;collaboration;computational modeling}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757388
+
+E. Ota and P. Punyabukkana,  "Effects of bilateral problem-based learning program for engineering students: Case of a joint course with Japan and Thailand," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757389
+keywords: {proposals;sociology;statistics;engineering students;curriculum development;context}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757389
+
+S. Nikolic and M. Lee,  "Special session: Exploring learning opportunities in engineering education using 2D, 3D and immersive video augmented online technologies," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-2.
+doi: 10.1109/FIE.2016.7757390
+keywords: {three-dimensional displays;two dimensional displays;second life;engineering education;collaboration;industries}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757390
+
+R. Guerra and K. Smith,  "I-Corps™ for Learning: Sustaining and scaling STEM education innovations for impact," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-2.
+doi: 10.1109/FIE.2016.7757391
+keywords: {technological innovation;engineering education;us government;science - general;ecosystems}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757391
+
+J. Carvalho, E. de Oliveira and I. Carvalho,  "STEM education program evaluation survey: A report of experience," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757392
+keywords: {context;engineering profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757392
+
+C. McClelland, J. Smith and N. Smith,  "Bringing corporate social responsibility into the petroleum engineering classroom," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757393
+keywords: {stakeholders;economics;petroleum;industries;engineering students;oils;writing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757393
+
+E. Venson, R. Figueiredo, W. Silva and L. Ribeiro,  "Academy-industry collaboration and the effects of the involvement of undergraduate students in real world activities," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757394
+keywords: {industries;software engineering;collaboration;software;guidelines;government}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757394
+
+S. Dickerson, S. Jacobs, A. Garcia and D. Sanchez,  "Joint assessment and evaluation of senior design projects by faculty and industry," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757395
+keywords: {industries;standards;reliability;accreditation;computers;engineering profession;economics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757395
+
+Gu-Min Jeong, Phuc Huu Truong, Tae-Yang Lee, Jin-Woo Choi and Miran Lee,  "Course design for Internet of Things using Lab of Things of Microsoft Research," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-6.
+doi: 10.1109/FIE.2016.7757396
+keywords: {programming;automation;sensors;mobile communication;creativity;usability;c# languages}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757396
+
+E. Oliveira, H. Oliveira and J. Carvalho,  "Generation of critical mass in education: An initiative to engagement," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757397
+keywords: {mobile communication;qualifications;industries;scholarships;companies;government}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757397
+
+K. Hadley, L. Beckmann and K. Reid,  "General strategy for development of teamwork skills," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757398
+keywords: {games;teamwork;education;reflection;instruments;decision making;chemicals}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757398
+
+A. Decker, C. Egert and A. Phelps,  "Splat! er, shmup? A postmortem on a capstone production experience," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757399
+keywords: {games;software;production;user interfaces;media;art;computer science}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757399
+
+P. Jamieson and L. Grace,  "A framework to help analyze if creating a game to teach a learning objective is worth the work," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757400
+keywords: {games;education;taxonomy;programming;logistics;entertainment industry;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757400
+
+O. Dele-Ajayi, J. Sanderson, R. Strachan and A. Pickard,  "Learning mathematics through serious games: An engagement framework," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757401
+keywords: {games;mathematics;interviews;visualization;entertainment industry;education;creativity}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757401
+
+V. Shmelev, M. Karpova, N. Kogtikov and A. Dukhanov,  "Students' development of information-seeking skills in a computer-aided quest," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757402
+keywords: {games;engines;libraries;internet;complexity theory;information technology;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757402
+
+M. Mohammadi-Aragh, J. Ball and D. Jaison,  "Using wavelets to categorize student attention patterns," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757403
+keywords: {data collection;wavelet analysis;computers;support vector machines;training;software;pattern recognition}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757403
+
+F. Deeb, K. Kime, R. Torrey and T. Hickey,  "Measuring and visualizing learning with Markov Models," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757404
+keywords: {problem-solving;programming;markov processes;java;computational modeling;debugging}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757404
+
+N. Pitterson, S. Brown, K. Villanueva and A. Sitomer,  "Investigating current approaches to assessing teaching evaluation in engineering departments," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757405
+keywords: {education;interviews;medical services;stakeholders;context;protocols;instruments}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757405
+
+D. Petkovic, et al., "Using the random forest classifier to assess and predict student learning of Software Engineering Teamwork," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757406
+keywords: {software measurement;teamwork;training;databases;radio frequency;software;data mining}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757406
+
+M. Fioravanti and E. Barbosa,  "A systematic mapping on pedagogical patterns," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757407
+keywords: {education;systematics;databases;data mining;context;libraries;industries}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757407
+
+Ying Li,  "Teaching programming based on Computational Thinking," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757408
+keywords: {computers;education;computational modeling;algorithm design and analysis;programming profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757408
+
+R. Rodrigues, W. Andrade and L. Campos,  "Can Computational Thinking help me? A quantitative study of its effects on education," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757409
+keywords: {education;problem-solving;programming profession;computers;mathematics;sociology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757409
+
+F. Heintz, L. Mannila and T. Farnqvist,  "A review of models for introducing computational thinking, computer science and computing in K-12 education," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757410
+keywords: {education;programming profession;computers;computational modeling;australia}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757410
+
+M. Manso-Vazquez, M. Caeiro-Rodriguez and M. Llamas-Nistal,  "Tracking and visualizing time management for Self-Regulated Learners," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757411
+keywords: {monitoring;planning;reflection;interoperability;software;student activities;data visualization}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757411
+
+M. Caeiro-Rodriguez, M. Llamas-Nistal and F. Mikic-Fonte,  "Introducing BeA into Self-Regulated Learning to provide Formative Assessment support," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757412
+keywords: {monitoring;education;reflection;portable document format;context;europe;online services}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757412
+
+C. Silla, A. Przybysz and W. Leal,  "Music education meets computer science and engineering education," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757413
+keywords: {instruments;games;computers;music;programming;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757413
+
+C. Poindexter, D. Reinhart, B. Swan and V. McNeil,  "The University of Central Florida STEAM program: Where engineering education and Art Meet," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757414
+keywords: {physics;art;seminars}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757414
+
+J. Kennedy, E. Lee and A. Fontecchio,  "STEAM approach by integrating the arts and STEM through origami in K-12," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757415
+keywords: {renewable energy sources;art;stem;force;reverse engineering;shape;buildings}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757415
+
+A. Spanias, M. Banavar, H. Braun, P. Spanias and Y. Zhang,  "Development of course modules for multidisciplinary STEM education," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757416
+keywords: {sensors;education;software;collaboration;smart phones;signal processing algorithms;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757416
+
+P. Merino, E. Ruiz, G. Fernandez and M. Gil,  "Robotic Educational Tool to engage students on Engineering," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757417
+keywords: {robots;hardware;software;field programmable gate arrays;stem;prototypes;bluetooth}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757417
+
+W. Hussain, M. Addas and F. Mak,  "Quality improvement with automated engineering program evaluations using performance indicators based on Bloom's 3 domains," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757418
+keywords: {accreditation;frequency measurement;weight measurement;engineering education;standards;current measurement}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757418
+
+B. Jonsson, et al., "Aligning Quality Assurance at the course unit and educational program levels," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757419
+keywords: {databases;quality assurance;computer science;electronic mail;context;educational programs}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757419
+
+W. Lasher, R. Warley and J. Meckley,  "A framework for a simple and effective assessment and CQI process," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757420
+keywords: {instruments;heat transfer;real-time systems;plastics;stress;algebra;computer science}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757420
+
+F. Monteiro, P. Pereira, L. Cordeiro, C. Filho and M. Costa,  "Complementary training programme for electrical and computer engineering students through an industrial-academic collaboration," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757421
+keywords: {training;digital tv;mobile handsets;engineering students;industries;collaboration}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757421
+
+H. Calderon, R. Vasquez, D. Aponte and M. Del Valle,  "Successful accreditation of the Electrical Engineering Program offered in two campuses at Caribbean University," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-6.
+doi: 10.1109/FIE.2016.7757422
+keywords: {accreditation;instruments;portfolios;electrical engineering;springs;logic circuits}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757422
+
+J. Karlin, C. Allendoerfer, R. Bates, D. Ewert and R. Ulseth,  "Credentialing in the CSET education change process," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757423
+keywords: {interviews;accreditation;engineering education;iron;standards;ecosystems}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757423
+
+J. Ruiperez-Valiente, P. Munoz-Merino and C. Kloos,  "An analysis of the use of badges in an educational experiment," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757424
+keywords: {physics;chemistry;context;mathematics;education;games;frequency measurement}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757424
+
+S. Gupta and J. Earnest,  "Engineering Diploma Curriculum NITTTR-MSBTE Model 2016," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757425
+keywords: {alternators}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757425
+
+J. Bennedsen and S. Rouvrais,  "Finding good friends to learn from and to inspire," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757426
+keywords: {accreditation;quality assurance;collaboration;context;capability maturity model;europe}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757426
+
+O. Ha and S. Brown,  "A factor analysis of Statics Concept Inventory data from practicing civil engineers," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757427
+keywords: {correlation;loading;knowledge engineering;data mining;friction;load modeling;instruments}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757427
+
+S. Streiner, M. Besterfield-Sacre and S. Donovan,  "Using simulation and structured group work to address statistical misconceptions," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757428
+keywords: {probability;histograms;engineering students;industrial engineering;computational modeling;stem}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757428
+
+S. Joshi and N. Soundarajan,  "Enabling deep conceptual learning in computing courses through conflict-based collaborative learning," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757429
+keywords: {collaborative work;information services;electronic publishing;internet;java;stem}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757429
+
+S. Nozaki, et al., "The development of a concept inventory for engineering graphics," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757430
+keywords: {graphics;education;solids}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757430
+
+W. Tsutsui and M. Loui,  "The impact of supervised homework sessions and SAT-Math scores on academic performance in an advanced undergraduate course," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757431
+keywords: {engines;springs}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757431
+
+S. Cutler, T. Litzinger, S. Zappe and M. Alley,  "Innovation t-ball: Everybody wins!!," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-2.
+doi: 10.1109/FIE.2016.7757432
+keywords: {technological innovation;engineering education;games;collaboration;sports equipment;decision making}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757432
+
+J. Impagliazzo, S. Conry, E. Durant, J. Hughes and R. Meier,  "Launching curricular guidelines for computer engineering: CE2016," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757433
+keywords: {computers;history;guidelines;standards;knowledge engineering;computer architecture;algorithm design and analysis}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757433
+
+R. Ligrani, I. Gorski, S. Ritter and K. Mehta,  "PubHub: A web-based compendium to catalyze undergraduate research publication," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757434
+keywords: {writing;videos;engineering profession;training;publishing;scholarships}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757434
+
+B. Moyer,  "What do first-year engineers and others consider cheating?," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-6.
+doi: 10.1109/FIE.2016.7757435
+keywords: {medical services;engineering students;biology;calculators;ethics;portals;sociology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757435
+
+A. Scott and S. Barlowe,  "How software works: Computational thinking and ethics before CS1," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757436
+keywords: {computers;programming profession;ethics;problem-solving;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757436
+
+D. Knight, N. Canney, A. Bielefeldt and C. Swan,  "Macroethics instruction in co-curricular settings: The development and results of a national survey," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757437
+keywords: {ethics;accreditation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757437
+
+M. Feister, C. Zoltowski, P. Buzzanell and D. Torres,  "A communicative approach to exploring the development of ethical team processes over time," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757438
+keywords: {ethics;social network services;interviews;context;education;cultural differences;probes}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757438
+
+C. Bodnar, R. Clark, J. Davis, T. Congedo and D. Cole,  "Student perspectives on application of game-based learning within a graduate-level engineering course," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757440
+keywords: {games;education;interviews;encoding;inductors;context;sociology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757440
+
+M. Regalado, E. Aranha and T. da Silva,  "Gamifying an online approach for promoting game development Learning and contest: An experience report," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757441
+keywords: {games;context;programming profession;training;tutorials}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757441
+
+Eunsik Kim, L. Rothrock and A. Freivalds,  "The effects of Gamification on engineering lab activities," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-6.
+doi: 10.1109/FIE.2016.7757442
+keywords: {biomechanics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757442
+
+R. Kuriakose,  "Freshman engineering student perceptions of academic feedback - a case study from Digital Systems 1," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-6.
+doi: 10.1109/FIE.2016.7757443
+keywords: {engineering students;digital systems;erbium;context;standards;concrete}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757443
+
+J. Ochoa, J. Perez and J. Berrio,  "Student acceptance and performance of a virtual platform for training and evaluation of Statics course," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-6.
+doi: 10.1109/FIE.2016.7757444
+keywords: {training;engineering profession;mechanical engineering;conferences;time-frequency analysis;virtual environments}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757444
+
+H. Diefes-Dux,  "Student reflections on standards-based graded assignments," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757445
+keywords: {reflection;matlab;engineering education;training;monitoring;histograms;programming}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757445
+
+A. Decker and D. Simkins,  "Uncovering difficulties in learning for the intermediate programmer," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757446
+keywords: {writing;programming profession;education;data structures;java}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757446
+
+A. Bottcher, V. Thurner, K. Schlierkamp and D. Zehetmeier,  "Debugging students' debugging process," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757447
+keywords: {debugging;education;software;computer bugs;systematics;programming profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757447
+
+P. Aarabi, N. Norouzi, J. Wu and M. Spears,  "7 surprising lessons learned from teaching iOS programming to 30,000+ MOOC students," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757448
+keywords: {education;context;problem-solving;programming profession;mobile communication;search engines}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757448
+
+D. Simkins and A. Decker,  "Examining the intermediate programmers understanding of the learning process," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757449
+keywords: {education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757449
+
+Yonglei Tao and J. Nandigam,  "Programming case studies as context for active learning activities in the classroom," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757450
+keywords: {programming profession;context;java;writing;complexity theory}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757450
+
+C. Golubski,  "Using inquiry-based learning in engineering statistics courses," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-3.
+doi: 10.1109/FIE.2016.7757451
+keywords: {engineering students;differential equations;algebra}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757451
+
+W. Stroup and C. Golubski,  "Implementing schema-based assessment in engineering statistics courses," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-3.
+doi: 10.1109/FIE.2016.7757452
+keywords: {testing;engineering students;standards;sensitivity;mathematics;stem}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757452
+
+M. Bigotte, A. Gomes, J. Branco and T. Pessoa,  "The influence of educational learning paths in academic success of mathematics in engineering undergraduate," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-6.
+doi: 10.1109/FIE.2016.7757453
+keywords: {education;monitoring;calculus;knowledge engineering;context;terminology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757453
+
+M. Estela-Carbonell and P. Diez,  "Internet-based tutorial providing mathematical complements for technical Master students: TIMEMathCom," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757454
+keywords: {calculus;education;civil engineering;graphics;irrigation;ports (computers)}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757454
+
+H. Griffith and A. Griffith,  "A dynamic learning model for accelerated pre-matriculation mathematics programs: A work-in-progress," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-3.
+doi: 10.1109/FIE.2016.7757455
+keywords: {bridges;acceleration;mathematical model;data models;computational modeling;programming}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757455
+
+M. Karpova, V. Shmelev and A. Dukhanov,  "Information resource based on scientific software as a core of interdisciplinary learning resources," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757456
+keywords: {software;context;information services;computational modeling;unified modeling language;graphical user interfaces}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757456
+
+Quan Chengbin, Chen Yongqiang, Li Shanshan and Zhao Youjian,  "Exploration of the Computer Hardware Experiment teaching method based on the cloud platform," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757457
+keywords: {hardware;cloud computing;education;servers;computers;computer science}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757457
+
+J. He, Dan Chia-Tien Lo, Y. Xie and J. Lartigue,  "Integrating Internet of Things (IoT) into STEM undergraduate education: Case study of a modern technology infused courseware for embedded system course," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757458
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757458
+
+Y. Jung, F. Mak, F. Qingele and I. Alzahid,  "WEX-HIL: Design of a Wireless Extensible hardware-in-the-loop real-time simulator for electric vehicle applications," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757459
+keywords: {real-time systems;mathematical model;prototypes;hardware;software;wireless communication;sensors}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757459
+
+S. Jacobs, et al., "e-NABLING education: Curricula and models for teaching students to print hands," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757460
+keywords: {three-dimensional displays;internet;prosthetics;pediatrics;education;youtube;google}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757460
+
+C. Faber, P. Vargas and L. Benson,  "Measuring engineering epistemic beliefs in undergraduate engineering students," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757461
+keywords: {instruments;knowledge engineering;reliability;engineering students;context;face}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757461
+
+Y. Chen, et al., "Understanding students' perception of academic and professional relevance in STEM courses," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757462
+keywords: {software}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757462
+
+P. Demetci, et al., "Internalization and externalization in the classroom: How do they emerge and why is it important?," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757463
+keywords: {thermodynamics;art;springs;emergent phenomena;buildings;psychology;cognition}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757463
+
+B. Rieken, M. Schar and S. Sheppard,  "Trait mindfulness in an engineering classroom: An exploration of the relationship between mindfulness, academic skills, and professional skills," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757464
+keywords: {instruments;engineering students;sociology;statistics;business;psychology;engineering profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757464
+
+P. Brown and H. Matusovich,  "Career Goals, self-efficacy and persistence in Engineering Students," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757465
+keywords: {engineering profession;uncertainty;instruments;correlation;engineering students;interviews}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757465
+
+F. Marbouti, H. Diefes-Dux, M. Cardella and A. Shafaat,  "Engineers' written feedback on design," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757466
+keywords: {encoding;industries;user centered design;engineering students;system dynamics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757466
+
+F. de Assis Zampirolli, V. Batista and J. Quilici-Gonzalez,  "An automatic generator and corrector of multiple choice tests with random answer keys," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757467
+keywords: {software;generators;internet;courseware;electronic mail;layout;optimized production technology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757467
+
+F. Sanchez-Carracedo, et al., "A learning tool to develop sustainable projects," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757468
+keywords: {informatics;economics;accreditation;context;europe;project management}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757468
+
+D. MacKellar,  "Injection of business coding standards practices to embedded software courses," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757469
+keywords: {standards;business;industries;encoding;software;programming profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757469
+
+Ying Ying Seah, C. Vieira, C. Dasgupta and A. Magana,  "Exploring students' experimentation strategies in engineering design using an educational CAD tool," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757470
+keywords: {buildings;design automation;software;energy efficiency;systematics;prototypes;solar panels}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757470
+
+T. Clear, et al., "Developments in Global Software Engineering Education," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757471
+keywords: {software engineering;education;software;collaboration;cultural differences;systematics;games}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757471
+
+R. Adcock, A. Squires, F. Looft, P. Brouse and M. Simoni,  "Integrating Systems Engineering and Systems Thinking into Undergraduate Engineering Education," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757472
+keywords: {knowledge engineering;systems thinking;engineering students;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757472
+
+M. Maher, et al., "The Connected Learner: Engaging faculty to connect computing students to peers, profession and purpose," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757473
+keywords: {education;technological innovation;online services;organizations;sociology;statistics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757473
+
+M. Voogt, Chuan Sheng Chen and N. Thota,  "Academics' experience of teaching Open Ended Group Projects: A phenomenographic study," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757474
+keywords: {education;interviews;information technology;context;data analysis;collaboration;engineering profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757474
+
+M. Barner and S. Brown,  "Providing meaningful change in the engineering classroom," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-3.
+doi: 10.1109/FIE.2016.7757475
+keywords: {technological innovation;conferences;interviews;engineering education;encoding;reliability}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757475
+
+S. Williams, J. Morelock, H. Matusovich and P. Cunningham,  "Lessons in transfer: Better understanding of engineering students' metacognitive development," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757476
+keywords: {interviews;context;reflection;psychology;engineering students;monitoring}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757476
+
+T. Weston and B. Quinn,  "The use of online materials in undergraduate computer science classrooms: Examining factors for adopting new curriculum and instruction," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757477
+keywords: {education;interviews;computer languages;google;libraries;computational modeling}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757477
+
+A. Esakia and D. McCrickard,  "An adaptable model for teaching mobile app development," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757478
+keywords: {mobile communication;education;computational modeling;software;programming profession;sensors}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757478
+
+J. Noguez, L. Neri, A. Gonzalez-Nucamendi and V. Robledo-Rella,  "Characteristics of self-regulation of engineering students to predict and improve their academic performance," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757479
+keywords: {instruments;correlation;principal component analysis;engineering students;reliability;urban areas;mood}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757479
+
+N. Fang, O. Lawanto, W. Goodridge and I. Villanueva,  "Research Experiences for Undergraduates (REU) on self-regulated learning in engineering education," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757480
+keywords: {interviews;cows}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757480
+
+O. Lawanto and A. Febrian,  "Student self-regulation in capstone design courses: A case study of two project teams," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757481
+keywords: {project management;context;instruments;monitoring;wheelchairs;interviews;planning}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757481
+
+M. Marsolek and N. Canney,  "Facilitating habitual reflection in students - application to an engineering capstone project," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757482
+keywords: {reflection;context;interviews;lenses;environmental engineering;engineering students}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757482
+
+G. El-Howayek,  "Introducing computer engineering major for first year students using robotic projects," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757483
+keywords: {robot sensing systems;computers;programming;vehicles;navigation;mobile robots}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757483
+
+T. Zajdel and M. Maharbiz,  "Teaching design with a tinkering-driven robot hack," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-6.
+doi: 10.1109/FIE.2016.7757484
+keywords: {computer hacking;educational robots;robot sensing systems;voltage control;regulators;springs}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757484
+
+D. Desmond, M. Horton, A. Morrison and S. Khorbotly,  "Robotic football dance team: An engineering Fine-Arts interdisciplinary learning experience," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-6.
+doi: 10.1109/FIE.2016.7757485
+keywords: {robots;art;collaboration}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757485
+
+E. Hamner, et al., "Utilizing engineering to teach non-technical disciplines: Case studies of robotics within middle school English and health classes," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757486
+keywords: {robots;art;programming profession;planning;collaboration;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757486
+
+A. Khanlari,  "Robotics integration to create an authentic learning environment in engineering education," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757487
+keywords: {educational robots;problem-solving;electric potential;lead}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757487
+
+P. Seeling,  "Evolving an introductory programming course: Impacts of student self-empowerment, guided hands-on times, and self-directed training," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757488
+keywords: {programming profession;springs;training;analysis of variance}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757488
+
+D. Calderon, et al., "Measurement range increment in a method for evaluating Panoramic Understanding of Programming," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757489
+keywords: {programming profession;visualization;sociology;statistics;software}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757489
+
+A. Marcolino and E. Barbosa,  "Towards an m-learning requirements catalog for the development of educational applications for the teaching of programming," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757490
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757490
+
+A. Azemi,  "Examining students' concerns related to online delivery of an introductory computer programming course," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757491
+keywords: {education;organizations;problem-solving;programming profession;discussion forums;electronic mail}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757491
+
+D. Timmermann, C. Kautz and V. Skwarek,  "Evidence-based re-design of an introductory course “programming in C”," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757492
+keywords: {programming profession;videos;software;electronic learning;electronic mail}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757492
+
+Y. Martinez-Trevino,  "InClass Assistant, enhancing student class participation," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757493
+keywords: {programming;software tools;blogs;color;ink;portable computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757493
+
+A. Nassar, K. Holmes and K. Mehta,  "Student outcomes of short-term international humanitarian engineering fieldwork," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757494
+keywords: {entrepreneurship;scholarships;knowledge engineering;context;teamwork;market research;engineering students}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757494
+
+Lin Zhao and K. Vernaza,  "Teaching first year engineering students engineering design process and problem solving through service learning projects," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757495
+keywords: {proposals;stakeholders;problem-solving;seminars;prototypes;connectors}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757495
+
+T. Vitolo, B. Brinkman, K. Vernaza and S. Steinbrink,  "Serving with engineering skills within 15 miles of campus: The Scholars of Excellence in Engineering and Computer Science program," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-6.
+doi: 10.1109/FIE.2016.7757496
+keywords: {seminars;scholarships;computer science;organizations;engineering profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757496
+
+A. Shafaat, B. Esmaeili, F. Marbouti and B. Fulk,  "How service learning can be offered as capstone," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757497
+keywords: {civil engineering;planning;problem-solving;education;construction industry;project management}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757497
+
+J. Marcos-Abed,  "Using the effort of academic projects for the Community Service: A Software Engineering practical approach," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757498
+keywords: {software;software engineering;project management;computer science;education;prototypes}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757498
+
+N. Choudhary and B. Jesiek,  "Community partners' perspectives on the outcomes from international Service-learning programs: Project scope and method," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757499
+keywords: {organizations;focusing;interviews;data collection;planning;complexity theory;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757499
+
+M. Forbes, A. Bielefeldt and J. Sullivan,  "Curricular choice and technical—non-technical balance in computer science and engineering degree programs," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757500
+keywords: {computer science;computers;accreditation;electrical engineering;stem;engineering students}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757500
+
+J. Paulson, R. Kajfez and K. Kecskemety,  "Examining engineering students' major selection: Developing baseline quantitative results to investigate major selection and change," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757502
+keywords: {switches;engineering students;engineering profession;recruitment;market research;sociology;statistics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757502
+
+R. Reck and G. Krishnan,  "Combining projects and informational sessions to create a comprehensive introduction to the department," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757503
+keywords: {control systems;educational robots;manufacturing;operations research;tutorials;industrial engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757503
+
+S. Nikolic, T. Goldfinch, M. Lee and C. Ritz,  "Addressing misconceptions about engineering through student-industry interaction in a video-augmented 3D immersive virtual world," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-6.
+doi: 10.1109/FIE.2016.7757504
+keywords: {engineering profession;industries;australia;avatars;education;computers;three-dimensional displays}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757504
+
+M. Bazdresch,  "Considerations for the design of a hands-on wireless communications graduate course based on software-defined radio," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757505
+keywords: {software;receivers;hardware;digital signal processing;education;bandwidth;modulation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757505
+
+H. Wu, O. Raha and Jian Zhang,  "Customizing bioinformatics graduate programs for diversified student backgrounds," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757506
+keywords: {bioinformatics;genomics;mathematics;computational biology;biotechnology;databases}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757506
+
+V. de Lucena, J. De Queiroz Neto and J. de Lucena,  "An experience report of inter-institutional engineering degree programs in the Amazon region," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757507
+keywords: {urban areas;medical services;industries;qualifications;proposals;electrical engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757507
+
+I. Hasbun, H. Matusovich and S. Adams,  "The Dissertation Institute: Motivating doctoral engineering students toward degree completion," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757508
+keywords: {medical services;writing;interviews;proposals;sociology;statistics;context}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757508
+
+M. Kennedy, et al., "Understanding the role of knowledge related to financial resources on decisions to attend graduate school," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757509
+keywords: {stem;engineering profession;interviews;industries;medical services;knowledge engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757509
+
+D. Keck and I. Cottingham,  "Using innovation as a catalyst for integrating business and engineering education," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757510
+keywords: {technological innovation;economics;uncertainty;business;production;computer science;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757510
+
+B. Block,  "Theory-based course design for professional master's degree program in Business Engineering," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757511
+keywords: {business;education;adaptation models;technological innovation;economics;actuators;context}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757511
+
+B. Botha,  "Systems Engineering as integrator between engineering and business," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757512
+keywords: {systems engineering and theory;industries;research and development management;program management;schedules;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757512
+
+V. Uskov, M. Yalamanchili, U. Singh and A. Penumatsa,  "Innovative Business Analysis curriculum for Computer Science, IT and engineering programs," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-6.
+doi: 10.1109/FIE.2016.7757513
+keywords: {information systems;industries;computer science;organizations;planning;information technology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757513
+
+A. Marnewick and J. Pretorius,  "Master's of Engineering Management: Graduation rates lagging behind growth rate," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757514
+keywords: {research and development management;benchmark testing;qualifications;market research;throughput;knowledge engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757514
+
+D. Piovesan, A. Schmitz and K. Hersch,  "Using external business plan competitions to drive innovation and effective cross-disciplinary collaboration," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757515
+keywords: {bones;antibiotics;collaboration;nails;entrepreneurship;technological innovation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757515
+
+J. Stolk, Y. Zastavker, A. Dillon and M. Gross,  "Considering students' intrinsic motivations and positive emotions in course design: Are they ends, means, or threats?," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757516
+keywords: {psychology;conferences;cognitive science;creativity;knowledge acquisition;organizations;cultural differences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757516
+
+D. Drummond,  "Open sourcing education for Data Engineering and Data Science," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-1.
+doi: 10.1109/FIE.2016.7757517
+keywords: {data engineering;industries;collaboration;sparks;education;learning (artificial intelligence)}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757517
+
+N. Sambamurthy, J. Main, M. Sanchez-Pena, M. Cox and E. McGee,  "Asian-American women engineering faculty: A literature review using an intersectional framework of race, class, and gender," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757518
+keywords: {engineering education;sociology;bibliographies;databases;statistics;medical services}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757518
+
+M. Sanchez-Pena, J. Main, N. Sambamurthy, M. Cox and E. McGee,  "The factors affecting the persistence of Latina faculty: A literature review using the intersectionality of race, gender, and class," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757519
+keywords: {bibliographies;engineering profession;stem;color;medical services;sociology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757519
+
+C. Fitzmorris, R. Shehab and D. Trytten,  "The career goals of non-tenure-track full-time engineering faculty," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-6.
+doi: 10.1109/FIE.2016.7757520
+keywords: {engineering profession;interviews;industries;electrical engineering;data analysis;engineering education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757520
+
+N. Trellinger and B. Jesiek,  "Teaching pathways in the academy: A narrative study of engineering faculty at institutions with varying teaching and research activity," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757521
+keywords: {medical services;engineering profession;interviews;engineering education;training;mentoring}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757521
+
+J. Cruz, I. Hasbun, S. Adams, J. Banks-Hunt and G. Barabino,  "Perceptions of treatment for underrepresented minority faculty in engineering," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757522
+keywords: {engineering profession;engineering education;conferences;career development;electronic mail;face}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757522
+
+D. Trytten, et al., "Engineering Competition Team recruitment and integration strategies impact on team diversity," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757523
+keywords: {recruitment;shadow mapping;production}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757523
+
+H. Eshan, X. Xu and M. Cardella,  "Representations of underrepresented characters in engineering children books," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757524
+keywords: {encoding}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757524
+
+J. Segil, J. Sullivan, B. Myers, D. Reamon and M. Forbes,  "Analysis of multi-modal spatial visualization workshop intervention across gender, nationality, and other engineering student demographics," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757525
+keywords: {conferences;visualization;engineering students;sociology;measurement;statistical analysis}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757525
+
+I. Bojic, V. Podobnik, J. Arratia and M. Grgic,  "Supporting economically disadvantaged students from Nicaragua in STEM-C fields," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757526
+keywords: {best practices;pipelines;electronic mail;mathematics;stem;guidelines}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757526
+
+L. Griggs, J. Stringer, F. Rankins and R. Hargraves,  "Investigating the impact of a hybrid summer transition program," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757527
+keywords: {stem;chemistry;economics;data collection;mathematics;bridges}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757527
+
+E. Hamner, J. Cross, L. Zito, D. Bernstein and K. Mutch-Jones,  "Training teachers to integrate engineering into non-technical middle school curriculum," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757528
+keywords: {art;training;hardware;computational modeling;conferences;robot sensing systems}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757528
+
+M. Agarwal, et al., "Research models with dissemination activities for research experience for teachers (RET)," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-6.
+doi: 10.1109/FIE.2016.7757529
+keywords: {nanotechnology;engineering profession;renewable energy sources;standards;training;webinars}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757529
+
+M. Ghalia, R. Carlson, V. Estrada, H. Huq and J. Ramos,  "Engaging K-12 teachers in engineering through a professional development program: Implementation strategies, results and lessons learned," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757530
+keywords: {conferences;seminars;stem;engineering profession;knowledge engineering;planning}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757530
+
+J. Banks-Hunt, S. Adams, S. Ganter and J. Bohorquez,  "K-12 STEM Education: Bringing the engineering maker space, student-centered learning, curriculum, and teacher training to middle schools," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757531
+keywords: {education;engines;filling;planning;testing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757531
+
+M. Seyam, D. McCrickard, S. Niu, A. Esakia and W. Kim,  "Teaching mobile application development through lectures, interactive tutorials, and Pair Programming," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757533
+keywords: {mobile communication;programming profession;tutorials;software;springs}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757533
+
+C. Silla,  "Teaching genetic algorithm-based parameter optimization using Pacman," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-6.
+doi: 10.1109/FIE.2016.7757534
+keywords: {artificial intelligence;sociology;statistics;optimization;manuals}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757534
+
+H. Sapia, R. Garcia, C. Olivete, D. Pereira and K. Trevisani,  "Teaching-learning firewall configuration using a visual modeling web based tool: The SP2Model and its application to Computer Science course," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757537
+keywords: {ports (computers);firewalls (computing);ip networks;visualization;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757537
+
+T. DePue, et al., "An Android app for spatial acoustic analysis as a learning tool," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757538
+keywords: {correlation;chirp;mobile communication;distance measurement;androids;humanoid robots;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757538
+
+M. Venter and L. de Wet,  "Continuance use intention of primary school learners towards mobile mathematical applications," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757539
+keywords: {games;adaptation models;land mobile radio;education;mathematical model}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757539
+
+G. Soad, N. Duarte Filho and E. Barbosa,  "Quality evaluation of mobile learning applications," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757540
+keywords: {mobile communication;iec standards;iso standards;software;mobile handsets;mobile applications}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757540
+
+S. Oyelere, J. Suhonen, S. Shonola and M. Joy,  "Discovering students mobile learning experiences in higher education in Nigeria," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757541
+keywords: {mobile handsets;mobile communication;electronic learning;sociology;statistics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757541
+
+J. Toyoshima, S. Fujii and Y. Tokiwa,  "Development of a mobile-friendly classroom support system to improve students' presentation skills," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757542
+keywords: {smart phones;engineering students;reflection;visualization;usability;engineering profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757542
+
+S. Elsaiah and P. Jansson,  "An effective design course to inspire active learning in undergraduate education," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-6.
+doi: 10.1109/FIE.2016.7757543
+keywords: {computational modeling;solid modeling;creativity;power electronics;computers;mathematical model;knowledge engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757543
+
+C. Davis and R. Bolen,  "Implementing Lean LaunchPad methodology into an engineering professional development course," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-6.
+doi: 10.1109/FIE.2016.7757544
+keywords: {entrepreneurship;writing;engineering students;springs;teamwork}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757544
+
+S. Cassel and A. Nylen,  "Determining progress in writing competency by assessing students' argumentation," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-6.
+doi: 10.1109/FIE.2016.7757545
+keywords: {writing;context;education;computer science;atmospheric measurements;particle measurements;cognition}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757545
+
+Jia-Ling Lin, P. Imbertson, K. Srivastav and W. Horn,  "Engineering Report: A tool to facilitate learning for real-world problem solving," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757546
+keywords: {problem-solving;context;education;cognition;teamwork;context modeling;urban areas}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757546
+
+B. Krisler and R. Alterman,  "Continuous learning through inline training," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757547
+keywords: {training;software;electric breakdown;knowledge engineering;electronic mail;cognitive science;switches}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757547
+
+J. McNeil, M. Ohland and R. Long,  "Entry pathways, academic performance, and persistence of nontraditional students in engineering by transfer status," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757548
+keywords: {sociology;statistics;engineering students;electric shock;databases;economics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757548
+
+A. Zeid, M. Bogard, C. Javdekar and C. Duggan,  "Formative evaluation of an innovative program to prepare non-technical majors to join advanced manufacturing workforce," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757549
+keywords: {manufacturing;transforms;engineering profession;instruments;protocols;organizations;sociology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757549
+
+C. Brawner, J. Main, C. Mobley, M. Camacho and S. Lord,  "Exploring the intersection of veteran status, age, and engineering study," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757550
+keywords: {military aircraft;sociology;engineering education;electronic mail;aerospace electronics;companies}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757550
+
+E. Cotts, et al., "A STEM program focused on transfer student success at Binghamton university," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757551
+keywords: {seminars;recruitment;nanotechnology;buildings;scholarships;biology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757551
+
+J. Heywood,  "More by luck than good judgement: Moral purpose in engineering education policy making for change," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-6.
+doi: 10.1109/FIE.2016.7757552
+keywords: {training;ethics;engineering education;reliability;knowledge engineering;technological innovation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757552
+
+E. Jones and J. Rowland,  "Frontiers in education—have we made a difference? If so, what?," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757553
+keywords: {engineering education;conferences;history;engineering profession;europe}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757553
+
+N. Choudhary and B. Jesiek,  "State of Mixed Methods research in Engineering Education: In-depth examination of JEE articles, 2010–2015," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757554
+keywords: {education;engineering profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757554
+
+K. Cross,  "Balancing engineering and religious identities," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757555
+keywords: {lenses;lead}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757555
+
+S. Frezza,  "Issues in student valuing of software engineering best practices," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757556
+keywords: {best practices;software engineering;education;software testing;software;instruments}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757556
+
+A. Parrish and E. Sobiesk,  "Developing ABET criteria for undergraduate cybersecurity programs," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-2.
+doi: 10.1109/FIE.2016.7757557
+keywords: {accreditation;computer crime;cryptography;force;computational modeling}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757557
+
+K. Mehta and I. Gorski,  "Preparing engineers for careers in social innovation and sustainable development," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757558
+keywords: {engineering profession;organizations;technological innovation;sustainable development;education;levee;entrepreneurship}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757558
+
+A. Perez-Poch and D. Lopez,  "Do differences exist between how engineering and non-engineering lecturers perceive the importance of teaching competences?," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757559
+keywords: {training;technological innovation;context;planning;teamwork;ice}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757559
+
+D. Nalla and S. Nalla,  "Research culture in engineering faculty: Its effect on the attainment of graduate attributes," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757560
+keywords: {engineering education;accreditation;writing;context;engineering profession;laboratories}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757560
+
+S. Ma, M. West, G. Herman, J. Tomkin and J. Mestre,  "Studying faculty Communities of Practice through social network analysis," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757561
+keywords: {social network services;collaboration;technological innovation;engineering education;stem;biology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757561
+
+A. LoVerso, et al., "Using reflection to identify dissonance, consonance, and interest in teaching: Comparing definitions and stories to resolve conflict," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757562
+keywords: {education;interviews;reflection;encoding;engineering profession;sociology;statistics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757562
+
+L. Borges, M. Araujo, C. Maciel and E. Nunes,  "Participatory design for the development of inclusive educational technologies: A systematic review," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757563
+keywords: {educational technology;systematics;visualization;assistive technology;pediatrics;context}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757563
+
+C. Bohm and R. Motschnig,  "Developing diversity awareness of software engineers: A Diversity Framework and its application in an academic and life-long learning context," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757564
+keywords: {conferences;education;context;cultural differences;software;information and communication technology;project management}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757564
+
+S. Williams, B. Lutz, C. Hampton, H. Matusovich and W. Lee,  "Exploring student motivation towards diversity education in engineering," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757565
+keywords: {cultural differences;interviews;engineering students;instruments;protocols}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757565
+
+M. Pilotte and D. Bairaktarova,  "Autism spectrum disorder and engineering education - needs and considerations," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757566
+keywords: {sociology;statistics;autism;stem;engineering students}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757566
+
+N. Morris and D. Piovesan,  "Integrated Crayons for Adaptive Needs," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757567
+keywords: {education;thumb;tribology;pediatrics;biomedical engineering;recycling}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757567
+
+R. Bass, B. Pejcinovic and J. Grant,  "Applying Scrum project management in ECE curriculum," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757568
+keywords: {project management;teamwork;planning;computers;engineering education;manganese;context}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757568
+
+I. de Kereki and A. Manataki,  "“Code Yourself” and “A Programar”: A bilingual MOOC for teaching computer science to teenagers," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757569
+keywords: {programming profession;computer languages;education;encoding;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757569
+
+M. Kandlhofer, G. Steinbauer, S. Hirschmugl-Gaisch and P. Huber,  "Artificial intelligence and computer science in education: From kindergarten to university," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757570
+keywords: {artificial intelligence;education;computer science;educational robots;context;problem-solving}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757570
+
+H. Tsukamoto, et al., "Textual vs. visual programming languages in programming education for primary schoolchildren," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757571
+keywords: {programming profession;computer languages;education;games;visualization;production}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757571
+
+C. Li, H. Said, R. Michael, M. Johnson and H. Meyer,  "Competency based IT experienes," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757572
+keywords: {sociology;statistics;computer security;databases;hardware}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757572
+
+C. De Raffaele, S. Smith and O. Gemikonakli,  "The aptness of Tangible User Interfaces for explaining abstract computer network principles," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757573
+keywords: {protocols;computer networks;software;education;computational modeling;user interfaces;network topology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757573
+
+G. de Souza, et al., "Combined Methodology for Theoretical Computing," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757574
+keywords: {automata;education;grammar;learning automata;visualization;formal languages}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757574
+
+Lei Wang, Chao Gao, Tianyu Wo and Bin Shi,  "Analysis of students' behavior in the process of operating system experiments," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757575
+keywords: {operating systems;education;servers;programming;linux;virtual machining}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757575
+
+R. Motschnig, M. Sedlmair, S. Schroder and T. Moller,  "A team-approach to putting learner-centered principles to practice in a large course on Human-Computer Interaction," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757576
+keywords: {human computer interaction;education;computer science;psychology;computers;mobile communication;history}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757576
+
+C. Silla, M. Paglioney and I. Mardegany,  "jOthelloT: A java-based open source Othello framework for artificial intelligence undergraduate classes," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757577
+keywords: {java}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757577
+
+D. Samuelsen and O. Graven,  "Adopting an exercise program for electronics engineering education utilising remote laboratories for the age of MOOC," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757578
+keywords: {remote laboratories;training;hardware;user interfaces;software;engineering education;power supplies}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757578
+
+P. Orduna, et al., "LabsLand: A sharing economy platform to promote educational remote laboratories maintainability, sustainability and adoption," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-6.
+doi: 10.1109/FIE.2016.7757579
+keywords: {remote laboratories;portals;internet;robots;companies}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757579
+
+S. Ramos, E. Pimentel, M. Marietto and W. Botelho,  "Hands-on and Virtual laboratories to undergraduate Chemistry education: Toward a pedagogical integration," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757580
+keywords: {laboratories;chemicals;education;three-dimensional displays;water heating;computer architecture}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757580
+
+L. Zapata Rivera and M. Larrondo-Petrie,  "Design of a Latin American and Caribbean remote laboratories network," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757581
+keywords: {instruments;internet;computational modeling;continents;government;xml}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757581
+
+Wan Han, Gao Xiaopeng and Liu Qian,  "Hybrid teaching mode for laboratory-based remote education of computer structure course," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757582
+keywords: {education;hardware design languages;computers;hardware;computer architecture;mars;programming}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757582
+
+Dong San Choi, B. Myers and M. Loui,  "Grit and first-year retention in engineering," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-3.
+doi: 10.1109/FIE.2016.7757583
+keywords: {engineering students;logistics;springs;sociology;statistics;electronic mail;psychology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757583
+
+J. Moore,  "Mastery grading of engineering homework assignments," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757584
+keywords: {limiting;thermodynamics;data collection;sociology;statistics;education;springs}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757584
+
+C. Groen and L. McNair,  "Developing a grounded theory of undergraduate civil engineering professional identity formation," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757585
+keywords: {civil engineering;engineering education;context;interviews;recruitment;data collection;engineering profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757585
+
+J. Huff, et al., "Exploring shame in engineering education," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757586
+keywords: {psychology;engineering students;social groups;context;civil engineering;employment}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757586
+
+A. Sinha, P. Das, R. Gavas, D. Chatterjee and S. Saha,  "Physiological sensing based stress analysis during assessment," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757587
+keywords: {stress;complexity theory;skin;heart rate variability;monitoring;feature extraction;biomedical monitoring}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757587
+
+M. Rasouli, R. Weissbach and D. Yeung,  "Teaching modern control theory to undergraduates using a state space model of a synchronous generator," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757588
+keywords: {aerospace electronics;mathematical model;synchronous generators;control systems;control theory;education;mimo}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757588
+
+C. Martin, J. Moore and J. Ranalli,  "Teaching the foundations of thermodynamics with PYro," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-6.
+doi: 10.1109/FIE.2016.7757589
+keywords: {software;thermodynamics;calculators;education;temperature;chemicals;documentation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757589
+
+P. Lynch and F. Aqlan,  "Filling the skills gap in U.S. manufacturing: Promoting internships and co-op experiences and integrating industrial engineering courses to improve student design and manufacturing knowledge," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757590
+keywords: {education;industrial engineering;product design;manufacturing processes;manufacturing industries}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757590
+
+A. Shafaat, H. Ebrahiminejad, F. Marbouti, M. Cardella and A. Kandil,  "Developing a systematic framework to enhance construction procedure design," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-3.
+doi: 10.1109/FIE.2016.7757591
+keywords: {protocols;systems thinking;systematics;engineering education;process design;companies;interviews}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757591
+
+E. Miskioglu,  "Developing more robust problem solvers through diversity of course experiences," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757592
+keywords: {visualization;problem-solving;sensors;engineering students;robustness;cultural differences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757592
+
+G. Duffy, S. Sorby, S. Nozaki and B. Bowe,  "Exploring the role of spatial cognition in problem solving," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757593
+keywords: {problem-solving;correlation;engineering students;mathematical model;cognition}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757593
+
+P. Rivera-Reyes and L. Perez,  "Abstraction and problem solving in an undergraduate electrical engineering circuits course," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757594
+keywords: {cognition;problem-solving;switches;switching circuits}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757594
+
+M. Spezialetti,  "Thinking about asking: Encouraging a questioning approach to requirements gathering and problem solving," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757595
+keywords: {context;games;algorithm design and analysis;programming profession;problem-solving;software engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757595
+
+R. Revelo, J. Mejia and M. Mitchell,  "Special session: Culturally responsive practices in K-16 engineering education," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-2.
+doi: 10.1109/FIE.2016.7757596
+keywords: {engineering education;cultural differences;knowledge engineering;collaboration;stem;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757596
+
+Yang Song, Zhewei Hu, Yifan Guo and E. Gehringer,  "An experiment with separate formative and summative rubrics in educational peer assessment," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757597
+keywords: {reliability;education;intellectual property;springs;indexes;information services;electronic publishing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757597
+
+J. Barbay, J. Simmonds, A. Nishida and M. Ribeiro,  "“Teaching is learning”: Pedagogical material created and evaluated by students," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757598
+keywords: {videos;education;quality control;sociology;statistics;atmospheric measurements;particle measurements}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757598
+
+S. Lupoli,  "Peer grading exams with video rubrics," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757599
+keywords: {privacy;youtube;investment;data structures;solids;electric breakdown;computer science}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757599
+
+Y. Song, F. Pramudianto and E. Gehringer,  "A markup language for building a data warehouse for educational peer-assessment research," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757600
+keywords: {data warehouses;markup languages;data models;terminology;databases;numerical models;transforms}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757600
+
+Shuo Niu, D. McCrickard and S. Nguyen,  "Learning with interactive tabletop displays," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757601
+keywords: {collaborative work;semantics;creativity;education;games;teamwork}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757601
+
+A. Kemppainen, M. Fraley, A. Hamlin and G. Hein,  "How important is high-school computing experience for first-year engineering student success?," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757602
+keywords: {computers;engineering students;writing;standards;internet;computational modeling;smart phones}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757602
+
+J. Ranalli and J. Moore,  "Targeted flipped classroom technique applied to a challenging topic," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757603
+keywords: {education;online services;videos;interviews;fluids;problem-solving;aggregates}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757603
+
+J. Segrelles and G. Molto,  "Assessment of cloud-based Computational Environments for higher education," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757604
+keywords: {cloud computing;hardware;educational activities;laboratories;bring your own device;software tools}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757604
+
+J. Ariza,  "Design of open source platform for automatic control systems education based on cooperative learning," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757605
+keywords: {graphical user interfaces;debugging;control systems}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757605
+
+L. de Almeida, et al., "Motivating attendee's participation in distance learning via an automatic messaging plugin for the moodle platform," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757608
+keywords: {computer aided instruction;electronic mail;databases;communication systems;electronic learning;learning systems}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757608
+
+Yunjeong Chang, L. Cintron, J. Cohoon, J. Cohoon and L. Tychonievich,  "Instructional design principles of diversity-focused professional development MOOC for community college computing faculty: Lighthouse CC," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757610
+keywords: {computer science;education;videos;context;computational modeling;conferences;us government}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757610
+
+S. Minin, et al., "Minority Merit: Improving retention with cooperative learning in a first-year electronics course," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757611
+keywords: {conferences;stem;collaborative work;computers;sociology;statistics;technological innovation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757611
+
+R. Chan,  "Social epistemic cognition and engineering students' collaborative learning in emerging areas: An implementation case study in a course for social networking," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757612
+keywords: {knowledge engineering;cognition;engineering students;collaboration;collaborative work;social network services}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757612
+
+M. Altebarmakian, R. Alterman, A. Yatskar, K. Harsch and A. DiLillo,  "The microgenetic analysis of staged peer collaboration for introductory programming," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757613
+keywords: {collaboration;programming;problem-solving;encoding;collaborative work;syntactics;java}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757613
+
+T. Vitolo, K. Hersch and B. Brinkman,  "Making the connection: Successful cross campus collaboration among students," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757614
+keywords: {collaboration;entrepreneurship;buildings;engineering profession;companies;computer science}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757614
+
+M. Bojey and B. Hui,  "Who wants to collaborate? A step towards understanding collaboration as choice," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757615
+keywords: {teamwork;programming;collaborative work;software;data visualization}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757615
+
+L. McNair, L. Baum and N. Mouchrek,  "Collaborative teaching: Exploring reflective practice to address uncertainty avoidance," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757616
+keywords: {education;uncertainty;collaboration;reflection;planning;creativity;lead}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757616
+
+J. Hoffbeck, H. Dillon, R. Albright, Wayne Lu and T. Doughty,  "Teaching programming in the context of solving engineering problems," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757617
+keywords: {matlab;programming profession;computers;computer languages;electrocardiography;context}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757617
+
+K. McMaster, B. Rague, S. Sambasivam and S. Wolthuis,  "Coverage of CS1 programming concepts in C++ and Java textbooks," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757618
+keywords: {c++ languages;java;portable document format;object oriented programming}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757618
+
+L. Begosso, L. Begosso and R. Begosso,  "An approach for the use of Learning Objects in teaching computer programming concepts," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757619
+keywords: {education;programming profession;computers;taxonomy;sorting}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757619
+
+P. Seeling,  "Switching to blend-Ed: Effects of replacing the textbook with the browser in an introductory computer programming course," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757620
+keywords: {multiprotocol label switching;springs;programming profession;correlation;training}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757620
+
+L. De Oliveira Brandao, Y. Bosse and M. Gerosa,  "Visual programming and automatic evaluation of exercises: An experience with a STEM course," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757621
+keywords: {programming profession;visualization;java;syntactics;computers;stem}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757621
+
+D. Bairaktarova and A. Johri,  "The role of virtual objects in performing engineering related task," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757622
+keywords: {engineering students;cognition;boats;concrete}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757622
+
+F. Shaw and K. Wendell,  "Examining two learner approaches in a making activity with university students," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757623
+keywords: {observers;fabrication;engineering students;encoding;testing;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757623
+
+Z. Cochran and B. DiSalvo,  "Exploring traditional and workbench-style kits to support project- and problem-based learning," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757624
+keywords: {prototypes;interviews;manuals;computer science;ubiquitous computing;mobile communication;buildings}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757624
+
+N. He, H. Huang and Ying Qian,  "Teaching touch sensing technologies through project-based learning," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757625
+keywords: {sensors;education;microcontrollers;computers;programming;libraries;capacitance}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757625
+
+A. Hoffman,  "Mainstreaming usability in lower level undergraduate design courses," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757626
+keywords: {usability;testing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757626
+
+Yi Wu, A. Khalilollahi and P. Martone,  "Incorporating FEA in an undergraduate biomechanics course," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-3.
+doi: 10.1109/FIE.2016.7757627
+keywords: {biomedical engineering;mechanical engineering;bones;loading;biomechanics;biological system modeling;solid modeling}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757627
+
+S. Harms and J. Hastings,  "A cross-curricular approach to fostering innovation such as virtual reality development through student-led projects," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757628
+keywords: {technological innovation;creativity;software engineering;virtual reality;proposals;computer science;solid modeling}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757628
+
+S. Walters, et al., "Students' motivational attitudes in introductory STEM courses: The relationship between assessment and externalization," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757629
+keywords: {stem;lenses;testing;context modeling;context;psychology;concrete}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757629
+
+L. Benson, et al., "Understanding undergraduate engineering researchers and how they learn," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757630
+keywords: {education;sociology;statistics;instruments;interviews}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757630
+
+W. Lee and N. Conklin,  "Improving student learning experience via extracurricular undergraduate research in near-space ballooning," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757631
+keywords: {payloads;meteorology;education;global positioning system;computers;nasa;radiation detectors}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757631
+
+N. Conklin and W. Lee,  "A sub-orbital experimental payload for engaging undergraduate engineering students in interdisciplinary research," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757632
+keywords: {detectors;payloads;cosmic rays;testing;microcontrollers;temperature sensors}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757632
+
+C. Mugruza-Vassallo,  "Integral and transformative engineering coursework in formative research for undergraduate curricula," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757633
+keywords: {training;proposals;context;accreditation;adaptation models}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757633
+
+A. Rose,  "Using archival materials to study the influence of public policy on a hydroelectric project," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757634
+keywords: {history;hydroelectric power generation;public policy;lakes;civil engineering;education;technological innovation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757634
+
+M. Ohland, et al., "Making the Multiple Institution Database for Investigating Engineering Longitudinal Development (MIDFIELD) more accessible to researchers," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-3.
+doi: 10.1109/FIE.2016.7757635
+keywords: {conferences;databases;engineering education;complexity theory;mechanical engineering;data visualization}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757635
+
+S. Donohue and L. Richards,  "FIE 2016 special session - designing the engineer's way," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757636
+keywords: {vehicles;standards;creativity;education;force;suspensions;technological innovation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757636
+
+W. Fisher, C. Rader and T. Camp,  "Online programming tutors or paper study guides?," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-6.
+doi: 10.1109/FIE.2016.7757637
+keywords: {data structures;programming profession;c++ languages;software;debugging}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757637
+
+B. Skromme, et al., "Impact of step-based tutoring on student learning in linear circuit courses," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757638
+keywords: {linear circuits;problem-solving;transient analysis;encoding;testing;color;tutorials}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757638
+
+B. Earwood, Jeong Yang and Young Lee,  "Impact of static and dynamic visualization in improving object-oriented programming concepts," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757639
+keywords: {visualization;programming environments;linux;programming profession;dynamic programming;unified modeling language}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757639
+
+A. Konak, M. Bartolacci, S. Kulturel-Konak and M. Nasereddin,  "Impact of collaborative learning on student perception of virtual computer laboratories," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757640
+keywords: {collaborative work;computers;laboratories;collaboration;information technology;educational technology;information security}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757640
+
+L. Ureel and C. Wallace,  "Discrete mathematics for computing students: A programming oriented approach with Alloy," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757641
+keywords: {metals;atmospheric modeling;computer science;mathematical model;visualization;airports}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757641
+
+M. Serrano and J. Groh,  "Travel grants which facilitate engineering leadership identity in female engineering students," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757642
+keywords: {engineering profession;engineering students;stem;springs;psychology;data collection}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757642
+
+D. Rover, J. Zambreno, M. Mina, P. Jones and L. Chrystal,  "Evidence-based planning to broaden the participation of women in electrical and computer engineering," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757643
+keywords: {computers;education;gender equity;planning;organizations;engineering profession;proposals}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757643
+
+G. Townsend and K. Sloan,  "Pre- to post-conference differences: Celebrations of Women in Computing," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757644
+keywords: {engineering profession;industries;computational modeling;mentoring;organizations;computer science;machinery}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757644
+
+H. Burns, K. Lesseig and N. Staus,  "Girls' interest in STEM," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757645
+keywords: {stem;mathematical model;animals;interviews;image color analysis;physics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757645
+
+J. Tomkin, M. West and G. Herman,  "A methodological refinement for studying the STEM grade-point penalty," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757646
+keywords: {physics;stem;biology;art;bars;calculus;chemistry}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757646
+
+J. Winikus and G. Archer,  "Perspective of teenagers on traits and research associated with electrical and Computer Engineers and their research," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757647
+keywords: {computers;robots;scholarships;contacts;engineering profession;stem;sociology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757647
+
+D. Tolbert and M. Cardella,  "What they say: Black children talk about learning engineering," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757648
+keywords: {cultural differences;global communication;interviews;buildings;games;knowledge engineering;aging}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757648
+
+A. Khanlari,  "Long term effects of educational robots on a Grade 9 girl's perceptions of science and math," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757649
+keywords: {robot sensing systems;mathematics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757649
+
+M. Holliday and A. Scott,  "A software development course based on server-side Javascript," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757650
+keywords: {software;software engineering;programming;unified modeling language;context;linux}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757650
+
+G. Kobayashi, F. de Assis Zampirolli and J. Quilici-Gonzalez,  "Report of a Distance Learning course of specialization in Information Technology at a Brazilian public university," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757651
+keywords: {training;computer aided instruction;government;context;urban areas;electronic mail}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757651
+
+A. Lucietto,  "Who is the engineering technology graduate and where do they go?," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757652
+keywords: {engineering profession;sociology;statistics;trajectory;companies;electronic mail}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757652
+
+R. Nicolay and T. Mundt,  "Evaluation of acoustical position determination in a classroom scenario," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757654
+keywords: {mobile handsets;acoustic measurements;position measurement;acoustics;clocks;measurement uncertainty;concrete}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757654
+
+J. Swenson and K. Wendell,  "A case study of students' engagement in a control systems homework problem," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757655
+keywords: {engineering education;presses;control systems;mechanical engineering;knowledge engineering;mathematical model}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757655
+
+Y. Song, Y. Guo and D. Thuente,  "A quantitative case study on students' strategy for using authorized cheat-sheets," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757656
+keywords: {organizations;correlation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757656
+
+A. Johnson, S. Willner-Giwerc, P. Grogan and E. Danahy,  "Pre-college students' use of systems engineering methods in design," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757657
+keywords: {conferences;robot kinematics;testing;systems thinking;iterative methods}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757657
+
+I. Pivkina,  "Peer learning assistants in undergraduate computer science courses," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757658
+keywords: {programmable logic arrays;springs;education;data structures;mathematics;programming}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757658
+
+T. Kunberger and C. Geiger,  "The impact of near-peer mentoring on self-efficacy in an introductory engineering course," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757659
+keywords: {mentoring;sociology;statistics;training;engineering students;writing;biomedical engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757659
+
+N. Piedra, J. Chicaiza, J. Lopez-Vargas and E. Caro,  "Guidelines to producing structured interoperable data from Open Access Repositories," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757660
+keywords: {metadata;interoperability;semantics;standards;ecosystems;libraries;resource description framework}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757660
+
+B. Oni and V. Viswanathan,  "Establishing learning communities among engineering freshmen through peer-group tutoring program," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757661
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757661
+
+R. Sundaram,  "Engage and educate: Engineering laboratory activities for first-year engineering students," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757662
+keywords: {seminars;logic gates;stem;capacitors;transistors;switches;resistors}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757662
+
+H. Vasquez, A. Fuentes and J. Kypuros,  "Enriched student guidance and engagement in lower level engineering gatekeeper courses," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757663
+keywords: {mentoring;logic gates;guidelines;engineering profession;knowledge engineering;springs;mathematical model}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757663
+
+J. Kypuros, A. Fuentes, H. Vasquez, S. Crown and V. Pierce,  "Technology-enabled, after-hours, asynchronous, peer-led supplementary instruction and mentoring in engineering gatekeeper courses," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-3.
+doi: 10.1109/FIE.2016.7757664
+keywords: {mentoring;computer science;computational modeling;logic gates;silicon;collaboration}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757664
+
+J. Cohoon, J. Cohoon and L. Cintron,  "Teaching teachers to teach diverse students in computer science," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-2.
+doi: 10.1109/FIE.2016.7757665
+keywords: {computer science;conferences;information technology;training;engineering profession;computer science education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757665
+
+C. Hixson, S. Cutler and J. Pembridge,  "The behavioral economics of instructional decision making," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-3.
+doi: 10.1109/FIE.2016.7757666
+keywords: {economics;decision making;engineering education;context;analytical models;adaptation models}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757666
+
+C. Moore, C. Watterson and J. Eldgridge,  "Practical laboratory classes to improve engagement and achievement amongst engineering students taking first-year mathematics," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757667
+keywords: {mathematics;engineering students;planning;computer science;government;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757667
+
+L. Zhao and F. Mak,  "Change the traditional way of Teaching Electric Drives Laboratory with design of experiment," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-6.
+doi: 10.1109/FIE.2016.7757668
+keywords: {dc motors;hardware;velocity control;field programmable gate arrays;manuals;software packages}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757668
+
+P. Deshmukh, C. Patterson and W. Baumann,  "A hands-on modular laboratory environment to foster learning in control system security," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757669
+keywords: {computer security;control systems;process control;training;courseware}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757669
+
+Y. Chang, E. Aziz, Z. Zhang, M. Zhang and S. Esche,  "Evaluation of a video game adaptation for mechanical engineering educational laboratories," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-6.
+doi: 10.1109/FIE.2016.7757670
+keywords: {laboratories;gears;games;standards;collaboration;shafts;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757670
+
+Y. Wu, C. de Vries, O. Onipede and M. Ford,  "Enhance hands on experience of system and control using low cost LEGO kits," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-6.
+doi: 10.1109/FIE.2016.7757671
+keywords: {matlab;system dynamics;servomotors;computers;transfer functions;bluetooth;dc motors}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757671
+
+M. Bazdresch, S. Velayudhan and W. Johnson,  "A satellite ground station for teaching digital and wireless communications," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757672
+keywords: {satellites;satellite broadcasting;software;wireless communication;computers;hardware;antennas}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757672
+
+J. Camba, A. De Leon, J. de la Torre, J. Saorin and M. Contero,  "Application of low-cost 3D scanning technologies to the development of educational augmented reality content," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-6.
+doi: 10.1109/FIE.2016.7757673
+keywords: {three-dimensional displays;solid modeling;software;augmented reality;computational modeling;computers;measurement by laser beam}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757673
+
+M. Collins, J. Hasler and S. Shah,  "An approach to using RASP tools in analog systems education," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757675
+keywords: {field programmable analog arrays;education;band-pass filters;refining;neuroscience;integrated circuit modeling}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757675
+
+A. Dasgupta and S. Purzer,  "No patterns in pattern recognition: A systematic literature review," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-3.
+doi: 10.1109/FIE.2016.7757676
+keywords: {pattern recognition;education;systematics;databases;computers;mathematics;standards}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757676
+
+J. Cross, E. Hamner, L. Zito, I. Nourbakhshh and D. Bernstein,  "Development of an assessment for measuring middle school student attitudes towards robotics activities," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757677
+keywords: {educational robots;computers;reliability;art;instruments;interviews}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757677
+
+A. de Araujo, W. Andrade and D. Serey Guerrero,  "A systematic mapping study on assessing computational thinking abilities," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757678
+keywords: {systematics;education;programming profession;context;libraries;vehicles}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757678
+
+A. Padwick, O. Dele-Ajayi, C. Davenport and R. Strachan,  "Innovative methods for evaluating the science capital of young children," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757680
+keywords: {instruments;stem;engineering profession;physics;diamond;aging}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757680
+
+E. Fernandes, J. Oliveira and E. Figueiredo,  "Investigating how features of online learning support software process education," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757681
+keywords: {software;software engineering;agile software development;education;adaptation models;digital audio broadcasting;computer science}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757681
+
+B. Maxim, R. Kaur, C. Apzynski, D. Edwards and E. Evans,  "An agile software engineering process improvement game," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757682
+keywords: {games;software;software engineering;computers;artificial intelligence;project management;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757682
+
+M. Dorodchi and N. Dehbozorgi,  "Utilizing open source software in teaching practice-based software engineering courses," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757683
+keywords: {open source software;software engineering;education;hafnium compounds;linux}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757683
+
+C. Matthies, T. Kowark, M. Uflacker and H. Plattner,  "Agile metrics for a university software engineering course," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757684
+keywords: {measurement;context;software;education;complexity theory;software engineering;best practices}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757684
+
+A. Decker and D. Simkins,  "Leveraging role play to explore software and game development process," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757685
+keywords: {games;companies;law;production;software}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757685
+
+H. Jackson, K. Tarhini, S. Zelmanowitz and A. Zapalska,  "The resilient Civil engineer with the changing global environment," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757686
+keywords: {cultural differences;globalization;education;economics;civil engineering;ethics;complexity theory}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757686
+
+C. da Rocha Brito, M. Ciampi, V. Barros, L. Amaral and R. Vasconcelos,  "Engineering the engineering program: The year of discovery," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757687
+keywords: {engineering education;cultural differences;proposals;organizations;history}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757687
+
+R. O'Connell and M. Ayllon,  "Student perceptions of global knowledge and skills acquired during a five-week study abroad program," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757688
+keywords: {cultural differences;circuit theory;history;knowledge engineering;employment;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757688
+
+S. Kulturel-Konak, A. Konak, I. Esparragoza and G. Kremer,  "Measuring global awareness interest development of engineering and information technology students," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757689
+keywords: {loading;information technology;context;organizations;cultural differences;conferences;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757689
+
+A. Godwin,  "Visualizing systematic literature reviews to identify new areas of research," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757690
+keywords: {systematics;bibliographies;engineering education;pragmatics;databases;context}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757690
+
+M. Tafur-Arciniegas,  "Understanding engineering through the engineering journal of the colombian university of Los Andes," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-6.
+doi: 10.1109/FIE.2016.7757691
+keywords: {encoding;education;knowledge engineering;engines;cleaning;stability analysis;medical services}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757691
+
+J. Hidalgo-Cespedes, G. Marin-Raventos and V. Lara-Villagran,  "Learning principles in program visualizations: A systematic literature review," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757692
+keywords: {visualization;software;programming;data visualization;bibliographies;computers;computer languages}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757692
+
+L. de Oliveira, M. Amaral, D. Espindola, R. Barwaldt and S. Botelho,  "Authorship/authoring possibilities in three-dimensional virtual worlds in education: The state of art from a systematic review," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757693
+keywords: {systematics;text mining;context;software;conferences;education;three-dimensional displays}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757693
+
+R. Anjos, K. Alonso, C. Maciel, A. Anjos and E. dos Santos Nunes,  "Pedagogical standard for the Analysis of Virtual Learning Environments," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757694
+keywords: {education;instruments;databases;virtual environments;standards;analytical models;collaboration}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757694
+
+G. Archer, et al., "Understanding similarities and differences in students across first-year computing majors," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757695
+keywords: {programming profession;computers;google;sociology;statistics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757695
+
+J. Solomon, V. Unnikrishan, V. Viswanathan and E. Hamilton,  "Course material delivery in engineering using brain-based learning techniques," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757696
+keywords: {protocols;fluids;cognition;knowledge engineering;brain models;programming}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757696
+
+P. Crilly,  "The visual dipole - a key to understanding antenna theory," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-3.
+doi: 10.1109/FIE.2016.7757697
+keywords: {dipole antennas;feeds;antenna theory;impedance;antenna radiation patterns;visualization;resonant frequency}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757697
+
+M. Phillips and P. McPherson,  "Using everyday objects to engage students in standards education," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757698
+keywords: {standards;libraries;education;testing;mechanical engineering;databases;industries}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757698
+
+Xiaohong Su, Jing Qiu, Tiantian Wang and Lingling Zhao,  "Optimization and improvements of a Moodle-Based online learning system for C programming," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757699
+keywords: {education;programming profession;computer languages;instruments;data mining;software}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757699
+
+Ying Xie, Kai Qian and Jing He,  "Multi-dimensional and customizable open-source labware for promoting big data analytical skills in STEM education," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757700
+keywords: {big data;classification algorithms;algorithm design and analysis;clustering algorithms;sparks;machine learning algorithms;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757700
+
+T. Lind, et al., "Students envisioning the future," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757701
+keywords: {seminars;stakeholders;information systems;conferences;context}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757701
+
+Yuetong Lin, A. Shahhosseini, M. Badar, T. Foster and J. Dean,  "A concept map-based cognitive framework for acquiring expert knowledge in industrial environment," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757702
+keywords: {companies;training;indexes;knowledge engineering;semantics;software;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757702
+
+B. Ahn and J. Brisson,  "Correlation between engineering student leadership practices, personality types, and demographic characteristics," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757703
+keywords: {sensors;correlation;engineering students;regression analysis;lead;predictive models;collaboration}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757703
+
+C. Moloney, J. Rosales and C. Badenhorst,  "A methodological evaluation of an integrative pedagogy for engineering education," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-6.
+doi: 10.1109/FIE.2016.7757704
+keywords: {lead;context;engineering students;accreditation;collaboration}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757704
+
+X. Fan,  "CapStone: A cloud-based platform for multi-party collaboration on capstone projects," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757705
+keywords: {industries;teamwork;proposals;writing;cloud computing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757705
+
+D. Ferguson, C. Lally, H. Somnooma, O. Murch and M. Ohland,  "Using frame-of-reference training to improve the dispersion of peer ratings in teams," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-6.
+doi: 10.1109/FIE.2016.7757706
+keywords: {training;dispersion;reliability}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757706
+
+C. Walter, I. Riley and R. Gamble,  "Configuring an appropriate team environment to satisfy relevant criteria," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757707
+keywords: {software;productivity;software engineering;social network services;computer science;collaborative tools}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757707
+
+S. Freitas, R. Silva, E. Canedo and T. Lucena,  "A tool for students' grouping in classroom," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757708
+keywords: {proposals;ontologies;education;computers;linearity;boolean functions;logic gates}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757708
+
+O. Pierrakos, N. Curtis and R. Anderson,  "How salient is the identity of engineering students? on the use of the Engineering Student Identity Survey," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-6.
+doi: 10.1109/FIE.2016.7757709
+keywords: {engineering students;recruitment;organizations;psychology;lenses;sociology;statistics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757709
+
+J. Kypuros, et al., "Understanding intersecting social identities in engineering education and practice," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757710
+keywords: {sociology;computer science;cultural differences;statistics;interviews;engineering education;navigation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757710
+
+C. Berdanier, M. McCall and G. Mike,  "A degree is not enough: Promoting engineering identity development and professional planning through the teaching of engineering résumé writing," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757711
+keywords: {writing;engineering students;employment;context;recruitment;planning}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757711
+
+C. Smith-Orr and A. Garnett,  "Motivation and identity in C++ the effects of music in an engineering classroom," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757712
+keywords: {multiple signal classification;online services;correlation;mathematical model;computers;engineering students}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757712
+
+K. Thoroughman and J. O'Sullivan,  "High impact practices toward personal and professional identity in introductory and advanced engineering seminar courses," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757713
+keywords: {seminars;engineering education;industries;civil engineering;context;ethics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757713
+
+Q. Malik, N. Zafar and M. Khan,  "Actualizing students' prior knowledge in engineering education," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757714
+keywords: {knowledge engineering;context;engineering education;data mining;web sites;internet}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757714
+
+A. Pears, A. Nylen and M. Daniels,  "A critical analysis of trends in student-centric engineering education and their implications for learning," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757715
+keywords: {market research;context;interviews;stem;training;schedules}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757715
+
+C. Nayak, V. Viswanathan and J. Solomon,  "The first step towards a pre-requisite knowledge tracking architecture for engineering programs," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757716
+keywords: {physics;algebra;education;logic gates;sections;mechanical engineering;calculus}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757716
+
+T. Fernandez, S. Purzer and N. Fila,  "Using process mapping to understand engineering students' conceptions of innovation processes," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757717
+keywords: {technological innovation;visualization;encoding;sorting;engineering students;protocols}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757717
+
+T. Clear, et al., "A framework for writing learning agreements," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757718
+keywords: {context;contracts;collaboration;employment;writing;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757718
+
+J. Cross, E. Hamner, L. Zito and I. Nourbakhsh,  "Engineering and Computational Thinking talent in middle school students: A framework for defining and recognizing student affinities," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757720
+keywords: {art;computational modeling;robots;computer science;training;algorithm design and analysis}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757720
+
+H. Griffith, F. Hajiaghajani and A. Griffith,  "Enhancing continuity between gender diversity interventions using hybrid social networks," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757721
+keywords: {social network services;programming profession;biological system modeling;pipelines;cultural differences;sociology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757721
+
+C. Carrico, H. Murzi and H. Matusovich,  "The roles of socializers in career choice decisions for high school students in rural central Appalachia: “Who's doing what?”," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-6.
+doi: 10.1109/FIE.2016.7757722
+keywords: {engineering profession;stakeholders;interviews;biological system modeling;stem;medical services}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757722
+
+M. Jimenez, S. Bartolomei-Suarez, Y. Ochoa and W. Santiago,  "A synchronous distance education hybrid model of college-level credits for high-school students," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757723
+keywords: {education;recruitment;calculus;conferences;standards;portals;sociology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757723
+
+M. Laengrich,  "Simple feedback can do the job: Analyzing the effects of simple computer based feedback for fundamental programming tasks," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757724
+keywords: {computers;reliability;programming profession;education;taxonomy}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757724
+
+E. Araujo, D. Serey and J. Figueiredo,  "Qualitative aspects of students' programs: Can we make them measurable?," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757725
+keywords: {manuals;programming profession;encoding;standards;measurement;context}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757725
+
+A. Gomes, F. Correia and P. Abreu,  "Types of assessing student-programming knowledge," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757726
+keywords: {programming profession;games;c languages;education;informatics;correlation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757726
+
+E. Araujo, M. Gaudencio, D. Serey and J. Figueiredo,  "Applying spectrum-based fault localization on novice's programs," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757727
+keywords: {programming;context;software;object oriented modeling;computer bugs;fault diagnosis;maintenance engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757727
+
+H. Blau, S. Kolovson, W. Adrion and R. Moll,  "Automated style feedback for advanced beginner Java programmers," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757728
+keywords: {java;feature extraction;games}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757728
+
+H. Hunt, L. Flores, R. Navarro and H. Lee,  "Increasing diverse students' persistence in engineering: A social cognitive perspective," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-6.
+doi: 10.1109/FIE.2016.7757729
+keywords: {engineering profession;engineering students;mathematical model;psychology;biomedical measurement;correlation;indexes}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757729
+
+A. Reimers and J. Smith,  "Enriching an informal engineering education program with social relevance and history for middle school girls," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757730
+keywords: {technological innovation;patents;audio systems;writing;stem;context;creativity}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757730
+
+R. Chavela Guerra, S. Farrell and A. Longo,  "Promoting LGBTQ equality in engineering via online Safe Zone workshops," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757731
+keywords: {conferences;meteorology;training;stem;terminology;electronic mail;knowledge engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757731
+
+R. Siegel, et al., "The promise of faculty care in undergraduate STEM courses," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757732
+keywords: {context;chemistry;psychology;stem;sociology;statistics;reliability theory}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757732
+
+N. Pitterson, S. Brown, J. Pascoe and K. Fisher,  "Measuring cognitive engagement through interactive, constructive, active and passive learning activities," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-6.
+doi: 10.1109/FIE.2016.7757733
+keywords: {instruments;interviews;atmospheric measurements;particle measurements;frequency measurement;correlation;collaboration}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757733
+
+M. Toyoura, M. Sakaguchi, Xiaoyang Mao, M. Hanawa and M. Murakami,  "Visualizing the lesson process in active learning classes," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757734
+keywords: {visualization;histograms;cameras;manuals;microphones;estimation;feature extraction}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757734
+
+N. Hicks, et al., "Integrating analytics and surveys to understand fully engaged learners in a highly-technical STEM MOOC," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757735
+keywords: {elbow;measurement;clustering algorithms;sociology;statistics;nanoelectronics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757735
+
+S. Sorour, S. El Rahman and T. Mine,  "Teacher interventions to enhance the quality of student comments and their effect on prediction performance," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757736
+keywords: {predictive models;education;data mining;support vector machines;writing;correlation;data models}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757736
+
+A. Franklin, R. Sunderhaus, C. Bell and P. Jamieson,  "Improved method for creating criterion maps for automatic mind map analysis," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-6.
+doi: 10.1109/FIE.2016.7757737
+keywords: {measurement;vocabulary;cats;computers;market research;electronic mail;joining processes}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757737
+
+D. Mudgett and S. Haynes,  "Teaching programming as application development from the ground up," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-9.
+doi: 10.1109/FIE.2016.7757738
+keywords: {programming profession;software;business;education;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757738
+
+B. Tyler and M. Abdrakhmanova,  "Flipping the CS1 and CS2 classrooms in Central Asia," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757739
+keywords: {education;online services;programming profession;asia;data structures}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757739
+
+D. Gerasimova and J. Nelson,  "Collaborative problem solving and achievement in a Discrete-Time Signals and Systems course," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-5.
+doi: 10.1109/FIE.2016.7757740
+keywords: {collaborative work;education;fourier series;electrical engineering;convolution;atmospheric measurements;particle measurements}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757740
+
+E. Marasco, S. Hladik, L. Behjat and W. Rosehart,  "Exploring Electrical Engineering through movement: Going with the Flow and Programming Puzzles," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-3.
+doi: 10.1109/FIE.2016.7757741
+keywords: {computers;standards;engineering education;electrical engineering;programming profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757741
+
+V. Borges, B. Nogueira and E. Barbosa,  "A multidimensional data model for the analysis of learning management systems under different perspectives," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757743
+keywords: {stakeholders;analytical models;context;metadata;data mining;decision making}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757743
+
+O. Stavridis, R. Kajfez, E. Riter and M. Mollica,  "Modeling real-world objects: Connecting SolidWorks to Toy Adaptation," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-7.
+doi: 10.1109/FIE.2016.7757744
+keywords: {solid modeling;adaptation models;engineering students;analytical models;conferences;reverse engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757744
+
+I. Dabipi, Lei Zhang, W. Brown and C. Hartman,  "Integrating complex aviation science projects into undergraduate engineering education with dialectic design approach and comparative performance analysis for innovative practices," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757745
+keywords: {engineering students;performance analysis;stem;analytical models;system analysis and design}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757745
+
+W. Tarimo and T. Hickey,  "Fully integrating remote students into a traditional classroom using live-streaming and TeachBack," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-8.
+doi: 10.1109/FIE.2016.7757746
+keywords: {real-time systems;education;streaming media;programming;three-dimensional displays;electronic mail}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757746
+
+J. Mondisa, J. Millunchick, C. Davis and D. Koch,  "The University of Michigan's M-STEM academies program: Examining the social community of future engineers," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-4.
+doi: 10.1109/FIE.2016.7757747
+keywords: {buildings;mathematics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757747
+
+J. Nwokeji, T. Boulder, I. Ohu and N. Okolie,  "Language as an instructional barrier: Towards support for international faculty," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-2.
+doi: 10.1109/FIE.2016.7757748
+keywords: {scholarships;electronic mail;collaboration;information systems;terminology;conferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757748
+
+J. Winikus, G. Archer and L. Ott,  "Working on how to solve the never ending problem of diversity," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 1-1.
+doi: 10.1109/FIE.2016.7757749
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757749
+
+ "Author index," in 2016 IEEE Frontiers in Education Conference (FIE), Eire, PA, USA, 2016 pp. 134-146.
+doi: 10.1109/FIE.2016.7757750
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2016.7757750

@@ -1,0 +1,1609 @@
+D. Petkovic, et al., "Work in progress: A machine learning approach for assessment and prediction of teamwork effectiveness in software engineering education," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-3.
+doi: 10.1109/FIE.2012.6462205
+keywords: {teamwork;software engineering;machine learning;educational institutions;training;software;machine learning;assessment;software engineering teamwork;software engineering education;assessment}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462205
+
+W. Schilling,  "Teaching software inspection effectiveness: An active learning exercise," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462206
+keywords: {inspection;software;correlation;measurement;education;market research;materials}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462206
+
+A. Al-Zoubi, O. Ata and O. Hasan,  "Microwave engineering education over the web," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-5.
+doi: 10.1109/FIE.2012.6462207
+keywords: {microwave amplifiers;microwave transistors;microwave circuits;transistors;microwave communication;insert (key words);formatting;style;styling}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462207
+
+R. Sundaram,  "Work in progress: Redesigned First-Year Seminar course in engineering — Delivery, learning outcomes assessment, and lessons learned," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462208
+keywords: {blogs;educational institutions;seminars;communities;engineering profession;reflection;collaboration;engineering projects;service learning;course modules;team blog}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462208
+
+G. Ozogul, A. Johnson and M. Reisslein,  "Animated engineering tutors: Middle school students' preferences and rationales on multiple dimensions," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462209
+keywords: {educational institutions;speech;helium;humans;clothing;engineering tutor;animated pedagogical agents;engineering education;preferences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462209
+
+R. Williams and J. Graham,  "Work in progress: Entrepreneurial skills for computing graduates," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462210
+keywords: {innovation management;educational institutions;economic indicators;focusing;employment;graduate training;enterprise;entrepreneurship;professional development}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462210
+
+A. Carberry, M. Siniawski and J. Dionisio,  "Standards-based grading: Preliminary studies to quantify changes in affective and cognitive student behaviors," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-5.
+doi: 10.1109/FIE.2012.6462211
+keywords: {instruments;standards;educational institutions;engineering education;reliability;presses;student behaviors;standards-based grading;assessment}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462211
+
+E. Pappas, O. Pierrakos and R. Nagel,  "Integrating developmental instruction in four sustainability contexts into an undergraduate engineering design curriculum: Level three," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462212
+keywords: {context;economics;taxonomy;green products;educational institutions;communities;developmental instruction;engineering design;sustainability}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462212
+
+W. Akili,  "On deployment of effective instructional strategies: Students' engagement through cooperative learning," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462213
+keywords: {educational institutions;engineering education;materials;protocols;communities;art;cooperative learning;arab gulf states;lecture format;active learning protocols}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462213
+
+M. Ohland, M. Orr, R. Layton, S. Lord and R. Long,  "Introducing “stickiness” as a versatile metric of engineering persistence," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-5.
+doi: 10.1109/FIE.2012.6462214
+keywords: {measurement;sociology;statistics;educational institutions;engineering education;industrial engineering;longitudinal;retention;persistence;metric;transfer students}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462214
+
+J. Stolk, et al., "Work in progress: En route to lifelong learning? Academic motivations, goal orientations, and learning conceptions of entering first-year engineering students," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-3.
+doi: 10.1109/FIE.2012.6462215
+keywords: {educational institutions;psychology;engineering students;presses;uncertainty;epistemic beliefs;motivation;lifelong learning;self-directed learning;self-regulated learning;goal orienatation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462215
+
+K. Trenshaw, J. Henderson, A. Boyce and L. DeStefano,  "Work in progress: Student outcomes of design projects across the curriculum," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462216
+keywords: {chemicals;engineering education;pipelines;educational institutions;chemical engineering;industries;student outcomes;design;project;chemical engineering;capstone;curriculum}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462216
+
+M. Basheri and L. Burd,  "Exploring the significance of multi-touch tables in enhancing collaborative software design using UML," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-5.
+doi: 10.1109/FIE.2012.6462217
+keywords: {unified modeling language;collaborative software;collaborative work;software design;teamwork;educational institutions;collaborative work;multi-touch table;software design;uml}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462217
+
+L. Carter, R. Botts and C. Crockett,  "Computational science programs: The background research," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462218
+keywords: {scientific computing;biology;educational institutions;computers;computer science;bioinformatics;curriculum design;computational science;bioinformatics;interdisciplinary}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462218
+
+P. Orduna, et al., "Modelling remote laboratories integrations in e-learning tools through remote laboratories federation protocols," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462220
+keywords: {remote laboratories;educational institutions;least squares approximation;protocols;authentication;authorization}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462220
+
+C. Lopez, M. Echeverria, A. Lopez-Malo and E. Palou,  "Eliciting Yucatan peninsula teachers' images of engineering and engineers," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462221
+keywords: {educational institutions;conferences;mathematics;interviews;context;engineering profession;yucatan;draw an engineer;images of engineering and engineers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462221
+
+P. Jamieson,  "Using modern graph analysis techniques on mind maps to help quantify learning," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462222
+keywords: {correlation;vocabulary;market research;frequency measurement;computers;educational institutions}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462222
+
+A. Kist and L. Brodie,  "Quality of service, quality of experience and online learning," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462223
+keywords: {quality of service;materials;educational institutions;context;internet;laboratories;distance education;online learning tools;quality of service;quality of experience;quality of learning experience performance}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462223
+
+M. Auer and D. Zutin,  "New pedagogic challenges in engineering education," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-5.
+doi: 10.1109/FIE.2012.6462224
+keywords: {engineering education;knowledge engineering;educational institutions;accreditation;training;media;challenges;engineering education;pedagogy;didactics;igip}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462224
+
+O. Clua and M. Feldgen,  "Work in progress: How student use lecture notes in an Operating Systems course," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462225
+keywords: {materials;encoding;operating systems;psychology;internet;educational institutions;computers;operating systems;student notes;hypertext;student attendance}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462225
+
+A. Miranda, Y. Bolea, A. Grau and A. Sanfeliu,  "Work in progress: A constructivist didactic methodology for a humanoid robotics workshop," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-3.
+doi: 10.1109/FIE.2012.6462226
+keywords: {conferences;educational institutions;robot sensing systems;service robots;humanoid robots;humanoid robots;constructivism;robotics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462226
+
+D. Ferreira,  "Work in progress: Exploring programming anti-patterns as emphasis on creativity in the teaching of computer programming: Programming anti-patterns as emphasis on creativity," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462227
+keywords: {programming profession;computers;education;collaboration;conferences;collaborative programming;programming anti-pattern;creative programmer}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462227
+
+S. Goh, F. Bullen, H. Zhou and K. Davey,  "An assessment of stress factors on engineering academics in a regional context," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462228
+keywords: {stress;educational institutions;employment;australia;context;productivity;academic development;work-related stress;workplace practices;faculty development}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462228
+
+M. Feldgen and O. Clua,  "Promoting design skills in distributed systems," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462229
+keywords: {problem-solving;unified modeling language;prototypes;cats;cognition;assembly;software;scaffoldings;distributed systems;expertise;formative assessment;problem-based learning}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462229
+
+L. Hong, K. Qian and C. Hung,  "Work in progress: Multi-faceted penetration of fast fourier transform by interactively analyzing real-world objects via mobile technology," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462230
+keywords: {fast fourier transforms;computers;education;laboratories;mobile communication;interactive analysis;fast fourier transform;mobile device;real-world relevance}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462230
+
+H. Jackson, K. Tarhini, B. Maggi and N. Rumsey,  "Improving students understanding of engineering concepts through project based learning," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462231
+keywords: {concrete;soil;structural beams;education;civil engineering;taxonomy;knowledge engineering;reinforced concrete;case study;design;geotechnical engineering;project based learning}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462231
+
+H. Jackson, K. Tarhini, S. Zelmanowitz and C. Hatfield,  "Developing a simple and effective method of assessing Civil Engineering student outcomes," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462232
+keywords: {civil engineering;standards;data collection;accreditation;industries;laboratories;educational institutions;student outcomes;accreditation;assessment tools;performance indicator}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462232
+
+C. Amelink, B. Watford and G. Scales,  "Developing innovative thinking among engineering undergraduates: Examining the role of slate enabled technology," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462233
+keywords: {collaboration;educational institutions;training;data models;tablet computers;software;faculty development;innovative thinking;pedagogy}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462233
+
+E. Allen, F. Castillo and E. Schiorring,  "Starting a new conversation: An engineering faculty advisor development program," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462234
+keywords: {educational institutions;doped fiber amplifiers;training;springs;employee welfare;communities;four-player model;advisor;advising;mentoring;faculty development}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462234
+
+D. Munro,  "Work in progress: Hands-on biomechanics lab for undergraduate universities," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462235
+keywords: {biomechanics;force;muscles;fatigue;laboratories;biomedical engineering;educational institutions;bioengineering;biomechanics;hands-on laboratory experiments;undergraduate engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462235
+
+ "Facilitating the creation of K-12 interactive learning objects using a multi device web tool," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462236
+keywords: {videos;microscopy;browsers;chemistry;materials;smart phones;virtual experiments;interactive learning objects;science in education;multi-device resources}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462236
+
+ "A web tool to create educational content with gaming visualization," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462237
+keywords: {games;education;browsers;servers;videos;smart phones;europe;games and mobile-learning;games in education;nice-game}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462237
+
+A. Peters and A. Pears,  "Students' experiences and attitudes towards learning computer science," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462238
+keywords: {programming;computers;interviews;educational institutions;cognition}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462238
+
+E. Oliveira, E. Nozawa, L. Costa, R. Vicari and Y. Albuquerque,  "Work in progress: Towards a framework for adaptive learning systems," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-3.
+doi: 10.1109/FIE.2012.6462239
+keywords: {ontologies;adaptive systems;software;adaptation models;context;educational institutions}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462239
+
+P. Doerschuk, J. Liu and J. Mann,  "An INSPIRED game programming academy for high school students," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462240
+keywords: {educational institutions;games;programming profession;materials;educational robots;increasing participation in computing;game programming;high school;introductory computing;greenfoot}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462240
+
+L. Hirsch, A. Perna, J. Carpinelli and H. Kimmel,  "The effectiveness of undergraduate research programs: A follow-up study," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-4.
+doi: 10.1109/FIE.2012.6462241
+keywords: {educational institutions;engineering profession;engineering students;us government;science - general;mcnair;attitudes toward engineering;attitudes toward graduate studies;research experiences for undergraduates (reu);biomems}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462241
+
+S. Huang and N. Fang,  "Work in progress: Early prediction of students' academic performance in an introductory engineering course through different mathematical modeling techniques," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462242
+keywords: {mathematical model;aerodynamics;predictive models;accuracy;support vector machines;calculus;numerical analysis;mathematical modeling;early prediction;engineering dynamics;students' academic performance}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462242
+
+Y. Guo and N. Fang,  "Work in progress: An Intelligent Tutoring System for improving student learning in a sophomore engineering dynamics course," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462243
+keywords: {aerodynamics;artificial intelligence;educational institutions;mathematical model;engineering education;aerospace engineering;computers;student learning;intelligent tutoring system;engineering dynamics;assessment}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462243
+
+W. Cui, et al., "Implementation of a multidisciplinary introduction to microfabrication at Binghamton University," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462244
+keywords: {fabrication;pipelines;videos;knowledge engineering;educational institutions;chemistry;engineering education;microfabrication;nanofabrication}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462244
+
+W. Barnes and M. Loui,  "The adjustment experience of first-year international undergraduate students in engineering," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462245
+keywords: {educational institutions;asia;cultural differences;history;engineering students;europe;international students;diversity;first-year students}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462245
+
+ "A model for generating proactive context-aware recommendations in e-Learning systems," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462246
+keywords: {context;recommender systems;context modeling;electronic learning;market research;mobile handsets;europe;personalized learning;learning objects recommendation;context-awareness;proactivity}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462246
+
+A. Easley, J. Adam, S. Brown, D. Montfort and B. Vanwie,  "Open channel flow misconceptions and ontological categories," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462247
+keywords: {interviews;earth;fluids;color;educational institutions;water resources;context;conceptual change;misconceptions;open channel flow}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462247
+
+K. Wilkins, B. Bernstein, J. Bekki, C. Harrison and R. Atkinson,  "Development of the science technology engineering and mathematics — Active listening skills assessment (STEM-ALSA)," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462248
+keywords: {instruments;educational institutions;training;medical services;psychology;loading;graduate students in stem;assessment;communication}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462248
+
+T. Place, A. Glick, E. Tsang, B. Aller and L. Darrah,  "Work in progress: A pilot project to assess the added value of engineering and student affairs collaboration on student cognitive and affective development," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462250
+keywords: {educational institutions;collaboration;springs;monitoring;calculus;taxonomy;academic and student affairs collaboration;cognitive and affective development}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462250
+
+S. Bakrania,  "A study on the influence of rich versus traditional classroom response system (CRS) questions on concept retention," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462251
+keywords: {portable media players;servers;visualization;pistons;sparks;tablet computers;materials;smartphones;clickers;iphone;ipod;ipad;classroom response system;crs;rapid feedback;student feedback}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462251
+
+M. Chua and S. Dziallas,  "Work in progress: From sage on the stage to guide on the side: Examining shifts in teaching practice through stories of open community participation," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462252
+keywords: {communities;educational institutions;usa councils;open source software;interviews;sociology;grounded theory;free and open source software (foss);teaching open source;storytelling}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462252
+
+J. Bekki, O. Dalrymple and C. Butler,  "A mastery-based learning approach for undergraduate engineering programs," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462253
+keywords: {educational institutions;standards;materials;reflection;programming;usa councils;undergraduate engineering;action research;mastery-based learning;assessment}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462253
+
+E. de Oliveira, E. Nozawa, K. Lucena and F. Lucena,  "Distance education with remote poles: An example from the Amazon region," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-5.
+doi: 10.1109/FIE.2012.6462254
+keywords: {adaptation models;educational institutions;cities and towns;materials;internet;sociology;pedagogical model supported by technology;distance education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462254
+
+P. Steif, M. Lovett and A. Dollar,  "Quantifying learning from web-based course materials using different pre and post tests," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-5.
+doi: 10.1109/FIE.2012.6462255
+keywords: {force;materials;correlation;engineering education;knowledge engineering;educational institutions;statics;web-based courseware;concept inventory;interactive learning;pre-post tests;measures of knowledge}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462255
+
+J. Pembridge and M. Paretti,  "Differences between same-sex and cross-sex mentoring relationships in capstone design courses," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-5.
+doi: 10.1109/FIE.2012.6462256
+keywords: {employee welfare;educational institutions;engineering profession;career development;interviews;ethics;gender;design teaching;mentoring}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462256
+
+J. Hornback, D. Knight and B. Louie,  "Work in progress: First year engineering women: A qualitative investigation of retention factors," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-5.
+doi: 10.1109/FIE.2012.6462257
+keywords: {educational institutions;meteorology;engineering profession;probes;employee welfare;chemistry;engineering students;first-year programs;gender;retention}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462257
+
+J. Trevelyan,  "Understandings of value in engineering practice," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462258
+keywords: {economics;australia;interviews;business;uncertainty;communities;safety;community perceptions of engineers;engineering practice;engineering education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462258
+
+S. de Lucena and O. Mogames,  "Unveiling fieldbus network technology through project-based learning," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-5.
+doi: 10.1109/FIE.2012.6462259
+keywords: {microcontrollers;education;open systems;electrical engineering;automation;local area networks;hardware}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462259
+
+C. Mobley, E. Shealy and C. Brawner,  "Work in progress: Transfer students in engineering: A qualitative study of pathways and persistence," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-5.
+doi: 10.1109/FIE.2012.6462260
+keywords: {educational institutions;interviews;electric shock;employment;communities;databases;engineering students;stem;transfer student;articulation agreement;transfer shock;persistence}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462260
+
+A. Wendt, et al., "Work in progress — engineering case studies inspired by society's Grand Challenges for Engineering: An integrated approach to middle school stem instruction," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462261
+keywords: {educational institutions;standards;bridges;mathematical model;engineering profession;usa councils;diversity;middle school;stem;grand challenges;engineering education;national k-12 science standards}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462261
+
+S. Condoor and G. Keogh,  "Work in progress: Weekly innovation challenge: Changing the mindset one step at a time every week," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462262
+keywords: {technological innovation;educational institutions;reflection;bridges;prototypes;boats;game theory;challenges;innovation;entrepreneurial mindset;multidisciplinary teamwork}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462262
+
+H. de Freitas,  "Introducing parallel programming to traditional undergraduate courses," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462263
+keywords: {concurrent computing;message systems;parallel programming;parallel processing;computer architecture;programming profession;learning evaluation;parallel programming;computer science and engineering;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462263
+
+R. Pastor, et al., "Practical experiences on building structured remote and virtual laboratories from the student's point of view," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462264
+keywords: {reactive power;signal generators;xml;remote laboratories;software;servers;practical experience;remote experimenting;virtual and remote laboratories;software development;services and facilities}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462264
+
+J. Froyd, et al., "Increasing access to engineering," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462265
+keywords: {educational institutions;engineering students;communities;recruitment;scholarships;calculus;retention;engineering students;diversity;recruitment}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462265
+
+K. Stanton and T. Siller,  "A first look at student motivation resulting from a pass/fail program for first-semester engineering students," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462266
+keywords: {educational institutions;correlation;engineering students;instruments;indexes;stress;calculus;student stress;pass/fail;grades;motivation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462266
+
+R. Layton, M. Loughry, M. Ohland and H. Pomeranz,  "Workshop: Training students to become better raters: Raising the quality of self- and peer-evaluations using a new feature of the CATME system," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462267
+keywords: {training;conferences;usa councils;educational institutions;teamwork;calibration;teamwork;peer evaluation;rater training}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462267
+
+R. Layer, M. Sherriff and L. Tychonievich,  "“Inform, Experience, Implement” — Teaching an intensive high school summer course," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462268
+keywords: {educational institutions;context;programming profession;global positioning system}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462268
+
+E. Aziz, J. Corter, Y. Chang, S. Esche and C. Chassapis,  "Evaluation of the learning effectiveness of game-based and hands-on gear train laboratories," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462269
+keywords: {gears;laboratories;games;computers;engines;assembly;education;game engine;game-based laboratory;gear design;virtual experiment;assessment}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462269
+
+W. Newstetter, K. Khalaf and P. Xi,  "Problem-driven learning on two continents: Lessons in pedagogic innovation across cultural divides," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462270
+keywords: {cultural differences;biomedical engineering;context;problem-solving;engineering education;educational institutions;biological system modeling;global education;problem-based learning}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462270
+
+A. Ellertson,  "Work in progress: Using smart mobile tools to enhance autism therapy for children," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462271
+keywords: {autism;mobile communication;pediatrics;artificial intelligence;engines;real-time systems;aba or speech therapy;autism;communicative disorders;mobile development}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462271
+
+P. Makinson, S. Hundley, C. Feldhaus and E. Fernandez,  "Mobile communications anytime, anywhere: The impact on work-life balance and stress," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462272
+keywords: {stress;smart phones;portable computers;educational institutions;mobile communication;cellular phones;laptop computers;mobile communications;smartphones;work life balance;stress;cell phones}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462272
+
+F. Miller, E. DeSilva and J. Liang,  "Will texting help student learning? A case study of using mobile devices in university classrooms," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-5.
+doi: 10.1109/FIE.2012.6462273
+keywords: {mobile communication;portable computers;business;cellular phones;educational institutions;mobile handsets;mobile learning;student response systems;mobile devices;clickers;feedback}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462273
+
+H. Asuncion, R. Angotti and K. Sung,  "Work in progress: Sustainable projects for software engineering courses: Collaborating with technology courses," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462274
+keywords: {software;collaboration;education courses;guidelines;software engineering;usa councils;education;software engineering education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462274
+
+U. Hernandez-Jayo and J. Garcia-Zubia,  "Reconfigurable electronics remote lab from the experiments and instruments point of view," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462275
+keywords: {instruments;electrical resistance measurement;current measurement;switches;voltage measurement;software;remote engineering education;instrumentation and measurement education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462275
+
+L. Massi, et al., "Engineering and computer science community college transfers and native freshmen students: Relationships among participation in extra-curricular and co-curricular activities, connecting to the university campus, and academic success," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462276
+keywords: {educational institutions;communities;organizations;computer science;engineering profession;joining processes;analysis of variance;academic success;college adjustment;retention;persistence}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462276
+
+J. Little-Wiles and S. Hundley,  "Work in progress: Leadership emergence among groups in an online environment," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462277
+keywords: {lead;educational institutions;least squares approximation;collaboration;presses;psychology;leader emergence;learning management system;online groups}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462277
+
+S. Williams, et al., "Special session: IEEE Real World Engineering Projects: Discovery-based curriculum modules for first-year students," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462278
+keywords: {educational institutions;algorithm design and analysis;software algorithms;matlab;kirk field collapse effect;computer science;mathematical model;engineering education;laboratory instruction;first-year students;curriculum development}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462278
+
+A. Jiang and M. Loui,  "What should I do next? How advanced engineering students decide their post-baccalaureate plans," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462279
+keywords: {educational institutions;engineering students;engineering profession;interviews;organizations;industries;market research;graduate study;decision-making;post-baccalaureate plans;careers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462279
+
+J. Goldberg and M. Nagurka,  "Enhancing the engineering curriculum: Defining discovery learning at Marquette University," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462280
+keywords: {educational institutions;laboratories;learning systems;collaborative work;collaboration;industries;active learning;discovery learning;student-centered learning}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462280
+
+F. Kowalski and S. Kowalski,  "The effect of student learning styles on the learning gains achieved when interactive simulations are coupled with real-time formative assessment via pen-enabled mobile technology," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-5.
+doi: 10.1109/FIE.2012.6462281
+keywords: {computational modeling;real-time systems;engineering education;physics;integrated circuit modeling;reliability;inksurvey;learning styles;interactive simulations;real-time formative assessment;active learning}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462281
+
+F. Kowalski and S. Kowalski,  "Enhancing curiosity using interactive simulations combined with real-time formative assessment facilitated by open-format questions on Tablet computers," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462282
+keywords: {conductors;mathematical model;physics;computational modeling;real-time systems;inductance;atmospheric measurements;open-format questions;curiosity;real-time formative assessment;inksurvey;interactive simulations}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462282
+
+D. Wilson, et al., "Communities that make a difference: The STEM student perspective," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462283
+keywords: {communities;organizations;educational institutions;standards organizations;usa councils;sociology;stem education;community;belonging;extracurricular;family;friends;sports;church}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462283
+
+J. Collofello and A. Hall,  "Work in progress: A holistic approach to ReEngineering the freshmen engineering course," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462284
+keywords: {educational institutions;engineering profession;prototypes;communities;engineering students;robots;software;engineering design;freshmen engineering;first-year experience;multi-disciplinary;project-based learning}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462284
+
+H. Kam and G. Gogolin,  "Work in progress: Out-of-class learning: Shaping perception of learning and building knowledge of IT professions," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462285
+keywords: {educational institutions;computer science;computer science education;industries;interviews;shape;computational modeling;project management education in computer science;out-of-class learning;computer science education;computer science learning outcomes}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462285
+
+C. Vergara, et al., "Work in progress: Integrating computation across engineering curricula: Preliminary impact on students," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462286
+keywords: {industries;matlab;educational institutions;computer science;interviews;problem-solving;curricular reform;computational thinking in engineering;industry to academia}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462286
+
+M. Lutz, J. Vallino, K. Martinez and D. Krutz,  "Instilling a software engineering mindset through freshman Seminar," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462287
+keywords: {software engineering;software;seminars;interviews;ethics;computer science;collaboration;teamwork;first-year seminar;software engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462287
+
+N. Fang,  "Work in progress: A new concept mapping approach in an introductory engineering course: Correlation between students' conceptual understanding and problem-solving skills," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462288
+keywords: {aerodynamics;correlation;problem-solving;engineering education;joining processes;acceleration;educational institutions;tree of dynamics;concept mapping;conceptual understanding;correlation;problem-solving skills}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462288
+
+K. Litchfield and A. Javernick-Will,  "Perceptions of engineering identity: Diversity and EWB-USA," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462289
+keywords: {organizations;engineering profession;usa councils;market research;educational institutions;conferences;ewb-usa;engineering identity;motivations}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462289
+
+F. Alhosban and L. Burd,  "Aural instruction with visualization in E-Learning," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462290
+keywords: {dsl;data visualization;data structures;interviews;visualization;electronic learning;data structure learning tool;aural instructions;visualization;cognitive load;computer science learning}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462290
+
+S. Kurkovsky and D. Defoe,  "Work in progress: Evaluating the use of mobile game development in introductory CS courses," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462291
+keywords: {games;land mobile radio;computers;computer science;materials;educational institutions;learning systems;engagement;games;mobile computing;introductory courses;motivation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462291
+
+A. Pears, N. Thota, P. Kinnunen and A. Berglund,  "Harnessing theory in the service of engineering education research," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-5.
+doi: 10.1109/FIE.2012.6462292
+keywords: {data collection;engineering education;educational institutions;context;computer science;interviews}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462292
+
+J. Nagel, O. Pierrakos, A. Zilberberg and S. McVay,  "Understanding industry experiences: From problem solving to engineering students' learning gains," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462293
+keywords: {industries;complexity theory;problem-solving;knowledge engineering;engineering students;writing;instruments;complex problem solving;industry experience;complexity;structuredness}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462293
+
+D. Zhang, N. Yao, E. Pritchard, L. Cuthbert and S. Ketteridge,  "Effective teaching of technical teamwork to large cohorts of engineering students in China," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462294
+keywords: {teamwork;educational institutions;engineering students;correlation;team working;grouping methods;chinese engineering students;cooperative learning;teamwork skill;mbti;peer rating;correlation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462294
+
+J. Hilpert,  "Using domain general learning models to guide engineering education research," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462295
+keywords: {engineering education;context;information processing;learning systems;educational institutions;context modeling;modeling;aboengineering education research;learning}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462295
+
+S. Krause and C. Waters,  "Uncovering and repairing crystal structure misconceptions in an introductory materials engineering class," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462296
+keywords: {crystals;fcc;visualization;atomic measurements;metals;instruments;assessment;crystal structure;visualization;misconceptions;conceptual change}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462296
+
+J. Idziorek, J. Rursch and D. Jacobson,  "Security across the curriculum and beyond," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462297
+keywords: {computer security;educational institutions;computers;communities;context;inquiry-based learning;security education;security literacy}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462297
+
+A. Albu,  "Learning Artificial Intelligence clip by clip: Post class reflections on the first online Norvig-Thrun-Stanford-Know Labs Artificial Intelligence course," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-7.
+doi: 10.1109/FIE.2012.6462298
+keywords: {digital audio broadcasting;learning systems;educational institutions;computer vision;materials;participatory research methods;on-line learning;video-based learning;open education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462298
+
+A. Perez-Navarro, J. Conesa, F. Santanach, M. Garreta and A. Valls,  "Present@: A virtual environment for dissertation defense," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462299
+keywords: {educational institutions;videos;visualization;face;software;virtual environments;presentation;final degree project;virtual dissertation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462299
+
+A. Zilberberg, P. Nathan Canney, O. Pierrakos and S. McVay,  "Qualitative inquiry of best practices and challenges faced by faculty engaged in learning through service efforts," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462300
+keywords: {communities;educational institutions;usa councils;organizations;engineering profession;context;service-learning;learning through service;faculty perspective;focus group;qualitative methods}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462300
+
+A. Ghazarian,  "Work in progress: Transitioning from novice to expert software engineers through design patterns: Is it really working?," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462302
+keywords: {software;software engineering;education;ontologies;pattern matching;design patterns;software engineering education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462302
+
+R. Louis and H. Matusovich,  "Work in progress: Describing the responsibilities of Teaching Assistants in first-year engineering programs," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462303
+keywords: {educational institutions;psychology;context;internet;engineering students;survey;teaching assistants;first-year engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462303
+
+J. Heywood,  "A philosophy driven curriculum: The example of an engineering science course in england," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462304
+keywords: {educational institutions;physics;engineering education;conferences;laboratories;materials;syllabus;assessment;curriculum development;examinations;operational(working) philosophy}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462304
+
+J. Paxton, H. Sherick and R. Marley,  "Work in progress: An International Engineering: Certificate: Incentivizing engineering students to pursue global experiences," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462305
+keywords: {educational institutions;computer science;sociology;statistics;engineering students;context;global experiences;international engineering certificate;international engineering education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462305
+
+E. Odom, S. Beyerlein, J. McCormack and C. Porter,  "A sophomore capstone solid modeling experience: Virtual dissection and reassembly of legacy drawings," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462306
+keywords: {assembly;solid modeling;engineering drawings;engines;educational institutions;design automation;animation;solid modeling;virtual dissection;legacy drawings;drawing package formulation;rendering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462306
+
+L. Begosso, L. Begosso, E. Goncalves and J. Goncalves,  "An approach for teaching algorithms and computer programming using Greenfoot and Python," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462307
+keywords: {computers;programming profession;green products;educational institutions;python;programming teaching;algorithms teaching;introductory computing courses;greenfoot}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462307
+
+S. Lyden, W. Colvin and B. de la Barra,  "Work in progress: Putting control engineering in middle school girls' futures," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462308
+keywords: {conferences;educational institutions;control engineering;robot sensing systems;optics;engineering profession;purification;communal goals;k-12 initiatives;control engineering;gender}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462308
+
+C. Plouff and N. Barakat,  "Infusion of ABET — Specified professional and academic content into off-campus work experiences via distance learning modules," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462309
+keywords: {ethics;project management;economics;materials;engineering students;educational institutions;employment;professional skills;cooperative education;online distance education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462309
+
+A. Braslavsky, A. Pierre, H. Tuokko and A. Branzan-Albu,  "A survey of attitudes, beliefs, and perceptions regarding the internationalization of engineering and Computer Science undergraduate programs at the University of Victoria," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-7.
+doi: 10.1109/FIE.2012.6462310
+keywords: {educational institutions;interviews;cultural differences;plagiarism;computer science;data collection;focus groups;internationalization;global education;qualitative analysis}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462310
+
+K. Kitto and D. Jusak,  "Work in progress: Update 2012 on the iCollaborate MSE project," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-3.
+doi: 10.1109/FIE.2012.6462311
+keywords: {collaborative work;portable media players;cognition;materials;computers;educational institutions;mse apps;collaborative learning;ict enabled inductive teaching;ipod touch applications;materials science and engineering;low-stakes quizzing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462311
+
+M. Contero, J. Gomis, F. Naya, F. Albert and J. Martin-Gutierrez,  "Development of an augmented reality based remedial course to improve the spatial ability of engineering students," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-5.
+doi: 10.1109/FIE.2012.6462312
+keywords: {augmented reality;training;solid modeling;visualization;games;engineering students;remedial course (key words);augmented reality;spatial skills}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462312
+
+A. Conde, M. Larranaga, I. Calvo, J. Elorriaga and A. Arruarte,  "Automating the authoring of learning material in Computer Engineering education," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462313
+keywords: {grammar;object oriented programming;ontologies;materials;natural language processing;cognition;syntactics;semi automatic authoring;leanring objects;knowledge acquisition;content authoring}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462313
+
+A. Ambrosio, L. Almeida, A. Franco and F. Georges,  "Assessment of self-regulated attitudes and behaviors of introductory programming students," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462314
+keywords: {programming profession;educational institutions;cognition;organizations;iache;self-regulation;behavior;motivation;cognition;achievement;programming}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462314
+
+C. Justice and L. Do,  "IT experiential learning: The Living Lab," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462315
+keywords: {servers;educational institutions;springs;information technology;organizations;security;service;experiential learning;it;living lab}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462315
+
+A. Caminero, et al., "Work in progress: Extending a LMS with social capabilities: Integrating Moodle into Facebook," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462316
+keywords: {facebook;least squares approximation;control systems;ieee members;web 2.0;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462316
+
+S. Fincher, B. Richards, J. Finlay, H. Sharp and I. Falconer,  "Stories of change: How educators change their practice," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462317
+keywords: {education;materials;books;learning systems;context;reflection;engineering profession;education research;change of practice;change stories;sharing practice}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462317
+
+D. Peixoto, R. Possa, R. Resende and C. Padua,  "Challenges and issues in the development of a Software Engineering simulation game," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462318
+keywords: {games;software engineering;software;investments;organizations;education;analytical models;software process improvement;software engineering;simulation game}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462318
+
+D. Peixoto, R. Possa, R. Resende and C. Padua,  "FASENG: A framework for development of Software Engineering simulation games," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462319
+keywords: {games;software engineering;unified modeling language;adaptation models;computational modeling;software;engines;software engineering education;software engineering;simulation games;requirements;framework}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462319
+
+Z. Yu, M. Borrego, L. Everett, S. Finger and D. Millard,  "Workshop: Evaluation of educational research and development projects: Pre-conference workshop," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462320
+keywords: {conferences;us government;education;research and development;abstracts;thumb;pimmel format;evaluation;evaluation types;evaluation tools;evaluation plan;data interpretation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462320
+
+M. Apiola, N. Moisseinen and M. Tedre,  "Results from an action research approach for designing CS1 learning environments in Tanzania," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462321
+keywords: {programming profession;problem-solving;educational institutions;collaboration;analysis of variance}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462321
+
+G. Herman, K. Trenshaw and L. Rosu,  "Work in progress: Empowering teaching assistants to become agents of education reform," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462322
+keywords: {barium;reform;motivation;intrinsic motivation;teaching assistants;training}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462322
+
+J. Polack-Wahl, S. Davies and K. Anewalt,  "A snapshot of current languages used in industry," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462323
+keywords: {industries;java;correlation;software;standards;industry;computer science education;languages;curriculum}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462323
+
+L. Morell, M. Trucco, C. Bash and C. Patel,  "An engineering curriculum track for IT for sustainability," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462324
+keywords: {cities and towns;technological innovation;computer science;sensors;data mining;economics;knowledge discovery;future cities;curriculum innovation;engineering education;bs;sustainability;information technology (it)}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462324
+
+G. Herman, R. Streveler, D. Montfort and S. Brown,  "Work in progress: Do students need to learn to speak "Engineering-ese?" conceptual change as language acquisition in engineering," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462325
+keywords: {5g mobile communication;three-dimensional displays}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462325
+
+H. Diefes-Dux and M. Cardella,  "Work in progress: First-year engineering students development of test cases for model development," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-3.
+doi: 10.1109/FIE.2012.6462326
+keywords: {mathematical model;data models;engineering education;companies;standards;problem-solving;first-year engineering;mathematical modeling;statistics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462326
+
+C. Allendoerfer, M. Kim, E. Burpee, D. Wilson and R. Bates,  "Awareness of and receptiveness to active learning strategies among STEM faculty," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462327
+keywords: {educational institutions;interviews;collaborative work;computer science;engineering education;usa councils;faculty;active learning;classroom practice}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462327
+
+L. Pohopien, et al., "Trust in engineering teams and groups and virtual facilitation methods," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462328
+keywords: {engineering students;teamwork;educational institutions;communication systems;training;buildings}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462328
+
+C. Reilly and N. De La Mora,  "The impact of real-world topic labs on student performance in CS1," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462329
+keywords: {games;springs;programming;educational institutions;switches;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462329
+
+R. Alonso,  "Work in progress: Understanding the experiences of women of color in engineering," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462330
+keywords: {color;engineering students;interviews;educational institutions;shape;diversity;identity;women of color}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462330
+
+T. Song and K. Becker,  "Work in progress: Investigating the engineering design process: Novices vs. experts," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462331
+keywords: {engineering education;educational institutions;encoding;industries;protocols;knowledge engineering;recomposition of sub-problems;teaming;engineeering design;protocol analysis;fbs;problem decomposition}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462331
+
+B. Sattler, A. Carberry and L. Thomas,  "Peer mentoring: Linking the value of a reflective activity to graduate student development," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462332
+keywords: {employee welfare;engineering education;educational institutions;communities;engineering profession;monitoring;identity;graduate engineering education consortium for sstudents (geecs);peer mentoring;graduate students}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462332
+
+D. Duncan-Wiles, T. Jones, H. Diefes-Dux and S. Brophy,  "Work in progress: Changes in elementary teachers' Noticing of engineering Pre/Post professional development with engineering," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462333
+keywords: {encoding;educational institutions;engineering education;problem-solving;manufacturing;standards;assessment;elementary engineering;teacher professional development}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462333
+
+K. Gibbs, E. Crede and M. Borrego,  "“Need to Know” in engineering programs; STEMing the uncertainty around graduate education," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462334
+keywords: {educational institutions;engineering profession;navigation;engineering students;aerospace engineering;chemicals;qualitative;graduate;undergraduate}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462334
+
+L. Barroso and J. Morgan,  "Utilizing reflection in projects for increased metacognition and enhanced learning," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-5.
+doi: 10.1109/FIE.2012.6462335
+keywords: {barium;mercury (metals);critical thinking;active learning;reflection}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462335
+
+I. Bojanova,  "Work in progress: Examination of student experiences in immersive vs. traditional group projects," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-3.
+doi: 10.1109/FIE.2012.6462336
+keywords: {decision support systems;reliability and internal consistency of test scores;student engagement;immersive group projects;virtual worlds}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462336
+
+E. Douglas,  "Work in progress: What is critical thinking?," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462337
+keywords: {instruments;educational institutions;interviews;materials;engineering students;context;critical thinking}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462337
+
+E. Cady and S. Raghavan,  "Work in progress: Engaging new PIs using an electronic mentoring system," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462338
+keywords: {employee welfare;lead;communities;project management;us government;science - general;engineering education;principal investigators;electronic mentoring;community of practice}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462338
+
+I. Omidvar and M. Mina,  "Work in progress: Engineering education and pragmatism: Imagining an undergraduate engineering course based on the educational philosophy of John Dewey," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462339
+keywords: {laboratories;engineering students;educational institutions;standards;art;open design;philosophy of engineering;pragmatism and engineering;dewey and engineering;engineering synthesis}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462339
+
+D. Montfort, G. Herman, R. Streveler and S. Brown,  "Assessing the application of three theories of conceptual change to interdisciplinary data sets," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462340
+keywords: {cognition;interviews;context;stress;programming;materials;strain;digital logic;conceptual change;mechanics of materials}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462340
+
+L. Schlemer, J. Oliver, K. Chen, S. Mata and E. Kim,  "Work in progress: Outreach assessment: Measuring engagement: An integrated approach for learning," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462341
+keywords: {education;atmospheric measurements;particle measurements;laboratories;engineering profession;wind turbines;reflection;integrated leaning;k12 outreach;observational studies}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462341
+
+D. Montfort, S. Brown and N. Frye,  "Work in progress: Theoretical approach to characterizing changes in students' and engineers' conceptual understanding and personal epistemologies," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-3.
+doi: 10.1109/FIE.2012.6462342
+keywords: {psychology;cognition;context;educational institutions;cognitive science;data collection;personal epistemology;epistemology;conceptual change;qualitative research}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462342
+
+A. Arciero-Pino, B. Flores and H. Knaust,  "Work in progress: The University of Texas System Louis Stokes Alliance for Minority Participation: A state-wide initiative to promote STEM undergraduate research," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462343
+keywords: {educational institutions;laboratories;communities;proposals;production;training;national science foundation;undergraduate research;stem}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462343
+
+M. Prince, M. Vigeant and K. Nottis,  "Using inquiry-based activities to repair student misconceptions related to Heat, energy and temperature," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-5.
+doi: 10.1109/FIE.2012.6462344
+keywords: {physics;engineering education;educational institutions;materials;analysis of variance;heating;inquiry;formatting;misconceptions;heat transfer}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462344
+
+V. Bremgartner and J. de Magalhaes Netto,  "Improving collaborative learning by personalization in Virtual Learning Environments using agents and competency-based ontology," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462345
+keywords: {ontologies;least squares approximation;electronic learning;multiagent systems;standards;mathematical model;petri nets;learning management system (lms);competency;ontology;multi-agent systems}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462345
+
+C. Gotch,  "Differentiating undergraduates from graduate student and faculty inventors," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462346
+keywords: {educational institutions;innovation management;intellectual property;technological innovation;technology transfer;commercialization;market research;innovation;intellectual property;undergraduate;entrepreneurship;engineering education;product design}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462346
+
+M. Lande,  "Work in progress: Making Room: Creating design spaces for design practice," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-5.
+doi: 10.1109/FIE.2012.6462347
+keywords: {educational institutions;technological innovation;collaboration;arrays;mechatronics;engineering education;product development;collaboration;engineering design;creativity;workspaces;design thinking}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462347
+
+M. Lande, et al., "Work in progress: Constructing a multidisciplinary design project for first-year engineering and Computing students: Traffic Simulation Engineering Design Challenge," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462348
+keywords: {algorithm design and analysis;automata;traffic control;graphical user interfaces;humans;software;vehicles;projects;first-year engineering;multidisciplinary;engineering design;programming;problem based learning}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462348
+
+J. Martin-Gutierrez,  "Predictive models on improvement of spatial abilities in controlled training," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462349
+keywords: {training;predictive models;geometry;augmented reality;visualization;solid modeling;introductory courses;engineering education;spatial skills;training courses;best practices}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462349
+
+E. Burpee, C. Allendoerfer, D. Wilson and M. Kim,  "Why do some engineering students study alone?," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462350
+keywords: {interviews;communities;educational institutions;engineering students;standards;switches;solitude;belonging;community;engagement;isolation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462350
+
+J. LeBeau, et al., "Work in progress: Help in finding evaluation instruments for engineering education innovations," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462351
+keywords: {instruments;engineering education;databases;communities;technological innovation;appraisal;software;evaluation capacity building;evaluation;engineering education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462351
+
+L. Nagurney,  "Using eReaders and Tablets in the engineering classroom," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-5.
+doi: 10.1109/FIE.2012.6462352
+keywords: {materials;electronic publishing;consumer electronics;portable document format;educational institutions;software;graphics;tablet;ereader;handouts;kindle;nook;preparing course content}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462352
+
+V. Viswanathan and J. Linsey,  "Physical modeling in design projects: Development and testing of a new design method," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462353
+keywords: {buildings;guidelines;design methodology;analytical models;force;measurement;bicycles;design cognition;physical models;design method;prototyping guidelines}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462353
+
+J. Polack-Wahl and K. Anewalt,  "Workshop: Learning agile through active learning activities," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1.
+doi: 10.1109/FIE.2012.6462354
+keywords: {software;games;conferences;collaboration;software engineering;tutorials;reflection}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462354
+
+D. Dalmon, L. Brandao, G. Gomes, A. Brandao and S. Isotani,  "Work in progress: A generic model for interactivity-intense intelligent tutor authoring tools," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462355
+keywords: {artificial intelligence;computer architecture;software;computers;educational institutions;user interfaces;intelligent tutoring systems;authoring systems;computer assisted instruction;electronic learning}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462355
+
+N. Frye, D. Montfort, S. Brown and O. Adesope,  "I'm absolutely certain that's probably true: Exploring epistemologies of sophomore engineering students," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462356
+keywords: {interviews;knowledge engineering;civil engineering;reliability;cognition;protocols;context;statics;civil engineering;personal epistemology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462356
+
+M. Orr, et al., "Engineering matriculation paths: Outcomes of Direct Matriculation, First-Year Engineering, and Post-General Education Models," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-5.
+doi: 10.1109/FIE.2012.6462357
+keywords: {educational institutions;switches;engineering students;usa councils;engineering profession;switching;first-year engineering;persistence;accessibility;transfer students;major change}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462357
+
+A. Kirn, B. Morkos and L. Benson,  "Work in progress: How differences in student motivation characterize differences between engineering disciplines," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462358
+keywords: {educational institutions;engineering education;biomedical engineering;scholarships;complexity theory;sociology;statistics;engineering disciplines;attitudes;motivation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462358
+
+T. Utschig, D. Schaefer and D. Visco,  "A proposed teaching and learning curriculum for COMPLEETE based on current national trends," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462359
+keywords: {education;communities;materials;programming profession;planning;encoding}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462359
+
+V. Fortino and W. Zhao,  "Work in progress: Video tutorials that enhance laboratory learning," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462360
+keywords: {tutorials;laboratories;biomedical engineering;youtube;biomedical measurements;buildings;education;circuits;laboratory;videos;tutorials;youtube}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462360
+
+A. Farley, S. Faulk, V. Lo, A. Proskurowski and M. Young,  "Intensive international Summer Schools in Global Distributed Software Development," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462361
+keywords: {educational institutions;software;computer science;industries;software engineering;communities;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462361
+
+K. Howard, et al., "Work in progress: Grand challenges for Engineering in the middle school classroom: Preliminary results," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462362
+keywords: {educational institutions;engineering profession;engineering education;atmospheric measurements;particle measurements;employee welfare;program evalution;middle school;stem;grand challenges;engineering education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462362
+
+K. Roy, W. Rousse and D. DeMeritt,  "Comparing the mobile novice programming environments: App Inventor for Android vs. GameSalad," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462363
+keywords: {mobile communication;educational institutions;software;androids;humanoid robots;programming profession;novice programming environment;app inventor for android;gamesalad;visual “blocks” programming}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462363
+
+K. Krause, C. Atman, J. Parnell and K. Deibel,  "Design considerations: Implications of domain expertise," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462364
+keywords: {context;knowledge engineering;communities;economics;educational institutions;encoding;broad thinking;domain expertise;design process;design thinking;engineering education;context}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462364
+
+I. Bargury, et al., "Implementing a new Computer Science Curriculum for middle school in Israel," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462365
+keywords: {educational institutions;programming profession;training;computers;teachers' professional development;algorithmic thinking;computational thinking;computer science;curriculum;middle school;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462365
+
+L. Hinnov, A. Spanias, K. Ramamurthy and G. Kalyanasundaram,  "Workshop: Interactive education tools for earth systems and sustainability applications," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462366
+keywords: {earth;conferences;ocean temperature;meteorology;digital signal processing;laboratories;sea level;sustainability;online labs;java tools;climate change;earth system}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462366
+
+P. Hylton, S. Raymond and W. Otoupal-Hylton,  "Constructing a collegiate Motorsports Engineering program," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-5.
+doi: 10.1109/FIE.2012.6462367
+keywords: {educational institutions;industries;vehicles;economics;business;vehicle dynamics;innovative pracatice;motorsports;program development}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462367
+
+R. Brent,  "Department Climate: A key to recruiting and retaining a diverse and successful faculty," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-4.
+doi: 10.1109/FIE.2012.6462368
+keywords: {meteorology;conferences;educational institutions;lead;personnel;recruitment;diversity;department climate;faculty recruitment;retention}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462368
+
+J. Pritchard, M. Mina and A. Moore,  "Work in progress: A comprehensive approach for mapping student's progress: Assessing student progress in freshman engineering," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462369
+keywords: {equations;educational institutions;conferences;context;systematics;abstracts;reflection;mental representation;assessment;evaluation;learning verbalization;reflection;engineering education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462369
+
+R. Campbell, K. Yasuhara and D. Wilson,  "Care ethics in engineering education: Undergraduate student perceptions of responsibility," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462370
+keywords: {ethics;recycling;electronic waste;companies;government;collaboration;environmental justice;ethics;ethics of care;humanitarian engineering;social justice}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462370
+
+T. Teslenko and E. Qi,  "Work in progress: Integrating writing instruction in engineering courses," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-3.
+doi: 10.1109/FIE.2012.6462371
+keywords: {writing;mechanical engineering;teamwork;educational institutions;engineering education;outcomes-based assessment;communication;teamwork;mechanical engineering;integration;program development}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462371
+
+I. Stiubiener,  "Evaluating the effectiveness of the use of teaching materials in video format in distance learning environments," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462372
+keywords: {streaming media;monitoring;materials;absorption;measurement;education;servers;distance learning;video delivery;viewer engagement}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462372
+
+J. Krupczak and G. Bassett,  "Work in progress: Abstraction as a vector: Distinguishing engineering and science," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462373
+keywords: {abstracts;engineering education;educational institutions;presses;conferences;vectors;usa councils;philosophy of engineering;philosophy of engineering education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462373
+
+L. de Oliveira Brandao, R. da Silva Ribeiro and A. Brandao,  "A system to help teaching and learning algorithms," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462374
+keywords: {visualization;programming environments;education;computer languages;programming profession;software;free software;algorithms;visual programming;learning system;introductory programming}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462374
+
+J. Kay and J. Moss,  "Using robots to teach programming to K-12 teachers," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462375
+keywords: {conferences;robots;educational institutions;programming;materials;frequency locked loops;graphical programming languages;computer science education;k-12 teacher education;educational robotics;introductory programming}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462375
+
+T. Karp,  "Work in progress: Serving rural communities: A K-8 LEGO robotics case study," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462376
+keywords: {educational institutions;conferences;gears;educational robots;robot sensing systems;webinars;teacher professional development;k-12 engineering education;lego robotics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462376
+
+Y. Vega, G. Nieto, S. Baldiris and J. Guevara Bolaños,  "Application of item response theory (IRT) for the generation of adaptive assessments in an introductory course on object-oriented programming," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-4.
+doi: 10.1109/FIE.2012.6462377
+keywords: {adaptation models;neural networks;context;adaptive systems;web services;unified modeling language;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462377
+
+B. Taratutin, et al., "Work in progress: How do first-year engineering students develop as self-directed learners?," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462378
+keywords: {educational institutions;psychology;presses;engineering students;collaboration;metacognition;lifelong learning;self-directed learning;self-regulated learning;goal-orienatation;help-seeking}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462378
+
+B. Jesiek, et al., "Panel: Engineering and development: Facilitating successful project work in diverse global contexts," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462379
+keywords: {communities;educational institutions;context;engineering students;usa councils;buildings;service learning;community development;engineering education;global engineering;pbl;project-based learning}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462379
+
+S. Ranganath, et al., "Work in progress: Performing signal analysis laboratories using Android devices," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462381
+keywords: {laboratories;smart phones;digital signal processing;signal processing algorithms;performance evaluation;mobile communication;dsp education;android;j-dsp;graphical programming;laboratories}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462381
+
+K. Nelson, S. Brem and J. Husman,  "Work in progress: Identification of misconceptions governed by emergent phenomena in photovoltaics content using the Delphi Method," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462382
+keywords: {emergent phenomena;photovoltaic systems;materials;educational institutions;psychology;delphi;photovoltaics;semiconductors;emergent processes;complexity;misconceptions}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462382
+
+S. Roach, M. Sahami and R. LeBlanc,  "Special session: The CS2013 Computer Science curriculum guidelines project," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462383
+keywords: {communities;guidelines;education;software;usa councils;programming;cs2013;computer science education;computing;curricula}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462383
+
+E. Eschenbach, S. Lord, M. Camacho and E. Cashman,  "Special session: Race and the idea of privilege in the engineering classroom," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462384
+keywords: {stereotype threat;white prvilege;underrepresented minorities;social justice;engineering culture}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462384
+
+A. Zeid,  "Integrating international students' contests with computer sciecnce capstone: Lessons learned and best practices," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462385
+keywords: {integrated circuits;educational institutions;computer science;proposals;cultural differences;software engineering education;software engineering;collaborative learning}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462385
+
+J. Devine,  "Work in progress: Can Bourdieu's Habitus provide a theoretical framework for engineering education research?," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462386
+keywords: {cultural differences;sociology;engineering education;educational institutions;australia;writing;student diversity;bourdieu;habitus;disposition}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462386
+
+L. Brodie and H. Jolly,  "Work in progress: Developing and evaluating tutor training for collaborative teaching," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462387
+keywords: {training;monitoring;message systems;educational institutions;materials;conferences;online teaching;problem based learning;professional development;tutor training;evaluation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462387
+
+C. Foster, M. Crowder, K. Nelson and T. Ganesh,  "Work in progress: Developing engineering systems thinking through the modeling of a complex bioengineering system," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462388
+keywords: {heart;educational institutions;materials;biomedical engineering;blood;valves;systems thinking;k-12 engineering education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462388
+
+C. Stone and S. Strong,  "Implementing & evaluating Undergraduate Research in renewable energy at Colorado School of Mines," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462389
+keywords: {educational institutions;renewable energy resources;analytical models;context modeling;materials;communities;context;reu implementation;renewable energy;research experiences for undergraduates;reu evaluation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462389
+
+M. Faust, A. Greenberg and B. Pejcinovic,  "Redesign of senior capstone program in electrical and computer engineering and its assessment," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462390
+keywords: {industries;proposals;teamwork;organizations;educational institutions;assessment;capstone program;design}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462390
+
+M. Llamas-Nistal, M. Caeiro-Rodriguez, J. Gonzalez-Tato and J. Alvarez-Osuna,  "Work in progress: Using mobile phones to accomplish an Audience Response System with IGoogle home page," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462391
+keywords: {web services;smart phones;receivers;electronic learning;portable computers;object recognition;gadget;audience response system;igoogle;opensocial}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462391
+
+D. Rooney, et al., "Using practice theory to investigate professional engineers' workplace learning," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462392
+keywords: {materials;context;employment;australia;continuing professional development;educational institutions;shape;qualitative research;continuing professional development;professional learning;practice theory}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462392
+
+A. Gardner, K. Willey, L. Jolly and G. Tibbits,  "Peering at the peer review process for conference submissions," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462393
+keywords: {engineering education;communities;standards;educational institutions;australia;data handling;logic gates;engineering education research;peer review;research quality}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462393
+
+H. Matusovich and R. McCord,  "Work in progress: Does motivation matter for conceptual change? exploring the implications of “hot cognition” on conceptual learning," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462394
+keywords: {cognition;data collection;engineering students;interviews;thermal engineering;teaching strategies;conceptual understanding;intentionality;engagement;hot cognition}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462394
+
+B. Davison and T. McEwan,  "Constructive scaffolding for accessible PBL: Situated meta-critique in the classroom," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462395
+keywords: {educational institutions;tutorials;games;context;law;situated meta-critique;problem-based learning;hci;growth mindset;first year computing undergraduates}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462395
+
+S. Makhmasi, R. Zaki, H. Barada and Y. Al-Hammadi,  "Factors influencing STEM teachers' effectiveness in the UAE," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462396
+keywords: {educational institutions;usa councils;remuneration;mathematics;standards;materials;uae;grade k-12;stem;teacher effectiveness}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462396
+
+O. Muller and V. Dangur,  "Work in progress: Integrating a college of engineering teaching and learning center into a leading position in the institution," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462397
+keywords: {educational institutions;conferences;guidelines;training;mathematics;standards;learning skills;teaching and learning center;faculty development}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462397
+
+E. Perez, L. Santos, M. Perez, J. de Castro Fernandez and R. Martin,  "Automatic classification of question difficulty level: Teachers' estimation vs. students' perception," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-5.
+doi: 10.1109/FIE.2012.6462398
+keywords: {expert systems;estimation;accuracy;materials;context;electronic learning;educational institutions;perception;educational technology;automatic question classification;expert systems;teachers';estimation;students'}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462398
+
+C. Hixson, M. Paretti and J. Lesko,  "Work in progress: Integrating entrepreneurship into undergraduate engineering education," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462399
+keywords: {innovation management;educational institutions;technological innovation;engineering students;engineering profession;program development;entrepreneurship;stem;undergraduate education;identification;willingess;future career}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462399
+
+E. Hershkovich and B. Haberman,  "A Systematic Knowledge Pattern (SKP) for teaching Knowledge Management," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462400
+keywords: {organizations;knowledge management;education;collaboration;knowledge based systems;databases;systematics;innovative computing tools;knowledge management;high school curriculum;knowledge pattern;pedagogical pattern}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462400
+
+K. Willey and A. Gardner,  "Collaborative learning frameworks to promote a positive learning culture," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462401
+keywords: {collaboration;collaborative work;materials;context;histograms;educational institutions;complexity theory;assessment scafolding;collaborative learning;learning oriented assessment;formative;summative}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462401
+
+M. Freeman, et al., "Using technology to improve peer review and collaborative conversations to benchmark academic standards," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462402
+keywords: {standards;conferences;software;educational institutions;benchmark testing;australia;self and peer assessment;academic standards;benchmarking;peer review}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462402
+
+O. Graven and D. Samuelsen,  "Work in progress: Software for remote laboratories designed with the focus on learners," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462403
+keywords: {remote laboratories;software;educational institutions;hardware;context;engineering education;automated pedagodical support;remote laboratory}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462403
+
+R. Gale, T. Karp and H. Gesch,  "Work in progress: International experience in semiconductor product engineering," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462404
+keywords: {educational institutions;joints;testing;computers;companies;electrical engineering;graduate education;international experience;joint degree programs}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462404
+
+S. Cutler, M. Borrego, M. Prince, C. Henderson and J. Froyd,  "A comparison of electrical, computer, and chemical engineering facultys' progressions through the innovation-decision process," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-5.
+doi: 10.1109/FIE.2012.6462405
+keywords: {technological innovation;engineering education;conferences;physics education;chemical engineering;innovation-decision process;diffusion of innovation;engineering sciences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462405
+
+D. Davis, H. Davis, J. McCormack and S. Beyerlein,  "Work in progress: Using rigorous design reviews to teach and assess students' design capabilities," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462406
+keywords: {documentation;probes;educational institutions;context;usa councils;us government agencies;chemical engineering;design reviews;design assessment}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462406
+
+M. Miller, et al., "Work in progress: Development of computer modules to improve student metacognition and motivation strategies," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462407
+keywords: {tutorials;reflection;manufacturing;osmosis;educational institutions;monitoring;motivation strategies;lifelong learning;e-learning;learning styles}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462407
+
+H. Tsukamoto, Y. Takemura, H. Nagumo and N. Nitta,  "Work in progress: Analysis of the relationship between teaching contents and motivation in programming education," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462408
+keywords: {programming profession;games;educational institutions;java;computational modeling;arcs model;introductory programming;motivation;analysis}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462408
+
+N. Darko and E. Salib,  "Undergraduate hands-on senior capstone project experience on emerging mobile IPV6 technology," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462409
+keywords: {linux;mobile communication;manganese;kernel;mobile computing;virtualization;workstations;virtualization;hands-on;undergraduate research experience;ipv6;mobile ipv6;open source}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462409
+
+R. McDermott, et al., "Student reflections on Collaborative Technology in a globally distributed student project," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462410
+keywords: {reflection;collaboration;educational institutions;context;information technology;cultural differences;writing;scaffolding;reflections;collaborative technology;open-ended group projects;global collaboration}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462410
+
+A. Cajander, et al., "Categorizing how students use Collaborative Technologies in a globally distributed project," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462411
+keywords: {collaboration;reflection;educational institutions;laboratories;electronic mail;context;web 2.0;collaborative technologies;survey;reflections;open-ended group projects;global collaboration}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462411
+
+D. Campos, A. Mendes, M. Marcelino, D. Ferreira and L. Alves,  "A multinational case study on using diverse feedback types applied to introductory programming learning," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462412
+keywords: {programming profession;context;software testing;educational institutions;complexity theory;pedagogical rubric;feedback;programming learning;logical errors;software testing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462412
+
+A. Cajander, M. Daniels, C. Kultur, L. Dag and C. Laxer,  "Managing international student collaborations: An experience report," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462413
+keywords: {collaboration;educational institutions;context;complexity theory;international collaboration;cultural differences;organizations;experience report;international student collaboration;open ended group project}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462413
+
+A. Bennett and R. Natarajan,  "Work in progress: Choose your own homework," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462414
+keywords: {educational institutions;context;algebra;materials;humans;data models;open-ended problems;differentiated instruction;online homework}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462414
+
+D. Lo, K. Qian, G. Quan and L. Hong,  "Work in progress: Enhance CS/CE student learning in computer architecture and organization through a remote instrument control lab with mixed reality," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462415
+keywords: {field programmable gate arrays;hardware;servers;browsers;computers;educational institutions;virtual reality;remote lab;mixed reality;fpga;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462415
+
+C. Williams, Y. Lee, J. Gero and M. Paretti,  "Examining the effect of design education on the design cognition: Measurements from protocol studies," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462416
+keywords: {indexes;protocols;ontologies;cognition;market research;education;encoding;design education;design cognition;verbal protocol studies}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462416
+
+A. Bennett and T. Moore,  "Work in progress: What calculus do students learn after calculus?," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-3.
+doi: 10.1109/FIE.2012.6462417
+keywords: {interviews;educational institutions;abstracts;differential equations;understanding;back transfer;apos;function;acculumation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462417
+
+D. Samuelsen and O. Graven,  "Work in progress: Student lab on graphics cards' multi buffer architecture implemented in an FPGA," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462418
+keywords: {graphics;field programmable gate arrays;laboratories;hardware;buffer storage;computer architecture;data transfer;laboratory assignment;vhdl programming;digital hardware design}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462418
+
+P. Thompson, et al., "Workshop: Assessing professional skills for ABET," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462419
+keywords: {instruments;conferences;design engineering;learning systems;materials;teamwork;accreditation;professional development;abet;student outcomes assessment}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462419
+
+P. Henning, R. Ganesan and D. Sterling,  "Work in progress: STEM capacity building and STEM outreach in India: A report on a recent NSF sponsored GK-12 George Mason trip to India," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462420
+keywords: {educational institutions;fellows;buildings;interviews;us government;science - general;gk-12;stem outreach;international travel;stem capacity building;india}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462420
+
+J. Juesas, E. Gago-Ribas and S. Garcia,  "Educational software tool for signals and systems theory," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462421
+keywords: {spectral analysis;software tools;vectors;visualization;fourier transforms;infinite dimensions — countable or continuous;signal theory;operators;linear — invariant and non invariant — systems;software tool}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462421
+
+S. Nasr and M. Aburdene,  "Global engineering: Cyber security, BRICs, and culture," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-5.
+doi: 10.1109/FIE.2012.6462422
+keywords: {educational institutions;business;cultural differences;economics;engineering education;springs;knowledge engineering;brics;global engineering;cyber security}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462422
+
+D. Jacobson, J. Rursch and J. Idziorek,  "Workshop: Teaching computer security literacy to the masses: A practical approach," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462423
+keywords: {computer security;conferences;educational institutions;computers;software;security education;security literacy}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462423
+
+X. Li, K. Ganeshan and G. Xu,  "The role of Social Networking Sites in e-learning," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462424
+keywords: {electronic learning;facebook;interviews;collaboration;security;personalised environment;teaching and learning;social networking sites;facebook;collaboration;interaction}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462424
+
+M. Hsu,  "Work in progress: Phenomenographic perspective on engineering students' experience of interdisciplinary learning," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-3.
+doi: 10.1109/FIE.2012.6462425
+keywords: {interviews;engineering students;concrete;educational institutions;topology;encountering others;interdisciplinary learning;phenomenography}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462425
+
+J. Main, M. Ohland and K. Mumford,  "Work in progress: Understanding migration patterns of engineering undergraduates: The impact of course grades on student major choice," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-3.
+doi: 10.1109/FIE.2012.6462426
+keywords: {educational institutions;logic gates;economics;engineering students;usa councils;grades;major choice;persistence;migration}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462426
+
+O. de Lira Tavares, C. de Menezes and R. de Nevado,  "Pedagogical architectures to support the process of teaching and learning of computer programming," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462427
+keywords: {programming profession;computer architecture;computers;education;computer languages;cscl;pedagogical architecture;problem solving;learning of computer programming;cooperative authoring}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462427
+
+M. Herold, T. Lynch, R. Ramnath and J. Ramanathan,  "Student and instructor experiences in the inverted classroom," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462428
+keywords: {education;interviews;software engineering;watches;materials;industries;student experiences;instructor experiences;inverted classroom;software engineering education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462428
+
+M. Apiola, M. Lattu and T. Pasanen,  "Towards a framework for designing and analyzing CS learning environments," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462430
+keywords: {context;programming profession;robots;educational institutions}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462430
+
+N. Fila, W. Myers and S. Purzer,  "Work in progress: How engineering students define innovation," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462431
+keywords: {technological innovation;encoding;engineering students;context;educational institutions;first-year engineering;innovation;creativity}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462431
+
+M. Llamas, M. Caeiro, M. Castro, I. Plaza and E. Tovar,  "Work in progress: Preliminary survey results on the first year of the Bologna process in engineering education in Spain," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462432
+keywords: {educational institutions;engineering education;chapters;ieee education society;collaborative work;communities;bologna process;eees;engineering education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462432
+
+J. Bishop and M. Verleger,  "Feedback effects: Comparing the change resulting from peer and TA feedback to student solutions of Model-Eliciting Activities," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462434
+keywords: {analysis of variance;training;mathematical model;educational institutions;synthetic aperture sonar;correlation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462434
+
+E. Gerber, C. Martin, E. Kramer, J. Braunstein and A. Carberry,  "Work in progress: Developing an Innovation Self-efficacy survey," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-3.
+doi: 10.1109/FIE.2012.6462435
+keywords: {technological innovation;educational institutions;engineering education;context;organizations;psychology;industries;assessment;self-efficacy;innovation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462435
+
+D. Gilbuena, E. Nefcy and M. Koretsky,  "The effect of feedback on modeling in an authentic process development project," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462436
+keywords: {laboratories;mathematical model;inductors;kinetic theory;biological system modeling;materials;context;qualitative research;feedback;model development;virtual laboratory;engineering education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462436
+
+J. Turns, D. Paine, B. Sattler and D. Munoz,  "What are the implications for teaching? An analysis of how educational implications are represented in engineering education," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462437
+keywords: {engineering education;educational institutions;encoding;communities;human computer interaction;writing;rhetoric of science;educational implications}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462437
+
+Y. Liu, M. Vagula and S. Frezza,  "Work in progress: Integrating game design and development into undergraduate biology education," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462438
+keywords: {games;computer science;educational institutions;genetics;software engineering;software engineering;game design;game development;biology undergraduate education;genetics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462438
+
+J. Le Doux, W. Newstetter and A. Waller,  "Special session: What do student-generated diagrams say about their understanding?: developmental trajectories of model-based reasoning in engineering students," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462439
+keywords: {cognition;problem-solving;inference mechanisms;communities;biomedical engineering;educational institutions;usa councils;think aloud protocols;diagrams;expert — novice;model-based reasoning}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462439
+
+J. Riehl and B. Hamlin,  "Work in progress: Who answered first? — A trivia game utilizing timed electronic classroom response systems," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462440
+keywords: {games;matlab;educational institutions;databases;programming environments;time factors;classroom applications;classroom technology;clickers;trivia;classroom games;classroom response systems}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462440
+
+J. Turns and B. Sattler,  "When students choose competencies: Insights from the competency-specific engineering portfolio studio," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462441
+keywords: {portfolios;lead;interviews;humans;educational institutions;programming;engineering education;sstudio;competency;portfolio}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462441
+
+M. Sullivan, et al., "Understanding engineering transfer students: Demographic characteristics and educational outcomes," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462442
+keywords: {educational institutions;engineering students;sociology;statistics;electric shock;databases;switches;higher education;engineering;transfer students;persistence;student retention;stem}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462442
+
+M. Eltayeb, M. Fong and O. Soysal,  "Work in progress: Engaging faculty for program improvement via EvalTools®: A new software model," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462443
+keywords: {vectors;instruments;springs;collaboration;educational institutions;software tools;faculty engagement;quality assurance;abet;program evaluation;evaltools}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462443
+
+M. Guo, P. Bhattacharya, M. Yang, K. Qian and L. Yang,  "Work in progress: Real world relevant security labware for mobile threat analysis and protection experience," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462444
+keywords: {mobile communication;security;mobile computing;mobile handsets;materials;educational institutions;real world relevant;labware;mobile security}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462444
+
+S. Grigg and L. Benson,  "How does academic preparation influence how engineering students solve problems?," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462445
+keywords: {problem-solving;calculus;frequency measurement;sociology;statistics;engineering students;academic preparation;problem solving;first year engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462445
+
+F. Jean, A. Gebali, T. Beugeling and A. Albu,  "An educational visual prototyping environment for real-time imaging," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462446
+keywords: {computer vision;algorithm design and analysis;monitoring;visualization;education;usability;noise;computer vision;education;graphical user interface}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462446
+
+F. Fayyaz and B. Jesiek,  "Work in progress: Mesoscopic analysis of engineering education scholarship in electrical and Computer Engineering, 2002–2011," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462447
+keywords: {engineering education;market research;scholarships;computers;technological innovation;collaboration;mesoscopic analysis;ece;electrical and computer engineering;engineering education;engineering education research}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462447
+
+R. Adams, A. Pawley and B. Jesiek,  "Applying philosophical inquiry: Bringing future engineering education researchers into the Philosophy of Engineering Education," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462449
+keywords: {engineering education;educational institutions;history;presses;chapters;communities;history;philosophy;epistemology;graduate education;professional development;engineering education research}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462449
+
+O. Lawanto and H. Santoso,  "Implementation of enhanced guided notes to promote students' metacognitive self-regulated learning strategies while learning electric circuit concepts," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462450
+keywords: {monitoring;knowledge acquisition;problem-solving;educational institutions;engineering students;materials;self-regulated learning;electric circuit;enhanced guided notes;metacognition}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462450
+
+L. Prevost, K. Haudek, M. Urban-Lurain and J. Merrill,  "Examining student constructed explanations of thermodynamics using lexical analysis," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462451
+keywords: {thermodynamics;biochemistry;software;text analysis;engineering education;educational institutions;bloom's taxonomy;lexical analysis;text analysis;thermodynamics;assessment}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462451
+
+O. Lawanto and H. Santoso,  "Work in progress: Implementation of enhanced guided notes and collaborative note-taking in learning electric circuit concepts," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462452
+keywords: {collaboration;materials;social network services;educational institutions;engineering education;tablet computers;standards;social networks;collaborative note-taking;enhanced guided notes;metacognition;electric circuit}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462452
+
+V. Alonso-Roris, R. Miguez-Perez, J. Santos-Gago and L. Alvarez-Sabucedo,  "A semantic enrichment experience in the early childhood context," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462453
+keywords: {semantics;education;diseases;monitoring;knowledge based systems;pediatrics;resource description framework;semantic enrichment;early childhood education and care;knowledge based systems;linked open data}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462453
+
+J. Lin, J. Binzley and M. Romero,  "Helping engineering students develop skills in content-based problem solving workshops outside classrooms," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462454
+keywords: {problem-solving;silicon;conferences;equations;educational institutions;engineering students;outside classrooms;problem solving;content-based;peer-led}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462454
+
+D. Chachra, L. Stein, A. Sarang-Sieminski, C. Lynch and Y. Zastavker,  "Special session: An interactive exploration of Gender and engineering: Unpacking the experience," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462455
+keywords: {materials;engineering students;educational institutions;communities;licenses;context;stem;gender;engineering;technology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462455
+
+C. Avila, S. Baldiris, R. Fabregat and J. Guevara,  "Accessibility evaluation improvement using Case Based Reasoning," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462456
+keywords: {web pages;guidelines;manuals;libraries;cognition;context;html;case based reasoning;web content accessibility;manual evaluation;automatic evaluation;wcag 2.0}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462456
+
+G. Pleiss, M. Perry and Y. Zastavker,  "Student self-efficacy in introductory Project-Based Learning courses," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462457
+keywords: {physics;laboratories;interviews;educational institutions;knowledge engineering;physiology;writing;course scaffolding;first-year engineering curriculum;project-based learning;self-efficacy}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462457
+
+G. Beauchamp, M. Jimenez, R. Mulero and A. Ortiz,  "Tradeoffs implementing digital control systems for electrical engineering course projects," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462458
+keywords: {digital control;potentiometers;matlab;laboratories;transfer functions;laboratory experiences;control systems education;ball-and-beam system;microcontroller applications}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462458
+
+R. Carr, H. Diefes-Dux and B. Horstman,  "Work in progress: Analysis of change in engineering construct knowledge," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462459
+keywords: {interviews;encoding;engineering education;educational institutions;standards;knowledge engineering;k-6;engineering constructs;interview analysis;teacher professional development;pre-college engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462459
+
+A. Armstrong and C. Wellington,  "Work in progress: Modeling employer assessments: Using professionalism in computer science courses," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-3.
+doi: 10.1109/FIE.2012.6462460
+keywords: {educational institutions;computer science;seminars;computational modeling;standards;materials;cs1;professionalism;senior capstone}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462460
+
+P. Hylton, W. Otoupal-Hylton, W. Campbell and D. Williams,  "Science Bound: A success story for STEM Education," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-5.
+doi: 10.1109/FIE.2012.6462461
+keywords: {educational institutions;engineering profession;cities and towns;employee welfare;industries;market research;k-12 stem;pre-engineering;summer enrichment programs;diversity}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462461
+
+R. Korte,  "Work-in-progress: Exploring the essential nature of engineering education through philosophical inquiry," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462462
+keywords: {engineering education;cognition;conferences;educational institutions;ontologies;presses;epistemology;argumentation;rhetorical criticism;philosophy of engineering education;ontology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462462
+
+J. Kypuros, C. Tarawneh, H. Vasquez, M. Knecht and R. Wrinkle,  "Lessons learned implementing and optimizing Guided Discovery modules," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462463
+keywords: {vectors;gravity;pulleys;educational institutions;materials}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462463
+
+D. Hunter, H. Matusovich and M. Paretti,  "Work in progress: A model for facilitating problem based learning," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462464
+keywords: {engineering education;accreditation;reflection;cognition;context;interviews;facilitation;problem-based learning}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462464
+
+A. Rodriguez and M. Anderson-Rowland,  "Critical questions of engineering students by gender and ethnicity," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462465
+keywords: {educational institutions;industries;engineering students;mathematics;organizations;computer science;engineering profession;survey;critcal engineering questions;ethnicity;gender;intentional advisiing;recruitment;retention}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462465
+
+J. Rozzi-Ochs, C. Egelhoff, H. Jackson and S. Zelmanowitz,  "Work in progress: Building information literacy assessment," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-3.
+doi: 10.1109/FIE.2012.6462466
+keywords: {educational institutions;civil engineering;libraries;mechanical engineering;engineering students;project management;abet;assessment;information literacy;outcome}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462466
+
+K. Rodgers, H. Diefes-Dux, M. Cardella and A. Fry,  "First-year engineering students' peer feedback on open-ended mathematical modeling problems," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462467
+keywords: {mathematical model;complexity theory;educational institutions;interviews;standards;model-eliciting activites;peer feedback;mathematical modeling;first-year engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462467
+
+T. Ringenberg and A. Magana,  "Work in progress: STEM-based computing educational resources on the web," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-3.
+doi: 10.1109/FIE.2012.6462468
+keywords: {materials;computational modeling;planning;educational institutions;games;computers;supplemental materials;computational thinking;stem;learning resources}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462468
+
+R. Melton, M. Cardella, W. Oakes and C. Zoltowski,  "Development of a design task to assess students' understanding of human-centered design," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462469
+keywords: {reflection;testing;interviews;calendars;education;visualization;computer science;design task;assessment;human-centered design}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462469
+
+S. Uludag, M. Karakus, E. Guler, S. Turner and A. Kita,  "Assessment of a frugal, virtual and green computing lab infrastructure of the future," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462470
+keywords: {virtualization;laboratories;servers;security;operating systems;computers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462470
+
+L. Richards and S. Donohue,  "Managing student outcomes in a totally asynchronous learning environment: Lessons learned," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462471
+keywords: {materials;educational institutions;springs;schedules;electronic mail;logistics;statistics education;asynchronous learning;on-line learning;graduate engineering education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462471
+
+J. Huff, W. Oakes and C. Zoltowski,  "Work in progress: Understanding professional competency formation in a service-learning context from an alumni perspective," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-3.
+doi: 10.1109/FIE.2012.6462472
+keywords: {engineering education;interviews;context;communities;electronic mail;sociology;mixed methods;alumni research;professional competence;service-learning}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462472
+
+S. Donohue, W. Hunter and L. Richards,  "Special session: Raising P-20 engineers — Nurturing creativity and curiosity by getting STEAMd," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462473
+keywords: {educational institutions;technological innovation;art;engineering education;psychology;conferences;steamd;creativity;curiosity;engineering teaching kits;mindset;p-20 engineering education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462473
+
+S. Donohue, W. Hunter and L. Richards,  "Work in progress: Creativity, mindset, and implications for engineering design instruction," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462474
+keywords: {educational institutions;psychology;technological innovation;springs;art;engineering education;mindset;creativity;engineering design}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462474
+
+L. Benson, M. Cook, C. McGough and S. Grigg,  "Work in progress: Audio reflections provide evidence of metacognition during students' problem solving attempts," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462475
+keywords: {problem-solving;reflection;planning;engineering students;monitoring;protocols;think-aloud;first year engineering;problem solving;metacognition}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462475
+
+T. Cortina, et al., "Work in progress: ACTIVATE: Advancing computing and technology interest and innovation through teacher education," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462477
+keywords: {conferences;educational institutions;programming profession;java;computational thinking;outreach;professional development}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462477
+
+A. Carberry and A. Amresh,  "Work in progress: Teaching game design and robotics together: A natural marriage of computing and engineering design in a first-year engineering course," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-3.
+doi: 10.1109/FIE.2012.6462478
+keywords: {games;educational robots;programming profession;conferences;education;computing for engineers;game design;robotics;projoect-based learning;problem solving;common engineering core}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462478
+
+V. da Silva and A. de Castro,  "Work in progress: A semantic annotation scheme for Concept Maps," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462479
+keywords: {semantics;context;standards;software;education;databases;abstracts;metadata;concept maps;semantic annotation;learning object}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462479
+
+S. Fulton, D. Schweitzer and J. Dressler,  "What are we teaching in cyber competitions?," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-5.
+doi: 10.1109/FIE.2012.6462480
+keywords: {educational institutions;computer security;robots;computers;organizations;programming;security education;cyber;competitions}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462480
+
+K. High, J. Utley and J. Angle,  "The effect of university research experiences on middle level math and science instructors perceptions," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462481
+keywords: {educational institutions;mathematics;materials;instruments;engineering profession;communities;community of practice;middle level;research experience;teacher perceptions}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462481
+
+A. Esquinca, E. Villa and G. Gandara,  "Work in progress: Supporting Latino and English Language Learners' written communication skills: A research-based pedagogical intervention," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-3.
+doi: 10.1109/FIE.2012.6462482
+keywords: {writing;educational institutions;electronic mail;reflection;interviews;communities;effective writing;latinos in engineering;english language learners (ells);project-based learning}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462482
+
+L. Stein and C. Lynch,  "Work in progress: Building bridges in our backyards: Engineering, service learning, and our elder neighbors," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462483
+keywords: {communities;context;educational institutions;aging;buildings;organizations;sociology;community;service learning;engineering design}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462483
+
+L. Stein and C. Lynch,  "Special session: Connecting with community: Empathy, experience, and engineering with elders," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462484
+keywords: {communities;aging;materials;joining processes;educational institutions;bridges;humans;empathetic engineering;interdisciplinary;broad competencies}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462484
+
+A. Dillon and J. Stolk,  "The students are unstable! Cluster analysis of motivation and early implications for educational research and practice," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462485
+keywords: {educational institutions;context;materials;correlation;engineering students;clustering algorithms;market research;cluster analysis;motivation;self-determination}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462485
+
+A. Mendes, L. Paquete, A. Cardoso and A. Gomes,  "Increasing student commitment in introductory programming learning," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462486
+keywords: {programming profession;multimedia communication;educational institutions;tutorials;informatics;context;pedagogy;learning to program;non-majors;motivation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462486
+
+K. Yevseyeva and M. Towhidnejad,  "Work in progress: Teaching computational thinking in middle and high school," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462487
+keywords: {educational institutions;fault trees;logic gates;computers;chemistry;reliability;software;fault tree analysis;computational thinking}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462487
+
+A. Maxwell,  "Work in progress: Management of online assessments as a replacement for exams," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462488
+keywords: {least squares approximation;stress;software;australia;abstracts;measurement;monitoring;instruction compliance;online assessment;examinations;examiniation stress}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462488
+
+S. Warren and D. Day,  "The impact of a scientific computing prerequisite on student performance in a linear systems course," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462489
+keywords: {programming;springs;linear systems;fourier series;scientific computing;materials;frequency domain analysis;systems;c programming;convolution;fourier analysis;numerical analysis;scientific computing;signals}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462489
+
+C. Kaneshiro and K. Higa,  "Work in progress: Educational program approach of device fabrication and its analysis for engineering experiments," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462490
+keywords: {fabrication;educational institutions;mosfet circuits;transversal filters;surface acoustic waves;semiconductor device measurement;saw transversal filter;enginireeing experiment;device fabrication process;decice analysis;mosfet}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462490
+
+M. Rizvi and T. Humphries,  "A Scratch-based CS0 course for at-risk computer science majors," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-5.
+doi: 10.1109/FIE.2012.6462491
+keywords: {programming;educational institutions;computer languages;programming environments;algebra;scratch;cs0;retention}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462491
+
+R. Koseler, S. Shapcott, K. Nelson and J. Husman,  "Work in progress: Evaluation of an online education portal from the user's perspective: An empirical investigation of a photovoltaics (PV) engineering learning portal, pveducation.org," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462492
+keywords: {portals;photovoltaic systems;atmospheric measurements;particle measurements;instruments;engineering education;learning portal effectiveness evaluation;pv engineering education;survey development}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462492
+
+M. Nalim and M. Rajagopal,  "Work in progress: Faculty perceptions of project-enhanced learning in early engineering education: Barriers and benefits," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462493
+keywords: {educational institutions;engineering education;logic gates;interviews;communities;materials;engineering education;problem based learning;project-enhanced learning;engineering science}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462493
+
+R. Nalim, M. Rajagopal and R. Helfenbein,  "Workshop: Project-enhanced learning in engineering science education," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462494
+keywords: {conferences;educational institutions;engineering education;usa councils;abstracts;thermodynamics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462494
+
+L. Santos, A. Castro and C. de Menezes,  "Flexible virtual environments for teaching and learning," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462495
+keywords: {virtual environments;production;software;computer architecture;runtime;prototypes;xml;tailorability;distance learning;flexible virtual environments}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462495
+
+J. Burge, et al., "Characterizing communication instruction in computer science and engineering programs: Methods and applications," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462496
+keywords: {educational institutions;software engineering;computer science;engineering profession;documentation;computer science);communication across the curriculum;situated learning;software engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462496
+
+A. Azemi and R. Toto,  "Work in progress: Enhancement of student learning via recorded worked-out examples and in-class team based problem solving," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-3.
+doi: 10.1109/FIE.2012.6462497
+keywords: {problem-solving;production;education;computers;equations;mathematical model;materials;problem solving;assessment;electric circuits;multimedia}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462497
+
+R. Carr and J. Strobel,  "Work in progress: Development of a metacognition scaffold in STEM/P-6 engineering context: MCinEDP," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462498
+keywords: {educational institutions;monitoring;context;adaptation models;buildings;problem-solving;scaffolding;metacognition;engineering design;k-6}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462498
+
+D. Fick, J. Sawyer, C. Tinant and B. Berdanier,  "Civil and geological engineering service-learning projects as part of a Pre-Engineering Education Collaborative," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462499
+keywords: {educational institutions;geology;communities;laboratories;concrete;collaboration;constructivist philosophy;service learning;pre-engineering education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462499
+
+A. Santiago-Roman, et al., "A cross-cultural comparison study: The effectiveness of schema training modules among Hispanic students," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-5.
+doi: 10.1109/FIE.2012.6462500
+keywords: {training;heat transfer;sociology;statistics;educational institutions;microfluidics;thermodynamics;quantitative analysis;cultural differences;ontological schema training}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462500
+
+R. Anderson, R. Anderson, G. Borriello and B. Kolko,  "Designing technology for resource-constrained environments: Three approaches to a multidisciplinary capstone sequence," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462501
+keywords: {human computer interaction;springs;ultrasonic imaging;educational institutions;seminars;prototypes;sociology;ictd;capstone;multidisciplinary;resource-constrained environments}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462501
+
+A. Harriger, A. Magana and R. Lovan,  "Identifying the impact of the SPIRIT program in student knowledge, attitudes, and perceptions toward computing careers," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462502
+keywords: {engineering profession;educational institutions;information technology;biology;programming profession;computers;youth interest;computing attitudes;outreach programs;stem}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462502
+
+B. Sharma, B. Reynolds and C. Schunn,  "Work in progress: Student-directed learning: An approach to sustainability and engineering education," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462503
+keywords: {engineering education;materials;educational institutions;green buildings;lenses;technological innovation;engineering education;sustainability}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462503
+
+P. DePasquale, M. Locasto, L. Kaczmarczyk and M. Martinovic,  "// TODO: Help students improve commenting practices," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462504
+keywords: {documentation;best practices;java;semantics;open source software}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462504
+
+J. Liu, C. Lin, E. Hasson and Z. David Barnett,  "Computer science learning made interactive — A one-week alice summer computing workshop for K-12 teachers," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462505
+keywords: {conferences;educational institutions;materials;computer science;curriculum development;computers;curriculum;computer and information science education;computer science education;information systems education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462505
+
+C. Qian, C. Zoltowski and W. Oakes,  "Collaborating Interaction Design into Engineering Projects in Community Service (EPICS)," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462506
+keywords: {collaboration;communities;educational institutions;reflection;engineering students;tablet computers;interdisciplinary collaboration;service-learning;community engagement;interaction design}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462506
+
+A. Ohno,  "Work in progress: An interactive online educational support system considering real-world human relationships of students," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462507
+keywords: {games;educational institutions;avatars;humans;time factors;half-anonymity;active learning;on-line system;educational game}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462507
+
+A. Fontecchio,  "Work in progress: The NAE Grand Challenges, high school curricula and Graduate student research," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462508
+keywords: {educational institutions;knowledge engineering;computers;context;us government;science - general}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462508
+
+R. Ford, et al., "A program to increase female engineering and science enrollments through NSF STEM scholarships," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462509
+keywords: {educational institutions;scholarships;employee welfare;engineering profession;silicon carbide;planning;monitoring;mentoring;female;engineering;science;enrollments;scholarships}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462509
+
+J. Mondisa, N. Fila, E. Dringenberg, T. Zephirin and S. Purzer,  "Work in progress: A case study of the types and frequencies of conflict in engineering design dyads," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462510
+keywords: {encoding;teamwork;context;educational institutions;engineering students;water pollution;teamwork;engineering design;conflict}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462510
+
+G. Lammers and C. Brown,  "Exploring student understanding of parallelism using concept maps," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-5.
+doi: 10.1109/FIE.2012.6462511
+keywords: {parallel processing;concurrent computing;computers;computer architecture;programming;educational institutions;conceptual understanding;parallel computing;parallelism;concurrency;concept maps}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462511
+
+A. Perez-Santiago, M. Reyes-Carrasquillo and E. Ortiz-Rivera,  "Work in progress-HOMER: An educational tool to learn about the design of renewable energy systems at the undergraduate level," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-6.
+doi: 10.1109/FIE.2012.6462512
+keywords: {electricity;dh-hemts;helium}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462512
+
+S. Schaffer, X. Chen, X. Zhu and W. Oakes,  "Team learning developing interdisciplinary project teams," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-3.
+doi: 10.1109/FIE.2012.6462513
+keywords: {educational institutions;engineering education;context;springs;collaboration;business;self-efficacy;multi-disciplinary teams;cross-disciplinary}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462513
+
+E. Beheshti and M. Horn,  "Work in progress: Learning flow-of-control with FlipLogic: A game-based approach," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462514
+keywords: {games;programming profession;computers;syntactics;usa councils;computer languages;learning games;children;programming languages}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462514
+
+ "Work in progress: A multi-strategy model for promoting high school students interest in STEM," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-3.
+doi: 10.1109/FIE.2012.6462515
+keywords: {educational institutions;cities and towns;solid modeling;communities;mathematics;engineering education;stem;multi-strategy;hybrid learning;hybrid laguardia youth center for engineering excellence (h-lycee);online learning component;research;practice}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462515
+
+N. Rasche and C. Qian,  "Work in progress: Application design on touch screen mobile computers (TSMC) to improve autism instruction," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462516
+keywords: {autism;medical treatment;information processing;computers;psychology;variable speed drives;interrupters;touch screen mobile computers;autism therapy;computer aided instruction;instructional technology;cognitive deficits;cognitive information processing;application design}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462516
+
+A. Kumar,  "The effect of interleaving an alternate task during tutoring and testing," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-5.
+doi: 10.1109/FIE.2012.6462517
+keywords: {problem-solving;software;switches;psychology;programming;protocols;computers;computer programming;alternating tasks;online learning;software tutor}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462517
+
+S. Zappe, M. Besterfield-Sacre and A. Shartrand,  "Work in progress: Entrepreneurship in education: Faculty beliefs, teaching practices, and student learning," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462518
+keywords: {innovation management;educational institutions;engineering students;springs;product development;engineering education;entrepreneurship education;technology entrepreneurship}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462518
+
+S. Srivastava and R. Singh,  "Work in progress: A quantitative study of effectiveness in group learning," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462519
+keywords: {testing;correlation;histograms;collaboration;education;information technology;electronic mail}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462519
+
+M. Spezialetti,  "Workshop: It's more than coding- using video scenarios to engage students in computing," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462520
+keywords: {problem-solving;programming profession;educational institutions;ethics;online tools ethics;cs1;cs2;computing education;entrepreneurship;computational thinking;educational videos;video-based learning;problem solving}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462520
+
+Z. Zhou and A. Donaldson,  "Work in progress: Enhancing broader communication among courses linked with prerequisites," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462521
+keywords: {physics;educational institutions;calculus;vectors;mechanical engineering;prerequisites;active feedback;advising}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462521
+
+R. Adams, et al., "Work in progress: In their own words — How “changemakers” talk about change," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462522
+keywords: {engineering education;educational institutions;knowledge engineering;collaboration;usa councils;humans;radically transparent research;transforming stem education;change knowledge;change agents}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462522
+
+K. Bachman and G. Gannod,  "Work in progress: The effects of mobile learning on inquiry-based instruction," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462523
+keywords: {mobile handsets;mobile communication;performance evaluation;educational institutions;computer science;software engineering;citizen science;mobile learning;inquiry-based instruction}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462523
+
+R. Singh and M. Pundir,  "Work in progress: On entrance test criteria for CS and IT UG programs," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462524
+keywords: {phase change materials;educational institutions;context;java;correlation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462524
+
+L. McNair and C. Venters,  "Work in progress: Using writing-to-learn methods to improve conceptual knowledge in engineering statics," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462525
+keywords: {writing;interviews;engineering education;educational institutions;mathematics;knowledge engineering;writing;statics;conceptual understanding;conceptual knowledge;procedural knowledge;writing-to-learn}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462525
+
+K. Reid and D. Gorham,  "Work in progress: International teacher development: Engineering into the classroom in the Dominican Republic," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462526
+keywords: {educational institutions;conferences;training;engineering education;solids;rocks;teacher workshops;engineering education;ieee;international}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462526
+
+A. Berndt,  "Work in progress: What do engineering students do with non-academic information as they address authentic socio-technical problems?," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-3.
+doi: 10.1109/FIE.2012.6462527
+keywords: {communities;context;educational institutions;engineering students;documentation;employment;knowledge engineering;technical communication;community service-learning;global engineering;information literacy;problem-oriented learning;social context}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462527
+
+S. Kellogg and J. Karlin,  "Work in progress: A developmental approach to better problem solving: A model for bridging the Alverno Gap," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-2.
+doi: 10.1109/FIE.2012.6462528
+keywords: {problem-solving;industries;educational institutions;engineering education;context;accreditation;cultural differences;problem solving skills;developmental}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462528
+
+ "Bologna vs non-Bologna academic outcome in BEng Mechanical Engineering within EHEA," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-5.
+doi: 10.1109/FIE.2012.6462529
+keywords: {mechanical engineering;europe;collaborative work;educational institutions;design engineering;statistical analysis}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462529
+
+ "Analizing students performance in an EHEA BEng Industrial Design Engineering degree," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1-4.
+doi: 10.1109/FIE.2012.6462530
+keywords: {design engineering;europe;educational institutions;physics;mathematics;monitoring;ehea adaptation;classroom activities;autonomous activities;formative assessment}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462530
+
+ "Author index," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. 1394-1410.
+doi: 10.1109/FIE.2012.6462532
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462532
+
+ "[Copyright notice]," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. ii.
+doi: 10.1109/FIE.2012.6462533
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462533
+
+ "Table of contents," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. iii-lxvi.
+doi: 10.1109/FIE.2012.6462535
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462535
+
+ "Technical sessions table of contents," in 2012 IEEE Frontiers in Education Conference (FIE), Seattle, WA, 2012 pp. lxvii-cxi.
+doi: 10.1109/FIE.2012.6462536
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2012.6462536

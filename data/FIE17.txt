@@ -1,0 +1,1534 @@
+ "[Copyright notice]," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 2-2.
+doi: 10.1109/FIE.2017.8190429
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190429
+
+ "Technical sessions table of contents," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 59-104.
+doi: 10.1109/FIE.2017.8190430
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190430
+
+ "Table of contents," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 3-60.
+doi: 10.1109/FIE.2017.8190431
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190431
+
+E. Douglas, A. Ilumoka and H. Watson,  "Engineering education funding at the National Science Foundation," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-4.
+doi: 10.1109/FIE.2017.8190432
+keywords: {stem;engineering education;us government;science - general;proposals;engineering profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190432
+
+K. Smith, R. Guerra and R. Korte,  "SMART START: Designing impact-driven projects," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-2.
+doi: 10.1109/FIE.2017.8190433
+keywords: {conferences;technological innovation;education;us government;science - general;entrepreneurship}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190433
+
+E. Ingram, B. Sukumaran, T. Forin and E. Litzler,  "Increase your project's success through coordinated communication: Research and practice," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-2.
+doi: 10.1109/FIE.2017.8190434
+keywords: {conferences;stakeholders;environmental engineering;scholarships;stem;technological innovation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190434
+
+J. Karlin, R. Bates, C. Allendoerfer, D. Ewert and R. Ulseth,  "Building your team of change champions," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-3.
+doi: 10.1109/FIE.2017.8190435
+keywords: {conferences;organizations;ecosystems;engineering education;biological system modeling;buildings}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190435
+
+M. Boutell and D. Fisher,  "Entrepreneurial minded learning in app development courses," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190436
+keywords: {entrepreneurship;androids;humanoid robots;encoding;games;cloud computing;data models}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190436
+
+M. Banavar, H. Gan, B. Robistow and A. Spanias,  "Signal processing and machine learning concepts using the reflections echolocation app," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190437
+keywords: {conferences;reflection;education;videos;correlation;mobile communication}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190437
+
+C. Goergen, S. Shadden and A. Marsden,  "SimVascular as an instructional tool in the classroom," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-4.
+doi: 10.1109/FIE.2017.8190438
+keywords: {computational modeling;biological system modeling;blood flow;solid modeling;tools;biomedical imaging;computational fluid dynamics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190438
+
+S. Devincenzi, et al., "Persuasive technology: Applications in education," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-7.
+doi: 10.1109/FIE.2017.8190439
+keywords: {education;tools;advertising;electronic mail;google;media}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190439
+
+J. Morelock and H. Matusovich,  "Beginning to understand variation in teaching approaches to game-based learning," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190440
+keywords: {games;engineering education;multiple signal classification;interviews;tools;psychology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190440
+
+E. Damasceno, P. Nardi, A. Silva and A. L'Erario,  "A serious game to support the drug misuse prevention for teenagers students," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-6.
+doi: 10.1109/FIE.2017.8190441
+keywords: {games;drugs;education;logic gates;tools;advertising;sociology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190441
+
+A. Abdool, D. Ringis, A. Maharajh, L. Sirju and H. Abdool,  "DataRPG: Improving student motivation in data science through gaming elements," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190442
+keywords: {data science;games;database systems;tools;programming;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190442
+
+J. DeBenedetto, S. Hutt, L. Faust, A. Liu and N. Kremer-Herman,  "Placating plato with plates of pasta: An interactive tool for teaching the dining philosophers problem," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190443
+keywords: {tools;education;computer science;taxonomy;operating systems;games;animation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190443
+
+D. Reeping, et al., "Using threshold concepts to restructure an electrical and computer engineering curriculum: Troublesome knowledge in expected outcomes," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190444
+keywords: {reflection;fans;stakeholders;data collection;education;conferences;instruments}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190444
+
+A. Bielefeldt, M. Polmear, C. Swan, D. Knight and N. Canney,  "An overview of the microethics and macroethics education of computing students in the United States," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190445
+keywords: {ethics;computer science;interviews;engineering students;privacy;software engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190445
+
+V. Shankararaman and S. Gottipati,  "Design and implementation of an enterprise integrated project environment: Experience from an information systems program," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190446
+keywords: {information systems;industries;project management;education;analytical models;complexity theory}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190446
+
+M. El-Sharkawy, S. Shayesteh and M. Rizkalla,  "Integrating NEMS/MEMS with IoT applications into an innovative ECE senior elective course," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190447
+keywords: {micromechanical devices;nanoelectromechanical systems;sensors;wireless communication;tools;wireless sensor networks}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190447
+
+R. Motschnig and S. Guver,  "Improving communication in multicultural teams — A web-based model and its application in project management education," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190448
+keywords: {computational modeling;project management;computer science;training;cultural differences;teamwork}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190448
+
+C. Berdanier and N. Trellinger,  "Development of a method to study real-time engineering writing processes," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190449
+keywords: {writing;real-time systems;cognition;data analysis;streaming media;engineering education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190449
+
+R. Goldsmith and K. Willey,  "Using practice architectures to investigate the invisibility of writing practices in the engineering curriculum," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-6.
+doi: 10.1109/FIE.2017.8190450
+keywords: {writing;knowledge engineering;australia;engineering education;mathematics;lenses}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190450
+
+C. Radix and C. Mohammed,  "The efficacy of Hartley's “structured format” in the teaching and assessment of abstract writing," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-6.
+doi: 10.1109/FIE.2017.8190451
+keywords: {writing;sequential analysis;coherence;education;psychology;layout}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190451
+
+S. Kermanshachi and E. Safapour,  "Assessing students' higher education performance in minority and non-minority serving universities," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-6.
+doi: 10.1109/FIE.2017.8190452
+keywords: {sociology;analysis of variance;engineering students;government;resource management}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190452
+
+V. Grande and M. Daniels,  "A diversity lens on the last decade of the FIE conference: Role models for the engineering community," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190453
+keywords: {hafnium;radio frequency}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190453
+
+N. Aish, P. Asare and E. Miskioglu,  "People like me increasing likelihood of success for underrepresented minorities in STEM by providing realistic and relatable role models," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-4.
+doi: 10.1109/FIE.2017.8190454
+keywords: {computational modeling;biology;tools;resilience;stem;chemical engineering;recruitment}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190454
+
+J. Arratia, I. Bojic and V. Podobnik,  "Building a competitive STEM-C workforce in a Minority Spanish Institution," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-4.
+doi: 10.1109/FIE.2017.8190455
+keywords: {radar;education;electrical engineering;terrestrial atmosphere;electronic mail;computer science;radar scattering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190455
+
+R. Rosenblatt and A. Heckler,  "The development process for a new materials science conceptual evaluation," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190456
+keywords: {materials science and technology;tutorials;reliability;interviews;correlation;cognition}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190456
+
+F. Mota, H. Chame, F. de Toledo, V. Kwecko and S. Silva da Costa Botelho,  "Proposal of an instrument for measuring situational motivation with potential applications in educational contexts," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-6.
+doi: 10.1109/FIE.2017.8190457
+keywords: {instruments;aging;principal component analysis;proposals;energy consumption;psychology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190457
+
+N. Curtis, O. Pierrakos and R. Anderson,  "The engineering student identity scale a cross disciplinary exploration of factor structure," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190458
+keywords: {engineering students;instruments;data models;load modeling;psychology;recruitment;analytical models}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190458
+
+L. Wittie, A. Kurdia and M. Huggard,  "Developing a concept inventory for computer science 2," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-4.
+doi: 10.1109/FIE.2017.8190459
+keywords: {computer science;education;reliability;testing;electronic mail;physics;instruments}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190459
+
+H. LeBlanc, K. Nepal and G. Mowry,  "Stimulating curiosity and the ability to formulate technical questions in an electric circuits course using the question formulation technique (QFT)," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-6.
+doi: 10.1109/FIE.2017.8190460
+keywords: {tools;manganese;education;reflection;guidelines;cognition;refining}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190460
+
+B. Frisque and A. Chattopadhyay,  "Conducting a social constructivist epistemology for students of computing disciplines," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190461
+keywords: {reflection;software;programming;computational modeling;education;integrated circuits;cognitive science}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190461
+
+J. Min, J. Jackman and M. Zugg,  "Visualization aids for abstract concepts towards better learning outcomes," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190462
+keywords: {visualization;industrial engineering;supply chains;data visualization;research and development management;systems engineering and theory;mathematical model}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190462
+
+C. Bego, K. Lyle, P. Ralston and J. Hieb,  "Retrieval practice and spacing in an engineering mathematics classroom: Do the effects add up?," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190463
+keywords: {calculus;additives;schedules;psychology;testing;us government}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190463
+
+A. Kumar,  "Learning styles of Computer Science I students," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-6.
+doi: 10.1109/FIE.2017.8190464
+keywords: {sensors;visualization;programming;sociology;analysis of variance}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190464
+
+M. Maia, D. Serey and J. Figueiredo,  "Learning styles in programming education: A systematic mapping study," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-7.
+doi: 10.1109/FIE.2017.8190465
+keywords: {education;programming profession;databases;systematics;tools;data mining}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190465
+
+A. Cajander, et al., "Unexpected student behaviour and learning opportunities: Using the theory of planned behaviour to analyse a critical incident," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190466
+keywords: {education;predictive models;human computer interaction;attitude control;computer science;electronic mail;software}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190466
+
+H. Castellanos, F. Restrepo-Calle, F. Gonzalez and J. Echeverry,  "Understanding the relationships between self-regulated learning and students source code in a computer programming course," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190467
+keywords: {measurement;programming profession;tools;complexity theory;software;correlation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190467
+
+J. Rhee, S. Sheppard, S. Brunhaver, C. Carrico and R. Streveler,  "Supporting student career development of undergraduate engineering," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-2.
+doi: 10.1109/FIE.2017.8190468
+keywords: {engineering profession;interviews;engineering students;career development;navigation;ecosystems}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190468
+
+W. Zhu, et al., "Game based learning in improving students' derivative calculation skills," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-6.
+doi: 10.1109/FIE.2017.8190469
+keywords: {games;calculus;algebra;stem;psychology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190469
+
+P. Henrique Dias Valle, A. Toda, E. Barbosa and J. Maldonado,  "Educational games: A contribution to software testing education," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190470
+keywords: {games;software testing;education;usability;tools}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190470
+
+T. Yuksel, et al., "Exploration of affordances of visuo-haptic simulations to learn the concept of friction," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190471
+keywords: {force;rough surfaces;surface roughness;friction;resistance;visualization;data analysis}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190471
+
+T. Almeida, J. Netto and M. Rios,  "Remote robotics laboratory as support to teaching programming," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-6.
+doi: 10.1109/FIE.2017.8190472
+keywords: {programming profession;robot sensing systems;computer languages;bluetooth;schedules}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190472
+
+L. Rivera, M. Larrondo-Petrie and L. Ribeiro Da Silva,  "Implementation of cloud-based smart adaptive remote laboratories for education," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190473
+keywords: {remote laboratories;prototypes;standards;software;computer architecture;adaptive systems;hardware}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190473
+
+R. Reck,  "Applying a common framework to develop undergraduate control systems laboratory kits," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190474
+keywords: {control systems;dc motors;hardware;educational robots;mechanical engineering;object recognition}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190474
+
+E. O'Neill-Carrillo, et al., "Capstone design projects as foundation for a solar community," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190476
+keywords: {buildings;collaboration;renewable energy sources;proposals;economics;electronic mail;electrical engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190476
+
+B. Ferri, K. Pham, J. Steinberg, W. Williams and K. Ferri,  "Practical skills and design: A maker course for ECE students," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190477
+keywords: {conferences;safety;three-dimensional printing;training;three-dimensional displays;sensors;microcontrollers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190477
+
+H. Machado, A. L'Erario and A. Duarte,  "An analysis of Kanban as a project monitoring tool in undergraduate courses," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-6.
+doi: 10.1109/FIE.2017.8190478
+keywords: {monitoring;software;tools;schedules;unified modeling language;companies}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190478
+
+S. McKilligan, N. Fila, D. Rover and M. Mina,  "Design thinking as a catalyst for changing teaching and learning practices in engineering," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190479
+keywords: {conferences;stakeholders;prototypes;systematics;organizations;engineering education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190479
+
+A. McGowan, P. Hanna and N. Anderson,  "Computing gender wars — A new hope," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190480
+keywords: {engineering profession;industries;education;software;aging;government;computer science}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190480
+
+S. Farrell, C. Bodnar and T. Forin,  "Using concept mapping to develop inclusive curriculum," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-3.
+doi: 10.1109/FIE.2017.8190481
+keywords: {tools;engineering education;sociology;statistics;civil engineering;decision making}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190481
+
+C. Phillips, J. London, W. Lee, A. Van Epps and B. Watford,  "Reflections on the messiness of initiating a systematic literature review on broadening participation in engineering and computer science," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190482
+keywords: {reflection;computer science;systematics;engineering education;decision making;interviews}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190482
+
+A. Lucietto and H. McNally,  "Encouraging the diversity of graduate students in technology," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190483
+keywords: {sociology;statistics;stem;medical services;interviews;buildings}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190483
+
+S. Takahashi, T. Takahashi and Y. Atsushi,  "Educational effects of the manga case method in online and offline environments using a Manga Case related to social media literacy," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190484
+keywords: {social network services;companies;collaborative work;blogs;standards;learning systems;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190484
+
+D. de Lima, J. Netto and V. Bremgartner,  "Applying Social Network Analysis in a course supported by a LMS: Report of a case study," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190485
+keywords: {social network services;measurement;tools;learning management systems;face}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190485
+
+M. Yeh, D. Gopstein, Y. Yan and Y. Zhuang,  "Detecting and comparing brain activity in short program comprehension using EEG," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190486
+keywords: {electroencephalography;brain;software;electrodes;real-time systems;performance evaluation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190486
+
+M. Chua and L. Cagle,  "You can change the world, but not this homework assignment: The contradictory rhetoric of engineering agency," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-4.
+doi: 10.1109/FIE.2017.8190487
+keywords: {rhetoric;shape;tools;engineering students;recruitment;writing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190487
+
+S. Nite, R. Capraro, A. Bicer and J. Morgan,  "Studying mathematics in high school and college: Summer bridge program student beliefs," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190488
+keywords: {calculus;bridges;engineering students;stem;standards}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190488
+
+A. Brandi and R. Garcia,  "Motivating engineering students to math classes: Practical experience teaching ordinary differential equations," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-7.
+doi: 10.1109/FIE.2017.8190489
+keywords: {mathematical model;differential equations;tools;engineering students;automobiles;numerical models}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190489
+
+J. Cecil, M. Sweet-Darter and A. Cecil-Xavier,  "Exploring the use of virtual learning environments to support science learning in autistic students," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190490
+keywords: {autism;robots;virtual environments;three-dimensional displays;visualization;haptic interfaces}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190490
+
+G. Tewolde,  "Effective active learning tools for an embedded systems course," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190491
+keywords: {tools;embedded systems;hardware;microcontrollers;education;programming}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190491
+
+P. Scaico, R. de Queiroz, J. Dias and A. Scaico,  "Studying the phenomenon of developing interest in learning how to code what happens to the interest of Brazilian undergraduates over an introductory experience," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190492
+keywords: {encoding;programming profession;education;trajectory;atmospheric measurements}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190492
+
+A. Gomes, et al., "A teacher's view about introductory programming teaching and learning — Portuguese and Macanese perspectives," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190493
+keywords: {programming profession;education;syntactics;problem-solving;informatics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190493
+
+C. Mar, S. Sohoni and S. Craig,  "The effect of embedded questions in programming education," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190494
+keywords: {multimedia communication;testing;programming;streaming media;animation;atmospheric measurements;particle measurements}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190494
+
+A. Marcolino and E. Barbosa,  "A survey on problems related to the teaching of programming in Brazilian educational institutions," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190495
+keywords: {programming profession;education;software;mathematics;computers;government}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190495
+
+J. Pembridge, M. Verleger and S. Cutler,  "Zui Quan pedagogy: The art of risk taking in the classroom," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-2.
+doi: 10.1109/FIE.2017.8190496
+keywords: {technological innovation;art;tools;face;creativity;engineering education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190496
+
+C. Zoltowski, N. Fila and E. Dringenberg,  "A qualitative approach to understanding variations in experiences and its relationship to learning: An introduction to phenomenography," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-3.
+doi: 10.1109/FIE.2017.8190497
+keywords: {interviews;engineering education;presses;technological innovation;data collection;planning}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190497
+
+R. Raj, et al., "Perspectives on the future of cybersecurity education," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-2.
+doi: 10.1109/FIE.2017.8190498
+keywords: {computer security;accreditation;internet;force;guidelines}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190498
+
+S. Freitas, A. Lacerda, P. Calado, T. Lima and E. Dias Canedo,  "Gamification in education: A methodology to identify student's profile," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190499
+keywords: {games;interviews;data collection;education;data analysis;recruitment;planning}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190499
+
+R. Martin and A. Klein,  "Improved student independence through competitive tinkering," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190500
+keywords: {games;videos;transforms;problem-solving;hardware;two dimensional displays}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190500
+
+B. Maxim, S. Brunvand and A. Decker,  "Use of role-play and gamification in a software project course," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190501
+keywords: {games;companies;prototypes;software;tools;software engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190501
+
+V. Robledo-Rella, R. Garcia-Castelan, L. Medina, J. de Arellano and I. Guerrero,  "CocoGame: A funny app to learn physics and math," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-4.
+doi: 10.1109/FIE.2017.8190502
+keywords: {games;physics;mobile handsets;mathematics;tools;graphics;technological innovation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190502
+
+B. Jesiek, N. Trellinger and S. Nittala,  "Closing the practice gap: Studying boundary spanning in engineering practice to inform educational practice," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190503
+keywords: {interviews;employment;data collection;engineering profession;industries;manufacturing;data analysis}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190503
+
+M. Nelson and B. Ahn,  "Improving engineering students professional development skills in the make to innovate program," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190504
+keywords: {teamwork;engineering students;games;aerospace engineering;ethics;companies;land mobile radio}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190504
+
+E. Andrijcic, E. Ingram and A. Siahmakoun,  "Undergraduate research training workshop," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-7.
+doi: 10.1109/FIE.2017.8190505
+keywords: {training;proposals;conferences;internet;computer security;social network services;writing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190505
+
+C. Brito, et al., "Rethinking engineering education," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190506
+keywords: {tools;civil engineering;engineering education;knowledge engineering;face;engineering profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190506
+
+A. Kemppainen, G. Hein and N. Manser,  "Does an open-ended design project increase creativity in engineering students?," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190507
+keywords: {creativity;entrepreneurship;technological innovation;engineering students;electrical resistance measurement;resistance}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190507
+
+W. Kline and W. Schindel,  "Engineering design, a shift from a process to a model-based view," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-3.
+doi: 10.1109/FIE.2017.8190508
+keywords: {modeling;engineering education;tools;stakeholders}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190508
+
+M. Mina, M. Rands and D. Ringholz,  "Connections and distinctions: Perspectives on design activity from industrial design and electrical engineering," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190509
+keywords: {standards;solid modeling;electrical engineering;visualization;tools;integrated circuit modeling;reliability}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190509
+
+A. Nylen, M. Daniels, V. Isomottonen and R. McDermott,  "Open-ended projects opened up — aspects of openness," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-7.
+doi: 10.1109/FIE.2017.8190510
+keywords: {collaboration;computer science;engineering education;tools;collaborative work;complexity theory}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190510
+
+D. Arias and E. Madrid,  "A way to promote the development of autistic teenagers through programming of a humanoid robot platform," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-6.
+doi: 10.1109/FIE.2017.8190511
+keywords: {conferences;mechatronics;software;robot sensing systems;programming profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190511
+
+M. Chua, B. Ray and L. Stein,  "A behind-the-scenes look at access setup: A case study of the deaf professional / designated interpreter model in engineering education research," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190512
+keywords: {engineering education;auditory system;fluids;scholarships;collaboration;assistive technology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190512
+
+L. Luque, L. de Oliveira Brandao, E. Kira, A. Alves and F. Brandao,  "Inclusion in computing and engineering education: Perceptions and learning in diagram-based e-learning classes with blind and sighted learners," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190513
+keywords: {unified modeling language;collaboration;tools;computational modeling;integrated circuit modeling;libraries;electronic learning}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190513
+
+M. Devaner do Nascimento, et al., "A comparative study of deaf and non-deaf students' performance when using a Visual Java Debugger," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190514
+keywords: {visualization;java;debugging;auditory system;software;tools}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190514
+
+U. Akpanudo, J. Huff, J. Williams and A. Godwin,  "Hidden in plain sight: Masculine social norms in engineering education," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190515
+keywords: {engineering education;psychology;social groups;employment;stem;engineering profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190515
+
+J. Stolk, K. Hubbard and S. Cetinkaya,  "Critical mass or critical culture? Gendered perceptions of women and men in an engineering school," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190516
+keywords: {cultural differences;problem-solving;engineering education;ecosystems;sociology;statistics;resistance}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190516
+
+A. Taylor, R. Waters, S. Bhaduri, B. Lutz and W. Lee,  "Student attitudes about diversity: “If the field of engineering were more diverse, what would that mean for you?”," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190517
+keywords: {encoding;interviews;object oriented modeling;engineering education;engineering profession;in vivo;data analysis}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190517
+
+M. Scheidt and A. Godwin,  "A narrative approach to understanding underrepresented students' pathways into engineering," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190518
+keywords: {cultural differences;global communication;lenses;cathode ray tubes;navigation;interviews;engineering education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190518
+
+F. Deeb and T. Hickey,  "Flipping introductory programming classes using spinoza and agile pedagogy," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190519
+keywords: {programming;debugging;problem-solving;tools;stem}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190519
+
+J. McNeil, W. Corley and J. Hieb,  "Investigating psychological safety in a flipped engineering course," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-4.
+doi: 10.1109/FIE.2017.8190520
+keywords: {education;online services;rats;psychology;safety;collaborative work;linear regression}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190520
+
+A. Zadoks, et al., "Longitudinal analysis of instructor actions in an active, blended, and collaborative classroom environment," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-6.
+doi: 10.1109/FIE.2017.8190521
+keywords: {encoding;discussion forums;problem-solving;kinematics;engineering education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190521
+
+J. Nwokeji and T. Holmes,  "The impact of learning styles on student performance in flipped pedagogy," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-7.
+doi: 10.1109/FIE.2017.8190522
+keywords: {education;business;online services;multimedia communication;problem-solving;writing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190522
+
+M. Dorodchi, N. Dehbozorgi and T. Frevert,  "”I wish I could rank my exam's challenge level!”: An algorithm of Bloom's taxonomy in teaching CS1," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190523
+keywords: {taxonomy;education;programming profession;benchmark testing;tools}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190523
+
+D. de Souza, M. Kolling and E. Barbosa,  "Most common fixes students use to improve the correctness of their programs," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190524
+keywords: {programming profession;computer bugs;data collection;testing;java;electronic mail}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190524
+
+P. Seeling and J. Eickholt,  "Levels of active learning in programming skill acquisition: From lecture to active learning rooms," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190525
+keywords: {programming profession;multiprotocol label switching;analysis of variance;stem}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190525
+
+G. Archer, et al., "The impact of placement strategies on the success of students in introductory computer science," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190526
+keywords: {programming;best practices;sociology;statistics;acceleration;face}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190526
+
+E. Miskioglu and P. Asare,  "Critically thinking about engineering through kinesthetic experiential learning," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-3.
+doi: 10.1109/FIE.2017.8190527
+keywords: {problem-solving;atmospheric measurements;particle measurements;rivers;education;games;sensors}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190527
+
+R. Streveler, N. Pitterson, K. Smith and J. Ortega-Alvarez,  "Special session: Fostering change application and implications of Palmer's movement approach to change," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-2.
+doi: 10.1109/FIE.2017.8190528
+keywords: {engineering education;computer science;conferences;indexes;civil engineering;manganese}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190528
+
+K. Hite, J. Dawson, T. Ahern, L. Slimak and D. Korakakis,  "Effects of lightboard usage on circuit problem skills," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-4.
+doi: 10.1109/FIE.2017.8190529
+keywords: {problem-solving;analysis of variance;organizations;tools;cameras;writing;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190529
+
+T. Kubica, T. Hara, I. Braun, F. Kapp and A. Schill,  "Guided selection of IT-based education tools," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190530
+keywords: {tools;prototypes;tutorials;stem;real-time systems;mobile communication}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190530
+
+B. Scott, et al., "An interactive visualization tool for teaching ARP spoofing attack," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190531
+keywords: {tools;virtual machining;ip networks;data visualization;protocols;local area networks;visualization}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190531
+
+T. Svane, Z. Minling, L. Johansson and E. Ebbesson,  "Enchanting education from student input preparing students to envision and develop in an internet of things world," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-4.
+doi: 10.1109/FIE.2017.8190532
+keywords: {education;embedded systems;programming;internet of things;business;conferences;automobiles}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190532
+
+S. Dickerson,  "A comprehensive approach to educating students about the internet-of-things," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-7.
+doi: 10.1109/FIE.2017.8190533
+keywords: {cloud computing;microcontrollers;protocols;temperature sensors;embedded computing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190533
+
+R. Maia, A. Massote and F. Lima,  "Innovative laboratory model based on partnerships and active learning," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190534
+keywords: {companies;collaboration;industries;manufacturing;education;educational robots}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190534
+
+N. He, R. Bukralia and H. Huang,  "Teaching wireless networking technologies in the internet-of-things using ARM based microcontrollers," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-4.
+doi: 10.1109/FIE.2017.8190535
+keywords: {wireless fidelity;sensors;microcontrollers;software;education;wireless sensor networks;wireless communication}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190535
+
+S. Garber, et al., "A two tier approach to chalkboard video lecture summary," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190536
+keywords: {streaming media;navigation;visualization;tools;education;video recording;internet}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190536
+
+D. Barros, L. Begosso, J. Fabri and A. L'Erario,  "The use of comic strips in the teaching of software engineering," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190537
+keywords: {strips;software;grammar;visualization;computer science;education;object recognition}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190537
+
+N. Gaunkar, M. Rands and M. Mina,  "Variations in student learning in an inquiry-based freshmen electrical engineering course," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190538
+keywords: {problem-solving;electrical engineering;cancer;machine learning;learning systems;engineering students}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190538
+
+B. Pejcinovic, M. Holtzman, P. Wong and G. Recktenwald,  "Assessing student preparedness for introductory engineering and programming courses," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190539
+keywords: {correlation;algebra;programming profession;calculus;electrical engineering;problem-solving}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190539
+
+A. Kemppainen, A. Hamlin, H. Diment and A. Moya,  "LEarning with academic partners (LEAP) Success and growing pains in the first year," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-7.
+doi: 10.1109/FIE.2017.8190540
+keywords: {silicon;springs;training;mentoring;schedules;urban areas;problem-solving}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190540
+
+E. Eschenbach, E. Cashman, M. Johnson and A. Sprowles,  "Connecting environmental engineers to the Klamath river via a placed based learning community," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-4.
+doi: 10.1109/FIE.2017.8190541
+keywords: {rivers;seminars;collaboration;mentoring;logic gates;calculus}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190541
+
+J. Segil, J. Sullivan, J. Tsai, D. Reamon and M. Forbes,  "Investigation of spatial visualization skills across world regions," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190542
+keywords: {conferences;sociology;statistics;asia;visualization;engineering students;measurement}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190542
+
+K. Davis and D. Knight,  "Exploring the impacts of a first-year engineering study abroad program on subsequent college experiences," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-6.
+doi: 10.1109/FIE.2017.8190543
+keywords: {engineering profession;engineering students;knowledge engineering;springs;companies;industries}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190543
+
+R. Sundaram,  "STEM project activities for pK-12 students: What it takes to make it happen," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-4.
+doi: 10.1109/FIE.2017.8190544
+keywords: {stem;engineering profession;electronic circuits;knowledge engineering;power supplies;wireless communication}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190544
+
+A. Bicer, et al., "Moving from STEM to STEAM: The effects of informal STEM learning on students' creativity and problem solving skills with 3D printing," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-6.
+doi: 10.1109/FIE.2017.8190545
+keywords: {creativity;three-dimensional printing;software;three-dimensional displays;problem-solving;stem;technological innovation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190545
+
+S. Ziaeefard, et al., "GUPPIE program — A hands-on STEM learning experience for middle school students," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190546
+keywords: {educational robots;programming;education;buildings;buoyancy;underwater autonomous vehicles}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190546
+
+D. Knight, M. Hannigan, L. Cheadle and K. Hafich,  "Introducing university laboratory tools into K-12 classrooms: Benefits and challenges," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-6.
+doi: 10.1109/FIE.2017.8190547
+keywords: {air quality;tools;monitoring;mechanical engineering;temperature measurement;temperature sensors;atmospheric measurements}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190547
+
+A. Pears, M. Daniels and A. Cajander,  "The archetype learning method — Scaffolding teamwork competences in the engineering classroom," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190548
+keywords: {teamwork;cultural differences;software engineering;learning systems;software;chaos;employment}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190548
+
+M. Arciniegas and N. Gutierrez-Melo,  "Identifying peers to form an effective team in a project-based course innovative practice," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190549
+keywords: {teamwork;reflection;stem;poles and towers;rubber}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190549
+
+B. Jackson, H. Rodriguez-Simmonds, A. Kirn and A. Godwin,  "A mixed methods analysis of student experiences in diverse teams," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190550
+keywords: {interviews;indexes;cultural differences;sociology;statistics;engineering education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190550
+
+A. Thompson,  "Fostering development of teamwork skills in an introductory engineering course," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-4.
+doi: 10.1109/FIE.2017.8190551
+keywords: {teamwork;engineering students;tools;standards;graphics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190551
+
+H. Fechtner, M. Ismail, T. Braun and B. Schmuelling,  "Empirical study of training needs for different occupational groups in the context of the increasing spread of electric vehicles," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190552
+keywords: {hybrid electric vehicles;qualifications;fires;automobiles;electric breakdown}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190552
+
+C. Alm and R. Bailey,  "Team-based, transdisciplinary, and inclusive practices for undergraduate research," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190553
+keywords: {sensors;training;mentoring;art;electronic mail;computer science;collaboration}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190553
+
+B. Page, S. Ziaeefard, B. Moridian and N. Mahmoudian,  "Learning autonomous systems — An interdisciplinary project-based experience," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-7.
+doi: 10.1109/FIE.2017.8190555
+keywords: {autonomous systems;education;roads;educational robots;programming profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190555
+
+E. Dias Canedo, G. Santos and S. de Freitas,  "Analysis of the teaching-learning methodology adopted in the introduction to computer science classes," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190556
+keywords: {programming profession;education;computer languages;tools;proposals}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190556
+
+L. Scatalon, E. Barbosa and R. Garcia,  "Challenges to integrate software testing into introductory programming courses," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190557
+keywords: {programming profession;software testing;education;systematics;software}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190557
+
+S. Schmeelk, F. Fontaine, L. Ackerman and A. Aho,  "Learning Java in a New York City immigrant engineer retraining program," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-7.
+doi: 10.1109/FIE.2017.8190558
+keywords: {java;education;programming profession;urban areas}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190558
+
+J. Raigoza,  "A study of students' progress through introductory computer science programming courses," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-7.
+doi: 10.1109/FIE.2017.8190559
+keywords: {springs;calculus;programming profession;education;problem-solving}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190559
+
+L. Richards,  "Special session: Learning design thinking using engineering case studies," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-3.
+doi: 10.1109/FIE.2017.8190560
+keywords: {companies;technological innovation;engineering education;product design;automobiles}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190560
+
+S. Stefl, J. Martin, C. Lee, K. High and S. Linder,  "Special session: STEM faculty development research agenda," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-4.
+doi: 10.1109/FIE.2017.8190561
+keywords: {conferences;stem;buildings;us government}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190561
+
+J. Nwokeji, S. Frezza, J. Holmes and V. Uskov,  "Panel: Software requirements engineering education in a changing world," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-3.
+doi: 10.1109/FIE.2017.8190562
+keywords: {software;education;requirements engineering;conferences;industries;business;information systems}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190562
+
+P. Crilly and G. Wyman,  "Using the logic design course as a dress rehearsal for the major design experience," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-3.
+doi: 10.1109/FIE.2017.8190563
+keywords: {logic design;hardware;graphical user interfaces;education;automata;tools;data transfer}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190563
+
+A. Macho, et al., "Dynamic reconfiguration in FPAA and its use in education," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-7.
+doi: 10.1109/FIE.2017.8190564
+keywords: {field programmable analog arrays;education;libraries;random access memory;field programmable gate arrays;tools;software}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190564
+
+L. Shanshan, W. Xiaojun and Q. Chengbin,  "Training students' practical and innovation ability in hardware experiment," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190565
+keywords: {technological innovation;hardware;training;logic design;printed circuits;adders}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190565
+
+H. Wan, X. Gao, X. Long and B. Jiang,  "Introducing parallel computing concepts in computer system related courses," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-7.
+doi: 10.1109/FIE.2017.8190566
+keywords: {graphics processing units;instruction sets;parallel processing;computer architecture;programming;education;kernel}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190566
+
+J. McNeil, A. Beebe and M. Andrade,  "Transitions between cooperative educational experiences to the university," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190567
+keywords: {interviews;schedules;education;employment;engineering profession;industries}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190567
+
+N. Lopez, A. Irizarry-Rivera, E. O'Neill-Carrillo, T. Key and A. Schneider,  "Industry-university collaboration in workforce development: Results from a short course on IEEE Standard 762," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-7.
+doi: 10.1109/FIE.2017.8190568
+keywords: {industries;collaboration;renewable energy sources;power systems;continuing education;ieee standards;reliability}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190568
+
+W. Otieno, M. Cook and N. Campbell-Kyureghyan,  "Novel approach to bridge the gaps of industrial and manufacturing engineering education: A case study of the connected enterprise concepts," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190569
+keywords: {manufacturing;companies;industries;real-time systems;engineering education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190569
+
+B. Fulk, S. Ghahari and M. Hastak,  "Case study and apprenticeship pedagogy for training construction engineering students," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-6.
+doi: 10.1109/FIE.2017.8190570
+keywords: {training;engineering students;construction industry;instruments;springs}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190570
+
+R. Lewis and T. Knott,  "Major choice in first-year engineering program," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-3.
+doi: 10.1109/FIE.2017.8190571
+keywords: {springs;engineering profession;engineering students;switches;sociology;statistics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190571
+
+A. Hamlin and J. Sticklen,  "WIP: Longitudinal outcomes of a requirement for student-owned laptop computers across a college of engineering," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-3.
+doi: 10.1109/FIE.2017.8190572
+keywords: {portable computers;education;problem-solving;ubiquitous computing;libraries;millennials}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190572
+
+K. Kecskemety and L. Corrigan,  "End of semester software problem solving and design projects in a first-year engineering course," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-4.
+doi: 10.1109/FIE.2017.8190573
+keywords: {games;programming;standards;teamwork;matlab;software design;creativity}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190573
+
+J. Eldridge, C. Watterson, H. Lukefahr and D. Carnegie,  "Are introductory courses suitable pathways for success in the BE(Hons)," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190574
+keywords: {physics;mathematics;standards;qualifications;computer science;best practices;quality control}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190574
+
+L. Knop, et al., "A human-interactive robotic program for middle school STEM education," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-7.
+doi: 10.1109/FIE.2017.8190575
+keywords: {service robots;electromyography;manipulators;muscles;servomotors;sensors}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190575
+
+J. Cross, E. Hamner, L. Zito and I. Nourbakhsh,  "Student outcomes from the evaluation of a transdisciplinary middle school robotics program," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190576
+keywords: {art;educational robots;robot sensing systems;education;systems engineering and theory}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190576
+
+E. Hamner, et al., "Development and results from user testing of a novel robotics kit supporting systems engineering for elementary-aged students," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190577
+keywords: {robot sensing systems;hardware;tools;software;light emitting diodes;microcontrollers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190577
+
+N. Fila and S. Purzer,  "Using self-determination theory to understand engineering student motivation during innovation projects," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190579
+keywords: {technological innovation;engineering students;interviews;encoding;creativity;protocols}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190579
+
+M. Tomko, J. Linsey, R. Nagel and M. Aleman,  "Exploring meaning-making and innovation in makerspaces: An ethnographic study of student and faculty perspectives," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190580
+keywords: {technological innovation;engineering students;buildings;collaboration;libraries;machinery}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190580
+
+K. Kime, T. Hickey and R. Torrey,  "The calculus dashboard — leveraging intelligent tutor techniques to provide automated fine-grained student assessment," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190581
+keywords: {calculus;electronic mail;standards;mathematical model;training;computer science}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190581
+
+L. Debs, S. Brophy and C. Espinoza,  "Identifying student communication strategies involving spatial information," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190582
+keywords: {problem-solving;solid modeling;monitoring;three-dimensional displays;visualization}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190582
+
+H. LeBlanc and F. Hassan,  "A spiral approach to teach value propositions using the NABC framework in core engineering courses," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190583
+keywords: {spirals;entrepreneurship;technological innovation;measurement;tools;communication systems}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190583
+
+D. Schmidt,  "Challenge problems: A method to improve critical thinking skills," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190584
+keywords: {steel;concrete;limiting;standards;knowledge based systems;problem-solving;stress}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190584
+
+A. Perez-Poch and D. Lopez,  "Just-in-time teaching improves engagement and academic results among students at risk of failure in computer science fundamentals," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-7.
+doi: 10.1109/FIE.2017.8190585
+keywords: {industrial engineering;portfolios;computer aided instruction;programming}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190585
+
+E. Miskioglu and P. Asare,  "The engineer of 2020 is here: Using innovative kinesthetic activities as tools to fulfill the NAE vision," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190586
+keywords: {problem-solving;games;knowledge engineering;professional communication;rivers;cultural differences;reflection}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190586
+
+R. Teusner, T. Hille and C. Hagedorn,  "Aspects on finding the optimal practical programming exercise for MOOCs," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190587
+keywords: {programming;measurement;reliability;electronic mail;testing;java}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190587
+
+A. de Oliveira Fassbinder, M. Fassbinder, E. Barbosa and G. Magoulas,  "Massive open online courses in software engineering education," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190588
+keywords: {software engineering;software;education;agile software development;collaboration;tools;computer science}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190588
+
+C. Matthies, A. Treffer and M. Uflacker,  "Prof. CI: Employing continuous integration services and Github workflows to teach test-driven development," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190589
+keywords: {software;programming;tools;servers;testing;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190589
+
+M. Zelinski, et al., "Instructor outcomes of teaching a STEM MOOC," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-7.
+doi: 10.1109/FIE.2017.8190590
+keywords: {interviews;stem;sociology;statistics;stakeholders;social factors}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190590
+
+J. Evans, J. Seipel and M. Smith,  "Special session: Leading and administering transformative change in education beyond disciplinary boundaries," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-2.
+doi: 10.1109/FIE.2017.8190591
+keywords: {education;electronic mail;technological innovation;collaboration;art;business;navigation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190591
+
+C. Vieira, A. Magana and M. Boutin,  "Using pattern recognition techniques to analyze educational data," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-3.
+doi: 10.1109/FIE.2017.8190592
+keywords: {data visualization;pattern recognition;tools;conferences;education;software;scientific computing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190592
+
+M. Alzaid, D. Trivedi and I. Hsiao,  "The effects of bite-size distributed practices for programming novices," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190593
+keywords: {tools;programming profession;image color analysis;complexity theory;reflection;monitoring}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190593
+
+S. Renganathan, C. Stewart, A. Perez, R. Rao and B. Braaten,  "Preliminary results on an interactive learning tool for early algebra education," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190594
+keywords: {tools;mathematical model;time factors;servers;voltage measurement;linear algebra}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190594
+
+J. Nias, B. Marshall, T. Thompson and T. Blunt,  "EvergreenLP: Using a social network as a learning platform," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-7.
+doi: 10.1109/FIE.2017.8190595
+keywords: {media;twitter;data science;data visualization;tagging}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190595
+
+J. Eickholt, J. Roush, P. Seeling, T. Vedantham and M. Johnson,  "Supporting active learning through commodity and open source solutions," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190596
+keywords: {streaming media;hardware;software;monitoring;collaboration;computer peripherals;servers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190596
+
+V. Nelson, E. Durant, J. Impagliazzo and J. Hughes,  "CE2016: Updated curricular guidelines for computer engineering," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-6.
+doi: 10.1109/FIE.2017.8190597
+keywords: {knowledge engineering;guidelines;computer science;hardware;software engineering;embedded systems}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190597
+
+T. Sekiya, Y. Matsuda and K. Yamaguchi,  "A web-based curriculum engineering tool for investigating syllabi in topic space of standard computer science curricula," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190598
+keywords: {tools;computer science;probabilistic logic;computational modeling;education;standards}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190598
+
+S. MacNeil, M. Dorodchi and N. Dehbozorgi,  "Using spectrums and dependency graphs to model progressions from introductory to capstone courses," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190599
+keywords: {education;engineering profession;industries;teamwork;prototypes;schedules}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190599
+
+D. Parent,  "Novel gateway stay/add policy used to increase student success rates in an introductory circuits class," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190600
+keywords: {physics;impedance;education;springs;circuit analysis;differential equations;resistors}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190600
+
+C. Talgar, et al., "Student assessed integrated learning: SAILing to a holistic design of holistic engineering education," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190601
+keywords: {engineering education;tools;shape;reflection;knowledge engineering;history}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190601
+
+A. Wildgoose and S. Bakrania,  "Development and implementation of rapid feedback using a cloud-based assessment tool," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-6.
+doi: 10.1109/FIE.2017.8190602
+keywords: {google;tools;smart phones;mechanical engineering;heat transfer;libraries;thermal engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190602
+
+S. Sangelkar, W. Lasher, R. Warley and A. Hollinger,  "Comparison of partial credit and mastery assessment on student learning and retention," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-6.
+doi: 10.1109/FIE.2017.8190603
+keywords: {springs;sociology;statistics;mechanical engineering;thermodynamics;industrial engineering;mathematical model}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190603
+
+M. Roger McDermott, et al., "The authenticity of ‘authentic’ assessment some faculty perceptions," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190604
+keywords: {psychology;reflection;computer science;information technology;curriculum development}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190604
+
+G. Coutinho, N. Stites and A. Magana,  "Understanding faculty decisions about the integration of laboratories into engineering education," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190605
+keywords: {laboratories;engineering education;market research;technological innovation;bibliographies;investment}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190605
+
+L. James and J. Karlin,  "The changing role of the CSET professorate in university-based value creation," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190606
+keywords: {intellectual property;economics;technological innovation;law;commercialization;education;patents}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190606
+
+N. Salazar,  "Teaching mentoring program for the application of active methodologies and ICT tools," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-6.
+doi: 10.1109/FIE.2017.8190607
+keywords: {tools;mentoring;technological innovation;interviews;google;urban areas}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190607
+
+M. Soledad, et al., "Leveraging institutional data to understand student perceptions of teaching in large engineering classes," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190608
+keywords: {multiple signal classification;education;natural language processing;data models;instruments;analytical models;manuals}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190608
+
+H. Tsukamoto, et al., "Evaluating algorithmic thinking ability of primary schoolchildren who learn computer programming," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190609
+keywords: {programming profession;education;tools;computer languages;games;problem-solving}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190609
+
+S. Pasterk and A. Bollin,  "Graph-based analysis of computer science curricula for primary education," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190610
+keywords: {computer science;standards;computational modeling;education;analytical models;information technology;informatics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190610
+
+D. Rao,  "Music maker: Using music to introduce coding and concurrency to young learners," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-6.
+doi: 10.1109/FIE.2017.8190611
+keywords: {encoding;multiple signal classification;concurrent computing;software;programming profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190611
+
+P. Niemela,  "All rosy in scratch lessons: No bugs but guts with visual programming," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190612
+keywords: {programming profession;interviews;visualization;tools;education;cloning}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190612
+
+A. Gillen, et al., "Gatekeepers to broadening participation in engineering investigating variation across high schools comparing who could go versus who does go into engineering," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190613
+keywords: {engineering profession;logic gates;interviews;sociology;statistics;engineering students;protocols}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190613
+
+A. Lucietto, J. Moss, E. Efendy and R. French,  "Engineering technology vs. engineering students: Differences in perception and understanding," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-7.
+doi: 10.1109/FIE.2017.8190614
+keywords: {engineering students;instruments;sociology;statistics;mediation;concrete}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190614
+
+B. Ma, et al., "Understanding the pathways of students with normative attitudes in engineering," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190615
+keywords: {interviews;navigation;engineering students;cultural differences;encoding;recruitment}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190615
+
+D. Verdin and A. Godwin,  "Testing for measurement invariance in engineering identity constructs for first-generation college students," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190616
+keywords: {load modeling;measurement;testing;loading;engineering students;sociology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190616
+
+I. Smit,  "Inverting VARK what are the possibilities?," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190617
+keywords: {education;visualization;system analysis and design;flexible printed circuits;information technology;auditory system;repeaters}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190617
+
+M. Altebarmakian and R. Alterman,  "A study of engagement and collaborative learning in a virtual environment," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190618
+keywords: {collaboration;virtual environments;monitoring;atmospheric measurements;particle measurements;computer science}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190618
+
+F. Zabala, H. Parker and C. Vieira,  "Implementing an active learning platform to support student learning in a numerical analysis course," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-6.
+doi: 10.1109/FIE.2017.8190619
+keywords: {education;tools;online services;numerical models;numerical analysis;psychology;collaboration}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190619
+
+K. Alshammari and I. Pivkina,  "Relationship between time management in courses with online interactive textbooks and students' performance," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190620
+keywords: {programming;mathematics;tools;animation;discussion forums;java}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190620
+
+Y. Song, Z. Hu and E. Gehringer,  "Collusion in educational peer assessment: How much do we need to worry about it?," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190621
+keywords: {education;tools;reliability;calibration;visualization;computer science}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190621
+
+P. Rodriguez-Ch, P. Cedillo, P. Beltran and J. Ortiz,  "MOOCEP: A method for building massive open online courses for elderly people the analysis activity," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190622
+keywords: {senior citizens;electronic learning;buildings;software;tools}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190622
+
+H. Aggarwal, et al., "Using pre-course survey responses to predict sporadic learner behaviors in advanced STEM MOOCs work-in-progress," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-4.
+doi: 10.1109/FIE.2017.8190623
+keywords: {nanoelectronics;videos;calculus;engineering education;clustering methods}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190623
+
+J. Mullen, et al., "Bringing physical construction and real-world data collection into a massively open online course (MOOC)," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190624
+keywords: {doppler radar;radar antennas;tuning;education;radar imaging;data collection}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190624
+
+S. Purzer and N. Fila,  "Special session — A framework for engineering student innovation that connects cognitive, psychological, and cultural aspects of learning," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-2.
+doi: 10.1109/FIE.2017.8190625
+keywords: {technological innovation;engineering students;psychology;cultural differences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190625
+
+N. Trellinger, B. Jesiek and S. Nittala,  "Workshop: A narrative approach to broadening schema about engineering professors," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-4.
+doi: 10.1109/FIE.2017.8190626
+keywords: {medical services;engineering profession;conferences;engineering education;interviews;presses}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190626
+
+K. Cross, et al., "Panel: Influencing culture and curriculum via revolution," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190627
+keywords: {cultural differences;computer science;industries;collaboration;computer science education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190627
+
+D. Ferguson, et al., "Do engineering creativity/innovation courses impact engineering innovativeness?," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190628
+keywords: {instruments;technological innovation;entrepreneurship;engineering students;creativity}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190628
+
+C. Ababei,  "Working on a start-up: A case for an applied entrepreneurship oriented course for senior undergraduates," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-4.
+doi: 10.1109/FIE.2017.8190629
+keywords: {education;field programmable gate arrays;entrepreneurship;clocks;servers;monitoring;companies}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190629
+
+L. Liu, J. Mynderse, R. Fletcher and A. Gerhart,  "Embedding problem-based learning and entrepreneurially minded learning into fluid mechanics and thermodynamics courses through fluid power based modules," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190630
+keywords: {fluids;thermodynamics;entrepreneurship;pneumatic systems;hydraulic systems;videos;mechanical engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190630
+
+B. Newell and L. Varshney,  "The first cohort in a new innovation, leadership, and engineering entrepreneurship B. S. degree program," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-6.
+doi: 10.1109/FIE.2017.8190631
+keywords: {technological innovation;entrepreneurship;creativity;engineering students}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190631
+
+J. Cicek, D. Mann and S. Ingram,  "Validating & implementing engineering graduate attribute rubrics in a biosystems engineering curriculum," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-6.
+doi: 10.1109/FIE.2017.8190632
+keywords: {tools;accreditation;industries;engineering education;knowledge engineering;meteorology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190632
+
+W. Liu, M. Yu, Z. Fan, J. Xu and Y. Tian,  "Visual attention based evaluation for multiple-choice tests in e-learning applications," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-6.
+doi: 10.1109/FIE.2017.8190633
+keywords: {visualization;psychology;tracking;cognition;electronic learning;problem-solving}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190633
+
+R. Chan, et al., "Direct evidence of engineering students' generic skills learning: From research to practice in an undergraduate course in information engineering," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190634
+keywords: {blogs;social network services;engineering students;cognition;collaborative work;atmospheric measurements}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190634
+
+M. Yu, J. Xu, J. Zhong, W. Liu and W. Cheng,  "Behavior detection and analysis for learning process in classroom environment," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-4.
+doi: 10.1109/FIE.2017.8190635
+keywords: {face recognition;education;engines;skeleton;feature extraction;queueing analysis;image recognition}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190635
+
+C. Berdanier, S. Baluni and C. Whitehair,  "Investigating strategies of pre-tenure women engineering faculty to overcome microaggressions in the classroom," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190636
+keywords: {education;meteorology;interviews;engineering profession;pipelines;lenses;recruitment}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190636
+
+K. Trenshaw,  "The curmudgeon counterexample seeking sustainable STEM transformation," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-3.
+doi: 10.1109/FIE.2017.8190637
+keywords: {psychology;collaborative work;correlation;engineering students;face;atmospheric measurements}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190637
+
+T. Edmonds and M. Chua,  "Aspects that influence curricular change capacity: Characterizing the transferability, openness, and literacy of individual changemakers," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-4.
+doi: 10.1109/FIE.2017.8190638
+keywords: {cultural differences;education;prototypes;testing;teamwork;ethics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190638
+
+A. Nylen, A. Cajander, M. Daniels, A. Pears and R. McDermott,  "Why are we here? Student perspectives on the goal of STEM higher education," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-7.
+doi: 10.1109/FIE.2017.8190639
+keywords: {education;market research;quality assurance;cognition;proposals;information technology;computer science}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190639
+
+A. Gillen, J. Grohs, H. Matusovich and C. Carrico,  "Seeing engineering everywhere culturally relevant engineering activities with rural and appalachian youth," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-6.
+doi: 10.1109/FIE.2017.8190640
+keywords: {tools;engineering profession;education;buildings;maintenance engineering;automobiles;cultural differences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190640
+
+T. Odun-Ayo and T. Obafemi-Ajayi,  "Building the K-12 engineering pipeline: An assessment of where we stand," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190641
+keywords: {pipelines;stem;buildings;engineering students;sociology;statistics;engineering profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190641
+
+B. Bessa, S. dos Santos and L. da Fonseca,  "Using a virtual learning environment for problem-based learning adoption: A case study at a high school in India," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-7.
+doi: 10.1109/FIE.2017.8190642
+keywords: {education;teamwork;planning;problem-solving;monitoring;physics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190642
+
+B. Sorge and J. Hess,  "Developing an understanding of the implementation and impacts of high school pre-engineering programs: Making the case for a benefit-cost analysis," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190643
+keywords: {stem;cost benefit analysis;personnel;remuneration;engineering profession;technological innovation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190643
+
+B. Benedict, D. Verdin, A. Godwin and T. Milton,  "Social and latent identities that contribute to diverse students' belongingness in engineering," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190644
+keywords: {interviews;engineering students;cultural differences;ethics;creativity;protocols;engineering profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190644
+
+A. Lin and M. Loui,  "Students' perceptions of the social responsibilities of engineers," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-4.
+doi: 10.1109/FIE.2017.8190645
+keywords: {interviews;engineering students;ethics;engineering profession;electronic mail}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190645
+
+A. Heimburger and V. Isomottonen,  "Moderating cultural effects in a higher e-education context? Supervisor's tone of voice in recorded audio feedback," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190646
+keywords: {cultural differences;education;electronic mail;information technology;standards;global communication;schedules}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190646
+
+A. Bielefeldt, L. Montoya and G. Rulifson,  "Methods matter: Contrasting undergraduate research experience outcomes based on surveys and interview methods," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190647
+keywords: {interviews;environmental engineering;engineering students;knowledge engineering;sustainable development;buildings;ethics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190647
+
+W. de Deus, H. Machado, R. Barros, J. Fabri and A. L'Erario,  "Enhancing collaboration among undergraduates in informatics: A teaching and learning process based on crowdsourcing," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190648
+keywords: {education;software;crowdsourcing;informatics;teamwork}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190648
+
+R. Alterman, M. Altebarmakian and K. Harsch,  "The apprenticeship project for educating a STEM-based workforce and the dissemination of learning technology," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-7.
+doi: 10.1109/FIE.2017.8190649
+keywords: {education;computer science;buildings;collaboration;standards;prototypes}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190649
+
+R. Erdei, J. Springer and D. Whittinghill,  "An impact comparison of two instructional scaffolding strategies employed in our programming laboratories: Employment of a supplemental teaching assistant versus employment of the pair programming methodology," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-6.
+doi: 10.1109/FIE.2017.8190650
+keywords: {programming profession;laboratories;education;employment;debugging}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190650
+
+P. Jamieson,  "WIP — A modification to the case study method to teach students to read academic papers," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-4.
+doi: 10.1109/FIE.2017.8190651
+keywords: {field programmable gate arrays;education;design automation;best practices;computer aided software engineering;routing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190651
+
+A. Araujo, J. Santos, W. Andrade, D. Guerrero and V. Dagiene,  "Exploring computational thinking assessment in introductory programming courses," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190652
+keywords: {instruments;correlation;programming profession;problem-solving}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190652
+
+A. Yeaman, K. Boyd-Sinkler and D. Bairaktarova,  "An exploratory study on inclusion of visual representations of thermodynamics-related problems," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-4.
+doi: 10.1109/FIE.2017.8190653
+keywords: {thermodynamics;visualization;education;multimedia communication;concrete;problem-solving;image recognition}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190653
+
+K. Borges, C. de Menezes and L. da Cruz Fagundes,  "The use of computational thinking in digital fabrication projects a case study from the cognitive perspective," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-6.
+doi: 10.1109/FIE.2017.8190654
+keywords: {fabrication;tools;games;computational modeling;complexity theory;creativity;floors}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190654
+
+E. Costa, L. Campos and D. Dario Serey Guerrero,  "Computational thinking in mathematics education: A joint approach to encourage problem-solving ability," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190655
+keywords: {mathematics;education;problem-solving;programming profession;tools}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190655
+
+S. Lord, et al., "Engaging with the multiple institution database for investigating engineering longitudinal development (MIDFIELD): A special session," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-2.
+doi: 10.1109/FIE.2017.8190656
+keywords: {databases;engineering education;complexity theory;mechanical engineering;sociology;statistics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190656
+
+A. Dixit, et al., "Development of signal processing online labs using HTML5 and mobile platforms," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190657
+keywords: {software;java;browsers;hardware;real-time systems;education;signal processing}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190657
+
+P. de Andrade Gomes, et al., "Teaching software quality via source code inspection tool," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190658
+keywords: {tools;maintenance engineering;computer bugs;inspection;software quality;servers}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190658
+
+V. Paepcke-Hjeltness, M. Mina and A. Cyamani,  "Sketchnoting: A new approach to developing visual communication ability, improving critical thinking and creative confidence for engineering and design students," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190659
+keywords: {visualization;shape;tools;encoding;meters;engineering students;creativity}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190659
+
+L. Ying, Z. Jiong, S. Wei, W. Jingchun and G. Xiaopeng,  "VREX: Virtual reality education expansion could help to improve the class experience (VREX platform and community for VR based education)," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190660
+keywords: {cloud computing;games;computer architecture;hardware;courseware;training}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190660
+
+N. Tabrizi,  "Fostering an entrepreneurial mindset in “digital systems” class through a jigsaw-puzzle model," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190661
+keywords: {digital systems;entrepreneurship;libraries;adders;computational modeling;field programmable gate arrays;digital circuits}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190661
+
+A. Hoffman,  "An entrepreneurial approach to a senior design course," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190662
+keywords: {companies;wheelchairs;entrepreneurship;prototypes;employment;bars}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190662
+
+C. Vignola, J. London, R. Ayala and W. Huang,  "Cultivating an entrepreneurial mindset in an undergraduate engineering statistics course using project-based learning," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-4.
+doi: 10.1109/FIE.2017.8190663
+keywords: {entrepreneurship;engineering students;technological innovation;stakeholders;bridges}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190663
+
+R. Salas,  "Teaching entrepreneurship in computer science: Lessons learned," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-7.
+doi: 10.1109/FIE.2017.8190664
+keywords: {entrepreneurship;software;computer science;education;technological innovation;teamwork}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190664
+
+D. Trytten and A. McGovern,  "Moving from managing enrollment to predicting student success," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190665
+keywords: {java;programming profession;education;software engineering;data structures}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190665
+
+Y. Pang, N. Judd, J. O'Brien and M. Ben-Avie,  "Predicting students' graduation outcomes through support vector machines," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190666
+keywords: {support vector machines;predictive models;machine learning algorithms;kernel;seminars;measurement}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190666
+
+D. Kuzbary, W. Bridges, J. Sharp, C. McGough and L. Benson,  "A comparison of statistical methods for examining persistence in engineering," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-6.
+doi: 10.1109/FIE.2017.8190667
+keywords: {logistics;probability;engineering students;predictive models;problem-solving;mathematical model}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190667
+
+D. Carnegie, J. Eldridge and C. Watterson,  "Beyond academic quality: Lessons from the creation of a new engineering degree," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-7.
+doi: 10.1109/FIE.2017.8190668
+keywords: {physics;engineering students;software;calculus;software engineering;accreditation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190668
+
+H. Burns and K. Lesseig,  "Empathy in middle school engineering design process," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-4.
+doi: 10.1109/FIE.2017.8190669
+keywords: {5g mobile communication;computer bugs}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190669
+
+E. Siverling, S. Guzey and T. Moore,  "Students' science talk during engineering design in life science-focused STEM integration units," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190670
+keywords: {stem;life sciences;engineering education;organisms;geoscience;standards;mathematics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190670
+
+S. Donohue and L. Richards,  "Enabling access to engineering education materials everywhere by design," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190671
+keywords: {engineering education;stem;user centered design;human computer interaction;testing;mobile handsets}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190671
+
+M. Goldstein, S. Omar, R. Adams and S. Purzer,  "Student conceptions of ‘conducting tests’ in design in the middle school classroom," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-4.
+doi: 10.1109/FIE.2017.8190672
+keywords: {engineering education;cognition;tools;next generation networking;instruments;presses}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190672
+
+L. Norden, L. Mannila and A. Pears,  "Development of a self-efficacy scale for digital competences in schools," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-7.
+doi: 10.1109/FIE.2017.8190673
+keywords: {education;tools;europe;information technology;programming}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190673
+
+D. Seth and G. Carryon,  "Investigating undergraduate students' communication self-efficacy during an engineering design course," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190674
+keywords: {correlation;instruments;monitoring;education;stakeholders;standards}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190674
+
+M. West, R. Kajfez, A. Anthony, H. Greene and P. Post,  "Self-efficacy of teaching engineering: Does TEK8 help or hinder?," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190675
+keywords: {engineering students;knowledge engineering;engineering profession;analysis of variance;standards;reliability}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190675
+
+B. Sorge, G. Fore, E. Nunnally, G. Gibau and M. Agarwal,  "Nanotechnology experiences for students and teachers (NEST): Enhancing teachers' self-efficacy and their understanding of STEM career opportunitie," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-6.
+doi: 10.1109/FIE.2017.8190676
+keywords: {stem;engineering profession;production;nanobioscience;technological innovation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190676
+
+R. Maia and G. Tercete,  "Learning by teaching strategy to improve learning outcomes from undergraduate students," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-6.
+doi: 10.1109/FIE.2017.8190677
+keywords: {standards;education;computer networks;local area networks;computer science;videos;animation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190677
+
+S. Wakitani and T. Yamamoto,  "Practice of model-based development for automotive engineers," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-4.
+doi: 10.1109/FIE.2017.8190678
+keywords: {mathematical model;motor drives;matlab;load modeling;computational modeling;hardware}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190678
+
+R. Reck,  "The influence of teaching assistants in an undergraduate engineering laboratory course," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-6.
+doi: 10.1109/FIE.2017.8190679
+keywords: {reflection;training;springs;logistics;silicon carbide;mechanical engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190679
+
+L. Jimenez-Rodriguez, A. Santiago-Roman, T. Faculty and E. O'Neill-Carrillo,  "Professional and ethical deliberation educating engineering students in responsible wellbeing," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190680
+keywords: {ethics;taxonomy;engineering students;instruments;electronic mail;decision making;engineering profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190680
+
+A. Tepljakov, E. Petlenkov, E. Gonzalez and I. Petras,  "Design of a MATLAB-based teaching tool in introductory fractional-order systems and controls," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190681
+keywords: {tools;matlab;frequency-domain analysis;control design;graphical user interfaces;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190681
+
+T. Lowe and S. Brophy,  "An operationalized model for defining computational thinking," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190682
+keywords: {computational modeling;computers;programming profession;education;gravity;tools}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190682
+
+B. Faulkner and G. Herman,  "Where does the calculus go? A follow up investigation of how calculus ideas are used in core engineering coursework," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-4.
+doi: 10.1109/FIE.2017.8190683
+keywords: {force;boundary conditions;differential equations;integral equations;knowledge engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190683
+
+O. de Oliveira and R. Martins,  "Computational modeling of abductive reasoning: An experimental study employing the CHR language in an educational context," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190684
+keywords: {computational modeling;cognition;object oriented modeling;engines;combustion;batteries;mathematical model}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190684
+
+S. Zappe, S. Cutler and T. Litzinger,  "Teaching to promote a growth mindset," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-2.
+doi: 10.1109/FIE.2017.8190685
+keywords: {entrepreneurship;psychology;conferences;engineering education;electronic mail}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190685
+
+J. Evans, J. Seipel, M. Smith and A. Van Epps,  "Special session: Fostering metacognition development in a STEM context," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-3.
+doi: 10.1109/FIE.2017.8190686
+keywords: {music;heart rate;data collection;electronic mail;biomedical monitoring;monitoring;planets}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190686
+
+C. Atman, et al., "FIE 2017: Reviewing the past, predicting the future," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-3.
+doi: 10.1109/FIE.2017.8190687
+keywords: {engineering education;aerospace engineering;market research;pipelines;art;stem}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190687
+
+M. Nelson and L. Pouchard,  "A pilot “big data” education modular curriculum for engineering graduate education: Development and implementation," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190688
+keywords: {big data;documentation;tools;interviews;training;metadata}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190688
+
+M. Phillips and M. Jahanshahi,  "Integrating data information literacy into a service-learning engineering design course," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190689
+keywords: {smart cities;reflection;electronics packaging;education;big data;documentation;sensors}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190689
+
+N. Johnson and D. Zwicky,  "GRIP: A university's program develops tracks to bridges, a professional development opportunity," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-3.
+doi: 10.1109/FIE.2017.8190690
+keywords: {libraries;conferences;education;physics;medical services;collaboration;encoding}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190690
+
+M. Fosmire, N. Johnson and N. Mentzer,  "Using design journals to uncover information literacy habits of first-year students," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190691
+keywords: {documentation;benchmark testing;protocols;currencies;stakeholders;knowledge engineering;robustness}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190691
+
+J. Deters and J. Leydens,  "The role of student passions inside the engineering curriculum," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-6.
+doi: 10.1109/FIE.2017.8190692
+keywords: {engineering students;ethics;organizations;springs;creativity}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190692
+
+P. Lynch, S. Sangelkar, G. Demeo and B. Morkos,  "The I-C-D-M methodology improving undergraduate engineering student motivation, satisfaction, and performance," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-7.
+doi: 10.1109/FIE.2017.8190693
+keywords: {industrial engineering;mechanical engineering;engineering students;engineering profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190693
+
+D. Choi, B. Myers and M. Loui,  "Grit and two-year engineering retention," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-3.
+doi: 10.1109/FIE.2017.8190694
+keywords: {engineering students;standards;psychology;electronic mail;logistics;springs;employment}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190694
+
+P. Norton, K. High and W. Bridges,  "Impact of course policy changes on calculus II DFW rates," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-4.
+doi: 10.1109/FIE.2017.8190695
+keywords: {springs;calculus;market research;software;analysis of variance;education;logic gates}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190695
+
+M. Pilotte and D. Radcliffe,  "Preparing students for intensive global fieldwork," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190697
+keywords: {cultural differences;reflection;australia;global communication;engineering education;planning;stakeholders}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190697
+
+D. Render, I. Jimenez-Useche and C. Calahan,  "Cultivating global mindsets without leaving campus: Building interculturally competent engineer," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190698
+keywords: {cultural differences;global communication;biological system modeling;training;reflection;tools}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190698
+
+M. Chua and T. Edmonds,  "Curricular culture literacy and miscodes in its absence: Making sense of conflicts in cross-institutional curricular collaborations," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-4.
+doi: 10.1109/FIE.2017.8190699
+keywords: {cultural differences;collaboration;global communication;engineering education;lenses;interviews}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190699
+
+R. Urbina and W. Friess,  "Assessing the state of engineering instruction in Maine's K-12 schools," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190700
+keywords: {urban areas;engineering profession;training;economics;sociology;statistics}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190700
+
+J. Hess, A. Chase, D. Minner, M. Rizkalla and M. Agarwal,  "An evaluation of a research experience for teachers in nanotechnology," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-7.
+doi: 10.1109/FIE.2017.8190701
+keywords: {engineering profession;artificial neural networks;nanoscale devices;education;reflection;research and development}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190701
+
+D. Bir, et al., "Challenges encountered by elementary education major students when learning engineering," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190702
+keywords: {interviews;stem;training;knowledge engineering;educational robots}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190702
+
+S. Gottipati, V. Shankararaman and S. Gan,  "A conceptual framework for analyzing students' feedback," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190703
+keywords: {education;tools;sentiment analysis;text mining;bibliographies}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190703
+
+S. Bhaduri and T. Roy,  "A word-space visualization approach to study college of engineering mission statements," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190704
+keywords: {natural language processing;vocabulary;engineering education;tools;market research}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190704
+
+M. de Carvalho Saraiva and C. Medeiros,  "Finding out topics in educational materials using their components," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-7.
+doi: 10.1109/FIE.2017.8190705
+keywords: {videos;internet;taxonomy;encyclopedias;electronic publishing;courseware}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190705
+
+Y. Lu and I. Hsiao,  "Toward understanding novices' search process in programming problem solving," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-7.
+doi: 10.1109/FIE.2017.8190706
+keywords: {hidden markov models;web pages;problem-solving;programming profession;search engines}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190706
+
+V. Bremgartner, J. de Magalhaes Netto and C. de Menezes,  "Conceptual framework of educational resources adaptation for improve collaborative learning in virtual learning environments," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190707
+keywords: {adaptation models;collaboration;collaborative work;ontologies;proposals;data models;tools}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190707
+
+H. Fechtner, M. Ismail, B. Schmuelling and K. Saes,  "Evaluation and assessment of a novel training program for working on electric vehicles," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190708
+keywords: {electronic learning;qualifications;optimization;atmospheric measurements;particle measurements}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190708
+
+L. Cagliero, L. Farinetti, M. Mezzalama, E. Venuto and E. Baralis,  "Educational video services in universities: A systematic effectiveness analysis," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190709
+keywords: {streaming media;sociology;statistics;computer aided instruction;market research;video recording}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190709
+
+S. Lu, Y. Cheng, X. Wang, Y. Du and E. Lim,  "Exploring the effectiveness of student-generated video tutorials in electronic lab-based teaching," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-4.
+doi: 10.1109/FIE.2017.8190710
+keywords: {tutorials;oscilloscopes;ice;training;manuals}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190710
+
+S. Mishra, R. Raj, P. Tymann, J. Fagan and S. Miller,  "CyberCSP: Integrating cybersecurity into the computer science principles course," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190711
+keywords: {computer science;collaboration;employment;computer crime}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190711
+
+J. Tioh, M. Mina and D. Jacobson,  "Cyber security training a survey of serious games in cyber security," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190712
+keywords: {games;training;two dimensional displays;computer crime}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190712
+
+J. Vykopal, M. Vizvary, R. Oslejsek, P. Celeda and D. Tovarnak,  "Lessons learned from complex hands-on defence exercises in a cyber range," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190713
+keywords: {computer security;monitoring;servers;training;network topology}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190713
+
+S. Kumari, X. Yuan, J. Patterson and H. Yu,  "Demystifying ad fraud," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190714
+keywords: {servers;ip networks;security;browsers;media;malware;advertising}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190714
+
+K. Mack and M. Banavar,  "Teaching ranging and localization using Bluetooth on Android devices," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190715
+keywords: {distance measurement;bluetooth;androids;humanoid robots;signal processing algorithms;education;mobile handsets}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190715
+
+K. Qian, et al., "Learning database security with hands-on mobile labs," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-6.
+doi: 10.1109/FIE.2017.8190716
+keywords: {databases;education;androids;humanoid robots}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190716
+
+J. Ariza,  "MiDroid: An open mobile platform for learning focused on microcontrollers' education," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190717
+keywords: {microcontrollers;software;hardware;mobile communication;algorithm design and analysis;bluetooth;pins}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190717
+
+G. Soad, et al., "ReqML-catalog: The road to a requirements catalog for mobile learning applications," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190718
+keywords: {mobile communication;education;systematics;software;mobile handsets;reliability;cultural differences}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190718
+
+C. Berry,  "Robotics education online flipping a traditional mobile robotics classroom," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-6.
+doi: 10.1109/FIE.2017.8190719
+keywords: {educational robots;robot sensing systems;mobile communication;hardware;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190719
+
+H. Thomazinho, A. L'Erario and J. Fabri,  "Teaching software maintenance with ludic techniques supported by robotics," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190720
+keywords: {maintenance engineering;software maintenance;educational robots;education;software engineering}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190720
+
+S. de Azevedo, J. Bezerra and L. de Miranda,  "A methodology of contextualized educational robotics," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190721
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190721
+
+M. Rios, J. Netto and T. Almeida,  "Computational vision applied to the monitoring of mobile robots in educational robotic scenarios," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-7.
+doi: 10.1109/FIE.2017.8190722
+keywords: {mobile robots;monitoring;object recognition;color;mobile communication}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190722
+
+T. Vrieler, A. Nylen and A. Cajander,  "What computing instructors did last summer: Experiences and lessons learned," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190723
+keywords: {programming profession;education;interviews;games;visualization;tools}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190723
+
+T. Jagust, A. Krzic, A. Nakic, M. Grgic and I. Bojic,  "What (de)motivates one to volunteer in K-12 STEM-C outreach activities?," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190724
+keywords: {stem;mathematics;computer science;electrical engineering;engineering profession;tools}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190724
+
+G. Young, et al., "Leveraging a multi-partner approach to develop successful STEM outreach programs," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190725
+keywords: {stem;industries;stakeholders;programming profession;engineering education;organizations}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190725
+
+F. de Vega, M. Garcia and F. Chavez,  "Involving local administrations in STEM promotion: How to extend STEM initiatives to a whole region," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-7.
+doi: 10.1109/FIE.2017.8190726
+keywords: {stem;local government;conferences;europe;electronic mail;engineering profession;urban areas}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190726
+
+A. Prisco, R. dos Santos, S. Botelho, N. Tonin and J. Bez,  "Using information technology for personalizing the computer science teaching," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-7.
+doi: 10.1109/FIE.2017.8190727
+keywords: {education;games;computational modeling;history;programming profession}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190727
+
+F. de Almeida Neto and A. Castro,  "A reference architecture for educational data mining," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8190728
+keywords: {data mining;computer architecture;databases;tools;virtual environments;computational modeling;education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190728
+
+T. Rabelo, M. Lama, J. Vidal and R. Amorim,  "Comparative study of xAPI validation tools," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190729
+keywords: {tools;semantics;libraries;ontologies;licenses;interoperability;owl}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190729
+
+W. Han, D. Jun, G. Xiaopeng and L. Kangxu,  "Supporting quality teaching using educational data mining based on OpenEdX platform," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-7.
+doi: 10.1109/FIE.2017.8190730
+keywords: {feature extraction;predictive models;education;hardware design languages;videos;data mining;buildings}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190730
+
+J. Nwokeji and P. Frezza,  "Cross-course project-based learning in requirements engineering: An eight-year retrospective," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190731
+keywords: {stakeholders;software;requirements engineering;project management;documentation}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190731
+
+J. Le Doux, E. Henselder, L. Natchiappan and S. Swamy,  "How do students experience the problem-solving studio?," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190733
+keywords: {problem-solving;biomedical engineering;interviews;multiple signal classification;education;online services;monitoring}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190733
+
+S. Suarez,  "Effectiveness of problem-based learning in academic performance of course “Physics I”," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-6.
+doi: 10.1109/FIE.2017.8190734
+keywords: {physics;instruments;education;tools;standards;organizations;convergence}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190734
+
+C. Williams and S. Kurkovsky,  "Raspberry Pi creativity: A student-driven approach to teaching software design patterns," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-9.
+doi: 10.1109/FIE.2017.8190735
+keywords: {creativity;computer science;games;software design;computer science education}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190735
+
+Z. Youssfi,  "Making operating systems more appetizing with the raspberry Pi," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-4.
+doi: 10.1109/FIE.2017.8190736
+keywords: {economic indicators;linux;operating systems;ip networks;multithreading;graphics processing units;electronic mail}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190736
+
+G. Cooper,  "Incorporating a Raspberry Pi into a computer information systems initial course," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190737
+keywords: {programming;games;problem-solving;monitoring;linux;information systems}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190737
+
+Y. Lin, J. Conners and S. Livengood,  "Assessing the use of open source microcontroller board for teaching engine sensing and communication in automotive laboratory," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-5.
+doi: 10.1109/FIE.2017.8190738
+keywords: {engines;sensors;automotive engineering;microcontrollers;education;mechatronics;tools}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190738
+
+ "Author index," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 105-114.
+doi: 10.1109/FIE.2017.8190739
+keywords: {}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8190739
+
+E. De Oliveira, et al., "The power of the game as a mediator tool paradigm of object oriented teaching-learning process," in 2017 IEEE Frontiers in Education Conference (FIE), Indianapolis, IN, USA, 2017 pp. 1-8.
+doi: 10.1109/FIE.2017.8286341
+keywords: {games;business;object oriented modeling;education;cognition;tools;entertainment industry}
+url: https://doi.ieeecomputersociety.org/10.1109/FIE.2017.8286341
